@@ -1,9 +1,9 @@
 ---
 user-guide-title: 影片和Tutorials
 user-guide-description: Adobe Commerce和Magento Open Source的影片和教學課程系列。
-source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
+source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 + [[!DNL Commerce] 影片和Tutorials](overview.md)
 
-+ 入門{#getting-started}
-   + [!DNL Commerce] 雲基礎架構  {#cloud}
++ 快速入門 {#getting-started}
+   + [!DNL Commerce] 雲基礎架構 {#cloud}
       + [1 — 概觀](./cloud/1-overview.md)
       + [2 — 托管帳戶](./cloud/2-accounts.md)
       + [3 — 雲端專案](./cloud/3-projects.md)
       + [4 — 部署](./cloud/4-deployment.md)
       + [5 — 開發](./cloud/5-dev-config.md)
       + [6 — 服務和DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] 開發人員  {#development}
+   + [!DNL Commerce] 開發人員 {#development}
       + [1.1 — 概觀](./developer/backend-1-1-overview.md)
       + [1.2 — 開發工作流程](./developer/backend-1-2-workflow.md)
       + [2 — 安裝](./developer/backend-2-install.md)
@@ -32,7 +32,7 @@ ht-degree: 0%
       + [5.3 — 路由](./developer/backend-5-3-routing.md)
       + [5.4 — 建立 [!DNL Admin] 頁面](./developer/backend-5-4-admin-page.md)
       + [6 — 練習](./developer/backend-6-practice.md)
-   + [!DNL Commerce] 適用於業務使用者  {#merchants}
+   + [!DNL Commerce] 適用於業務使用者 {#merchants}
       + [1.1 - [!DNL Admin] 菜單](./merchant/introduction/1-1-menus.md)
       + [1.2 — 資料網格](./merchant/introduction/1-2-data-grids.md)
       + [1.3 — 範圍、站點和儲存](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -55,15 +55,28 @@ ht-degree: 0%
       + [5.1 — 店面體驗](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 — 客戶管理](./merchant/introduction/5-2-customer-management.md)
       + [5.3 — 電子郵件通訊](./merchant/introduction/5-3-store-communications.md)
+   + [!DNL Business Intelligence] {#business-intelligence}
+      + [1 — 概觀](./merchant/business-intelligence/1-overview.md)
+      + [2 — 資料倉庫](./merchant/business-intelligence/2-data-warehousing.md)
+      + [3 — 建立報表](./merchant/business-intelligence/3-build-reports.md)
+      + [4 — 量度](./merchant/business-intelligence/4-metrics.md)
+      + [5 — 標準報表](./merchant/business-intelligence/5-standard-reports.md)
+      + [6 — 執行摘要](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [7 — 訂單控制面板](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [8 — 以客戶為中心的儀表板](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [9 — 類別分析](./merchant/business-intelligence/9-category-analysis.md)
+      + [10 — 投資回報追蹤](./merchant/business-intelligence/10-roi-tracking.md)
+      + [11 — 共用結果和匯出資料](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [12 — 客戶成功案例](./merchant/business-intelligence/12-customer-success.md)
 
-+ 後端開發{#backend-development}
++ 後端開發 {#backend-development}
    + [向資料庫添加新表](./developer/add-new-db-table.md)
    + [建立模組](developer/create-module.md)
    + [新增產品屬性](./developer/add-product-attribute.md)
    + [相依性插入範例](./developer/dependency-injection.md)
 
-+ 前端開發{#frontend-development}
-   + 頁面產生器{#page-builder}
++ 前端開發 {#frontend-development}
+   + 頁面產生器 {#page-builder}
       + [1 — 導言](./developer/page-builder/1-intro-case-studies.md)
       + [2 — 配置和內容](./developer/page-builder/2-config-create-content.md)
       + [3 — 主題](./developer/page-builder/3-themes.md)
@@ -73,8 +86,8 @@ ht-degree: 0%
    + [新增JavaScript模組](developer/add-javascript-module.md)
    + [建立頁面](developer/create-new-page.md)
 
-+ PWA Studio{#pwa-studio}
-   + PWA Studio{#introduction}簡介
++ PWA Studio {#pwa-studio}
+   + PWA Studio簡介 {#introduction}
       + [1 — 概觀](./pwa/introduction/1-overview.md)
       + [2 -PWA Studio工具](./pwa/introduction/2-pwa-studio-tools.md)
       + [3 — 啟動](pwa/introduction/3-launch.md)
