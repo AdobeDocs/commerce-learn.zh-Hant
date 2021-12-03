@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c8b2a7771a9f96856c666d880175b8fee3e143a2
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ ht-degree: 0%
 ## 新增頁面的步驟
 
 - 建立模組
-- 添加&#x200B;**routes.xml**&#x200B;檔案
+- 新增 **routes.xml** 檔案
 - 添加控制器（操作）檔案
 
 ## 建立模組的步驟
 
 - 建立模組資料夾
-- 建立`etc/module.xml`檔案
-- 建立`registration.php`檔案
-- 運行`bin/magento setup:upgrade`指令碼以安裝新模組
+- 建立 `etc/module.xml` 檔案
+- 建立 `registration.php` 檔案
+- 執行 `bin/magento setup:upgrade` 安裝新模組的指令碼
 - 檢查模組是否正常運作
 
 ## 視訊內容
