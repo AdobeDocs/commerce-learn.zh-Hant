@@ -5,7 +5,7 @@ kt: 5652
 doc-type: video
 activity: use
 exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: f748229ead6af907f874c151dcb6566522a3ee68
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -29,11 +29,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此內容反映的是Adobe Commerce 2.3.1的頁面產生器1.0.0版。如需更新版本的相關資訊，請參閱[頁面產生器發行說明](https://devdocs.magento.com/page-builder/docs/release-notes.html)。
+>此內容反映的是Adobe Commerce 2.3.1的頁面產生器1.0.0版。如需更新版本的相關資訊，請參閱 [頁面產生器發行說明](https://devdocs.magento.com/page-builder/docs/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
 ## 有用資源
 
-[頁面產生器開發](https://devdocs.magento.com/page-builder/docs/index.html)
-[人員檔案頁面產生器使用者檔案](https://docs.magento.com/user-guide/cms/page-builder.html)
+[頁面產生器開發人員檔案](https://devdocs.magento.com/page-builder/docs/index.html)
+
+[頁面產生器使用者檔案](https://docs.magento.com/user-guide/cms/page-builder.html)

@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: fe1b7ac9f162e25ca078841e8c21cf0b2e78ad70
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -30,9 +30,9 @@ ht-degree: 0%
 >
 >本內容反映的是Adobe Commerce和Magento Open Source2.3.1版。
 >
->- PWA和[PWA Studio](http://pwastudio.io/)現在可作為前端的&#x200B;_無頭_&#x200B;實作使用。
->- 在2.3.x版本行和2.4.x版本行的較新版本中，技術堆疊已變更。 檢查[系統要求](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html)以確保您擁有正確的系統元件。
->- 由於Temando即將關閉，Magento Shipping不再可用。 有關Commerce中新發運實施的詳細狀態資訊和建議，請參閱[產品資訊頁](https://magento.com/shipping)。
+>- PWA和 [PWA Studio](http://pwastudio.io/) 現在以 _無頭_ 執行邊界。
+>- 在2.3.x版本行和2.4.x版本行的較新版本中，技術堆疊已變更。 檢查 [系統需求](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) 以確保系統元件正確。
+>- 由於Temando即將關閉，Magento Shipping不再可用。 有關Commerce中新發運實施的詳細狀態資訊和建議，請參閱 [產品資訊頁面](https://magento.com/shipping).
 
 
 
@@ -40,5 +40,6 @@ ht-degree: 0%
 
 ## 其他資源
 
-[[!DNL Commerce] 架構指](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
-[[!DNL Commerce] 南PHP開發人員指南](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] 架構指南](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
+
+[[!DNL Commerce] PHP開發人員指南](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)

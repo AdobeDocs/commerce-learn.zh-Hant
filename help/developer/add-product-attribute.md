@@ -6,16 +6,16 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c672d2685a9f1cd3412435912508891df5b8bd87
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 建立產品屬性
 
-添加產品屬性是[!DNL Commerce]中最常用的操作之一。 屬性是解決與產品相關的許多實際任務的一種有力方法。 將下拉式清單類型屬性新增至產品的程式很簡單。
+新增產品屬性是 [!DNL Commerce]. 屬性是解決與產品相關的許多實際任務的一種有力方法。 將下拉式清單類型屬性新增至產品的程式很簡單。
 
 此影片中：
 
@@ -34,5 +34,6 @@ ht-degree: 0%
 
 ## 有用資源
 
-[新增產品屬性自](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
-[訂屬性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[新增產品屬性](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+
+[自訂屬性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
