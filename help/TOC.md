@@ -1,9 +1,9 @@
 ---
 user-guide-title: 影片和Tutorials
 user-guide-description: Adobe Commerce和Magento Open Source的影片和教學課程系列。
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,15 @@ ht-degree: 0%
       + [10 — 投資回報追蹤](./merchant/business-intelligence/10-roi-tracking.md)
       + [11 — 共用結果和匯出資料](./merchant/business-intelligence/11-share-results-export-data.md)
       + [12 — 客戶成功案例](./merchant/business-intelligence/12-customer-success.md)
+
++ 在管理員中工作 {#admin}
+   + [使用者、角色和權限](./merchant/users-roles-permissions.md)
+   + [雙因素驗證](./merchant/two-factor-authentication.md)
+   + [新增網站、商店和商店檢視](./merchant/add-websites-stores-views.md)
+   + [變更商店URL](./merchant/change-store-url.md)
+   + [商店網站地圖設定](./merchant/site-map-setup.md)
+   + [促銷價格規則](./merchant/promotions-price-rules.md)
+   + [頁面產生器概觀](./merchant/page-builder-overview.md)
 
 + 後端開發 {#backend-development}
    + [向資料庫添加新表](./developer/add-new-db-table.md)
