@@ -1,7 +1,7 @@
 ---
 user-guide-title: 視頻和Tutorials
 user-guide-description: Adobe Commerce和Magento Open Source的視頻和教程集。
-source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
+source-git-commit: 9587c25b1b87de8fd46b7011577cbaa008b2260f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -107,3 +107,4 @@ ht-degree: 0%
    + [設定Venia用於開發](pwa/set-up-venia-for-dev.md)
 
 + [Adobe Commerce2.4升級研討會](./upgrade-workshop.md)
++ [在PhpStorm中使用升級相容工具](./upgrade/uct-phpstorm.md)
