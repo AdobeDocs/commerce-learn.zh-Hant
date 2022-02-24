@@ -1,37 +1,37 @@
 ---
-title: '[!DNL Commerce] 適用於業務用戶 — Storefront'
-description: 了解店面的客戶體驗，包括建立帳戶、願望清單，以及將願望清單項目新增至購物車
+title: '"[!DNL Commerce] 用於業務用戶 — 店面」'
+description: 瞭解店面上的客戶體驗，包括建立帳戶、願望清單和將願望清單項添加到購物車
 topic: Commerce
 kt: 5778
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
-source-git-commit: aab81d4383df3a077a67aec3f73341af9f08c028
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於業務用戶 — Storefront
+# [!DNL Commerce] 用於業務用戶 — 店面
 
-此影片中：
+在此視頻中：
 
-- 店面的客戶體驗
+- 客戶在店面的體驗
 - 帳戶建立
 - 願望清單
-- 將希望的清單項目添加到購物車
+- 向購物車添加希望的清單項
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
+- 業務用戶
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
+>視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 

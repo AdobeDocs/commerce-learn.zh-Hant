@@ -1,41 +1,41 @@
 ---
-title: 適用於開發人員的頁面產生器 — 範本和樣式
-description: '[!DNL Admin] and stage theming tasks. Create [!DNL Admin] 范​本。 將樣式套用至舞台上的內容類型（即時預覽）。'
+title: 開發人員的頁面生成器 — 模板和樣式
+description: '"[!DNL Admin] 並安排任務。 建立 [!DNL Admin] 模板​。 將樣式應用於舞台上的內容類型（即時預覽）。」'
 topic: Commerce, Development
 kt: 5653
 doc-type: video
 activity: use
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-source-git-commit: 9d76bbb28e982a62ddff8b6f541299e372dfc124
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# 適用於開發人員的頁面產生器 — 範本和樣式
+# 開發人員的頁面生成器 — 模板和樣式
 
-此影片中：
+在此視頻中：
 
 - [!DNL Admin] 並安排任務
-- 建立 [!DNL Admin] 范&#x200B;本
-- 將樣式套用至舞台上的內容類型（即時預覽）
+- 建立 [!DNL Admin] 模板&#x200B;
+- 將樣式應用於舞台上的內容類型（即時預覽）
 
 ## 這段錄像是給誰的？
 
 - 內容建立者
-- 前端開發人員
+- 前端開發商
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->此內容反映的是Adobe Commerce 2.3.1的頁面產生器1.0.0版。如需更新版本的相關資訊，請參閱 [頁面產生器發行說明](https://devdocs.magento.com/page-builder/docs/release-notes.html).
+>此內容反映了Adobe Commerce1.0.0頁生成器2.3.1版。有關以後版本中更新的資訊，請參見 [頁面生成器發行說明](https://devdocs.magento.com/page-builder/docs/release-notes.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 
 ## 有用資源
 
-[頁面產生器開發人員檔案](https://devdocs.magento.com/page-builder/docs/index.html)
+[Page Builder開發人員文檔](https://devdocs.magento.com/page-builder/docs/index.html)
 
-[頁面產生器使用者檔案](https://docs.magento.com/user-guide/cms/page-builder.html)
+[頁面生成器用戶文檔](https://docs.magento.com/user-guide/cms/page-builder.html)

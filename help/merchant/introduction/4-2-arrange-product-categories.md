@@ -1,34 +1,34 @@
 ---
-title: '[!DNL Commerce] 業務用戶 — 類別定位'
-description: 在類別中定位產品，讓客戶在您希望他們看到的頂端看到產品。
+title: '"[!DNL Commerce] 面向業務用戶 — 類別定位」'
+description: 在類別中定位產品，以便客戶在您希望他們看到的頂部看到產品。
 topic: Commerce
 kt: 5776
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 499b4ba1-c0b3-4961-8b03-6f8cbe965ca7
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 業務用戶 — 類別定位
+# [!DNL Commerce] 面向業務用戶 — 類別定位
 
-此影片中：
+在此視頻中：
 
 - 類別產品定位
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
+- 業務用戶
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html)和[ 2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)發行說明。
+>視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 

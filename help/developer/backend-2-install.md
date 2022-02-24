@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] 適用於開發人員 — 安裝'
-description: 了解撰寫器安裝和範例資料。
+title: '"[!DNL Commerce] 用於開發人員 — 安裝」'
+description: 瞭解Composer安裝和示例資料。
 kt: 5692
 doc-type: video
 topic: Development
@@ -9,28 +9,28 @@ level: Beginner
 thumbnail: 36194.jpeg
 activity: use
 exl-id: 070fe7d2-77f9-40d9-86e8-f2c8dccb2548
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於開發人員 — 安裝
+# [!DNL Commerce] 對於開發人員 — 安裝
 
-此影片中：
+在此視頻中：
 
-- 撰寫器安裝和範例資料
+- 合成器安裝和示例資料
 
-## 視訊內容
+## 視頻內容
 
 >[!IMPORTANT]
 >
->Adobe Commerce和Magento Open Source2.3.6中已棄用Web安裝嚮導，2.3.7和2.4.0中已刪除該嚮導。您必須使用命令行來安裝或升級實例以及模組和擴展。
+>Adobe Commerce和Magento Open Source中已棄用Web安裝嚮導，2.3.6在2.3.7和2.4.0中刪除。必須使用命令行來安裝或升級實例以及模組和擴展。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)
 
 ## 其他資源
 
-- [撰寫器簡介](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/intro/intro-composer.html)
+- [Composer簡介](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/intro/intro-composer.html)
 - [[!DNL Commerce] 安裝指南](https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html)
