@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce雲端基礎架構 — 服務與網站啟動
-description: 檢閱「上線」、「DNS」、「TLS」和「Ampley」服務。 了解如何設定DNS以指向Adobe Commerce例項的生產網域。
+title: Adobe Commerce雲基礎架構 — 服務和站點發佈
+description: 查看Go live 、 DNS 、 TLS和Affiest服務。 瞭解如何配置DNS以指向Adobe Commerce實例的生產域。
 kt: 5661
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce雲端基礎架構 — 服務與網站啟動
+# Adobe Commerce雲基礎架構 — 服務和站點發佈
 
-此影片中：
+在此視頻中：
 
-- 上線、DNS、TLS和Ampley的相關資訊
-- 如何設定DNS以指向Adobe Commerce例項的生產網域
+- Go live、DNS、TLS和Requist的回顧
+- 如何配置DNS以指向Adobe Commerce實例的生產域
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)
 
 ## 其他資源
 
-[網站啟動](https://devdocs.magento.com/cloud/live/live.html)
+[站點啟動](https://devdocs.magento.com/cloud/live/live.html)

@@ -1,6 +1,6 @@
 ---
 title: 建立模組
-description: 使用一個參數建立可傳回json的頁面。
+description: 建立一個頁面，該頁面返回一個參數。
 topic: Development
 kt: 5602
 doc-type: video
@@ -15,20 +15,20 @@ ht-degree: 0%
 
 # 建立模組
 
-模組是[!DNL Commerce]的一個結構元素 — 整個系統構建在模組上。 通常，建立自訂的第一步就是建立模組。
+模組是 [!DNL Commerce]  — 整個系統都建立在模組之上。 通常，建立自定義項的第一步是構建模組。
 
 ## 這段錄像是給誰的？
 
 - 開發人員
 
-## 新增模組的步驟
+## 添加模組的步驟
 
 - 建立模組資料夾。
 - 建立etc/module.xml檔案。
 - 建立registration.php檔案。
-- 執行bin/magento設定。
+- 運行bin/magento設定。
 - 升級指令碼以安裝新模組。
-- 檢查模組是否正常運作。
+- 檢查模組是否工作正常。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?quality=12&learn=on)
 

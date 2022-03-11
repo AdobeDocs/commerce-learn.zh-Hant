@@ -6,13 +6,13 @@ doc-type: feature video
 role: Admin, Leader, User
 audience: all
 activity: use
-source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
+exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
+source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # [!DNL Page Builder] 概述
 
@@ -46,4 +46,3 @@ ht-degree: 0%
 
 - [頁面生成器使用手冊](https://docs.magento.com/user-guide/cms/page-builder.html)
 - [頁面生成器開發人員指南](https://devdocs.magento.com/page-builder/docs/index.html)
-

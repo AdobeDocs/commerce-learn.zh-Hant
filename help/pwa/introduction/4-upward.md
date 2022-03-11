@@ -1,6 +1,6 @@
 ---
-title: 開發人員PWA Studio — 向上
-description: 了解UPPRAD（統一的漸進式網頁應用程式回應定義）。
+title: 開發商PWA Studio- UPPRAM
+description: 瞭解UPPRAMD（統一累進Web應用響應定義）。
 topic: Development
 kt: 5647
 doc-type: video
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 ---
 
-# 開發人員PWA Studio — 向上
+# 開發商PWA Studio- UPPRAM
 
-此影片中：
+在此視頻中：
 
-- 向上（統一的漸進式網頁應用程式回應定義）概觀
+- OWPRAMD（統一累進Web應用響應定義）概述
 
 ## 這段錄像是給誰的？
 
-- 前端開發人員
-- 專案經理
+- 前端開發商
+- 項目經理
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35718?quality=12&learn=on)

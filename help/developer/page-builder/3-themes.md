@@ -1,6 +1,6 @@
 ---
-title: 適用於開發人員的頁面產生器 — 主題
-description: 了解主題慣例和慣​例，包括頁面產生器主題各部分的位置。
+title: 開發人員的頁面生成器 — 主題
+description: 瞭解明練習和慣例​，包括頁面生成器主題各部分的位置。
 kt: 5652
 doc-type: video
 activity: use
@@ -12,29 +12,29 @@ ht-degree: 0%
 
 ---
 
-# 適用於開發人員的頁面產生器 — 主題
+# 開發人員的頁面生成器 — 主題
 
-此影片中：
+在此視頻中：
 
-- 主題實務概覽
-- 主題慣例說&#x200B;明
-- 頁面產生器主題的每個部分的位置&#x200B;
+- 主題實踐概述
+- 主題約定說明&#x200B;
+- 頁面生成器主題的每個部分都位&#x200B;於
 
 ## 這段錄像是給誰的？
 
 - 內容建立者
-- 前端開發人員
+- 前端開發商
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->此內容反映的是Adobe Commerce 2.3.1的頁面產生器1.0.0版。如需更新版本的相關資訊，請參閱 [頁面產生器發行說明](https://devdocs.magento.com/page-builder/docs/release-notes.html).
+>此內容反映了Adobe Commerce1.0.0頁生成器2.3.1版。有關以後版本中更新的資訊，請參見 [頁面生成器發行說明](https://devdocs.magento.com/page-builder/docs/release-notes.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
 ## 有用資源
 
-[頁面產生器開發人員檔案](https://devdocs.magento.com/page-builder/docs/index.html)
+[Page Builder開發人員文檔](https://devdocs.magento.com/page-builder/docs/index.html)
 
-[頁面產生器使用者檔案](https://docs.magento.com/user-guide/cms/page-builder.html)
+[頁面生成器用戶文檔](https://docs.magento.com/user-guide/cms/page-builder.html)

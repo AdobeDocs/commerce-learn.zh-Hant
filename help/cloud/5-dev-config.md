@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce雲端基礎架構 — 開發設定
-description: 了解雲端專案的開發設定。
+title: Adobe Commerce雲基礎架構 — 開發配置
+description: 瞭解雲項目的開發配置。
 kt: 5660
 doc-type: video
 audience: all
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce雲端基礎架構 — 開發設定
+# Adobe Commerce雲基礎架構 — 開發配置
 
-此影片中：
+在此視頻中：
 
-- 了解開發設定
+- 瞭解開發配置
 
 >[!VIDEO](https://video.tv.adobe.com/v/35696?quality=12&learn=on)
 
 ## 其他資源
 
-[適用於 [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)
+[雲指南 [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)

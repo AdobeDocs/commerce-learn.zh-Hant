@@ -1,33 +1,33 @@
 ---
-title: Business Intelligence — 以客戶為中心的控制面板
-description: 請參閱以客戶為中心的控制面板的示範和詳細說明。
+title: Business Intelligence — 以客戶為中心的儀表板
+description: 請參閱以客戶為重點的儀表板的演示和詳細說明。
 kt: 5736
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 0569b95182ab19df4c92c8369881872de0640af6
+exl-id: 32ed7126-825c-475f-8e7d-69a754077589
+source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
+# Business Intelligence — 以客戶為中心的儀表板
 
-# Business Intelligence — 以客戶為中心的控制面板
-
-為了做出明智的業務決策，以客戶為中心的控制面板可為客戶提供許多深入分析。 範例包括新客戶與註冊客戶、客戶期限值、依客戶群組劃分的收入，以及客戶的抵用券使用量。
+為了實現明智的業務決策，以客戶為中心的儀表板可為您的客戶提供許多見解。 示例包括新客戶與註冊客戶、客戶的生命週期價值、按客戶組劃分的收入以及客戶的優惠券使用情況。
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
-- 資料分析人員
+- 業務用戶
+- 資料分析員
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [Business Intelligence使用手冊](https://docs.magento.com/mbi/) 以取得最新資訊。
+>視頻中的內容反映了2.2版。 查看 [Business Intelligence使用手冊](https://docs.magento.com/mbi/) 獲取最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 
