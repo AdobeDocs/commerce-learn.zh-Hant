@@ -1,7 +1,7 @@
 ---
 title: '"[!DNL Commerce] 適用於開發人員 — 概述」'
-description: 從多個受眾（商戶、Web商店開發商和整合商）的角度瞭解平台的基本知識。
-landing-page-description: 觀看此視頻系列，以便在Commerce的後端開發項目上開始。
+description: 從幾個受眾的角度了解平台的基本知識：商家、網站商店開發人員和整合商。
+landing-page-description: 觀看此影片系列，以開始使用您的 Commerce 後端開發專案。
 doc-type: video
 topic: Development
 audience: developer
@@ -12,7 +12,7 @@ exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
 source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 

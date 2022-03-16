@@ -1,15 +1,15 @@
 ---
-title: '"[!DNL Commerce] 視頻和Tutorials」'
+title: '"[!DNL Commerce] 影片和教學課程"'
 description: Adobe Commerce和Magento Open Source的視頻和教程集
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# [!DNL Commerce] 視頻和Tutorials
+# [!DNL Commerce] 影片和教學課程
 
 ![](./assets/banner.png)
 

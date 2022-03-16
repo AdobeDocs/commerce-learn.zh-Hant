@@ -1,7 +1,7 @@
 ---
 title: 在PHP Storm上使用升級相容工具
-description: 觀看此技術視頻，瞭解如何將升級相容工具與PHP Storm插件配合使用。
-landing-page-description: 瞭解如何將升級相容性工具與PHP Storm插件配合使用，該插件可輕鬆識別和解決不相容問題。
+description: 觀看此技術影片，了解如何將升級相容性工具與 PHP Storm 外掛程式一起使用。
+landing-page-description: 了解如何將升級相容性工具與 PHP Storm 外掛程式一起使用，以便輕鬆識別和解決不相容的問題。
 kt: 9651
 doc-type: technical video
 role: Developer
@@ -11,7 +11,7 @@ exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
