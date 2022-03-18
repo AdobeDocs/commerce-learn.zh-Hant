@@ -3,11 +3,11 @@ title: Business Intelligence — 以客戶為中心的儀表板
 description: 請參閱以客戶為重點的儀表板的演示和詳細說明。
 kt: 5736
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
