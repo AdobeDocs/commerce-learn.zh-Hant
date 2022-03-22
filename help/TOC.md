@@ -1,9 +1,9 @@
 ---
 user-guide-title: 影片和教學課程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的影片和教學課程集合。
-source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
+source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 7%
 
 ---
@@ -78,6 +78,11 @@ ht-degree: 7%
    + [促銷價格規則](./merchant/promotions-price-rules.md)
    + [頁面生成器概述](./merchant/page-builder-overview.md)
 
++ 升級 {#upgrade}
+   + [Adobe Commerce2.4升級研討會](./upgrade/2.4-upgrade-workshop.md)
+   + [升級相容性工具概述](./upgrade/upgrade-compatibility-tool-overview.md)
+   + [在PHP Storm中使用升級相容性工具](./upgrade/uct-phpstorm.md)
+
 + 後端開發 {#backend-development}
    + [向資料庫添加新表](./developer/add-new-db-table.md)
    + [建立模組](developer/create-module.md)
@@ -105,6 +110,3 @@ ht-degree: 7%
       + [6 — 佩雷格林](./pwa/introduction/6-peregrine.md)
    + [PWADocker開發](./pwa/pwa-docker-development.md)
    + [設定Venia用於開發](pwa/set-up-venia-for-dev.md)
-
-+ [Adobe Commerce2.4升級研討會](./upgrade-workshop.md)
-+ [在PHP Storm中使用升級相容性工具](./upgrade/uct-phpstorm.md)
