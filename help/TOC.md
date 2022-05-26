@@ -1,10 +1,10 @@
 ---
 user-guide-title: 影片和教學課程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的影片和教學課程集合。
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 7%
+source-wordcount: '297'
+ht-degree: 6%
 
 ---
 
@@ -82,6 +82,14 @@ ht-degree: 7%
    + [篩選器集](./merchant/business-intelligence/filter-sets.md)
    + [隊列Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQLReport Builder](./merchant/business-intelligence/sql-report-builder.md)
+   + [為未來做準備](./merchant/business-intelligence/prepare-for-future.md)
+   + 網路研討會 {#webinars}
+      + [Business Intelligence入門](merchant/business-intelligence/webinars/getting-started.md)
+      + [管理資料集](merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [優化您的Data Warehouse](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [假日準備](merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [請專家參加第1屆會議](merchant/business-intelligence/webinars/ask-expert-1.md)
+      + [請專家參加第2屆會議](merchant/business-intelligence/webinars/ask-expert-2.md)
 
 + 升級 {#upgrade}
    + [Adobe Commerce2.4升級研討會](./upgrade/2.4-upgrade-workshop.md)
