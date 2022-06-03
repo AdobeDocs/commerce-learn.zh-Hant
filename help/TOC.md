@@ -1,10 +1,10 @@
 ---
 user-guide-title: 影片和教學課程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的影片和教學課程集合。
-source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -55,19 +55,6 @@ ht-degree: 6%
       + [5.1 — 店面體驗](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 — 客戶管理](./merchant/introduction/5-2-customer-management.md)
       + [5.3 — 電子郵件通信](./merchant/introduction/5-3-store-communications.md)
-   + [!DNL Business Intelligence] {#business-intelligence}
-      + [1 — 概述](./merchant/business-intelligence/1-overview.md)
-      + [2 — 資料倉庫](./merchant/business-intelligence/2-data-warehousing.md)
-      + [3 — 生成報告](./merchant/business-intelligence/3-build-reports.md)
-      + [4 — 指標](./merchant/business-intelligence/4-metrics.md)
-      + [5 — 標準報告](./merchant/business-intelligence/5-standard-reports.md)
-      + [6 — 執行摘要](./merchant/business-intelligence/6-executive-summary-dashboard.md)
-      + [7 — 訂單控制面板](./merchant/business-intelligence/7-orders-dashboard.md)
-      + [8 — 以客戶為中心的儀表板](./merchant/business-intelligence/8-customer-focused-dashboards.md)
-      + [9 — 類別分析](./merchant/business-intelligence/9-category-analysis.md)
-      + [10 — 投資回報跟蹤](./merchant/business-intelligence/10-roi-tracking.md)
-      + [11 — 共用結果和導出資料](./merchant/business-intelligence/11-share-results-export-data.md)
-      + [12 — 客戶成功案例](./merchant/business-intelligence/12-customer-success.md)
 
 + 在管理員中工作 {#admin}
    + [用戶、角色和權限](./merchant/users-roles-permissions.md)
@@ -78,18 +65,31 @@ ht-degree: 6%
    + [促銷價格規則](./merchant/promotions-price-rules.md)
    + [頁面生成器概述](./merchant/page-builder-overview.md)
 
-+ Business Intelligence {#business-intelligence}
++ MBI {#mbi}
    + [篩選器集](./merchant/business-intelligence/filter-sets.md)
    + [隊列Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQLReport Builder](./merchant/business-intelligence/sql-report-builder.md)
-   + [為未來做準備](./merchant/business-intelligence/prepare-for-future.md)
-   + 網路研討會 {#webinars}
-      + [Business Intelligence入門](merchant/business-intelligence/webinars/getting-started.md)
-      + [管理資料集](merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [優化您的Data Warehouse](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [假日準備](merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [請專家參加第1屆會議](merchant/business-intelligence/webinars/ask-expert-1.md)
-      + [請專家參加第2屆會議](merchant/business-intelligence/webinars/ask-expert-2.md)
+   + 錄制的網路研討會 {#webinars}
+      + [MBI入門](./merchant/business-intelligence/webinars/getting-started.md)
+      + [管理MBI中的資料集](./merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [優化MBIData Warehouse](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [MBI儀表板深度潛水](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
+      + [帶MBI的假日準備](./merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [為未來做準備](./merchant/business-intelligence/prepare-for-future.md)
+      + [MBI — 請咨詢專家](./merchant/business-intelligence/webinars/ask-expert.md)
+   + MBI視頻系列簡介 {#introduction}
+      + [概述](./merchant/business-intelligence/1-overview.md)
+      + [資料倉庫](./merchant/business-intelligence/2-data-warehousing.md)
+      + [生成報告](./merchant/business-intelligence/3-build-reports.md)
+      + [度量](./merchant/business-intelligence/4-metrics.md)
+      + [標準報表](./merchant/business-intelligence/5-standard-reports.md)
+      + [執行摘要](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [訂單控制面板](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [以客戶為中心的儀表板](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [類別分析](./merchant/business-intelligence/9-category-analysis.md)
+      + [投資回報跟蹤](./merchant/business-intelligence/10-roi-tracking.md)
+      + [共用結果並導出資料](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [客戶成功案例](./merchant/business-intelligence/12-customer-success.md)
 
 + 升級 {#upgrade}
    + [Adobe Commerce2.4升級研討會](./upgrade/2.4-upgrade-workshop.md)

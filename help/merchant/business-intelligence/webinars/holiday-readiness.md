@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence — 假日準備
+title: 帶MBI的假日準備
 description: 觀看此網路研討會，瞭解如何利用您的電子商務資料在假日季節取得成功。
 landing-page-description: 觀看此錄制的網路研討會，瞭解如何利用您的電子商務資料在假日季節取得成功。
 kt: 10409
@@ -7,16 +7,17 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: bf28c64dd61bbf53210ca9aa17ab20d1a2a1dac5
+exl-id: 7390d8ca-494e-4fe0-a4da-a03afd2ef8e2
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 詢問專家，第2部分
+# 帶MBI的假日準備
 
-利用您的電子商務資料，在假日季節取得成功。 本網路研討會重點介紹一些常見的季節性分析使用案例和方法，這些案例和方法使用關鍵的Business Intelligence功能來解決這些問題，包括：
+利用您的電子商務資料，在假日季節取得成功。 本網路研討會重點介紹一些常見的季節性分析使用案例和方法，以使用關鍵MBI功能解決這些問題，包括：
 
 - 通過生成新的庫存跟蹤報告並通過電子郵件摘要發送每日更新來避免庫存不足
 - 通過利用計算列建立關鍵日期（如「黑色星期五」）的年度表現報告，確定今年銷售策略調整的影響
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果你剛Business Intelligence, [入門視頻系列](./../1-overview.md) 提供了通過資料聚合、分析和可視化推動更好業務洞察力和結果的完整概述。
+>如果您是MBI的新用戶， [入門視頻系列](./../1-overview.md) 提供了通過資料聚合、分析和可視化推動更好業務洞察力和結果的完整概述。
 
 ## 這段錄像是給誰的？
 
@@ -37,5 +38,5 @@ ht-degree: 0%
 
 ## 有用資源
 
-[Business Intelligence使用手冊](https://docs.magento.com/mbi/)
-[Business Intelligence支援](https://support.magento.com/hc/en-us/articles/360016730811)s
+[MBI使用手冊](https://docs.magento.com/mbi/)
+[MBI支援](https://support.magento.com/hc/en-us/articles/360016730811)s

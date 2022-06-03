@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence — 執行概述儀表板
-description: 請參閱由Business Intelligence提供的「執行概述」儀表板的演示。
+title: MBI — 執行概述儀表板
+description: 請參閱MBI提供的「執行概述」儀表板的演示。
 kt: 5731
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 執行概述儀表板
+# MBI — 執行概述儀表板
 
 「執行概覽」控制面板提供了對收入、訂單和平均訂單值的高層見解。 報告被分為靜態值，並隨時間推移而分開。 您可以與團隊的其他成員共用此儀表板，讓他們具有編輯權限以與您協作或僅查看權限。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->視頻中的內容反映了2.2版。 查看 [Business Intelligence使用手冊](https://docs.magento.com/mbi/) 獲取最新資訊。
+>視頻中的內容反映了2.2版。 查看 [MBI使用手冊](https://docs.magento.com/mbi/) 獲取最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 

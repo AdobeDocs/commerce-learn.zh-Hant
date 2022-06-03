@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence — 為未來做準備
+title: MBI — 為未來做準備
 description: 觀看這一系列視頻，以闡明您對決定數字商務未來的前所未有的變化的理解。
 landing-page-description: 觀看這一系列視頻，以闡明您對決定數字商務未來的前所未有的變化的理解。
 kt: 10411
@@ -7,24 +7,25 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
+exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 為未來做準備
+# MBI — 為未來做準備
 
 隨著Covid-19在全球範圍內飛來飛去，數百萬人依靠數字商務來滿足他們最基本的需求。 隨著企業加班加點以適應歷史性的消費者需求，將未來作為焦點變得前所未有地重要。
 
-在這個由三部分組成的視頻系列中，Business Intelligence分析團隊著重介紹了基本、資料驅動的電子商務實踐，以幫助您的企業在這些充滿挑戰的時期蓬勃發展，並輔以跨多個商業行業的匯總統計資料。
+在這個由三部分組成的視頻系列中，MBI分析團隊著重介紹了基本、由資料驅動的電子商務實踐，以幫助您的企業在這些充滿挑戰的時期蓬勃發展，並輔以跨多個商業行業的匯總統計資料。
 
 觀看這一系列視頻，以闡明您對決定數字商務未來的前所未有的變化的理解，以及如何為未來做好準備。
 
 >[!TIP]
 >
->如果你剛Business Intelligence, [入門視頻系列](1-overview.md) 提供了通過資料聚合、分析和可視化推動更好業務洞察力和結果的完整概述。
+>如果您是MBI的新用戶， [入門視頻系列](1-overview.md) 提供了通過資料聚合、分析和可視化推動更好業務洞察力和結果的完整概述。
 
 ## 這段錄像是給誰的？
 
