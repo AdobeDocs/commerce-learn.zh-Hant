@@ -1,10 +1,10 @@
 ---
 user-guide-title: 影片和教學課程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的影片和教學課程集合。
-source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
+source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '357'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
       + [4 — 部署](./cloud/4-deployment.md)
       + [5 — 發展](./cloud/5-dev-config.md)
       + [6 — 服務和DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] 開發人員 {#development}
+   + [!DNL Commerce] 為開發人員 {#development}
       + [1.1 — 概述](./developer/backend-1-1-overview.md)
       + [1.2 — 開發工作流](./developer/backend-1-2-workflow.md)
       + [2 — 安裝](./developer/backend-2-install.md)
@@ -30,14 +30,14 @@ ht-degree: 0%
       + [5.1 — 開發基礎](./developer/backend-5-1-dev-basics.md)
       + [5.2 — 聲明性架構](./developer/backend-5-2-declarative-schema.md)
       + [5.3 — 路由](./developer/backend-5-3-routing.md)
-      + [5.4 — 建立 [!DNL Admin] 頁](./developer/backend-5-4-admin-page.md)
+      + [5.4 — 建立 [!DNL Admin] 頁面](./developer/backend-5-4-admin-page.md)
       + [6 — 練習](./developer/backend-6-practice.md)
    + [!DNL Commerce] 用於業務用戶 {#merchants}
       + [1.1 - [!DNL Admin] 菜單](./merchant/introduction/1-1-menus.md)
       + [1.2 — 資料網格](./merchant/introduction/1-2-data-grids.md)
       + [1.3 — 作用域、站點和儲存](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
       + [1.4 — 儲存視圖和快取](./merchant/introduction/1-4-store-views-cache.md)
-      + [1.5 — 管理用戶帳戶和角色](./merchant/introduction/1-5-users-roles.md)
+      + [1.5 — 管理員用戶帳戶和角色](./merchant/introduction/1-5-users-roles.md)
       + [1.6 — 角色作用域](./merchant/introduction/1-6-role-scopes.md)
       + [1.7 — 業務設定](./merchant/introduction/1-7-business-settings.md)
       + [2.1 — 類別](./merchant/introduction/2-1-categories.md)
@@ -56,14 +56,34 @@ ht-degree: 0%
       + [5.2 — 客戶管理](./merchant/introduction/5-2-customer-management.md)
       + [5.3 — 電子郵件通信](./merchant/introduction/5-3-store-communications.md)
 
-+ 在管理員中工作 {#admin}
-   + [用戶、角色和權限](./merchant/users-roles-permissions.md)
++ 儲存管理 {#admin}
+   + [管理用戶角色和權限](./merchant/users-roles-permissions.md)
    + [雙因素身份驗證](./merchant/two-factor-authentication.md)
+   + [管理幣種和稅則](./merchant/currency-tax-rules.md)
+   + [發運和交貨方法](./merchant/shipping-delivery.md)
    + [添加網站、商店和商店視圖](./merchant/add-websites-stores-views.md)
    + [更改儲存URL](./merchant/change-store-url.md)
    + [儲存站點映射設定](./merchant/site-map-setup.md)
-   + [促銷價格規則](./merchant/promotions-price-rules.md)
+
++ 客戶管理 {#customers}
+   + [建立客戶細分](./merchant/customer-segments.md)
+   + [建立客戶組](./merchant/customer-groups.md)
+   + [建立客戶屬性](./merchant/customer-attributes.md)
+   + [賣家輔助購物](./merchant/seller-assisted-shopping.md)
+
++ 目錄管理 {#catalog}
+   + [建立類別](./merchant/category-create.md)
+   + [管理類別中的產品](./merchant/category-products.md)
+   + [Inventory management](./merchant/inventory-management.md)
+   + [建立產品屬性](./merchant/product-attributes-create.md)
+   + [管理SEO元資料](./merchant/seo-metadata.md)
+   + [管理SEO的URL重寫](./merchant/seo-url-rewrites.md)
+
++ 內容管理 {#content}
    + [頁面生成器概述](./merchant/page-builder-overview.md)
+
++ 營銷工具 {#marketing}
+   + [促銷價格規則](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
    + [篩選器集](./merchant/business-intelligence/filter-sets.md)
@@ -91,7 +111,7 @@ ht-degree: 0%
       + [共用結果並導出資料](./merchant/business-intelligence/11-share-results-export-data.md)
       + [客戶成功案例](./merchant/business-intelligence/12-customer-success.md)
 
-+ 升級 {#upgrade}
++ 商務升級 {#upgrade}
    + [Adobe Commerce2.4升級研討會](./upgrade/2.4-upgrade-workshop.md)
    + [升級相容性工具概述](./upgrade/upgrade-compatibility-tool-overview.md)
    + [在PHP Storm中使用升級相容性工具](./upgrade/uct-phpstorm.md)
@@ -103,7 +123,7 @@ ht-degree: 0%
    + [依賴關係注入示例](./developer/dependency-injection.md)
 
 + 前沿發展 {#frontend-development}
-   + 頁面生成器 {#page-builder}
+   + 開發人員的頁面生成器 {#page-builder}
       + [1 — 導言](./developer/page-builder/1-intro-case-studies.md)
       + [2 — 配置和內容](./developer/page-builder/2-config-create-content.md)
       + [3 — 主題](./developer/page-builder/3-themes.md)
