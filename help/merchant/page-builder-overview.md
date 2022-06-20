@@ -7,9 +7,9 @@ role: Admin, Leader, User
 audience: all
 activity: use
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: 672acee56080593ed6bae62ab7f22ddd02108e6b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,7 @@ ht-degree: 0%
 
 ## 視頻內容
 
->[!NOTE]
->
->視頻內容反映了Adobe Commerce2.3.1版。 有關以後版本中更新的資訊，請參見 [頁面生成器的發行說明](https://devdocs.magento.com/page-builder/docs/release-notes.html)。
-
->[!VIDEO](https://video.tv.adobe.com/v/35783?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## 其他資源
 
