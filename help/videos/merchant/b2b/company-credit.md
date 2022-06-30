@@ -5,9 +5,10 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
+source-git-commit: 957eb8c6d7d429fc5579a5700fef2194662201cb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 {{b2b功能}}
 
-對於那些 _[!UICONTROL Payment on Account]_獲啟用及有公司信貸可供使用，則彼等可按其賬戶作出購買，直至所授出信貸限額為止。 啟用後，客戶可以從其帳戶控制面板檢查其公司貸項的狀態。
+對於那些 _[!UICONTROL Payment on Account]_獲啟用及有公司信貸可供使用，則彼等可按其賬戶作出購買，直至所授出信貸限額為止。 使用此功能，客戶可以從其帳戶控制面板檢查其公司信用的狀態。
 
 您可以為每個公司配置檔案設定以下與信用相關的參數：
 
