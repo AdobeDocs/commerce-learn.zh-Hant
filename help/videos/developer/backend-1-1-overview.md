@@ -9,10 +9,10 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 3b938c6d440db4db52f4b85ec885475f61b28153
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 16%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 >
 >本內容反映了Adobe Commerce和Magento Open Source2.3.1的發佈。
 >
->- PWA [PWA Studio](http://pwastudio.io/) 現在可作為 _頭_ 實施前線。
+>- PWA [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) 現在可作為 _頭_ 實施前線。
 >- 在2.3.x發行版和2.4.x發行版的較新版本中，技術堆棧已發生更改。 檢查 [系統要求](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) 以確保您擁有正確的系統元件。
 >- 由於Temando即將關閉，Magento Shipping不再可用。 有關Commerce中新發運實施的詳細狀態資訊和建議，請參閱 [產品資訊頁面](https://magento.com/shipping)。
 
