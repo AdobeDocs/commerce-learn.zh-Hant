@@ -8,36 +8,37 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: a579818f2f50d4ca0eca9a529945c4f366905ef6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 19%
 
 ---
 
 # 升級相容性工具概述
 
-升級相容性工具(UCT)是一個免費工具，可在幾分鐘內分析當前版本和目標升級版本之間的不相容情況。 使用此工具可加快升級過程並簡化執行。
+升級相容性工具(UCT)是免費工具，可在幾分鐘內分析當前版本與目標升級版本之間的不相容性。 使用此工具可讓升級程式更快速且更輕鬆執行。
 
-在此視頻中：
+此影片中：
 
 - 升級相容性工具是什麼
-- 它如何幫助您快速確定升級到更新的Adobe Commerce版本所需的錯誤和修復
-- 如何訪問HTML結果，以幫助按不相容的嚴重性和數量顯示模組
+- 如何協助您快速識別升級至更新Adobe Commerce版本所需的錯誤和修正
+- 如何訪問HTML結果，以幫助按不相容的嚴重性和數量對模組進行可視化
 
-要瞭解有關執行和簡化升級的更多資訊，請參閱 [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)。
+若要進一步了解此工具，請參閱 [升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). 如果您想進一步了解如何執行和簡化升級，請參閱 [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## 這段錄像是給誰的？
 
-- 站點管理器
+- 網站管理員
 - 開發人員
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
 
 ## 其他資源
 
+- [升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [已發佈版本](https://devdocs.magento.com/release/released-versions.html)
-- [即將發佈的版本](https://devdocs.magento.com/release/)
+- [發行版本](https://devdocs.magento.com/release/released-versions.html)
+- [即將發行的版本](https://devdocs.magento.com/release/)
