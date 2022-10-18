@@ -1,10 +1,10 @@
 ---
 user-guide-title: 影片和教學課程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的影片和教學課程集合。
-source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
+source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 4%
+source-wordcount: '483'
+ht-degree: 3%
 
 ---
 
@@ -116,14 +116,14 @@ ht-degree: 4%
    + [篩選集](./merchant/business-intelligence/filter-sets.md)
    + [同類群組Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQLReport Builder](./merchant/business-intelligence/sql-report-builder.md)
+   + [為未來做準備](./merchant/business-intelligence/prepare-for-future.md)
    + 錄影網路研討會 {#webinars}
-      + [MBI快速入門](./merchant/business-intelligence/webinars/getting-started.md)
-      + [在MBI中管理資料集](./merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [優化MBIData Warehouse](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [MBI儀表板深入探索](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
-      + [使用MBI進行節日準備](./merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [為未來做準備](./merchant/business-intelligence/prepare-for-future.md)
-      + [MBI — 詢問專家](./merchant/business-intelligence/webinars/ask-expert.md)
+      + [MBI快速入門](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
+      + [在MBI中管理資料集](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
+      + [優化MBIData Warehouse](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
+      + [MBI儀表板深入探索](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
+      + [使用MBI進行節日準備](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
+      + [MBI — 詢問專家](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
    + MBI視頻系列簡介 {#introduction}
       + [概述](./merchant/business-intelligence/1-overview.md)
       + [資料倉庫](./merchant/business-intelligence/2-data-warehousing.md)
