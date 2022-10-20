@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 對於業務用戶 —  [!DNL Admin] 菜單」'
-description: 中的功能菜單概述 [!DNL Commerce] v2.3 [!DNL Admin]。
+title: '"[!DNL Commerce] 適用於業務使用者 —  [!DNL Admin] 菜單」'
+description: 功能表概觀 [!DNL Commerce] v2.3 [!DNL Admin].
 landing-page-description: 觀看此影片系列，了解 Adobe Commerce 的基本知識和如何使用 Admin。
 topic: Commerce
 kt: 5758
@@ -10,28 +10,28 @@ activity: use
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 15%
 
 ---
 
-# [!DNL Commerce] 對於業務用戶 —  [!DNL Admin] 菜單
+# [!DNL Commerce] 適用於業務使用者 —  [!DNL Admin] 菜單
 
-的 [!DNL Commerce Admin] 是受密碼保護的後台辦公室，您可以在其中設定產品和促銷、履行客戶訂單和配置 [!DNL Commerce] 滿足您的業務需求。
+此 [!DNL Commerce Admin] 是受密碼保護的後台辦公室，您可以在此設定產品和促銷活動、履行客戶訂單，以及配置 [!DNL Commerce] 儲存以符合您的業務需求。
 
-在此視頻中：
+此影片中：
 
 - 查看管理菜單
 
 ## 這段錄像是給誰的？
 
-- 業務用戶
+- 商業使用者
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
+>視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 
