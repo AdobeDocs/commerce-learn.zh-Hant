@@ -2,16 +2,18 @@
 title: "[!DNL Commerce] 影片和教學課程"
 description: Adobe Commerce和Magento Open Source的影片和教學課程系列
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 834fcab32b3211495a62b7595fcee093b7fec0a7
+source-git-commit: 5156f069f37404b852fa9d476bb8eaf5442b9182
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# <!-- use banner as heading -->![商務影片和Tutorials](../assets/banner-videos-home.png) {#videos}
+# <!-- use banner as heading -->![商務影片和教學課程](../assets/banner-videos-home.png) {#videos}
 
 歡迎使用 [!DNL Commerce] 影片和教學課程集合。 使用這些資源，以及 [檔案](https://experienceleague.adobe.com/docs/commerce.html)，讓您更了解如何使用Adobe Commerce和Magento Open Source來支援您的電子商務業務。 此集合的設計用途是為後端開發人員、前端開發人員、系統管理員、商家以及組織內的其他角色提供實用內容。
+
+<div id="whats-new-section">
 
 ## 新增功能
 
@@ -23,6 +25,15 @@ ht-degree: 0%
 | **[目錄服務](./merchant/catalog-service.md)** - Adobe Commerce適用的目錄服務新功能示範。 | 新增 | 9/19/2022 |
 
 {style=&quot;table-layout:auto&quot;}
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 >[!TIP]
 >

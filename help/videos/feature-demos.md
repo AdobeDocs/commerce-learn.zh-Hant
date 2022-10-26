@@ -1,15 +1,16 @@
 ---
 title: 商務功能的簡短示範
-description: 「Tutorials與影片」空間包含示範影片庫，可協助您了解如何使用商務功能、功能和工具。
-landing-page-description: 探索我們的示範影片庫，協助您了解如何使用Adobe Commerce功能、功能和工具。
+description: 此教學課程和影片空間包含示範影片庫，可幫助您了解如何使用 Commerce 特性、功能和工具。
+landing-page-description: 探索我們的示範影片庫，以幫助您了解如何使用 Adobe Commerce 特性、功能和工具。
 topic: Commerce
 doc-type: video
 hidefromtoc: true
 role: Admin, Leader, User
-source-git-commit: bd8c65cb9c090569f882c06802874289d8a52e35
+last-substantial-update: 2022-09-19T00:00:00Z
+source-git-commit: dd3826a76bfa6ba905468f70293f1304cc8acf32
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 1%
+ht-degree: 20%
 
 ---
 
