@@ -1,34 +1,34 @@
 ---
-title: 使用即時搜索
-description: 瞭解如何將Live Search添加到您的商店中，並生成高度吸引人、相關且個性化的購物體驗。
+title: 使用Live Search
+description: 了解如何將即時搜尋新增至您的商店，並產生高度吸引人、相關且個人化的購物體驗。
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 70056db15bcae20171fb152ab69d54d5a0d298e9
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-# 使用即時搜索
+# 使用Live Search
 
 {{ee-feature}}
 
-來自Adobe Commerce的Live Search為Adobe Commerce提供快速、超相關、直觀的搜索體驗，無需額外付費。 由Adobe Sensei提供支援的Live Search使用人工智慧和機器學習算法對聚集的訪問者資料進行深入分析。 此資料與您的Adobe Commerce目錄結合後，將帶來高度吸引力、相關性和個性化的購物體驗。
+來自Adobe Commerce的即時搜尋為Adobe Commerce提供快速、超相關且直覺式的搜尋體驗，不需額外付費。 Adobe Sensei支援的即時搜尋採用人工智慧和機器學習演算法，對匯總的訪客資料執行深入分析。 此資料與Adobe Commerce目錄結合後，可產生高度吸引人、相關且個人化的購物體驗。
 
 ## 這段錄像是給誰的？
 
-- 網站經理
+- 網站管理員
 - 網路銷售商
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/337365?quality=12&learn=on)
 
 ## 其他資源
 
-- [即時搜索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce Services連接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [即時搜尋](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [商務服務連接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
