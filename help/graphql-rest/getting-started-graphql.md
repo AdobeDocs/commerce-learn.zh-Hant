@@ -1,15 +1,16 @@
 ---
 title: 開始使用GraphQL
-description: 了解如何在Adobe Commerce上使用GraphQL，以及 [!DNL Magento Open Source]. 了解如何使用查詢、變異和結構。
-landing-page-description: 了解如何在Adobe Commerce上使用GraphQL，以及 [!DNL Magento Open Source]. 了解如何使用查詢、變異和結構。
+description: 了解如何在Adobe Commerce上使用GraphQL，以及 [!DNL Magento Open Source]. 了解如何使用查詢、變動和結構描述。
+landing-page-description: 了解如何在Adobe Commerce上使用GraphQL，以及 [!DNL Magento Open Source]. 了解如何使用查詢、變動和結構描述。
 kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
+source-git-commit: a034e15f913c06fcad54e669f43fe6acc8fb3f8f
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
