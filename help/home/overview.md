@@ -1,29 +1,27 @@
 ---
-title: "[!DNL Commerce] 影片和教學課程"
+title: '[!DNL Commerce] 影片和教學課程'
 description: Adobe Commerce和Magento Open Source的影片和教學課程系列
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+last-substantial-update: 2023-01-19T00:00:00Z
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '137'
 ht-degree: 2%
 
 ---
 
-# <!-- use banner as heading -->![商務影片和教學課程](../assets/banner-videos-home.png) {#videos}
+# Commerce教學課程 {#videos}
 
-歡迎使用 [!DNL Commerce] 影片和教學課程集合。 使用這些資源，以及 [檔案](https://experienceleague.adobe.com/docs/commerce.html)，可讓您了解如何使用Adobe Commerce和Magento Open Source來支援您的電子商務業務。 此集合的設計用途是為後端開發人員、前端開發人員、系統管理員、商家以及組織內的其他角色提供實用內容。
+歡迎使用 [!DNL Commerce] 影片和教學課程集合。 使用這些資源，以及 [檔案](https://experienceleague.adobe.com/docs/commerce.html)，您將可借此了解如何使用Adobe Commerce和Magento Open Source來支援您的電子商務業務。 此集合的設計用途是為後端開發人員、前端開發人員、系統管理員、商家以及組織內的其他角色提供實用內容。
 
 <div id="whats-new-section">
 
 ## 新增功能
 
-</div>
+- [GraphQL簡介](../graphql-rest/intro-graphql.md)
+- [查找惡意IP](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+</div>
 
 >[!TIP]
 >
