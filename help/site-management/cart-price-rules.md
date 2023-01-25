@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [建立購物車價格規則](https://docs.magento.com/user-guide/marketing/price-rules-cart-create.html)
-- [抵用券代碼](https://docs.magento.com/user-guide/marketing/price-rules-cart-coupon.html)
+- [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [抵用券代碼 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

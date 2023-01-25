@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [類別中的產品](https://docs.magento.com/user-guide/catalog/categories-category-products.html)
-- [建立類別規則](https://docs.magento.com/user-guide/catalog/category-product-rules.html)
+- [類別產品分配 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [銷售的類別規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

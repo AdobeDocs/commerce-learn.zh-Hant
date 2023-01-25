@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 ## 有用資源
 
-[建立量度的篩選集](https://docs.magento.com/mbi/data-user/reports/ess-manage-data-filters.html)
+[建立篩選器集 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[分段和篩選的建議資料Dimension](https://docs.magento.com/mbi/best-practices/segment-filter.html)
+[分段和篩選建議的資料Dimension- MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

@@ -6,9 +6,9 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 89e117ae-b504-42ac-b3cb-8fbbe398b027
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[適用於 [!DNL Commerce]](https://devdocs.magento.com/cloud/architecture/cloud-architecture.html)
+[雲架構 —  [!DNL Commerce] 雲端基礎架構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

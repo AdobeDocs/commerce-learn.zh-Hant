@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36198.jpeg
 activity: use
 exl-id: 18e9269d-41df-4471-a3f5-9a2296d25362
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
+>視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36198?quality=12&learn=on)
 
 ## 其他資源
 
-[聲明性結構](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/)
+[聲明性結構](https://developer.adobe.com/commerce/php/development/components/declarative-schema/)

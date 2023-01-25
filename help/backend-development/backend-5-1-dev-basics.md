@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36197.jpeg
 activity: use
 exl-id: f27b31b7-6226-4e58-b2c0-6dafcc677940
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
+>視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36197?quality=12&learn=on)
 
 ## 其他資源
 
-- [可擴充性與模組化](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-- [設定您的商店](https://devdocs.magento.com/cloud/configure/configuration-overview.html)
+- [可擴充性與模組化](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [儲存選項和配置管理概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/overview.html)

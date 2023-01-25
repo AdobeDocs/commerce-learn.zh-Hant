@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://docs.magento.com/mbi/) 以取得最新資訊。
+>視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 
 ## 其他資源
 
-- [現成控制面板](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html)
-- [使用控制面板群組](https://docs.magento.com/mbi/data-user/dashboards/using-dashboard-groups.html)
+- [現成控制面板 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
+- [使用儀表板組 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)

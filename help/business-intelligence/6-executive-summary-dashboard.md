@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://docs.magento.com/mbi/) 以取得最新資訊。
+>視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 
 ## 其他資源
 
-- [執行摘要](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#executive-summary-guest-checkout-allowed)
-- [與其他使用者共用控制面板](https://docs.magento.com/mbi/data-user/dashboards/share-dashboard-with-users.html)
+- [執行摘要 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
+- [與其他用戶共用控制面板 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)

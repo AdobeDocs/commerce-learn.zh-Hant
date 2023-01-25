@@ -6,9 +6,9 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 548b87ff-1fd8-4486-b28a-40f28f3ababd
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[雲端部署程式](https://devdocs.magento.com/cloud/deploy/cloud-deployment-process.html)
+[雲端部署程式 —  [!DNL Commerce] 雲端基礎架構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Commerce Marketplace不再包含 **下載** 按鈕。 您必須使用命令列來安裝或升級擴充功能。 請參閱 [一般CLI安裝](https://devdocs.magento.com/extensions/install/) 開發人員檔案中的主題，以取得詳細資訊。
+>Commerce Marketplace不再包含 **下載** 按鈕。 您必須使用命令列來安裝或升級擴充功能。 請參閱 [安裝擴充功能](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) 頁面 _安裝指南_ 以取得更多資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
 ## 其他資源
 
-[[!DNL Commerce] PHP開發人員指南](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] PHP開發人員指南](https://developer.adobe.com/commerce/php/development/)

@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [業務績效分析](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
-- [UTM標籤Google Analytics](https://docs.magento.com/mbi/best-practices/utm-tagging-google.html)
+- [《 Business Performance Analysis - MBI使用手冊》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [Google Analytics中的UTM標籤 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/utm-tagging-google.html)

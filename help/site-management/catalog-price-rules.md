@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [建立目錄價格規則](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html)
-- [具有多個SKU的價格規則](https://docs.magento.com/user-guide/marketing/price-rule-multiple-sku.html)
+- [建立目錄價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [具有多個SKU的目錄價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

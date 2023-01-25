@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -28,12 +28,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
+>視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 
 ## 其他資源
 
-[可配置產品 —  [!DNL Commerce] 使用手冊](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
+[可配置產品 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
 
-[屬性集 —  [!DNL Commerce] 使用手冊](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[屬性集 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

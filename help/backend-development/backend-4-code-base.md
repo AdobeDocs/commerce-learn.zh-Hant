@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36196.jpeg
 activity: use
 exl-id: f0c7b27d-7071-4454-9fbc-622d7d248188
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 發行說明。
+>視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)
 
 ## 其他資源
 
-- [關於元件檔案結構](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
-- [元件開發](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
-- [可擴充性與模組化](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-- [[!DNL Commerce] 模組參考指南](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
+- [關於元件檔案結構](https://developer.adobe.com/commerce/php/development/prepare/component-file-structure/)
+- [元件開發](https://developer.adobe.com/commerce/php/development/components/)
+- [可擴充性與模組化](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [[!DNL Commerce] 模組參考指南](https://developer.adobe.com/commerce/php/module-reference/)
