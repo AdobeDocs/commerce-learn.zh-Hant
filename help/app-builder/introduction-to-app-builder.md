@@ -1,14 +1,14 @@
 ---
 title: Adobe Commerce的流程外擴充性
 description: 了解Adobe應用程式產生器，以及為何它是程式外擴充性的重要方面。
-landing-page-description: 了解什麼是應用程式建立工具，以及如何協助處理Adobe Commerce開發策略。
+landing-page-description: 了解什麼是App Builder，以及它如何協助處理Adobe Commerce開發策略。
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11T00:00:00Z
-source-git-commit: ef0fa95e776b97ddbaf30e0acd1340e30f12738f
+last-substantial-update: 2023-01-24T00:00:00Z
+source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 # 流程外的可擴充性
 
-Adobe Commerce開發過去使用與主要應用程式相同的存放庫。  這稱為程式內。  該技術非常好，為開發者提供了擴展應用的預期機制。  然而，這是有代價的。  每次您將新程式碼新增至程式碼基底時，都必須與任何升級相容。  您還必須與伺服器PHP版本以及商務將使用的許多其他伺服器應用程式和服務相容。  Adobe Developer App Builder對擴充功能的需求相同，但會將其移離網站。  程式碼和邏輯完全外部，稱為過程。
+過去，Adobe Commerce開發一直使用程式內擴充性（強大的功能），但程式內模型需要任何新程式碼才能與升級、伺服器的PHP版本，以及商務使用的許多其他重要伺服器應用程式和服務相容。 Adobe Developer App Builder使用程式外的擴充性，以避免這些相容性問題。
 
 ## Adobe Commerce適用的App Builder {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder為開發人員提供可擴充的架構 [!DNL Adobe Commerce] 提供過時的可擴充性。
+Adobe Developer App Builder是無伺服器的擴充性平台，可整合及建立自訂體驗以擴充Adobe解決方案，現在已適用於Adobe Commerce。 透過App Builder，您可以建立安全且可擴充的應用程式，以延伸Commerce原生功能並與協力廠商解決方案整合。 身為開發人員，您現在可以利用Adobe Commerce的過時擴充性，進而提供即時和長期的優勢。
 
-App Builder提供統一的協力廠商擴充性架構，可整合及建立可擴充的自訂應用程式 [!DNL Adobe Commerce]. 由於此可擴充性框架構建在Adobe的基礎架構上，因此開發人員可以構建自定義微服務，並擴展和整合 [!DNL Adobe Commerce] 跨Adobe解決方案和其他協力廠商整合。
+App Builder提供統一的協力廠商擴充性架構，可整合及建立可擴充的自訂應用程式 [!DNL Adobe Commerce]. 由於此可擴充性框架構建在Adobe的基礎架構上，因此開發人員可以構建定制微服務，並擴展和整合 [!DNL Adobe Commerce] 跨其他Adobe解決方案和協力廠商整合。
 
 App Builder可讓客戶透過 [!DNL Adobe Commerce] 在各種使用案例中：
 
@@ -36,13 +36,13 @@ App Builder（先前稱為Project Firefly）是雲端式解決方案，這表示
 
 ## 為何應深入了解App Builder
 
-由於Adobe Commerce不是完全的SAAS，因此您開發或安裝的程式碼可能會增加複雜性和升級問題。 借由使用程式外的擴充性（例如應用程式產生器），您可以為Adobe Commerce商店提供自訂、獨特的功能，而不需要程式內方法。
+由於Adobe Commerce並非完全的SAAS產品，您開發的程式碼可能會增加複雜性並升級問題。 透過使用程式外的擴充性（例如App Builder），您可以為Adobe Commerce商店提供自訂、獨特的功能，而不需要程式內方法。
 
 其他好處包括：
 
 * 去耦功能可讓更短的啟動時間。
 * 升級現在更輕鬆了。 自訂功能位於商務程式碼基底之外，可防止升級時出現相容性問題。
-* 在商務之外移動功能和邏輯可釋放通常用於流程中開發方法的資源。
+* 將功能和邏輯移至Commerce之外，可釋出通常用於程式內開發方法的資源。
 
 ## 架構 {#architecture}
 
@@ -58,6 +58,14 @@ Adobe Developer App Builder不提供現成可用的解決方案，而是提供�
 ![架構](/help/assets/app-builder/firefly-architecture.jpeg)
 
 如需App Builder架構的詳細資訊，請參閱 [架構概述](https://developer.adobe.com/app-builder/docs/guides/).
+
+## AmazonSales Channel擴充功能 {#amazon-sales-channel-extension}
+
+下列教學課程示範如何使用App Builder擴充功能將Adobe Commerce連線至AmazonSales Channel。
+
+* [技術概述App Builder](../app-builder/app-builder-technical-overview.md)
+* [可擴充性框架](../app-builder/extensibility-framework-commerce-eventing.md)
+* [功能示範應用程式產生器](../app-builder/app-builder-functional-demonstration.md)
 
 ## 開始使用App Builder {#additional-resources}
 
@@ -81,4 +89,3 @@ App Builder提供開發人員的影片和檔案，包括指南和參考檔案，
 ## 支援 {#support}
 
 若為開發人員支援請求，請使用 [Experience League論壇](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) 以求協助。
-
