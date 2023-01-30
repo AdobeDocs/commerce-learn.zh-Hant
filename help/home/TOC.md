@@ -2,9 +2,9 @@
 user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
-source-git-commit: b07b6cfa1b979f8900b154e8f0d2f9ddc2651e90
+source-git-commit: acd5985b189eec564964c3329befe92149f2ee0e
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '556'
 ht-degree: 3%
 
 ---
@@ -64,6 +64,9 @@ ht-degree: 3%
 
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
+   + [應用程式產生器的擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
+   + [App Builder的功能示範](../app-builder/app-builder-functional-demonstration.md)
+   + [應用程式建立工具技術概觀](../app-builder/app-builder-technical-overview.md)
 
 + 商店管理 {#admin}
    + [管理使用者角色和權限](../site-management/users-roles-permissions.md)
