@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 ---
 
 
-# 流程外的可擴充性
+# App Builder簡介
 
-過去，Adobe Commerce開發一直使用程式內擴充性（強大的功能），但程式內模型需要任何新程式碼才能與升級、伺服器的PHP版本，以及商務使用的許多其他重要伺服器應用程式和服務相容。 Adobe Developer App Builder使用程式外的擴充性，以避免這些相容性問題。
+過去，Adobe Commerce開發常使用程式內的擴充性。 進程中模型要求任何新代碼與升級、伺服器的PHP版本以及Commerce使用的許多其他基本伺服器應用程式和服務相容。 Adobe Developer App Builder使用程式外的擴充性，以避免這些相容性問題。
 
 ## Adobe Commerce適用的App Builder {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder是無伺服器的擴充性平台，可整合及建立自訂體驗以擴充Adobe解決方案，現在已適用於Adobe Commerce。 透過App Builder，您可以建立安全且可擴充的應用程式，以延伸Commerce原生功能並與協力廠商解決方案整合。 身為開發人員，您現在可以利用Adobe Commerce的過時擴充性，進而提供即時和長期的優勢。
+Adobe Developer App Builder是無伺服器的擴充性平台，可整合及建立自訂體驗以擴充Adobe解決方案，現在已適用於Adobe Commerce。 透過App Builder，您可以建立安全且可擴充的應用程式，以延伸Commerce原生功能並與協力廠商解決方案整合。 身為開發人員，您現在可以利用Adobe Commerce的流程外擴充功能，進而提供即時和長期的優點。
 
 App Builder提供統一的協力廠商擴充性架構，可整合及建立可擴充的自訂應用程式 [!DNL Adobe Commerce]. 由於此可擴充性框架構建在Adobe的基礎架構上，因此開發人員可以構建定制微服務，並擴展和整合 [!DNL Adobe Commerce] 跨其他Adobe解決方案和協力廠商整合。
 
