@@ -1,18 +1,18 @@
 ---
-user-guide-title: 影片和教學課程
-user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
-breadcrumb-title: 影片和教學課程
-source-git-commit: acd5985b189eec564964c3329befe92149f2ee0e
+user-guide-title: 影片和Tutorials
+user-guide-description: 透過影片和教學課程了解Adobe Commerce和Magento Open Source。
+breadcrumb-title: 影片和Tutorials
+source-git-commit: 4fa3419cbf300022277b08ebbeb8f6cab0018eb3
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Adobe Commerce影片和Tutorials {#tutorials}
 
-+ [[!DNL Commerce] 影片、課程與Tutorials](overview.md)
++ [[!DNL Commerce] Tutorials](overview.md)
 + 快速入門 {#getting-started}
    + [!DNL Commerce] 雲{#cloud}
       + [1 — 概觀](../cloud/1-overview.md)
@@ -66,7 +66,7 @@ ht-degree: 3%
    + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
    + [應用程式產生器的擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder的功能示範](../app-builder/app-builder-functional-demonstration.md)
-   + [應用程式建立工具技術概觀](../app-builder/app-builder-technical-overview.md)
+   + [App Builder技術概觀](../app-builder/app-builder-technical-overview.md)
 
 + 商店管理 {#admin}
    + [管理使用者角色和權限](../site-management/users-roles-permissions.md)
