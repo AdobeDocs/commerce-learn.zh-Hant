@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: 4fa3419cbf300022277b08ebbeb8f6cab0018eb3
+source-git-commit: f3b9d1b0a8de9dbd5b2f5b7dd57959a9328c747a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ ht-degree: 0%
    + [應用程式產生器的擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder的功能示範](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder技術概觀](../app-builder/app-builder-technical-overview.md)
+   + [API Mesh教學課程](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+
++ API Mesh {#api-mesh}
+   + [API Mesh教學課程](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
 
 + 商店管理 {#admin}
    + [管理使用者角色和權限](../site-management/users-roles-permissions.md)
