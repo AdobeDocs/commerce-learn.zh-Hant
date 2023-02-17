@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
+source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -67,10 +67,13 @@ ht-degree: 0%
    + [應用程式產生器的擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder的功能示範](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder技術概觀](../app-builder/app-builder-technical-overview.md)
-   + [API Mesh教學課程](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + API Mesh {#api-mesh}
-   + [API Mesh教學課程](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
+   + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
+   + [安裝AdobeIO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
+   + [使用專案和工作區](../api-mesh/aio-projects-workspaces.md)
+   + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
+   + [建立多來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 
 + 商店管理 {#admin}
    + [管理使用者角色和權限](../site-management/users-roles-permissions.md)
