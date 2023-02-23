@@ -1,9 +1,9 @@
 ---
 title: API Mesh相關頁面
 description: 「API網格」區段中相關頁面的連結
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 52972b476a1be405bee727e50df635028fd87050
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,3 @@ ht-degree: 0%
 * [使用專案和工作區](../api-mesh/aio-projects-workspaces.md)
 * [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
 * [建立多個來源GraphQL API請求](../api-mesh/graphql-multiple-source.md)
-* [返回Commerce教學課程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
