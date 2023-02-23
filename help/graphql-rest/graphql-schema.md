@@ -6,13 +6,13 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # 綱要語言
 
@@ -90,7 +90,7 @@ type Mutation {
 }
 ```
 
-你可以深入研究 [GraphQL檔案](https://graphql.org/learn/schema/) 了解類型系統的詳細資訊，包括此處未表示之部分概念的語法。 然而，上述例子是不言自明的。 （另請注意，查詢語法的語法有多相似。） 定義GraphQL結構只是表達指定類型的可用參數和欄位以及這些欄位類型的問題。 每個複雜的欄位類型本身必須有定義，依此類推，通過樹，直到得到像這樣的簡單標量類型 `String`.
+你可以深入研究 [GraphQL檔案](https://graphql.org/learn/schema/){target="_blank"} 了解類型系統的詳細資訊，包括此處未表示之部分概念的語法。 然而，上述例子是不言自明的。 （另請注意，查詢語法的語法有多相似。） 定義GraphQL結構只是表達指定類型的可用參數和欄位以及這些欄位類型的問題。 每個複雜的欄位類型本身必須有定義，依此類推，通過樹，直到得到像這樣的簡單標量類型 `String`.
 
 此 `input` 聲明在所有方面都像 `type` 但會定義可用來作為引數輸入的類型。 另請注意 `interface` 聲明。 此功能與PHP中的介面幾乎相同。 其他類型則從此介面繼承。
 
@@ -100,4 +100,4 @@ type Mutation {
 >
 >根據結構擷取資料和格式化的邏輯，以及此邏輯如何對應至特定類型，由GraphQL執行階段實作決定。 但是，實作應遵循概念流程，這些流程在我們對巢狀欄位的理解方面有意義：與根關聯的解析操作 `Query` 或 `Mutation` 會執行類型，檢查請求中指定的每個欄位。 對於解析為複雜類型的每個欄位，會對該類型等執行類似的解析，直到所有內容都解析為標量值。
 
-
+{{$include /help/_includes/graphql-rest-related-links.md}}

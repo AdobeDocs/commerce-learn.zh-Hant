@@ -2,7 +2,7 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: a4863c70ed9b0b0daee82c569b284f98163e5769
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -57,7 +57,11 @@ ht-degree: 0%
       + [5.3 — 電子郵件通訊](../site-management/introduction/5-3-store-communications.md)
       + [5.4 — 全域參考架構](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL和REST {#graphql-rest}
-   + [GraphQL簡介](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
+   + [開始使用GraphQL](../graphql-rest/getting-started-graphql.md)
+   + [GraphQL基本介紹](../graphql-rest/intro-graphql.md)
+   + [查詢](../graphql-rest/graphql-queries.md)
+   + [突變](../graphql-rest/graphql-mutations.md)
+   + [結構](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
    + [應用程式產生器的擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)

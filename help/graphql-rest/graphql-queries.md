@@ -6,7 +6,8 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -186,5 +187,6 @@ fragment productDetails on ProductInterface {
 
 正如您所見，GraphQL查詢的實際HTTP要求包含「query: `{string}`「」在內文中，任何包含變數字典的要求都只會包含額外的「變數： `{json}`&quot;在同一個身體里， `{json}` 是包含變數值的JSON字串。
 
-新查詢也使用 _片段_ (`productDetails`)以在多個位置重複使用相同的欄位選取。 [深入了解片段](https://graphql.org/learn/queries/#fragments) 在GraphQL檔案中。
+新查詢也使用 _片段_ (`productDetails`)以在多個位置重複使用相同的欄位選取。 [深入了解片段](https://graphql.org/learn/queries/#fragments){target="_blank"} 在GraphQL檔案中。
 
+{{$include /help/_includes/graphql-rest-related-links.md}}
