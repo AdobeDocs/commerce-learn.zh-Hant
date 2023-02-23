@@ -7,16 +7,16 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # 綱要語言
 
-我們所處理的查詢和變異都仰賴在伺服器上實作的特定資料圖表，GraphQL執行階段會使用該圖表並用來解析查詢。 GraphQL規格定義了一種不可知語言，用於表達資料圖表的類型和關係。
+使用的查詢和變異取決於伺服器上正在實作的特定資料圖表，GraphQL執行階段會利用該圖表並用來解析查詢。 GraphQL規格定義了一種不可知語言，用於表達資料圖表的類型和關係。
 
 以下是簡略的類型結構，可支援您目前所研究的查詢和變異：
 
@@ -98,6 +98,6 @@ type Mutation {
 
 >[!NOTE]
 >
->根據結構擷取資料和格式化的邏輯，以及此邏輯如何對應至特定類型，由GraphQL執行階段實作決定。 但是，實作應遵循概念流程，這些流程在我們對巢狀欄位的理解方面有意義：與根關聯的解析操作 `Query` 或 `Mutation` 會執行類型，檢查請求中指定的每個欄位。 對於解析為複雜類型的每個欄位，會對該類型等執行類似的解析，直到所有內容都解析為標量值。
+>根據結構擷取資料和格式化的邏輯，以及此邏輯如何對應至特定類型，由GraphQL執行階段實作決定。 但是，實作應遵循概念流程，這項流程有理有據，因為您對巢狀欄位有所了解：與根關聯的解析操作 `Query` 或 `Mutation` 會執行類型，檢查請求中指定的每個欄位。 對於解析為複雜類型的每個欄位，會對該類型等執行類似的解析，直到所有內容都解析為標量值。
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

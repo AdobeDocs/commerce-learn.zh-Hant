@@ -7,7 +7,7 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: a92537cdb2538743042e136467b389bbe49178fe
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -82,9 +82,9 @@ mutation doAddToCart(
 * 任意操作名(`doAddToCart`)
 * 變數清單(例如 `$cartId`)
 * 初始欄位(`addProductsToCart`)(例如， `cartId`，則設為的值 `$cartId`括弧中)
-* 大括弧中欄位的子選擇
+* 大括弧中欄位的子選項
 
-子選取的欄位可讓您彈性定義要傳回的欄位（從指定為傳回值的類型） `addProductsToCart` - `AddProductsToCartOutput`)，在突變完成後。
+欄位子選取功能可讓您彈性定義要傳回的欄位（從指定為傳回值的類型） `addProductsToCart` - `AddProductsToCartOutput`)，在突變完成後。
 
 如前所述，GraphQL架構中定義的欄位會從查詢的根類型開始(通常稱為 `Query`)。 同樣，變異也存在另一種根類型(通常稱為 `Mutation`)。 `addProductsToCart` 是該根類型上的欄位。
 
