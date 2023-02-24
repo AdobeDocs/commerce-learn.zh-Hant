@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 使用多個源建立網格
 
-此影片可協助開發人員了解如何在Adobe Developer App Builder的API Mesh中，使用多個來源建立網格。 此影片說明如何建立含有多個來源的網格並識別錯誤。 如需詳細資訊和程式碼範例，請造訪 [建立網格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+此影片可協助開發人員了解如何在Adobe Developer App Builder的API Mesh中，使用多個來源建立網格。 此影片說明如何建立含有多個來源的網格並識別錯誤。 如需詳細資訊和程式碼範例，請造訪 [建立網格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## 這段錄像是給誰的？
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
-* 如何使用 [轉換](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) 要修改預設源架構，請執行以下操作
+* 如何使用 [轉換](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} 要修改預設源架構，請執行以下操作
 * 如何疑難排解錯誤，例如名稱衝突、結構可用性和其他結構語法問題
 * 使用修改的配置更新網格
 

@@ -6,9 +6,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: 48d96994571ced0b8219ace9178d068481a39573
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 使用專案和工作區
 
-本教學課程探討如何建立專案和工作區以包含您的網格。 這項工作主要在 [Adobe Developer console](https://developer.adobe.com/console) UI。
+本教學課程探討如何建立專案和工作區以包含您的網格。 這項工作主要在 [Adobe Developer console](https://developer.adobe.com/console){target="_blank"} UI。
 
 ## 這段錄像是給誰的？
 
@@ -35,12 +35,12 @@ ht-degree: 0%
 
 ## 了解Adobe Developer Console
 
-在Adobe Developer Console中，下列階層代表您的API與組織的契合程度： `Organization > Project > Workspace > [API]`. 若要進一步了解Adobe應用程式產生器、登入主控台以及基本疑難排解，請造訪 [建立您的第一個App Builder應用程式](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+在Adobe Developer Console中，下列階層代表您的API與組織的契合程度： `Organization > Project > Workspace > [API]`. 若要進一步了解Adobe應用程式產生器、登入主控台以及基本疑難排解，請造訪 [建立您的第一個App Builder應用程式](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Adobe Developer Console中的專案簡介
 
-Adobe Developer Console中的所有開發工作都會在專案中完成。 專案可包含一或多項產品，以及API、事件、執行階段和外掛程式的組合。 如需Adobe Developer console中專案的詳細資訊，請造訪 [專案](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Adobe Developer Console中的所有開發工作都會在專案中完成。 專案可包含一或多項產品，以及API、事件、執行階段和外掛程式的組合。 如需Adobe Developer console中專案的詳細資訊，請造訪 [專案](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-如需在API網格內容中使用專案和工作區的詳細資訊，請參閱 [修改專案和工作區](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
+如需在API網格內容中使用專案和工作區的詳細資訊，請參閱 [修改專案和工作區](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}
