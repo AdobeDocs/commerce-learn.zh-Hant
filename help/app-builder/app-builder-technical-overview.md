@@ -6,9 +6,9 @@ kt: 11763
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
+source-git-commit: f593ff1158872340ea814a29b3dd0d618f3b449f
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # App Builder技術概觀
 
 以下影片提供連接Adobe Commerce和AmazonSales Channel的技術概觀。 本教學課程也探討如何使用Adobe應用程式建立器進行自訂功能和整合。
+
+>[!IMPORTANT]
+>
+>AmazonSales Channel延伸功能仍在開發中，尚未正式發行。  這些影片和教學課程旨在示範如何針對實際使用案例使用Adobe Developer App Builder。
 
 
 ## Adobe Commerce適用的App Builder {#app-builder-technical-overview}
