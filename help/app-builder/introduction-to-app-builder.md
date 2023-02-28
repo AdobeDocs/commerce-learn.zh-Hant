@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
+source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ Adobe Developer App Builder不提供現成可用的解決方案，而是提供�
 如需App Builder架構的詳細資訊，請參閱 [架構概述](https://developer.adobe.com/app-builder/docs/guides/).
 
 ## AmazonSales Channel擴充功能 {#amazon-sales-channel-extension}
+
+>[!IMPORTANT]
+>
+>AmazonSales Channel延伸功能仍在開發中，尚未正式發行。  這些影片和教學課程旨在示範如何針對實際使用案例使用Adobe Developer App Builder。
 
 下列教學課程示範如何使用App Builder擴充功能將Adobe Commerce連線至AmazonSales Channel。
 
