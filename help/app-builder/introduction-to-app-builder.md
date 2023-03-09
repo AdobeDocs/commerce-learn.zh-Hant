@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
+source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Adobe Developer App Builder不提供現成可用的解決方案，而是提供�
 
 ![架構](/help/assets/app-builder/firefly-architecture.jpeg)
 
-如需App Builder架構的詳細資訊，請參閱 [架構概述](https://developer.adobe.com/app-builder/docs/guides/).
+如需App Builder架構的詳細資訊，請參閱 [架構概述](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## AmazonSales Channel擴充功能 {#amazon-sales-channel-extension}
 
@@ -75,27 +75,27 @@ Adobe Developer App Builder不提供現成可用的解決方案，而是提供�
 
 若需複合商務策略的概觀，包括初始設定，請閱讀下列部落格文章：
 
-[App Builder如何協助您提高商務平台的業務靈活性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+[App Builder如何協助您提高商務平台的業務靈活性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 為協助您開始使用App Builder,Adobe已建立下列檔案：
 
-* [App Builder快速入門](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [App Builder快速入門](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## 繼續學習說明檔案 {#appbuilder-documentation}
 
 App Builder提供開發人員的影片和檔案，包括指南和參考檔案，以協助開發您自己的自訂應用程式：
 
-* [App Builder檔案](https://developer.adobe.com/app-builder/docs/overview/)
-* [App Builder影片](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [App Builder檔案](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [App Builder影片](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## 請試用其中一個示例應用程式 {#appbuilder-codesamples}
 
 準備好開發了嗎？ 下列連結包含可協助您開始的範例應用程式：
 
-* [Adobe Developer網站上的應用程式建立工具程式碼實驗室](https://developer.adobe.com/app-builder/docs/resources/)
+* [Adobe Developer網站上的應用程式建立工具程式碼實驗室](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## 支援 {#support}
 
-若為開發人員支援請求，請使用 [Experience League論壇](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) 以求協助。
+若為開發人員支援請求，請使用 [Experience League論壇](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} 以求協助。
 
 {{$include /help/_includes/app-builder-related-links.md}}
