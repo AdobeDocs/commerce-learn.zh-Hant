@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
+source-git-commit: 021df5e5f98341204e9cc486c249dcd87fab2aa3
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 過去，Adobe Commerce開發常使用程式內的擴充性。 進程中模型要求任何新代碼與升級、伺服器的PHP版本以及Commerce使用的許多其他基本伺服器應用程式和服務相容。 Adobe Developer App Builder使用程式外的擴充性，以避免這些相容性問題。
 
-## Adobe Commerce適用的App Builder {#project-firefly}
+## Adobe Commerce適用的App Builder {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
@@ -32,7 +32,7 @@ App Builder可讓客戶透過 [!DNL Adobe Commerce] 在各種使用案例中：
 * 核心服務的擴充性 — 透過自訂功能和業務邏輯擴充預設行為，以擴充核心應用程式功能。
 * 使用者體驗的擴充性 — 擴充核心體驗以支援業務需求，或建立客戶專屬的數位屬性、店面和後台應用程式。
 
-App Builder（先前稱為Project Firefly）是雲端式解決方案，這表示可自動縮放。 此服務也全球分發，不論您的地理位置為何，皆可提供最佳效能。
+Adobe Developer App Builder是雲端式解決方案，這表示可自動調整規模。 此服務也全球分發，不論您的地理位置為何，皆可提供最佳效能。
 
 ## 為何應深入了解App Builder
 
@@ -55,7 +55,7 @@ Adobe Developer App Builder不提供現成可用的解決方案，而是提供�
 
 下圖說明以App Builder為基礎的標準應用程式如何使用這些功能：
 
-![架構](/help/assets/app-builder/firefly-architecture.jpeg)
+![架構](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 如需App Builder架構的詳細資訊，請參閱 [架構概述](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
