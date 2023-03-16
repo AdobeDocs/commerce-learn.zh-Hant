@@ -2,13 +2,14 @@
 title: MBI — 篩選器集
 description: 了解如何使用MBI篩選器集功能簡化Adobe Commerce和Magento Open Source的業務資料報告。
 landing-page-description: 觀看此視頻，了解如何使用MBI篩選器集功能簡化業務資料報告。
+short-description: Watch this video to learn how use the MBI filter sets feature to simplify business data reporting.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

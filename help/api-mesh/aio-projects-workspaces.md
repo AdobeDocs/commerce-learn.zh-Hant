@@ -2,11 +2,12 @@
 title: 使用專案和工作區
 description: 探索如何使用Adobe Developer Console來處理專案和工作區。
 landing-page-description: 了解如何使用Adobe Developer Console。 了解要與API Mesh搭配使用的專案和工作區。
+short-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
 kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 48d96994571ced0b8219ace9178d068481a39573
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
