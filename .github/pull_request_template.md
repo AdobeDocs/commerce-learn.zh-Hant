@@ -1,7 +1,7 @@
 ---
-source-git-commit: b89fe908caa88a154481d21ff6170234dde794c1
+source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -44,10 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [遵循命名標準]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)).
-- [ ] TOC和H1是否符合要建立或更新的每個頁面？
-- [ ] TOC和H1有動作範例嗎：了解如何建立PR
+- [ ] [遵循命名標準]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] TOC與H1會符合要建立或更新的每個頁面。
+- [ ] TOC和H1有與其相關聯的動作，例如：了解如何建立GutHub提取請求
 - [ ] H1中不應有單間距
-- [ ] 每個頁面標題應以Capitol字母開頭
-- [ ] 視訊有章節
-- [ ] 視訊已指派海報來正確呈現視訊
+- [ ] 每個頁面標題的開頭都應該是***C***apitol字母
+- [ ] 我已檢查是否有任何影片應包含章節
+- [ ] 所有影片皆已指派海報，以正確呈現影片
+- [ ] 您使用 [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
