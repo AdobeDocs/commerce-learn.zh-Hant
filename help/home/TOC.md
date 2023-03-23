@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: f3eb7686068d6be02816d34c08e7ebecc681df5b
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -67,13 +67,13 @@ ht-degree: 0%
    + [應用程式產生器的擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder的功能示範](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder技術概觀](../app-builder/app-builder-technical-overview.md)
-   + 建立您的第一個應用程式 {#first-app}
+   + 第一個應用程式 {#first-app}
       + [概述](../app-builder/first-app/overview.md)
-      + [.env檔案](../app-builder/first-app/env-file.md)
-      + [app.config.yaml檔案](../app-builder/first-app/app-config-yaml-file.md)
-      + [動作資料夾](../app-builder/first-app/actions-folder.md)
-      + [測試資料夾](../app-builder/first-app/test-folder.md)
-      + [web-src資料夾](../app-builder/first-app/web-src-folder.md)
+      + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
+      + [app.config.yaml檔案的說明和用法](../app-builder/first-app/app-config-yaml-file.md)
+      + [了解動作資料夾](../app-builder/first-app/actions-folder.md)
+      + [了解測試資料夾](../app-builder/first-app/test-folder.md)
+      + [探索Web-src資料夾的用途](../app-builder/first-app/web-src-folder.md)
       + [在本機測試](../app-builder/first-app/testing-locally.md)
       + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
       + [結論](../app-builder/first-app/conclusion.md)

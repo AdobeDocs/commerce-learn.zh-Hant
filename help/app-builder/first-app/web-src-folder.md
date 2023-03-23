@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# 此 `web-src` 資料夾 {#web-src-folder}
+# 探索Web-src資料夾的用途 {#web-src-folder}
 
 此範例應用程式的web-src資料夾包含許多JavaScript檔案和資料夾。 此資料夾用於具有用戶介面的應用程式。 並非所有應用程式都使用此功能。 例如，與外部庫存管理系統的商務整合可能不需要前端介面和代碼。
 

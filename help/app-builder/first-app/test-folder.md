@@ -6,15 +6,15 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
-# `test` 資料夾 {#test-folder}
+# 了解測試資料夾 {#test-folder}
 
 此 `test` 此範例應用程式的資料夾包含單一JavaScript檔案，用於在應用程式上執行單元測試時。
 

@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` 資料夾 {#actions-folder}
+# 了解動作資料夾 {#actions-folder}
 
 此 `actions` 此範例應用程式的資料夾包含一些JavaScript檔案和一個名為的資料夾 `commerce`. 顯示的JavaScript是絕佳的範例檔案，如果與您的工作相關，則可重複使用。 使用OAuth和REST連線至Adobe Commerce應用程式時，此資料夾可節省您在開發工作中的時間。
 
