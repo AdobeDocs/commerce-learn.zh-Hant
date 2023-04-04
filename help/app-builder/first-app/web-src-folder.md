@@ -6,9 +6,9 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 通常包括檔案和資料夾
 * 如何 `web-src` 資料夾和內容會用於範例應用程式中
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
 ## 程式碼範例
 

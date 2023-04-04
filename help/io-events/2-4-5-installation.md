@@ -8,9 +8,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: "Adobe Commerce 2.4.5"
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 要為Adobe Commerce Cloud運行的命令
 * Adobe Commerce Cloud yaml需要編輯
 
->[!VIDEO](https://video.tv.adobe.com/v/3415794)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

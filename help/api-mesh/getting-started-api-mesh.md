@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ API Mesh結合多個資料來源，以取得單一回應供您的應用程式使
 * 結帳時進行即時庫存檢查的使用案例
 * 將開發工作和資源使用從您的商務應用程式移開
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534/)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 範例使用案例
 

@@ -7,9 +7,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Adobe Commerce適用的App Builder {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
 
 Adobe Developer App Builder是無伺服器的擴充性平台，可整合及建立自訂體驗以擴充Adobe解決方案，現在已適用於Adobe Commerce。 透過App Builder，您可以建立安全且可擴充的應用程式，以延伸Commerce原生功能並與協力廠商解決方案整合。 身為開發人員，您現在可以利用Adobe Commerce的流程外擴充功能，進而提供即時和長期的優點。
 

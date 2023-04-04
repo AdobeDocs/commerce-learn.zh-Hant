@@ -7,7 +7,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 * 如何疑難排解錯誤，例如名稱衝突、結構可用性和其他結構語法問題
 * 使用修改的配置更新網格
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
 ## 建立json設定檔案
 

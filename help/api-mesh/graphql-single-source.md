@@ -7,9 +7,9 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 * 從JSON設定檔案建立網格
 * 存取新建立的GraphQL端點
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
 ## 建立json設定檔案
 
