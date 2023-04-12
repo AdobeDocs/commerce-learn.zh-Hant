@@ -2,7 +2,7 @@
 title: 在PHP Storm上使用升級相容性工具
 description: 觀看此技術影片，了解如何使用升級相容性工具與PHP Storm外掛程式。
 landing-page-description: 了解如何將「升級相容性工具」與PHP Storm外掛程式一起使用，以便輕鬆識別和解決不相容問題。
-short-description: Learn about using the Upgrade Compatibility Tool with the PHP Storm plugin that makes it easy to identify and address incompatibilities.
+short-description: 了解如何將「升級相容性工具」與PHP Storm外掛程式一起使用，以便輕鬆識別和解決不相容問題。
 kt: 9651
 doc-type: technical video
 role: Developer
@@ -11,7 +11,7 @@ activity: use
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

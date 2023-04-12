@@ -2,7 +2,7 @@
 title: 適用於開發人員的頁面產生器 — 簡介
 description: 頁面產生器簡介，了解頁面產生器功能
 landing-page-description: 請觀看此影片系列，了解頁面產生器，以及如何擴充頁面產生器，以建立最佳效果 [!DNL Commerce] 店面體驗。
-short-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
+short-description: 請觀看此影片系列，了解頁面產生器，以及如何擴充頁面產生器，以建立最佳效果 [!DNL Commerce] 店面體驗。
 topic: Commerce, Development
 kt: 5650
 doc-type: video
@@ -10,7 +10,7 @@ activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

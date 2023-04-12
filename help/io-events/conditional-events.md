@@ -2,18 +2,18 @@
 title: 了解如何在Adobe Commerce中使用條件事件
 description: 了解如何使用條件式事件來用於Adobe Developer App Builder。
 landing-page-description: 了解如何使用Adobe Commerce條件事件。
-short-description: Learn how to use Adobe Commerce conditional events.
+short-description: 了解如何使用Adobe Commerce條件事件。
 kt: 11890
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce條件事件
 

@@ -2,7 +2,7 @@
 title: '"[!DNL Commerce] 適用於開發人員 — 概觀」'
 description: 從商家、網站商店開發人員和整合商等多個受眾的角度，了解平台的基本概念。
 landing-page-description: 觀看此影片系列，以開始使用您的商務後端開發專案。
-short-description: Watch this video series to get started on your backend development project for Commerce.
+short-description: 觀看此影片系列，以開始使用您的商務後端開發專案。
 doc-type: video
 topic: Development
 audience: developer
@@ -12,7 +12,7 @@ activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---

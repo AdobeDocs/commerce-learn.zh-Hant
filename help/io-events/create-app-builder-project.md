@@ -2,18 +2,18 @@
 title: 了解如何使用商務事件建立App Builder專案
 description: 了解如何建立App Builder專案以搭配商務事件使用
 landing-page-description: 了解如何建立Adobe應用程式建立器專案以使用Adobe Commerce事件
-short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
+short-description: 了解如何建立Adobe應用程式建立器專案以使用Adobe Commerce事件
 kt: 11888
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # 建立App Builder專案
 

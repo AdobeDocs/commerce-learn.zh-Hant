@@ -2,7 +2,7 @@
 title: 使用GraphQL的結構語言
 description: 了解與GraphQL相關的架構。 閱讀架構的說明，以及一些有趣的模式和讀取架構的方式。
 landing-page-description: 這是GraphQL的簡介。 了解結構以及如何解譯部分元素
-short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
+short-description: 這是GraphQL的簡介。 了解結構以及如何解譯部分元素
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -10,7 +10,7 @@ last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---

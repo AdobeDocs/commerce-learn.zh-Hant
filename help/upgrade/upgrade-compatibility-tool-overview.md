@@ -2,7 +2,7 @@
 title: 升級相容性工具概述
 description: 觀看此技術影片，了解升級相容性工具如何讓您的下次升級更輕鬆、更便宜、更快速。
 landing-page-description: 觀看此技術影片，了解升級相容性工具如何讓您的下次升級更輕鬆、更便宜、更快速。
-short-description: Watch this technical video to learn how the Upgrade Compatibility Tool can make your next upgrade easier, cheaper, and faster.
+short-description: 觀看此技術影片，了解升級相容性工具如何讓您的下次升級更輕鬆、更便宜、更快速。
 kt: 9983
 doc-type: technical video
 role: Admin, Leader, Developer
@@ -11,7 +11,7 @@ activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---

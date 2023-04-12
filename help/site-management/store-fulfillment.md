@@ -2,7 +2,7 @@
 title: 儲存完成概述
 description: 了解Walmart Commerce Technologies為Adobe Commerce提供的商店完成，Walmart Commerce Technologies是一種先進的全通路完成解決方案，可提供端對端線上購買、店內提貨(BOPIS)體驗。
 landing-page-description: 觀看此影片，了解商店完成解決方案如何為客戶提供便利，讓店內和店內接貨和商店員工更有效率、可在行動裝置上使用的完成工作流程，以便挑選、安排和向客戶轉手商店取貨訂單。
-short-description: Watch this video to learn how the Store Fulfillment solution offers customers the convenience of in-store and curbside pick-up and store employees more efficient, mobile-ready fulfillment workflows to pick, stage, and hand-off store pickup orders to customers.
+short-description: 觀看此影片，了解商店完成解決方案如何為客戶提供便利，讓店內和店內接貨和商店員工更有效率、可在行動裝置上使用的完成工作流程，以便挑選、安排和向客戶轉手商店取貨訂單。
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -10,7 +10,7 @@ activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---

@@ -2,7 +2,7 @@
 title: MBI — 為未來做準備
 description: 請觀看此系列影片，以明確您對影響數位商務未來之前所未有變更的理解。
 landing-page-description: 請觀看此系列影片，以明確您對影響數位商務未來之前所未有變更的理解。
-short-description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
+short-description: 請觀看此系列影片，以明確您對影響數位商務未來之前所未有變更的理解。
 kt: 10411
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---

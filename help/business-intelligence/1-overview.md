@@ -2,7 +2,7 @@
 title: MBI — 概述
 description: 了解MBI產品中提供完整商業智慧解決方案的三個核心元件。
 landing-page-description: 觀看此影片系列，了解如何透過資料匯總、分析和視覺化，推動更佳的業務見解和成果。
-short-description: Watch this video series to learn how you can drive better business insights and results through data aggregation, analysis, and visualization.
+short-description: 觀看此影片系列，了解如何透過資料匯總、分析和視覺化，推動更佳的業務見解和成果。
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---

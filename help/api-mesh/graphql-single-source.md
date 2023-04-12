@@ -2,14 +2,15 @@
 title: 在API網格中建立GraphQL單一來源網格
 description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]. 了解如何建立具有一個源的網格。
 landing-page-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]. 了解如何建立具有一個源的網格。
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
+short-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]. 了解如何建立具有一個源的網格。
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---

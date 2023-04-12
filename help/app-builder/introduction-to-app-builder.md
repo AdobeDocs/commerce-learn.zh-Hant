@@ -2,18 +2,18 @@
 title: Adobe Commerce的流程外擴充性
 description: 了解Adobe應用程式產生器，以及為何它是程式外擴充性的重要方面。
 landing-page-description: 了解什麼是App Builder，以及它如何協助處理Adobe Commerce開發策略。
-short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
+short-description: 了解什麼是App Builder，以及它如何協助處理Adobe Commerce開發策略。
 kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '831'
 ht-degree: 0%
 
 ---
-
 
 # App Builder簡介
 
