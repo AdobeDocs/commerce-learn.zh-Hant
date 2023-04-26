@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
+source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,7 @@ ht-degree: 0%
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
-+ 前端開發 {#frontend-development}
++ 本地前端Luma開發 {#frontend-development}
    + 適用於開發人員的頁面產生器 {#page-builder}
       + [1 — 導言](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 — 配置和內容](../frontend-development/page-builder/2-config-create-content.md)
@@ -187,7 +187,10 @@ ht-degree: 0%
       + [6 — 自訂內容類型](../frontend-development/page-builder/6-custom-content-types.md)
    + [新增JavaScript模組](../frontend-development/add-javascript-module.md)
    + [建立頁面](../frontend-development/create-page.md)
-+ PWA Studio {#pwa-studio}
+
++ 無頭式架構 {#headless-architecture}
+   + 無頭簡介 {#introduction-to-headless}
+      + [無頭式架構 — 第1階段](../headless/session-1.md)
    + PWA Studio簡介 {#introduction}
       + [1 — 概觀](../pwa/introduction/1-overview.md)
       + [2 -PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
