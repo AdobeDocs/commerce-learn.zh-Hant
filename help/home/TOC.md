@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
+source-git-commit: 8d183d343c6aca85d8bf490df051372ab76f77a0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -128,6 +128,7 @@ ht-degree: 0%
    + [設定產品Recommendations](../site-management/product-recommendations.md)
    + [Live Search簡介](../site-management/live-search.md)
    + [即時搜尋建議](../site-management/live-search-recommendations.md)
+   + [Live Search完整示範](../site-management/live-search-full-demonstration.md)
 + 訂單和履行 {#orders}
    + [儲存完成概述](../site-management/store-fulfillment.md)
    + [管理訂單狀態](../site-management/order-status.md)
