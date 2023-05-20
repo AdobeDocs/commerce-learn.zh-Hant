@@ -1,8 +1,8 @@
 ---
 title: 可擴充性框架與商務活動
-description: 了解統一的擴展框架和商務晚會
-landing-page-description: 了解統一的擴展框架和商務晚會
-short-description: 了解統一的擴展框架和商務晚會
+description: 瞭解統一擴展框架和商務晚會
+landing-page-description: 瞭解統一擴展框架和商務晚會
+short-description: 瞭解統一擴展框架和商務晚會
 kt: 11740
 doc-type: tutorial
 audience: all
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ---
 
-# 應用程式產生器的擴充性架構
+# App Builder的擴展框架
 
-若要了解如何搭配Adobe Developer App Builder使用Adobe Commerce，請觀看下列影片，其中說明如何搭配App Builder使用商務事件。 本功能示範說明整合如何運作，並探索App Builder的潛力。 本示範介紹擴充性架構Commerce Eventing，以及如何使用它來開發AmazonSales Channel擴充功能。
+要瞭解如何將Adobe Commerce與Adobe DeveloperApp Builder配合使用，請查看以下視頻，其中顯示如何與App Builder一起使用Commerce事件。 此功能演示描述了整合的工作原理並探索了App Builder的潛力。 本演示介紹了可擴充性框架Commerce Eventing，以及如何使用它來開發AmazonSales Channel擴展。
 
 >[!IMPORTANT]
 >
->AmazonSales Channel延伸功能仍在開發中，尚未正式發行。  這些影片和教學課程旨在示範如何針對實際使用案例使用Adobe Developer App Builder。
+>AmazonSales Channel延期仍在進行中，尚未正式發佈。  這些視頻和教程旨在向您介紹如何將Adobe Developer應用程式生成器用於實際使用案例。
 
-## Adobe Commerce適用的App Builder {#app-builder-extensibility}
+## 用於Adobe Commerce的應用程式生成器 {#app-builder-extensibility}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413328?quality=12&learn=on)
 

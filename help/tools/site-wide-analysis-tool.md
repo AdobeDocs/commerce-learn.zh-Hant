@@ -1,6 +1,6 @@
 ---
-title: 全網站分析工具控制面板
-description: 觀看此技術影片，了解如何使用全網站分析工具控制面板來存取詳細的系統分析和建議，以確保Adobe Commerce安裝的安全性和可操作性。
+title: 網站寬度分析工具控制台
+description: 請觀看此技術影片，瞭解如何使用網站寬度的分析工具控制台來存取詳細的系統見解和建議，以確保 Adobe Systems 商務安裝的安全性與可操作性。
 doc-type: technical video
 role: Developer, Admin
 audience: all
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# 全網站分析工具控制面板
+# 網站寬度分析工具控制台
 
-全網站分析工具是主動式自助服務工具和中央存放庫，包含詳細的系統分析和建議，以確保Adobe Commerce安裝的安全性和可操作性。 它提供24/7即時效能監控、報告，以及識別潛在問題的建議。 使用此工具可更好地了解站點運行狀況、安全性和應用程式配置，有助於縮短解析時間，並提高站點穩定性和效能。
+網站寬度分析工具是主動自助服務工具和中央存放庫，包含詳細的系統分析和建議，以確保您的 Adobe Systems 商務安裝的安全性和可操作性。 它提供24/7 來識別潛在問題的即時效能監控、報告和建議。 使用此工具更好地瞭解網站健康情況、安全性和應用程式設定，有助於減少解析度時間，並提高網站穩定性和效能。
 
-## 這段錄像是給誰的？
+## 此影片是誰？
 
 - 網站管理員
-- 開發人員
+- 開發 人員
 
-## 視訊內容
+## 影片內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/344001?quality=12&learn=on)
 
 ## 其他資源
 
-- [全網站分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [檢視及管理記錄檔](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+- [網站寬度分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [檢視和記錄管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

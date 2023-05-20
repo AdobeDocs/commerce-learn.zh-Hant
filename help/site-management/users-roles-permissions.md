@@ -1,6 +1,6 @@
 ---
-title: 管理使用者角色和權限
-description: 了解用來控制存取的使用者帳戶和權限 [!DNL Commerce] 網站和儲存資料。
+title: 管理用戶角色和權限
+description: 瞭解用於控制對 [!DNL Commerce] 網站和在管理員中儲存資料。
 kt: 5610
 doc-type: feature video
 audience: all
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# 使用者、角色和權限
+# 用戶、角色和權限
 
-如果您的團隊或服務提供者中有其他需要存取權的人，您可以為每個人建立個別的使用者帳戶，並根據其業務需求指派受限的存取權。 若要限制管理員使用者可存取的網站或存放區，您必須先建立範圍有限的角色，並僅限選取必要的資源。 然後，您可以將角色指派給特定使用者帳戶。 指派給限制角色的管理員使用者只能查看和變更與該角色相關聯的網站或商店的資料，但無法變更任何全域設定或資料。
+如果您團隊或服務提供商中有其他人需要訪問權限，您可以為每個用戶建立單獨的用戶帳戶，並根據他們的業務需要分配受限訪問權限。 要限制管理員用戶可以訪問的網站或儲存，必須首先建立具有有限範圍且僅選擇必要資源的角色。 然後，您可以將角色分配給特定用戶帳戶。 分配給受限角色的管理員用戶只能查看和更改與該角色關聯的網站或儲存的資料，但無法更改任何全局設定或資料。
 
 ## 這段錄像是給誰的？
 
 - 儲存管理員
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## 其他資源
 
-[管理管理員使用者帳戶 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[管理管理員用戶帳戶 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[使用者角色 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[用戶角色 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

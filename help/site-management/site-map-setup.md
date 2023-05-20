@@ -1,6 +1,6 @@
 ---
-title: 網站地圖設定
-description: 網站地圖可改善由搜尋引擎對您的儲存建立索引的方式。 了解如何為 [!DNL Commerce] 儲存於「管理員」中。
+title: 站點映射設定
+description: 站點映射改進了搜索引擎對儲存進行索引的方式。 瞭解如何為您的 [!DNL Commerce] 儲存到管理中。
 kt: 5592
 doc-type: feature video
 audience: all
@@ -13,23 +13,23 @@ ht-degree: 0%
 
 ---
 
-# 網站地圖設定
+# 站點映射設定
 
-網站地圖可改善搜尋引擎對您的儲存建立索引的方式，設計來尋找網頁編目程式可能會忽略的頁面。 了解如何輕鬆將網站地圖新增至您的Commerce商店。
+站點圖改進了搜索引擎對儲存進行索引的方式，旨在查找可能被Web爬網程式忽略的頁面。 瞭解如何輕鬆將站點地圖添加到您的Commerce商店。
 
 ## 這段錄像是給誰的？
 
 - 儲存管理員
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.1.0版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>視頻中的內容反映了2.1.0版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## 其他資源
 
-- [網站地圖 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
-- [目錄> XML Sitemap - [!DNL Commerce] 配置參考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)
+- [站點地圖 —  [!DNL Commerce] 促銷和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [「目錄」>「XML站點地圖」 —  [!DNL Commerce] 配置參考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

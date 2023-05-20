@@ -1,8 +1,8 @@
 ---
-title: 設定Adobe Commerce
-description: 了解如何設定Adobe Commerce，以允許在Adobe Developer App Builder中使用事件。
-landing-page-description: 了解如何設定Adobe Commerce以使用事件機制，供Adobe Developer App Builder使用。
-short-description: 了解如何設定Adobe Commerce以使用事件機制，供Adobe Developer App Builder使用。
+title: 配置Adobe Commerce
+description: 瞭解如何配置Adobe Commerce以允許事件在Adobe Developer應用生成器中使用。
+landing-page-description: 瞭解如何配置Adobe Commerce以使用事件機制供Adobe Developer應用生成器使用。
+short-description: 瞭解如何配置Adobe Commerce以使用事件機制供Adobe Developer應用生成器使用。
 kt: 11889
 doc-type: tutorial
 audience: all
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ---
 
-# 設定Adobe Commerce
+# 配置Adobe Commerce
 
-了解如何設定Adobe Commerce以公開事件。 其他檔案位於 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何配置Adobe Commerce以公開事件。 其他文檔，請參閱 [為Adobe Commerce安裝Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}。
 
 ## 這段錄像是給誰的？
 
-* 使用I/O事件且剛接觸Adobe Commerce和Adobe Developer App Builder的開發人員，需要建立Adobe應用程式建立器專案。
+* 使用I/O事件的Adobe Commerce和Adobe DeveloperApp Builder的新開發人員，需要建立AdobeApp Builder項目。
 
-## 視訊內容 {#video-content}
+## 視頻內容 {#video-content}
 
-* 在商務管理員中設定Adobe I/O事件
-* 在商務管理員中儲存私密金鑰
-* 在商務管理員中儲存唯一識別碼
+* 在Commerce管理中配置Adobe I/O事件
+* 在Commerce管理員中保存私鑰
+* 將唯一標識符保存到Commerce管理員中
 * 建立事件提供程式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 建立產品屬性
-description: 使用一個參數建立可傳回json的頁面。
+description: 建立一個頁面，該頁面返回一個參數。
 topic: Development
 kt: 5602
 doc-type: video
@@ -15,20 +15,20 @@ ht-degree: 0%
 
 # 建立產品屬性
 
-新增產品屬性是 [!DNL Commerce]. 屬性是解決與產品相關的許多實際任務的一種有力方法。 將下拉式清單類型屬性新增至產品的程式很簡單。
+添加產品屬性是中最常用的操作之一 [!DNL Commerce]。 屬性是解決與產品相關的許多實際任務的有力方法。 向產品添加下拉清單類型屬性的過程很簡單。
 
-此影片中：
+在此視頻中：
 
-- 新增名為clothing_material的屬性，並加上可能的值：棉花、皮革、絲綢、牛仔布、皮草和羊毛
-- 使此屬性在產品檢視頁面上以粗體文字顯示
-- 將其指派給預設屬性集並新增限制
-- 新增屬性
+- 添加名為clothing_material的屬性，該屬性具有可能的值：棉、皮、絲、牛仔、毛和羊毛
+- 使此屬性在產品視圖頁面上以粗體文本顯示
+- 將其分配給「預設」屬性集並添加限制
+- 添加新屬性
 
 ## 這段錄像是給誰的？
 
 - 開發人員
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
 
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 [建立產品屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[新增自訂文字欄位屬性](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[添加自定義文本欄位屬性](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

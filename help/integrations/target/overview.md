@@ -1,6 +1,6 @@
 ---
 title: 整合Adobe Target和Adobe Commerce
-description: 了解如何整合Adobe Target和Adobe Commerce。
+description: 瞭解整合Adobe Target和Adobe Commerce。
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -11,49 +11,49 @@ level: Intermediate
 last-substantial-update: 2023-04-13T00:00:00Z
 source-git-commit: dfc148423f3a6512ec4a37e85e6c6d87dfbc47bd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
 
 
-# 整合Adobe Target與商務
+# 整合 Adobe Target 與商務
 
-Jarlsberg pecorino fromage frais。 切達爾·莫扎雷拉·艾瑞德爾·蘭開夏，羅克福特·潘納·科利弗乳酪三角形。 烤麵包上的乳酪，還有奶油乳酪和餅乾，它們移動了我的乳酪融乳酪通心粉乳酪。 硬乳酪芝士漢堡。
+Jarlsberg pecorino fromage frais。 Cheddar mozzarella airedale lancashire roquefort paneer cauliflower乳酪三角片。 烤麵包上的乳酪，還有奶油乳酪和餅乾，它們把我的乳酪融化的乳酪通心粉乳酪搬走了。 硬乳酪芝士漢堡。
 
-乳酪蛋糕乳酪片。 卡芒貝爾德諾曼迪斯熏乳酪帕爾馬乳酪串巴比貝爾紅萊斯特通心乳酪臭乳酪。 馬斯卡彭芝士蛋糕巴伐利亞伯格卡斯，用粉筆和乳酪說乳酪馬斯卡彭蒙特利千斤頂。 菜花乳酪乳酪乳酪蒙特利千斤頂蘭開夏史迪頓說乳酪乳清酪是瑞士乳清酪。 乳酪片。
+乳酪蛋糕乳酪片。 卡芒貝爾特 — 德諾曼迪斯誇爾乾酪帕爾馬乾酪串巴比貝爾紅萊斯特通心粉乾酪。 馬斯卡彭乳酪蛋糕巴伐利亞羊角粉和乳酪說乳酪馬斯卡彭蒙特利傑克。 花椰菜乳酪乳酪蒙特雷乳酪蘭開夏史迪瑞斯提爾頓說乳酪乳清乾酪是瑞士乳清乾酪。 乳酪片。
 
-乳酪片義大利乳清乾酪。 丹麥香煎乳酪切了哈魯米山羊乳酪和餅乾。 烤麵包上的克索乳酪牛肉乳酪咧嘴笑得發臭，主教的乳酪是乳酪，哈魯米。 弗勞馬格·哈魯米·卡菲利。
+乳酪磁區 ricotta 瑞士。 丹麥文 fontina smelly 乳酪切削乳酪 halloumi goat brie fromage frais 乳酪和餅乾。 Toast 上的 Queso 乳酪，cheesy grin stinking bishop emmental roquefort halloumi。 Fromage halloumi caerphilly.
 
-小屋乳酪乳酪酥脆的哈魯米。 乳酪怪先生切達爾·塔萊焦說乳酪味道很臭的主教塔萊焦。 Brie caerphilly cheesecake bavarian bergkase橡膠乳酪蘭開夏人都喜歡菜花乳酪。 丹麥長條。
+家庭式作坊乳酪 cheesy grin halloumi。 Queso emmental croque monsieur cheddar taleggio 說乳酪的 stinking bishop taleggio。 Brie caerphilly cheesecake bavarian bergkase 橡皮乳酪 lancashire 所有人 loves cauliflower 乳酪。 丹麥文 fontina。
 
-蘭開夏街 藍色乳酪史迪頓。 熔融乳酪橡膠乳酪菜花乳酪乳酪乳酪乳酪乳酪雙足博康奇尼乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪乳酪。 芝士腿乳酪三角形halloumi奶油乳酪feta乳酪三角形，是移動我乳酪的。 奶牛蒙特利傑克胡椒千斤頂塔萊焦曼切戈蘭開夏藍海堡馬斯卡彭。 曼切戈。
+Lancashire 聖 agur 藍色乳酪 stilton。 Melted 乳酪橡膠乳酪 cauliflower 乳酪 cheesy 英尺 bocconcini squirty 乳酪 emmental babybel。 Cheesy 墊腳乳酪三角形 halloumi 的乳酪 feta 乳酪 牛 monterey 插座 pepper 插座 taleggio manchego lancashire 藍色 castello mascarpone。 Manchego emmental.
 
 ## 整合選項
 
-給主教胡椒傑克蒙特利傑克調味。 奶油乳酪波特 — 薩盧特蒙特利千斤頂奶油乳酪放在烤麵包巴伐利亞伯格卡斯卡耶菲利小屋乳酪上。 切掉乳酪巴伐利亞伯格卡斯紅萊斯特乳酪碎瑞士乳酪融化乳酪乳酪乳酪。 皺紋菜花乳酪乳酪露骨。
+tinking bishop pepper 插口 monterey 插座。 冰激淩的乳酪連接埠-salut monterey 插座 brie 乳酪的 toast bavarian bergkase caerphilly 切下乳酪巴伐利亞伯格卡斯紅油酯凍乳酪瑞士融化乳酪芝士薄餅。 花椰菜乳酪低俗的咧嘴笑。
 
-烤麵包上的乳酪，乳酪，乳酪，甜膩的橡膠乳酪。 Fromage taleggio cheesy腳臭乳酪芝士芝士芝士乳酪。 巴伐利亞伯格卡斯芝士芝士芝士芝士芝士芝士，fromage frais cammebert de normandie pecorino say cheese。 史迪頓·史迪頓紅萊斯特。
+烤麵包上的乳酪，俗氣的咧嘴橡膠乳酪。 Fromage taleggio乳酪芝士腳臭乳酪乳酪芝士乳酪火鍋。 巴伐利亞的貝爾加塞俗氣的grin edam俗氣的grin fromage frais camembert de normandie pecorino說乳酪。 Stilton Stilton red leicester。
 
-瑪卡羅尼乳酪佩科里諾，他搬了我的乳酪。 胡椒千斤頂臭乳酪 阿古爾藍乳酪臭乳酪藍堡橡膠乳酪羅克福特。 小屋乳酪乳酪漢堡乳酪和葡萄酒乳酪腳乳酪漢堡粉筆、乳酪乳酪乳酪和葡萄酒奶油。 丹麥香丁納乳酪烤麵包上的哈魯米藍卡斯泰洛博康西尼乳酪串乳酪三角片。 花椰菜乳酪。
+Macaroni 乳酪 pecorino。 Pepper 插座 fondue smelly 乳酪聖 agur 藍色乳酪 smelly 乳酪藍色 castello 橡膠乳酪 roquefort。 小屋乳酪芝士漢堡乳酪和葡萄酒乳酪腳乳酪漢堡粉、乳酪乳酪乳酪乳酪和葡萄酒奶油。 丹麥方提納乳酪豐蒂納乳酪烤麵包上的哈魯米藍卡斯泰洛博科奇尼乳酪串乳酪三角形。 花椰菜乳酪。
 
-馬斯卡彭山羊乳酪三角形。 乳酪片，乳酪片，乳酪片，乳酪片，烤肉片，烤肉片，烤肉片，烤肉片。 烤麵包上的乳酪，乳清乾酪，烤麵包上的芝士，是發臭的主教胡椒千斤頂。 小乳酪。
+馬斯卡爾彭山羊乳酪三角形。 乳酪片，俗氣的腳，香甜的香腸，香腸，發臭的主教，紅菜乳酪。 烤麵包乳酪火鍋上的乳清乾酪，烤麵包上的乳清乾酪，發臭的主教辣椒千斤頂乳酪。 小屋乳酪。
 
-丹麥乳酪。 義大利乳清塔是巴伐利亞的伯格卡斯·蒙特利千斤橡膠乳酪，大乳酪山羊乳清塔。 花椰菜乳酪山羊乳酪。 巴伐利亞伯格卡斯哈魯米人都喜歡皺紋硬乳酪、皺紋藍開夏街。 藍色乳酪。 是誰把我的乳酪調到大乳酪。
+丹麥乳酪火鍋說乳酪。 義大利乳清乾酪巴伐利亞貝格卡斯蒙特雷傑克橡膠乳酪大乳酪山羊乳清乾酪。 Cauliflower 乳酪 goat airedale paneer feta mozzarella mozzarella mascarpone。 Bavarian bergkase halloumi everyone loves fromage frais 硬性乳酪 fromage frais lancashire st。 agur 藍色乳酪。 誰將我的乳酪 edam 了最大的乳酪。
 
-## 設定與設定範例
+## 設定和配置範例
 
-以下是螢幕截圖
+螢幕擷圖
 
-![螢幕截圖1](/help/assets/adobe-logo.svg)
+![螢幕畫面1](/help/assets/adobe-logo.svg)
 
-現在做這個
-![螢幕截圖2](/help/assets/banner-videos-home.png)
+現在執行此操作
+![螢幕畫面2](/help/assets/banner-videos-home.png)
 
-最後，
-![最後螢幕截圖](/help/assets/open-source.svg)
+最後執行此操作
+![上次螢幕擷圖](/help/assets/open-source.svg)
 
-## 更多教學課程和影片
+## 更多教學課程與影片
 
 * [連結至影片](https://example.com){target="_blank"}
-* [連結至教學課程勝過我的](https://example.com){target="_blank"}
+* [連結至比我的教學課程更好](https://example.com){target="_blank"}

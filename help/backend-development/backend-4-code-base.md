@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於開發人員 — 程式碼基底」'
-description: 代碼基元件、模組化、配置靈活性和撰寫器的角色
+title: '"[!DNL Commerce] 用於開發人員 — 代碼庫」'
+description: 代碼基礎元件、模組性、配置靈活性和Composer角色
 kt: 5694
 doc-type: video
 topic: Development
@@ -16,20 +16,20 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於開發人員 — 程式碼基底
+# [!DNL Commerce] 適用於開發人員 — 代碼庫
 
-此影片中：
+在此視頻中：
 
-- 程式碼基本元件
-- 模組化
+- 代碼基元件
+- 模組性
 - 配置靈活性
-- 撰寫器的角色
+- 作曲家的角色
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 - [關於元件檔案結構](https://developer.adobe.com/commerce/php/development/prepare/component-file-structure/)
 - [元件開發](https://developer.adobe.com/commerce/php/development/components/)
-- [可擴充性與模組化](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [可擴充性和模組性](https://developer.adobe.com/commerce/php/architecture/modules/)
 - [[!DNL Commerce] 模組參考指南](https://developer.adobe.com/commerce/php/module-reference/)

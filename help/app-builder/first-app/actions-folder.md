@@ -1,39 +1,39 @@
 ---
-title: 動作資料夾
-description: 了解此範例應用程式的動作資料夾中的檔案類型。
-landing-page-description: 了解與Adobe Commerce搭配使用的Adobe Developer App Builder，以及動作資料夾中會出現哪些類型的檔案。
+title: 操作資料夾
+description: 瞭解此示例應用程式的操作資料夾中的檔案類型。
+landing-page-description: 瞭解與Adobe Commerce一起使用的Adobe Developer應用程式生成器以及操作資料夾中的檔案類型。
 kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
+# 瞭解操作資料夾 {#actions-folder}
 
-# 了解動作資料夾 {#actions-folder}
+的 `actions` 此示例應用的資料夾包含幾個JavaScript檔案和一個名為 `commerce`。 所示的JavaScript是一個優秀的示例檔案，如果它與您的工作相關，則可重新使用。 使用OAuth和REST連接到Adobe Commerce應用程式時，此資料夾可以節省開發工作的時間。
 
-此 `actions` 此範例應用程式的資料夾包含一些JavaScript檔案和一個名為的資料夾 `commerce`. 顯示的JavaScript是絕佳的範例檔案，如果與您的工作相關，則可重複使用。 使用OAuth和REST連線至Adobe Commerce應用程式時，此資料夾可節省您在開發工作中的時間。
-
-此示例中資料夾的實際名稱是任意的，但知道其名稱有助於解釋示例代碼。 使用有意義的命名慣例，可以避免應用程式變得更複雜時產生混淆。
+本示例中資料夾的實際名稱是任意的，但知道其名稱可以幫助您解釋示例代碼。 通過使用有意義的命名約定，如果應用程式變得更複雜，可以避免混淆。
 
 ## 這段錄像是給誰的？
 
-* 剛接觸Adobe Commerce的開發人員，在Adobe應用程式建立工具上有有限的使用體驗，他們正在了解範例應用程式中的動作資料夾。
+* 剛進入Adobe Commerce的開發人員，在AdobeApp Builder方面經驗有限，他們正在學習示例應用程式中的操作資料夾。
 
-## 視訊內容
+## 視頻內容
 
-* App Builder簡介和以 `actions` 資料夾
-* 如何使用「動作」資料夾
+* App Builder簡介和示例模組 `actions` 資料夾
+* 如何使用「操作」資料夾
 * 在 `actions` 和 `commerce` 資料夾
-* OAuth驗證檔案快速概述
+* OAuth驗證檔案的快速概述
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
-## 程式碼範例
+## 代碼示例
 
 actions/oauth1a.js
 

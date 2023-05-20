@@ -1,8 +1,8 @@
 ---
-title: 了解如何在Adobe Commerce中建立模組以使用事件。
-description: 了解如何建立商務模組以使用事件。
-landing-page-description: 了解如何建立Adobe Commerce模組以使用事件。
-short-description: 了解如何建立Adobe Commerce模組以使用事件。
+title: 瞭解如何在Adobe Commerce建立模組以使用事件。
+description: 瞭解如何建立Commerce模組以使用事件。
+landing-page-description: 瞭解如何建立Adobe Commerce模組以使用事件。
+short-description: 瞭解如何建立Adobe Commerce模組以使用事件。
 kt: 11891
 doc-type: tutorial
 audience: all
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 # Adobe Commerce模組開發
 
-了解如何註冊事件、尋找支援的事件，以及如何使用新的XML檔案 `io_events.xml` 在自訂模組開發中。 影片也會示範開發人員如何尋找可使用的已註冊事件，以及取消訂閱可能已定義的任何事件。 其他檔案位於 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何註冊事件、查找支援的事件以及如何使用新的XML檔案 `io_events.xml` 在自定義模組開發中。 該視頻還將向開發人員展示如何查找可使用的已註冊事件，以及取消訂閱任何已定義的事件。 其他文檔，請參閱 [為Adobe Commerce安裝Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}。
 
 ## 這段錄像是給誰的？
 
-* 使用I/O事件熟悉Adobe Commerce和Adobe Developer App Builder的開發人員。
+* 使用I/O事件的Adobe Commerce和Adobe DeveloperApp Builder新開發人員。
 
-## 視訊內容 {#video-content}
+## 視頻內容 {#video-content}
 
-* 在商務中註冊事件以用於Adobe Developer App Builder
-* 識別可註冊的事件
-* 了解如何在io_events.xml中註冊事件
-* 了解如何在商務例項中註冊事件 `app/etc/config.php`
-* 了解如何取消訂閱事件
+* 在Commerce中註冊事件以在Adobe DeveloperApp Builder中使用
+* 標識可註冊的事件
+* 瞭解如何在io_events.xml中註冊事件
+* 瞭解如何在Commerce實例中註冊事件 `app/etc/config.php`
+* 瞭解如何取消訂閱事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 

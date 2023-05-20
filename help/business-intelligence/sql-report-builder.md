@@ -1,8 +1,8 @@
 ---
 title: MBI - SQLReport Builder
-description: 了解如何使用MBI SQLReport Builder直接查詢資料倉庫、查看結果，並快速將結果轉換為圖表。
-landing-page-description: 觀看此視頻，了解如何使用MBI SQLReport Builder直接查詢資料倉庫、查看結果，並快速將結果轉換為圖表。
-short-description: 觀看此視頻，了解如何使用MBI SQLReport Builder直接查詢資料倉庫、查看結果，並快速將結果轉換為圖表。
+description: 瞭解如何使用MBI SQLReport Builder直接查詢資料倉庫、查看結果並快速將結果轉換為圖表。
+landing-page-description: 觀看此視頻，瞭解如何使用MBI SQLReport Builder直接查詢資料倉庫、查看結果並快速將它們轉換為圖表。
+short-description: 觀看此視頻，瞭解如何使用MBI SQLReport Builder直接查詢資料倉庫、查看結果並快速將它們轉換為圖表。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -18,28 +18,28 @@ ht-degree: 0%
 
 # MBI - SQLReport Builder
 
-SQLReport Builder允許您直接查詢資料倉庫、查看結果，並快速將結果轉換為圖表。 使用SQL來建立報表的最佳步驟是，您不必等待更新週期來反覆查看您建立的欄。 如果結果看起來不對，您可以快速編輯並重新執行查詢，直到項目符合您的期望。
+SQLReport Builder允許您直接查詢資料倉庫、查看結果，並快速將它們轉換為圖表。 使用SQL生成報告的最好部分是，您不必等待更新週期來迭代您建立的列。 如果結果看起來不正確，您可以快速編輯並重新運行查詢，直到符合您的預期。
 
 >[!IMPORTANT]
 >
->您必須具有管理員權限才能訪問SQLReport Builder。
+>您必須具有管理權限才能訪問SQLReport Builder。
 
-此影片中：
+在此視頻中：
 
 - 運行SQL查詢
-- 將結果視覺化
-- 將報表儲存至控制面板
+- 可視化結果
+- 將報表保存到儀表板
 
 >[!TIP]
 >
->如果您是MBI的新手， [快速入門影片系列](1-overview.md) 提供完整概述，透過資料匯總、分析和視覺化，提供更深入的業務分析和結果。
+>如果您是MBI的新用戶， [入門視頻系列](1-overview.md) 提供了通過資料聚合、分析和可視化推動更好業務洞察力和結果的完整概述。
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
-- 資料分析人員
+- 業務用戶
+- 資料分析員
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/342406?quality=12&learn=on)
 
@@ -47,4 +47,4 @@ SQLReport Builder允許您直接查詢資料倉庫、查看結果，並快速將
 
 [使用SQLReport Builder- MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[《從SQL查詢建立視覺效果 — MBI使用手冊》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[《從SQL查詢建立可視化效果 — MBI使用手冊》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

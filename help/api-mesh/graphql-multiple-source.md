@@ -1,8 +1,8 @@
 ---
-title: 建立要在API Mesh中使用的多來源GraphQL
-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]. 了解一些常見錯誤及解決方法。
-landing-page-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]. 了解如何建立具有多個來源的網格，以及如何解決一些常見錯誤。
-short-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]. 了解如何建立具有多個來源的網格，以及如何解決一些常見錯誤。
+title: 建立要在API Mesh中使用的多源GraphQL
+description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解一些常見錯誤以及如何解決它們。
+landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解如何建立具有多個源的網格以及如何解決一些常見錯誤。
+short-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解如何建立具有多個源的網格以及如何解決一些常見錯誤。
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,26 +15,26 @@ ht-degree: 0%
 
 ---
 
-# 使用多個源建立網格
+# 建立具有多個源的網格
 
-此影片可協助開發人員了解如何在Adobe Developer App Builder的API Mesh中，使用多個來源建立網格。 此影片說明如何建立含有多個來源的網格並識別錯誤。 如需詳細資訊和程式碼範例，請造訪 [建立網格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+此視頻幫助開發人員瞭解如何在API Mesh中為Adobe DeveloperApp Builder建立具有多個源的網格。 此視頻顯示如何建立具有多個源的網格並識別錯誤。 有關詳細資訊和代碼示例，請訪問 [建立網格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}。
 
 ## 這段錄像是給誰的？
 
-* 任何剛接觸API Mesh的人
-* 有興趣結合多個API和GraphQL來源的開發人員
+* 任何新加入API網格的人
+* 有興趣合併多個API和GraphQL源的開發人員
 
-## 視訊內容
+## 視頻內容
 
-* 如何使用 [轉換](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} 要修改預設源架構，請執行以下操作
-* 如何疑難排解錯誤，例如名稱衝突、結構可用性和其他結構語法問題
+* 如何使用 [變換](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} 修改預設源架構
+* 如何解決錯誤，如名稱衝突、架構可用性和其他架構語法問題
 * 使用修改的配置更新網格
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
-## 建立json設定檔案
+## 建立json配置檔案
 
-API網格使用JSON配置檔案來定義源處理程式。 JSON檔案包含 `sources` 陣列，包含網格的源。 以下是多源網格的示例。
+API Mesh使用JSON配置檔案來定義源處理程式。 JSON檔案包含 `sources` 包含網格源的陣列。 這是一個具有多個源的網格的示例。
 
 ```json
 {

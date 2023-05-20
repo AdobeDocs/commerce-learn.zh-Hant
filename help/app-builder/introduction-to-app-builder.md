@@ -1,8 +1,8 @@
 ---
-title: Adobe Commerce的流程外擴充性
-description: 了解Adobe應用程式產生器，以及為何它是程式外擴充性的重要方面。
-landing-page-description: 了解什麼是App Builder，以及它如何協助處理Adobe Commerce開發策略。
-short-description: 了解什麼是App Builder，以及它如何協助處理Adobe Commerce開發策略。
+title: Adobe Systems 商務的進程外擴充性
+description: 瞭解 Adobe Systems 應用程式產生器以及為什麼它是進程外擴充性的重要方面。
+landing-page-description: 瞭解什麼是應用程式產生器，以及它如何協助 Adobe Systems 商務開發策略。
+short-description: 瞭解什麼是App Builder以及它如何幫助實施Adobe Commerce開發戰略。
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -17,86 +17,86 @@ ht-degree: 0%
 
 # App Builder簡介
 
-過去，Adobe Commerce開發常使用程式內的擴充性。 進程中模型要求任何新代碼與升級、伺服器的PHP版本以及Commerce使用的許多其他基本伺服器應用程式和服務相容。 Adobe Developer App Builder使用程式外的擴充性，以避免這些相容性問題。
+從歷史上看，Adobe Commerce開發一直採用流程擴展性。 進程中模型要求任何新代碼與升級、伺服器的PHP版本以及Commerce使用的許多其他基本伺服器應用程式和服務相容。 Adobe DeveloperApp Builder使用流程外擴展性來避免這些相容性問題。
 
-## Adobe Commerce適用的App Builder {#app-builder}
+## 用於Adobe Commerce的應用程式生成器 {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
 
-Adobe Developer App Builder是無伺服器的擴充性平台，可整合及建立自訂體驗以擴充Adobe解決方案，現在已適用於Adobe Commerce。 透過App Builder，您可以建立安全且可擴充的應用程式，以延伸Commerce原生功能並與協力廠商解決方案整合。 身為開發人員，您現在可以利用Adobe Commerce的流程外擴充功能，進而提供即時和長期的優點。
+Adobe DeveloperApp Builder是一個無伺服器擴展性的平台，用於整合和建立自定義體驗以擴展Adobe解決方案，現在它可用於Adobe Commerce。 使用App Builder，您可以構建安全且可擴展的應用程式，這些應用程式擴展了Commerce本機功能並與第三方解決方案整合。 作為開發人員，您現在可以利用Adobe Commerce的流程外擴展性，而這反過來又提供了即時和長期的好處。
 
-App Builder提供統一的協力廠商擴充性架構，可整合及建立可擴充的自訂應用程式 [!DNL Adobe Commerce]. 由於此可擴充性框架構建在Adobe的基礎架構上，因此開發人員可以構建定制微服務，並擴展和整合 [!DNL Adobe Commerce] 跨其他Adobe解決方案和協力廠商整合。
+App Builder提供了統一的第三方擴展框架，用於整合和建立擴展的自定義應用程式 [!DNL Adobe Commerce]。 由於此擴展性框架構建在Adobe的基礎架構上，因此開發人員可以構建定製的微服務，並擴展和整合 [!DNL Adobe Commerce] 跨其他Adobe解決方案和第三方整合。
 
-App Builder可讓客戶透過 [!DNL Adobe Commerce] 在各種使用案例中：
+App Builder為客戶提供了擴展 [!DNL Adobe Commerce] 在各種使用情形中：
 
-* 中間件的可擴充性 — 建立自訂連接器或運用預先建立的整合套件，將外部系統與Adobe應用程式連結。
-* 核心服務的擴充性 — 透過自訂功能和業務邏輯擴充預設行為，以擴充核心應用程式功能。
-* 使用者體驗的擴充性 — 擴充核心體驗以支援業務需求，或建立客戶專屬的數位屬性、店面和後台應用程式。
+* 中間件可擴充性 — 通過構建自定義連接器或利用一套預構建的整合將外部系統與Adobe應用程式連接起來。
+* 核心服務可擴充性 — 通過擴展具有自定義功能和業務邏輯的預設行為來擴展核心應用程式功能。
+* 消費者體驗擴充性-延長核心體驗，以支援業務需求或版本編號客戶特定的數位屬性、商店和後勤應用程式。
 
-Adobe Developer App Builder是雲端式解決方案，這表示可自動調整規模。 此服務也全球分發，不論您的地理位置為何，皆可提供最佳效能。
+Adobe Systems 開發人員應用程式產生器是一個基於雲端的解決方案，表示它會自動縮放。 此服務也是全域分發，不管您的地理位置。
 
-## 為何應深入了解App Builder
+## 為何要深入瞭解應用程式產生器
 
-由於Adobe Commerce並非完全的SAAS產品，您開發的程式碼可能會增加複雜性並升級問題。 透過使用程式外的擴充性（例如App Builder），您可以為Adobe Commerce商店提供自訂、獨特的功能，而不需要程式內方法。
+由於 Adobe Systems 商務並非完全 SAAS 產品，您開發的程式碼可能增加複雜性和升級問題。 透過使用「進程外擴充性」（例如應用程式產生器），您可以為 Adobe Systems 商務商店提供自訂且獨特的功能，而無需處理過程中的方法。
 
 其他好處包括：
 
-* 去耦功能可讓更短的啟動時間。
-* 升級現在更輕鬆了。 自訂功能位於商務程式碼基底之外，可防止升級時出現相容性問題。
-* 將功能和邏輯移至Commerce之外，可釋出通常用於程式內開發方法的資源。
+* 分離功能可讓您更快啟動。
+* 升級現在更容易。 自訂功能位於商務基本代碼之外，可防止升級時的相容性問題。
+* 在商務外部移動功能和邏輯可釋放通常由進程內開發方法使用的資源。
 
-## 架構 {#architecture}
+## 建築 {#architecture}
 
-Adobe Developer App Builder不提供現成可用的解決方案，而是提供通用、一致且標準化的開發平台，可擴充Adobe Commerce等Adobe雲端解決方案，包括：
+Adobe DeveloperApp Builder不是現成解決方案，而是提供了一個通用、一致且標準化的開發平台，用於擴展Adobe雲解決方案，如Adobe Commerce，包括：
 
-* Adobe Developer主控台，用於自訂微服務和擴充功能開發。 建立及管理專案，同時存取建立外掛程式和整合所需的所有工具和API。
-* 開放原始碼工具、SDK和程式庫，以建置自訂擴充功能和整合。 使用React Spectrum(Adobe的UI工具套件)來擁有適用於所有Adobe應用程式的通用UI。
-* 諸如I/O Runtime等服務，用於在Adobe的無伺服器平台上托管基礎架構，以及I/O事件，用於事件型整合。 Adobe也提供儲存資料和檔案的現成可用支援。
-* Adobe Experience Cloud，您可在此提交擴充功能和整合，以在Experience Cloud組織中發佈。系統管理員可以檢閱、管理及核准這些擴充功能。 發佈後，您的自訂App Builder擴充功能和工具可與其他Adobe Experience Cloud應用程式搭配使用。
+* Adobe Developer控制台用於定制微服務和擴展開發。 在訪問建立插件和整合所需的所有工具和API時，構建和管理項目。
+* 開源工具、 SDK和庫，用於構建自定義擴展和整合。 使用React Spectrum(Adobe的UI工具包)為所有Adobe應用提供一個通用UI。
+* 服務，如I/O運行時，用於在Adobe的無伺服器平台上托管基礎架構；I/O事件，用於基於事件的整合。 Adobe還為儲存資料和檔案提供現成支援。
+* Adobe Experience Cloud，在此您提交擴展和整合以發佈到Experience Cloud組織中。系統管理員可以審核、管理和批准這些擴展。 發佈後，您的自定義App Builder擴展和工具可以與其他Adobe Experience Cloud應用一起使用。
 
-下圖說明以App Builder為基礎的標準應用程式如何使用這些功能：
+下圖說明了在App Builder上構建的標準應用程式如何使用這些功能：
 
-![架構](/help/assets/app-builder/app-builder-architecture.jpeg)
+![建築](/help/assets/app-builder/app-builder-architecture.jpeg)
 
-如需App Builder架構的詳細資訊，請參閱 [架構概述](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
+有關App Builder體系結構的詳細資訊，請參閱 [體系結構概述](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}。
 
-## AmazonSales Channel擴充功能 {#amazon-sales-channel-extension}
+## AmazonSales Channel擴展 {#amazon-sales-channel-extension}
 
 >[!IMPORTANT]
 >
->AmazonSales Channel延伸功能仍在開發中，尚未正式發行。  這些影片和教學課程旨在示範如何針對實際使用案例使用Adobe Developer App Builder。
+>Amazon Sales Channel 擴充功能仍處於開發階段，尚未正式發佈。  這些影片與教學課程旨在說明如何將 Adobe Systems 開發人員應用程式產生器用於實用案例。
 
-下列教學課程示範如何使用App Builder擴充功能將Adobe Commerce連線至AmazonSales Channel。
+以下課程說明如何使用應用程式產生器擴充功能，將 Adobe Systems 商務連線至 Amazon Sales Channel。
 
-* [技術概述App Builder](../app-builder/app-builder-technical-overview.md)
-* [可擴充性框架](../app-builder/extensibility-framework-commerce-eventing.md)
+* [技術概述應用程式產生器](../app-builder/app-builder-technical-overview.md)
+* [擴充性框架](../app-builder/extensibility-framework-commerce-eventing.md)
 * [功能示範應用程式產生器](../app-builder/app-builder-functional-demonstration.md)
 
-## 開始使用App Builder {#additional-resources}
+## 使用應用程式產生器開始使用 {#additional-resources}
 
-若需複合商務策略的概觀，包括初始設定，請閱讀下列部落格文章：
+通過閱讀以下部落格，可以找到包含初始設定的可組合商務策略的概述：
 
-[App Builder如何協助您提高商務平台的業務靈活性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[App Builder如何幫助提高您的商業平台的業務靈活性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
-為協助您開始使用App Builder,Adobe已建立下列檔案：
+為幫助您開始使用App Builder,Adobe已建立了以下文檔：
 
-* [App Builder快速入門](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
+* [應用程式生成器入門](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
-## 繼續學習說明檔案 {#appbuilder-documentation}
+## 繼續學習文檔 {#appbuilder-documentation}
 
-App Builder提供開發人員的影片和檔案，包括指南和參考檔案，以協助開發您自己的自訂應用程式：
+App Builder為開發人員提供視頻和文檔，包括幫助開發您自己的自定義應用程式的指南和參考文檔：
 
-* [App Builder檔案](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [App Builder影片](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
+* [App Builder文檔](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [App Builder視頻](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
-## 請試用其中一個示例應用程式 {#appbuilder-codesamples}
+## 試用一個示例應用程式 {#appbuilder-codesamples}
 
-準備好開發了嗎？ 下列連結包含可協助您開始的範例應用程式：
+準備開始發展了嗎？ 以下連結包含示例應用程式以幫助您啟動：
 
-* [Adobe Developer網站上的應用程式建立工具程式碼實驗室](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+* [Adobe Systems 開發人員網站上的應用程式產生器 Code 實驗室](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## 支援 {#support}
 
-若為開發人員支援請求，請使用 [Experience League論壇](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} 以求協助。
+如需開發人員支援請求，請使用 [ 體驗聯盟論壇 ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) {target="_blank"} 尋求協助。
 
 {{$include /help/_includes/app-builder-related-links.md}}

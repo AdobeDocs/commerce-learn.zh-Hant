@@ -1,6 +1,6 @@
 ---
-title: 建立靜態和動態區塊
-description: 了解如何為您的商店頁面建立靜態和動態區塊。
+title: 建立靜態和動態塊
+description: 瞭解如何為儲存頁建立靜態和動態塊。
 kt: null
 doc-type: feature video
 role: Admin, User
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# 建立靜態和動態區塊
+# 建立靜態和動態塊
 
-區塊是內容的模組化單位，可放置在頁面上最任意位置。 內容區塊有時稱為靜態區塊或CMS區塊。 它們可用於顯示文本、影像和嵌入視頻等固定資訊，以及由介面工具集提供或源自資料庫或其他源的動態資訊。 首頁上的大部分元素都是可輕鬆管理的區塊。 此影片可讓您了解如何建立靜態和動態區塊。
+塊是內容的模組化單元，可以放置到頁面的最大位置。 內容塊有時稱為靜態塊或CMS塊。 它們可用於顯示固定資訊，如文本、影像和嵌入式視頻，以及由小部件提供或源自資料庫或其他源的動態資訊。 首頁上的大多數元素都是易於管理的塊。 在此視頻中，瞭解如何建立靜態和動態塊。
 
 ## 這段錄像是給誰的？
 
-- 網站管理員
-- 內容設計人員
+- 網站經理
+- 內容設計者
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343783?quality=12&learn=on)
 
 ## 其他資源
 
-- [塊 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [動態區塊 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [塊 —  [!DNL Commerce] 內容和設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [動態塊 —  [!DNL Commerce] 內容和設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

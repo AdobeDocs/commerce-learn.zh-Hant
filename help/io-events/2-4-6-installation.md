@@ -1,13 +1,13 @@
 ---
-title: 了解如何安裝Adobe Commerce 2.4.6的IO事件
-description: 了解如何在Adobe Commerce 2.4.6中安裝IO事件所需的模組，以便在Adobe Developer App Builder中使用
-landing-page-description: 了解如何安裝Adobe Commerce 2.4.6所需的數個模組。
-short-description: 了解如何安裝Adobe Commerce 2.4.6所需的數個模組。
+title: 瞭解如何為Adobe Commerce2.4.6安裝IO事件
+description: 瞭解如何在Adobe Commerce2.4.6中安裝IO事件所需的模組，以便在Adobe DeveloperApp Builder中使用
+landing-page-description: 瞭解如何安裝Adobe Commerce2.4.6所需的幾個模組。
+short-description: 瞭解如何安裝Adobe Commerce2.4.6所需的幾個模組。
 kt: 11887
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: Adobe Commerce 2.4.6
+badge: Adobe Commerce2.4.6
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
@@ -16,27 +16,27 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce 2.4.6安裝
+# Adobe Commerce2.4.6安裝
 
-了解如何使用2.4.6版的撰寫器在Adobe Commerce中安裝數個新模組。其他檔案請參閱 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何使用Composer 2.4.6版在Adobe Commerce安裝幾個新模組。其他文檔，請參閱 [為Adobe Commerce安裝Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}。
 
 ## 這段錄像是給誰的？
 
-* 使用I/O事件熟悉Adobe Commerce和Adobe Developer App Builder的開發人員。
+* 使用I/O事件的Adobe Commerce和Adobe DeveloperApp Builder新開發人員。
 
-## 視訊內容 {#video-content}
+## 視頻內容 {#video-content}
 
-* 為內部部署托管運行的命令
+* 要為本地托管運行的命令
 * 要為Adobe Commerce Cloud運行的命令
-* Adobe Commerce Cloud yaml需要編輯
+* Adobe Commerce Cloud山
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 
-視您是使用自行托管環境或使用Adobe Commerce Cloud而定，有各種命令會稍有不同。
+根據您是在自主托管環境還是使用Adobe Commerce Cloud，有各種命令稍有不同。
 
-### 內部部署托管 {#on-premise}
+### 本地托管 {#on-premise}
 
 ```bash
 bin/magento events:generate:module
@@ -46,7 +46,7 @@ bin/magento module:enable --all
 bin/magento setup:upgrade && bin/magento setup:di:compile
 ```
 
-### Adobe Commerce on Cloud {#adobe-commerce-cloud}
+### Adobe Commerce雲 {#adobe-commerce-cloud}
 
 ```bash
 composer info magento/ece-tools

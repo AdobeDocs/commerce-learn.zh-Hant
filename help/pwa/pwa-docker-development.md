@@ -1,6 +1,6 @@
 ---
 title: PWADocker開發
-description: 了解Docker上的PWA開發。
+description: 瞭解Docker的PWA開發。
 topic: Development
 kt: 5564
 doc-type: video
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## 這段錄像是給誰的？
 
-- 前端開發人員
+- 前端開發商
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)
 

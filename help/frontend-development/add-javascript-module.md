@@ -1,6 +1,6 @@
 ---
-title: 新增JavaScript模組
-description: 此影片提供開發簡單JS模組的逐步說明，該模組會提供「Hello World」問候語。
+title: 新增 JavaScript 模組
+description: 此影片提供了開發簡單的 JS 模組的說明，提供問候語 "Hello World"。
 topic: Development
 kt: 5612
 doc-type: video
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 ---
 
-# 新增JavaScript模組
+# 新增 JavaScript 模組
 
-此影片提供開發簡單JS模組的逐步說明，該模組會提供「Hello World」問候語。
+此影片提供了開發簡單的 JS 模組的說明，提供問候語 &quot;Hello World&quot;。
 
-## 這段錄像是給誰的？
+## 此影片是誰？
 
-- 開發人員
+- 開發 人員
 
 ## 步驟
 
 - 建立模組
-- 建立 `requirejs-config.js` 和JavaScript模組檔案
-- 建立版面更新，以新增可啟用JS模組的範本
+- 建立 a `requirejs-config.js` 和 JavaScript 模組檔案
+- 建立用於新增啟用 JS 模組的範本的版面更新
 - 建立範本檔案
-- 新增模組並進行測試
+- 新增模組並將其測試
 
-## 視訊內容
+## 影片內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35790?quality=12&learn=on)
 
 ## 有用資源
 
-- [JavaScript開發人員指南](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [呼叫和初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [JavaScript 開發人員指南](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [呼叫和初始化 JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

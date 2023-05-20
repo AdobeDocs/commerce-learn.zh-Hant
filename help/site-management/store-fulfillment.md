@@ -1,8 +1,8 @@
 ---
-title: 儲存完成概述
-description: 了解Walmart Commerce Technologies為Adobe Commerce提供的商店完成，Walmart Commerce Technologies是一種先進的全通路完成解決方案，可提供端對端線上購買、店內提貨(BOPIS)體驗。
-landing-page-description: 觀看此影片，了解商店完成解決方案如何為客戶提供便利，讓店內和店內接貨和商店員工更有效率、可在行動裝置上使用的完成工作流程，以便挑選、安排和向客戶轉手商店取貨訂單。
-short-description: 觀看此影片，了解商店完成解決方案如何為客戶提供便利，讓店內和店內接貨和商店員工更有效率、可在行動裝置上使用的完成工作流程，以便挑選、安排和向客戶轉手商店取貨訂單。
+title: 商店履單概覽
+description: 瞭解 Walmart 商務技術對 Adobe Systems 商務的商店履單，這是一項先進的全頻道履單解決方案，可提供線上購買的終端、選擇內建（BOPIS）體驗。
+landing-page-description: 觀看此影片以瞭解「商店實施」解決方案如何為客戶供應商店和 curbside 選擇和商店員工的方便性，以便為客戶挑選、階段和自行退出商店挑選訂購工作流程。
+short-description: 觀看此影片以瞭解「商店實施」解決方案如何為客戶供應商店和 curbside 選擇和商店員工的方便性，以便為客戶挑選、階段和自行退出商店挑選訂購工作流程。
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 ---
 
-# 儲存完成概述
+# 商店履單概覽
 
-Walmart Commerce Technologies為Adobe Commerce提供的Store Fullment（商店採購）提供高級線上購買、店內提貨(BOPIS)客戶體驗。 它通過提供通過移動設備實現的無縫、端到端全通道履行工作流，最大限度地提高了儲存員工的工作效率。
+Walmart 商務技術的商店履行 Adobe Systems 商務，可提供先進的購買線上、拾取商店（BOPIS）客戶體驗。 它提供透過行動裝置啟用的無縫、端到端全頻道履單工作流程，以最大化商店員工的生產率。
 
-本影片提供商店內和店邊裝貨選項的商店完成端對端BOPI體驗的快速概覽。
+此影片透過使用商店和 curbside 拾取選項，供應商店履行端到端 BOPIS 體驗的快速概述。
 
-- 觀看客戶提交商店提貨訂單：
+- 觀看客戶提交商店裝貨訂購：
    - 瀏覽線上店面目錄。
-   - 選擇要在商店裝貨的物料。
-   - 查找並選擇具有可用庫存的商店位置。
-   - 簽出和自定義儲存拾取選項。
-   - 下訂單。
-- 觀看商店員工和客戶使用商店履行解決方案隨附的行動應用程式，完成端對端訂單履行流程。
+   - 選取商店拾取的專案。
+   - 尋找並選取具有可用庫存的商店位置。
+   - 查看並自訂商店拾取選項。
+   - 放置訂單。
+- 透過「商店履單」解決方案提供的行動應用程式，觀看商店員工並客戶進行端到端的訂單履行過程。
 
-## 這段錄像是給誰的？
+## 此影片是誰？
 
-- 電子商務經理
-- 儲存運營經理和管理員
+- 電子商務管理員
+- 商店運營經理和管理員
 
-## 視訊內容
+## 影片內容
 
 >[!NOTE]
 >
->影片中的內容反映安裝在Adobe Commerce 2.4店面上的商店完成解決方案1.0版。請參閱 [儲存履行使用手冊](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) 以取得最新資訊。
+>影片中的內容反映了隨 Adobe Systems 商務2.4 一起安裝于店面的商店履單解決方案1.0 版本。 [有關最新資訊，請參閱商店實施使用手冊 ](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) 。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## 其他資源
 
-[儲存履行使用手冊](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[商店履單使用手冊](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於業務用戶 — 產品類型」'
-description: 了解 [!DNL Commerce] 產品類型和每個的選項。
+title: " [!DNL Commerce] for business 使用者-產品類型"
+description: ' [!DNL Commerce] 瞭解產品類型及其選項。'
 topic: Commerce
 kt: 5767
 doc-type: video
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於業務使用者 — 產品類型
+# [!DNL Commerce] 對於商業使用者-產品類型
 
-此影片中：
+在此影片中：
 
 - 產品類型
 - 每種產品類型的選項
 
-## 這段錄像是給誰的？
+## 此影片是誰？
 
-- 商業使用者
+- 企業使用者
 
-## 視訊內容
+## 影片內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片中的內容反映了2.3.1 版本。 如需更新版本的相關資訊，請參閱 [ 發行說明 ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35952?quality=12&learn=on)
 
 ## 其他資源
 
-[產品類型 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-types)
+[產品類型-  [!DNL Commerce]  目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-types)

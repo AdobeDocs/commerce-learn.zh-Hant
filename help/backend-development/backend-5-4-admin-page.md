@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 開發人員 — 建立 [!DNL Admin] page"
-description: 了解如何建立 [!DNL Admin] 頁面， [!DNL Admin] 頁面控制器ACL（訪問控制清單），並進行單元測試。
+title: " [!DNL Commerce] for 開發人員-建立  [!DNL Admin]  頁面"
+description: 瞭解如何建立  [!DNL Admin]  頁面、  [!DNL Admin]  頁面控制器 ACL （存取控制清單）以及進行單元測試。
 kt: 5698
 doc-type: video
 topic: Development
@@ -16,24 +16,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 開發人員 — 建立 [!DNL Admin] 頁面
+# [!DNL Commerce] 對於開發人員-建立 [!DNL Admin] 頁面
 
-此影片中：
+在此影片中：
 
 - 建立 [!DNL Admin] 頁面
-- [!DNL Admin] 頁面控制器ACL（訪問控制清單）
+- [!DNL Admin] 頁面控制器 ACL （存取控制清單）
 - [!DNL Admin] 功能表項目
-- PHP單元測試
+- PHP 測試
 
-## 視訊內容
+## 影片內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片中的內容反映了2.3.1 版本。 如需更新版本的相關資訊，請參閱 [ 發行說明 ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36200?quality=12&learn=on)
 
 ## 其他資源
 
-- [建立訪問控制清單(ACL)規則](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule/)
-- [PHP單元測試](https://developer.adobe.com/commerce/testing/guide/unit/)
+- [建立存取控制清單（ACL）規則](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule/)
+- [PHP 單元測試](https://developer.adobe.com/commerce/testing/guide/unit/)

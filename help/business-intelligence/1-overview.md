@@ -1,8 +1,8 @@
 ---
 title: MBI — 概述
-description: 了解MBI產品中提供完整商業智慧解決方案的三個核心元件。
-landing-page-description: 觀看此影片系列，了解如何透過資料匯總、分析和視覺化，推動更佳的業務見解和成果。
-short-description: 觀看此影片系列，了解如何透過資料匯總、分析和視覺化，推動更佳的業務見解和成果。
+description: 瞭解MBI產品中提供完整商務智慧解決方案的三個核心元件。
+landing-page-description: 觀看此視頻系列，瞭解如何通過資料聚合、分析和可視化來推動更好的業務洞察力和結果。
+short-description: 觀看此視頻系列，瞭解如何通過資料聚合、分析和可視化來推動更好的業務洞察力和結果。
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -18,28 +18,28 @@ ht-degree: 0%
 
 # MBI — 概述
 
-MBI是完整的解決方案，已針對所有Adobe Commerce和Magento Open Source商進行優化。 有三個核心元件使其成為完整的商業智慧解決方案：
+MBI是一個完整的解決方案，已針對所有Adobe Commerce和Magento Open Source商家進行了優化。 有三個核心元件使其成為完整的商業智慧解決方案：
 
-- _資料複製和整合_:首先，要連接您的各種資料來源，並將其匯整到中央位置。
-- _資料倉儲_:要利用所有資料，需要以針對分析而優化的方式儲存和訪問資料。 BI包含托管的資料倉庫元件。
-- _控制面板和視覺效果_:當所有資料都已連接、集中和儲存後，MBI將提供前端介面供您分析。
+- _資料複製和整合_:所有這一切都始於連接各種資料源並將它們放在一個中心位置。
+- _資料倉庫_:要利用您的所有資料，需要以針對分析而優化的方式儲存並使其可訪問。 BI包括托管資料倉庫元件。
+- _儀表板和可視化_:當所有資料都已連接、集中和儲存後，MBI將提供一個前端介面，供您分析。
 
-將這三種核心技術整合到一個解決方案中，商家正使用MBI:
+通過將這三項核心技術嵌入到一個解決方案中，商家正使用MBI:
 
 - 節省時間
-- 從其業務資料中獲取見解
-- 為組織內的團隊賦權
+- 從業務資料中獲得洞察力
+- 增強組織內團隊的能力
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
-- 資料分析人員
+- 業務用戶
+- 資料分析員
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
+>視頻中的內容反映了2.2版。 查看 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 獲取最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 

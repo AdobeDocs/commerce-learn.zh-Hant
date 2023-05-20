@@ -1,6 +1,6 @@
 ---
-title: MBI — 共用結果和導出資料
-description: 了解如何共用MBI結果以及導出資料以便與其他業務工具整合。
+title: MBI-共用結果和匯出資料
+description: 瞭解共用 MBI 結果和匯出資料，以便與其他商務工具整合。
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# MBI — 共用結果和導出資料
+# MBI-共用結果和匯出資料
 
-MBI用戶可以被授予只讀、標準或管理員權限級別，以控制哪些人可以看到業務資料的特定部分。 MBI用戶不能享受這些好處，他們可以根據需要安排併發送電子郵件摘要給任意數量的電子郵件地址。 資料倉庫中的資料可使用匯出API來匯出。
+MBI 使用者可以被授予唯讀、標準或管理員權限層級，以控制哪些人能看到業務資料的特定部分。 而且這些好處不僅限於 MBI 使用者---排程，並將電子郵件摘要傳送至所需數量的電子郵件地址。 可使用匯出 API 匯出資料倉儲中的資料。
 
-## 這段錄像是給誰的？
+## 此影片是誰？
 
-- 商業使用者
-- 資料分析人員
+- 企業使用者
+- 資料分析師
 
-## 視訊內容
+## 影片內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
+>影片中的內容會反映2.2 版本。 [如需最新資訊，請參閱 MBI 使用手冊 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 
 ## 其他資源
 
-- [導出圖表資料 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
-- [建立自動電子郵件摘要 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)
+- [匯出圖表資料-MBI 使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [建立自動電子郵件摘要-MBI 使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

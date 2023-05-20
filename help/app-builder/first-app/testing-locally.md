@@ -1,33 +1,33 @@
 ---
-title: 在本機測試
-description: 了解如何測試您的第一個Adobe Developer App Builder應用程式。
-landing-page-description: 了解如何測試您的第一個Adobe Developer App Builder應用程式。
+title: 本地測試
+description: 瞭解如何test您的第一個Adobe Developer應用程式生成器應用。
+landing-page-description: 瞭解如何test您的第一個Adobe Developer應用程式生成器應用。
 kt: 12427
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: c916c94b-eb14-48c5-ad1d-695730135939
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# 本地測試 {#testing-locally}
 
-# 在本機測試 {#testing-locally}
-
-了解如何在本機測試您的新Adobe Developer App Builder應用程式。
+瞭解如何在本地test新的Adobe Developer應用程式生成器應用程式。
 
 ## 這段錄像是給誰的？
 
-* 剛接觸Adobe Commerce、且使用Adobe應用程式建立器的開發人員，已準備好測試其第一個Adobe Developer應用程式建立器應用程式，且體驗有限。
+* 剛進入Adobe Commerce的開發人員，在使用Adobe應用程式構建器方面經驗有限，他們已準備好test其第一個Adobe Developer應用程式構建器應用程式。
 
-## 視訊內容
+## 視頻內容
 
-* 不同的測試級別
-* 單元測試
-* E2E測試
-* 手動測試
+* 不同級別的測試
+* 設備test
+* E2Etest
+* 手動test
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
 

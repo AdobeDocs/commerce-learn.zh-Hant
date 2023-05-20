@@ -1,6 +1,6 @@
 ---
 title: MBI — 訂單儀表板
-description: 了解訂單控制面板和報表，讓您輕鬆管理訂單和產品銷售。
+description: 瞭解使訂單和產品銷售更易於管理的訂單控制面板和報表。
 kt: 5735
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 # MBI — 訂單儀表板
 
-在「訂單」控制面板中，您可以查看按狀態、優惠券使用情況以及按開單和發運區域收集的發運和稅的明細的平均訂單值、訂單。 如果您開啟「依狀態的訂單」報表，並在處理或待定狀態中看到尖峰，則可為該時間範圍內處於該狀態的所有訂單建立報表。 然後，您可以依電子郵件和訂單ID來劃分，並產生電子郵件摘要，以自動傳送至您的倉庫管理員，以便採取後續行動。
+在「訂單」控制面板上，您可以查看按狀態、優惠券使用率以及按開單和發運區域收集的發運和稅的明細的平均訂單值、訂單。 如果開啟「按狀態列出的訂單」報表，並查看處理或待定狀態中的峰值，則您可以為該時段內處於該狀態的所有訂單建立一個報表。 然後，您可以按電子郵件和訂單ID分解它，並生成一個電子郵件摘要，以自動發送給您的倉庫經理進行後續操作。
 
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
-- 資料分析人員
+- 業務用戶
+- 資料分析員
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
+>視頻中的內容反映了2.2版。 查看 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 獲取最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35989?quality=12&learn=on)
 

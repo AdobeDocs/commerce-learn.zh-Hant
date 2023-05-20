@@ -1,6 +1,6 @@
 ---
 title: MBI — 投資回報跟蹤
-description: 了解有助於跟蹤投資回報的MBI深入分析。
+description: 瞭解有助於跟蹤投資回報的MBI洞見。
 kt: 5737
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,22 +16,22 @@ ht-degree: 0%
 
 # MBI — 投資回報跟蹤
 
-MBI提供的見解可幫助您監控和管理投資回報。 例如，如果您投資於線上廣告，則想要追蹤您的支出回報，以便針對進一步的投資做出資料導向的決策。
+MBI提供的洞察力可幫助您監控和管理投資回報。 例如，如果您在投資線上廣告，則希望跟蹤您在支出上的回報，以便就進一步的投資做出資料驅動的決策。
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
-- 資料分析人員
+- 業務用戶
+- 資料分析員
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
+>視頻中的內容反映了2.2版。 查看 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 獲取最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35991?quality=12&learn=on)
 
 ## 其他資源
 
-- [Campaign Analysis - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
-- [行銷ROI - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)
+- [市場活動分析 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
+- [市場營銷ROI - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)

@@ -1,6 +1,6 @@
 ---
 title: 建立類別
-description: 了解如何為產品目錄定義基本類別結構。
+description: 瞭解如何定義產品目錄的基本類別結構。
 kt: 10549
 doc-type: feature video
 audience: all
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 # 建立類別
 
-在將產品添加到目錄之前，必須建立目錄的基本類別結構。 產品可指派給零個或多個類別。 類別通常會先建立，然後才會將產品新增至目錄。 不過，您也可以在建立產品時「即時」新增類別。
+在將產品添加到目錄之前，必須建立目錄的基本類別結構。 產品可分配到零個或多個類別。 通常在產品添加到目錄之前先建立類別。 但是，您也可以在建立產品時「即時」添加類別。
 
 ## 這段錄像是給誰的？
 
-- 網站管理員
+- 網站經理
 - 電子商務商品商
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343746?quality=12&learn=on)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 - [建立類別 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
 - [類別權限 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [頂端導覽 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [頂部導航 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

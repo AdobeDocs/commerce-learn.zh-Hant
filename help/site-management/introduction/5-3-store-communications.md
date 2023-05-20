@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於業務用戶 — 電子郵件通信」'
-description: 使用客戶在店面的動作所觸發的交易式電子郵件與客戶通訊。 自訂和設定您商店的電子郵件範本。
+title: '"[!DNL Commerce] 用於業務用戶 — 電子郵件通信」'
+description: 使用由客戶在店面上的操作觸發的事務性電子郵件與客戶通信。 自定義和配置儲存區的電子郵件模板。
 topic: Commerce
 kt: 5780
 doc-type: video
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業用戶 — 電子郵件通信
+# [!DNL Commerce] 用於業務用戶 — 電子郵件通信
 
-此影片中：
+在此視頻中：
 
-- 觸發交易式電子郵件
-- 交易式電子郵件範本
+- 觸發的事務性電子郵件
+- 事務性電子郵件模板
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
+- 業務用戶
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.3.1版。 如需稍後版本更新的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## 其他資源
 
-[電子郵件範本 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[電子郵件模板 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[變數和客戶通訊 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[變數和客戶溝通 —  [!DNL Commerce] 管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

@@ -1,6 +1,6 @@
 ---
 title: 管理類別中的產品
-description: 了解如何在類別中建立產品、視覺化商品銷售，以及使用自動化類別排序功能。
+description: 瞭解如何在類別、visual 銷售和使用自動類別排序功能中建立產品。
 kt: 10550
 doc-type: feature videos
 audience: all
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 # 管理類別中的產品
 
-將產品組織到類別是管理目錄的關鍵。 在此影片中，您可了解如何建立類別中的產品、視覺商品銷售，以及使用自動化類別排序功能。
+將您的產品組織成類別是管理目錄的關鍵。 在此影片中，您將瞭解如何在類別、visual 銷售和使用「自動類別排序功能」中建立產品。
 
-## 這段錄像是給誰的？
+## 此影片是誰？
 
 - 網站管理員
-- 電子商務商品商
+- 電子商務銷售商
 
-## 視訊內容
+## 影片內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343747?quality=12&learn=on)
 
 ## 其他資源
 
-- [類別產品分配 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [銷售的類別規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [類別產品分配-  [!DNL Commerce]  目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [銷售  [!DNL Commerce]  促銷活動和促銷活動指南的類別規則](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

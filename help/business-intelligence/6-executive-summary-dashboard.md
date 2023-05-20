@@ -1,6 +1,6 @@
 ---
 title: MBI — 執行概述儀表板
-description: 查看MBI提供的「執行概述」儀表板的演示。
+description: 請參閱MBI提供的「執行概述」儀表板的演示。
 kt: 5731
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,22 +16,22 @@ ht-degree: 0%
 
 # MBI — 執行概述儀表板
 
-「執行概述」控制面板提供收入、訂單和平均訂單值的高階分析。 報表會劃分為靜態值，且會隨時間而改變。 您可以與團隊的其他成員共用此控制面板，讓他們擁有與您共同作業的編輯存取權，或僅限檢視的存取權。
+「執行概覽」控制面板提供了對收入、訂單和平均訂單值的高層見解。 報告被分為靜態值，並隨時間推移而分開。 您可以與團隊的其他成員共用此儀表板，讓他們具有編輯權限以與您協作或僅查看權限。
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
-- 資料分析人員
+- 業務用戶
+- 資料分析員
 
-## 視訊內容
+## 視頻內容
 
 >[!NOTE]
 >
->視訊中的內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
+>視頻中的內容反映了2.2版。 查看 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 獲取最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 
 ## 其他資源
 
 - [執行摘要 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
-- [與其他用戶共用控制面板 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)
+- [與其他用戶共用儀表板 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)

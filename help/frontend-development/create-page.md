@@ -1,6 +1,6 @@
 ---
 title: 建立新頁面
-description: 使用一個參數建立可傳回json的頁面。
+description: 建立以一個參數傳回 json 的頁面。
 topic: Development
 kt: 5602
 doc-type: video
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 # 建立新頁面
 
-使用一個參數建立可傳回json的頁面。
+建立以一個參數傳回 json 的頁面。
 
-## 這段錄像是給誰的？
+## 此影片是誰？
 
-- 開發人員
+- 開發 人員
 
 ## 新增頁面的步驟
 
 - 建立模組
-- 新增 **routes.xml** 檔案
-- 添加控制器（操作）檔案
+- **新增路由 .xml** 檔案
+- 新增控制器（動作）檔案
 
 ## 建立模組的步驟
 
 - 建立模組資料夾
-- 建立 `etc/module.xml` 檔案
-- 建立 `registration.php` 檔案
-- 執行 `bin/magento setup:upgrade` 安裝新模組的指令碼
-- 檢查模組是否正常運作
+- `etc/module.xml`建立檔案
+- `registration.php`建立檔案
+- `bin/magento setup:upgrade`執行腳本以安裝新模組
+- 檢查模組是否工作正常
 
-## 視訊內容
+## 影片內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35816?quality=12&learn=on)
 

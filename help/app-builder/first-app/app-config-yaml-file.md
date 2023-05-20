@@ -1,35 +1,35 @@
 ---
 title: app.config.yaml檔案
-description: 了解此範例應用程式的app.config.yaml檔案中的檔案類型。
-landing-page-description: 了解與Adobe Commerce搭配使用的Adobe Developer App Builder，以及app.config.yaml中會傳入哪些類型的檔案。
+description: 瞭解此示例應用程式的app.config.yaml檔案中的檔案類型。
+landing-page-description: 瞭解與Adobe Commerce一起使用的Adobe Developer應用程式生成器以及app.config.yaml中的檔案類型。
 kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
+# app.config.yaml檔案的說明和使用 {#app-config-yaml}
 
-# app.config.yaml檔案的說明和用法 {#app-config-yaml}
-
-此檔案決定應用程式的設定。
+此檔案確定應用程式的配置。
 
 ## 這段錄像是給誰的？
 
-* 剛接觸Adobe Commerce的開發人員，在Adobe應用程式建立工具上擁有的體驗有限，他們了解 `app.config.yaml` 在範例應用程式中。
+* 新進Adobe Commerce的開發人員，在Adobe應用構建器方面經驗有限，他們正在瞭解 `app.config.yaml` 的下界。
 
-## 視訊內容
+## 視頻內容
 
-* 此 `app.config.yaml` 討論的檔案
-* 定義如何連結至其他 `.js` 檔案
+* 的 `app.config.yaml` 已討論
+* 定義如何連結到其他 `.js` 檔案
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
-## 程式碼範例
+## 代碼示例
 
 ```bash
 # Specify your secrets here
@@ -49,7 +49,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以在檔案的範例模組中看到這些靜態值正在使用 `actions/commerce.index.js`
+您可以看到這些靜態值正在檔案的示例模組中使用 `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

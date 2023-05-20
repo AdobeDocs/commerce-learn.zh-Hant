@@ -1,13 +1,13 @@
 ---
-title: 了解如何安裝Adobe Commerce 2.4.5的IO事件
-description: 了解如何在Adobe Commerce 2.4.5中安裝IO事件所需的模組，以便在Adobe Developer App Builder中使用
-landing-page-description: 了解如何使用撰寫器安裝Adobe Commerce 2.4.5所需的數個模組。
-short-description: 了解如何使用撰寫器安裝Adobe Commerce 2.4.5所需的數個模組。
+title: 瞭解如何為Adobe Commerce2.4.5安裝IO事件
+description: 瞭解如何在Adobe Commerce2.4.5中安裝IO事件所需的模組，以便在Adobe DeveloperApp Builder中使用
+landing-page-description: 瞭解如何使用作曲家安裝Adobe Commerce2.4.5所需的幾個模組。
+short-description: 瞭解如何使用作曲家安裝Adobe Commerce2.4.5所需的幾個模組。
 kt: 11886
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: Adobe Commerce 2.4.5
+badge: Adobe Commerce2.4.5
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
@@ -16,28 +16,28 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce 2.4.5安裝
+# Adobe Commerce2.4.5安裝
 
-了解如何使用2.4.5版適用的撰寫器在Adobe Commerce中安裝數個新模組。這會設定要在Adobe Commerce應用程式中使用的必要模組。 其他檔案位於 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何使用Composer 2.4.5版在Adobe Commerce安裝幾個新模組。這設定了在Adobe Commerce應用程式中使用的所需模組。 其他文檔，請參閱 [為Adobe Commerce安裝Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}。
 
 ## 這段錄像是給誰的？
 
-* 使用I/O事件熟悉Adobe Commerce和Adobe Developer App Builder的開發人員
+* 使用I/O事件的Adobe Commerce和Adobe DeveloperApp Builder新開發人員
 
-## 視訊內容 {#video-content}
+## 視頻內容 {#video-content}
 
-* 使用撰寫器安裝所需模組
-* 為內部部署托管運行的命令
+* 使用合成器安裝所需模組
+* 要為本地托管運行的命令
 * 要為Adobe Commerce Cloud運行的命令
-* Adobe Commerce Cloud yaml需要編輯
+* Adobe Commerce Cloud山
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415794?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 
-視您是使用自行托管環境或使用Adobe Commerce Cloud而定，有各種命令會稍有不同。
+根據您是在自主托管環境還是使用Adobe Commerce Cloud，有各種命令稍有不同。
 
-### 內部部署托管 {#on-premise}
+### 本地托管 {#on-premise}
 
 ```bash
 composer require magento/commerce-eventing=^1.0 --no-update
@@ -51,7 +51,7 @@ bin/magento module:enable --all
 bin/magento setup:upgrade && bin/magento setup:di:compile
 ```
 
-### Adobe Commerce on Cloud {#adobe-commerce-cloud}
+### Adobe Commerce雲 {#adobe-commerce-cloud}
 
 ```bash
 composer require magento/commerce-eventing=^1.0 --no-update

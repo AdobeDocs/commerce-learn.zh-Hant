@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於業務用戶 — 產品類別」'
-description: 了解如何設定類別，以管理您的產品目錄。
+title: '"[!DNL Commerce] 用於業務用戶 — 產品類別」'
+description: 瞭解如何通過設定類別來管理產品目錄。
 topic: Commerce
 kt: 5765
 doc-type: videos
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於業務用戶 — 產品類別
+# [!DNL Commerce] 用於業務用戶 — 產品類別
 
-此影片中：
+在此視頻中：
 
-- 建立產品目錄的類別
+- 為產品目錄建立類別
 
 ## 這段錄像是給誰的？
 
-- 商業使用者
+- 業務用戶
 
-## 視訊內容
+## 視頻內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35950?quality=12&learn=on)
 

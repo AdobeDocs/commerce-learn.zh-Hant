@@ -1,8 +1,8 @@
 ---
-title: 了解如何在Adobe Commerce中使用條件事件
-description: 了解如何使用條件式事件來用於Adobe Developer App Builder。
-landing-page-description: 了解如何使用Adobe Commerce條件事件。
-short-description: 了解如何使用Adobe Commerce條件事件。
+title: 瞭解如何在Adobe Commerce使用條件事件
+description: 瞭解如何使用要在Adobe Developer應用程式生成器中使用的條件事件。
+landing-page-description: 瞭解如何使用Adobe Commerce條件事件。
+short-description: 瞭解如何使用Adobe Commerce條件事件。
 kt: 11890
 doc-type: tutorial
 audience: all
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 # Adobe Commerce條件事件
 
-了解Adobe Commerce中可用於Adobe Developer App Builder的條件式事件。 其他檔案位於 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+瞭解可在Adobe CommerceApp Builder中使用的條件事件。 其他文檔，請參閱 [為Adobe Commerce安裝Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}。
 
 ## 這段錄像是給誰的？
 
-* 使用I/O事件且剛接觸Adobe Commerce和Adobe Developer App Builder的開發人員，需要建立Adobe應用程式建立器專案。
+* 使用I/O事件的Adobe Commerce和Adobe DeveloperApp Builder的新開發人員，需要建立AdobeApp Builder項目。
 
-## 視訊內容 {#video-content}
+## 視頻內容 {#video-content}
 
-* 了解條件式事件
-* 了解新XML檔案io_events.xml的正確用法
-* 了解如何設定條件事件
+* 瞭解條件事件
+* 瞭解新XML檔案io_events.xml的正確用法
+* 瞭解如何配置條件事件
 * 定義用於條件事件的規則
-* 了解如何在商務例項中註冊事件 `app/etc/config.php`
+* 瞭解如何在Commerce實例中註冊事件 `app/etc/config.php`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 

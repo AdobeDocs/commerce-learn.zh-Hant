@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce雲端基礎架構 — 開發設定
-description: 了解雲端專案的開發設定。
+title: Adobe Systems 雲端基礎結構開發設定的商務
+description: 瞭解雲端專案的開發設定。
 kt: 5660
 doc-type: video
 audience: all
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce雲端基礎架構 — 開發設定
+# Adobe Systems 雲端基礎結構開發設定的商務
 
-此影片中：
+在此影片中：
 
-- 了解開發設定
+- 瞭解開發設定
 
 >[!VIDEO](https://video.tv.adobe.com/v/35696?quality=12&learn=on)
 
 ## 其他資源
 
-[[!DNL Commerce] 雲端基礎架構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] 雲端基礎設施指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

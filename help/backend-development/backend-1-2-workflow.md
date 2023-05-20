@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於開發人員 — 開發工作流程」'
-description: 了解商務的典型開發工作流程。
+title: '"[!DNL Commerce] 開發人員 — 開發工作流」'
+description: 瞭解Commerce的典型開發工作流。
 kt: 5691
 doc-type: video
 topic: Development
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於開發人員 — 開發工作流程
+# [!DNL Commerce] 開發人員 — 開發工作流
 
-此影片中：
+在此視頻中：
 
-- 典型的開發工作流程
+- 典型的開發工作流
 
-## 視訊內容
+## 視頻內容
 
 >[!IMPORTANT]
 >
->Commerce Marketplace不再包含 **下載** 按鈕。 您必須使用命令列來安裝或升級擴充功能。 請參閱 [安裝擴充功能](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) 頁面 _安裝指南_ 以取得更多資訊。
+>Commerce Marketplace不再包括 **下載** 按鈕 必須使用命令行來安裝或升級擴展。 請參閱 [安裝擴展](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) 的 _安裝指南_ 的子菜單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
