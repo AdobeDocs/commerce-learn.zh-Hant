@@ -1,6 +1,6 @@
 ---
-title: 建立小部件
-description: 瞭解如何建立小部件和修改現有小部件，以在您的儲存中自動更新內容。
+title: 建立Widget
+description: 瞭解如何建立Widget及修改現有元件，以自動更新整個商店的內容。
 kt: null
 doc-type: feature video
 role: Admin, User
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# 建立小部件
+# 建立Widget
 
-小部件是可重用的元件，您可以輕鬆地建立和修改這些元件，以在儲存中自動更新內容。 在此視頻中，瞭解如何建立和管理小部件。
+Widget是可重複使用的元件，您可以輕鬆建立和修改，以自動更新整個商店的內容。 在本影片中，瞭解如何建立和管理Widget。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 網站經理
-- 內容設計者
+- 網站管理員
+- 內容設計工具
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343786?quality=12&learn=on)
 
 ## 其他資源
 
-- [小部件 —  [!DNL Commerce] 內容和設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [建立和管理小部件 —  [!DNL Commerce] 內容和設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [建立和管理Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

@@ -1,6 +1,6 @@
 ---
-title: Live Search完整演示
-description: 觀看Live Search的功能和靈活性的完整演示
+title: 即時搜尋完整示範
+description: 觀看即時搜尋功能與彈性的完整示範
 kt: 13168
 doc-type: tutorial
 audience: all
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 ---
 
-# Adobe CommerceLive Search完整演示
+# Adobe Commerce Live Search完整展示
 
-全面展示Adobe Live搜索。
+Adobe Live搜尋的完整示範。
 
-## 觀看此視頻後有何期望
+## 觀看此影片有何期望
 
-瞭解如何使用Adobe Live搜索配置和設定。 更好地瞭解方面、報告和同義詞。
+瞭解如何使用Adobe Live搜尋組態和設定。 深入瞭解多面向、報表和同義字。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 對Adobe Live搜索不熟悉並希望瞭解更多資訊的開發商和商店所有者。
+* 不熟悉Adobe Live Search且想深入瞭解的開發人員和商店負責人。
 
-## 視頻內容
+## 視訊內容
 
-* 瞭解面向客戶的方面
+* 瞭解面向客戶的Facet
 * 什麼是API
-* 即時搜索報告
-* 瞭解有關Facet的後台配置及其使用方式
-* 瞭解同義詞
-* 智慧商品銷售
-* 已說明基於規則的排名類型
-* GraphQLAPI內省
+* 即時搜尋報告
+* 瞭解Facet的後台設定及其使用方式
+* 瞭解同義字
+* 智慧型銷售
+* 說明以規則為基礎的排名型別
+* GraphQL API內檢
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

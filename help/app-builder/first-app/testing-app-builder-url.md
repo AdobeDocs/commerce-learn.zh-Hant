@@ -1,7 +1,7 @@
 ---
-title: 正在使用Adobe Developer應用程式生成器URL進行測試
-description: 瞭解如何從為項目提供的App BuilderURLtest您的第一個Adobe DeveloperApp Builder應用。
-landing-page-description: 瞭解如何從您的項目提供的URLtest您的第一個Adobe Developer應用程式生成器應用。
+title: 使用Adobe Developer App Builder URL進行測試
+description: 瞭解如何從您專案提供的App Builder URL測試您的第一個Adobe Developer App Builder應用程式。
+landing-page-description: 瞭解如何從提供的專案URL測試您的第一個Adobe Developer App Builder應用程式。
 kt: 12427
 doc-type: tutorial
 audience: all
@@ -14,18 +14,18 @@ ht-degree: 0%
 
 ---
 
-# 使用App BuilderURL測試 {#testing-app-builder-url}
+# 使用App Builder URL進行測試 {#testing-app-builder-url}
 
-瞭解如何使用項目的URLtest新的Adobe Developer應用程式生成器應用程式。
+瞭解如何使用專案的URL測試新的Adobe Developer App Builder應用程式。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 剛進入Adobe Commerce的開發人員，在使用Adobe應用程式構建器方面經驗有限，他們已準備好test其第一個Adobe Developer應用程式構建器應用程式。
+* 剛開始使用Adobe Commerce、但使用AdobeApp Builder經驗有限的開發人員，已準備好測試自己的第一個Adobe Developer App Builder應用程式。
 
-## 視頻內容
+## 視訊內容
 
 * 如何部署應用程式
-* 部署後查找URL的位置
+* 部署後尋找URL的位置
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
 

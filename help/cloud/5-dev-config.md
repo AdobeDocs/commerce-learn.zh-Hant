@@ -1,5 +1,5 @@
 ---
-title: Adobe Systems 雲端基礎結構開發設定的商務
+title: 雲端基礎結構上的Adobe Commerce — 開發設定
 description: 瞭解雲端專案的開發設定。
 kt: 5660
 doc-type: video
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# Adobe Systems 雲端基礎結構開發設定的商務
+# 雲端基礎結構上的Adobe Commerce — 開發設定
 
-在此影片中：
+在本影片中：
 
 - 瞭解開發設定
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[[!DNL Commerce] 雲端基礎設施指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

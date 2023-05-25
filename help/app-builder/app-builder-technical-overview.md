@@ -1,8 +1,8 @@
 ---
-title: App Builder技術概述
-description: 瞭解在Adobe Commerce使用的Adobe Developer應用程式生成器，並概述技術
-landing-page-description: 瞭解在Adobe Commerce使用的Adobe Developer應用程式生成器，並概述技術
-short-description: 瞭解在Adobe Commerce使用的Adobe Developer應用程式生成器，並概述技術
+title: App Builder技術概覽
+description: 透過技術概觀瞭解Adobe Commerce中使用的Adobe Developer App Builder
+landing-page-description: 透過技術概觀瞭解Adobe Commerce中使用的Adobe Developer App Builder
+short-description: 透過技術概觀瞭解Adobe Commerce中使用的Adobe Developer App Builder
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# App Builder技術概述
+# App Builder技術概覽
 
-以下視頻提供了連接Adobe Commerce和AmazonSales Channel的技術概述。 本教程還探討如何使用AdobeApp Builder進行自定義功能和整合。
+以下影片提供連線Adobe Commerce和AmazonSales Channel的技術概觀。 本教學課程也探索如何使用AdobeApp Builder進行自訂功能和整合。
 
 >[!IMPORTANT]
 >
->AmazonSales Channel延期仍在進行中，尚未正式發佈。  這些視頻和教程旨在向您介紹如何將Adobe Developer應用程式生成器用於實際使用案例。
+>AmazonSales Channel擴充功能仍在開發中，尚未正式發行。  這些影片和教學課程旨在示範如何將Adobe Developer App Builder用於實際使用案例。
 
 
-## 用於Adobe Commerce的應用程式生成器 {#app-builder-technical-overview}
+## 適用於Adobe Commerce的App Builder {#app-builder-technical-overview}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 

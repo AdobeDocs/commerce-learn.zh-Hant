@@ -1,7 +1,7 @@
 ---
 title: .env檔案
-description: 瞭解此示例應用程式的.env檔案中的檔案類型
-landing-page-description: 瞭解與Adobe Commerce一起使用的Adobe Developer應用程式生成器以及.env檔案中使用的內容類型
+description: 瞭解此範例應用程式的.env檔案中的檔案型別
+landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及.env檔案中使用的內容型別
 kt: 12423
 doc-type: tutorial
 audience: all
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# 生成並配置.env檔案 {#env-file}
+# 產生和設定.env檔案 {#env-file}
 
-的 `.env` 是一個特殊檔案，它不是示例模組的一部分，但對於在您的Adobe DeveloperApp Builder應用程式中使用非常重要。 此檔案包含機密和其他資訊。 避免將此檔案提交到任何代碼儲存庫。
+此 `.env` 是一個特殊檔案，不屬於範例模組，但對Adobe Developer App Builder應用程式中的使用非常重要。 此檔案包含密碼和其他資訊。 避免將此檔案提交至任何程式碼存放庫。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 剛進入Adobe Commerce的開發人員，在使用Adobe應用程式構建器方面經驗有限，他們希望瞭解 `.env` 的子菜單。
+* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，想要瞭解 `.env` 檔案。
 
-## 視頻內容
+## 視訊內容
 
-* .env檔案簡介及其用途
-* 如何生成.env檔案
-* 如何追加檔案以添加新機密
-* 避免提交此檔案，因為它包含敏感資訊
+* .env檔案及其用途簡介
+* 如何產生.env檔案
+* 如何附加檔案以新增密碼
+* 避擴音交此檔案，因為它包含敏感資訊
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
-## 代碼示例
+## 程式碼範例
 
 ```bash
 # Specify your secrets here
@@ -51,7 +51,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以看到這些靜態值正在檔案的示例模組中使用 `actions/commerce.index.js`。
+您可以在檔案中看到範例模組使用這些靜態值 `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

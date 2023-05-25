@@ -1,8 +1,8 @@
 ---
-title: 安裝Adobe I/O Runtime命令行介面和API Mesh插件
-description: 瞭解如何安裝Adobe I/O Runtime命令行介面和API Mesh插件
-landing-page-description: 瞭解如何使用AdobeApp Builder和使用API Mesh插件安裝Adobe I/O Runtime。
-short-description: 瞭解如何使用AdobeApp Builder和使用API Mesh插件安裝Adobe I/O Runtime。
+title: 安裝Adobe I/O Runtime命令列介面和API網狀外掛程式
+description: 瞭解如何安裝Adobe I/O Runtime命令列介面和API Mesh外掛程式
+landing-page-description: 瞭解如何使用AdobeApp Builder並安裝Adobe I/O Runtime與API Mesh外掛程式。
+short-description: 瞭解如何使用AdobeApp Builder並安裝Adobe I/O Runtime與API Mesh外掛程式。
 kt: 11801
 doc-type: tutorial
 audience: all
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 ---
 
-# 安裝Adobe I/O RuntimeCLI和Mesh插件
+# 安裝Adobe I/O Runtime CLI和Mesh外掛程式
 
-在開始為Adobe Developer應用生成器使用API Mesh之前，需要安裝 `aio` CLI和API Mesh插件。
-有關安裝說明和先決條件，請訪問API Mesh [入門](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 的子菜單。
+開始使用Adobe Developer App Builder的API Mesh之前，您需要安裝 `aio` CLI和API網狀外掛程式。
+如需安裝指示和先決條件，請造訪API網格 [快速入門](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 頁面。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* API Mesh或 [!DNL Adobe Commerce] 經驗有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API Mesh。
+* 不熟悉API Mesh的開發人員或 [!DNL Adobe Commerce] 使用經驗有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API網格。
 
-## 視頻內容
+## 視訊內容
 
 * API Mesh簡介
-* 安裝Adobe I/O RuntimeCLI（命令行介面）
-* 安裝API Mesh插件
+* 安裝Adobe I/O Runtime CLI （命令列介面）
+* 安裝API網狀外掛程式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## 安裝 `aio` CLI和API Mesh插件
+## 安裝 `aio` CLI和API網狀外掛程式
 
-安裝後 `node` 和 `npm`，運行以下命令以安裝 `aio` CLI:
+安裝後 `node` 和 `npm`，執行以下命令以安裝 `aio` CLI：
 
 ```bash
 npm install -g @adobe/aio-cli
 ```
 
-安裝Adobe I/O RuntimeCLI後，請使用以下命令安裝API Mesh插件：
+安裝Adobe I/O Runtime CLI後，請使用下列命令來安裝API Mesh外掛程式：
 
 ```bash
 aio plugins:install @adobe/aio-cli-plugin-api-mesh

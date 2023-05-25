@@ -1,6 +1,6 @@
 ---
-title: 開發人員PWA Studio-PWA工具
-description: 瞭解PWA Studio和PWA Studio工具的易用性。
+title: 適用於開發人員的PWA Studio-PWA工具
+description: 瞭解PWA Studio，以及PWA Studio工具的易用性。
 topic: Development
 kt: 5645
 doc-type: video
@@ -13,18 +13,18 @@ ht-degree: 0%
 
 ---
 
-# 開發人員PWA Studio-PWA工具
+# 適用於開發人員的PWA Studio-PWA工具
 
-在此視頻中：
+在本影片中：
 
 - PWA Studio簡介
 - PWA工具
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 前端開發商
-- 項目經理
+- 前端開發人員
+- 專案經理
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35716?quality=12&learn=on)

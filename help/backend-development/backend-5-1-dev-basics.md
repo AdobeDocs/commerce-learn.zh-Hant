@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 開發人員 — 開發基礎知識」'
-description: 瞭解開發基礎知識，包括建立模組、配置儲存、DI操作和前端控制器示例。
+title: '"[!DNL Commerce] 適用於開發人員 — 開發基本知識」'
+description: 瞭解開發基本知識，包括建立模組、設定存放區、DI操作，以及前端控制器範例。
 kt: 5695
 doc-type: video
 topic: Development
@@ -16,24 +16,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 面向開發人員 — 開發基礎
+# [!DNL Commerce] 適用於開發人員 — 開發基本知識
 
-在此視頻中：
+在本影片中：
 
 - 建立模組
-- 配置儲存
-- DI業務
-- 前控制器示例
+- 設定您的存放區
+- DI作業
+- 前端控制器範例
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36197?quality=12&learn=on)
 
 ## 其他資源
 
-- [可擴充性和模組性](https://developer.adobe.com/commerce/php/architecture/modules/)
-- [儲存選項和配置管理概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/overview.html)
+- [擴充性與模組化](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [存放區選項和設定管理概觀](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/overview.html)

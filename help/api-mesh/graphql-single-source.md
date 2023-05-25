@@ -1,8 +1,8 @@
 ---
-title: 在API網格中建立GraphQL單源網格
-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解如何建立具有一個源的網格。
-landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解如何建立具有一個源的網格。
-short-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解如何建立具有一個源的網格。
+title: 在API網格中建立GraphQL單一來源網格
+description: 瞭解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 瞭解如何建立具有一個來源的網格。
+landing-page-description: 瞭解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 瞭解如何建立具有一個來源的網格。
+short-description: 瞭解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 瞭解如何建立具有一個來源的網格。
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 ---
 
-# 使用單個源建立網格
+# 使用單一來源建立網格
 
-此視頻幫助開發人員瞭解如何在Adobe DeveloperApp Builder的API Mesh中使用單個源建立網格。 要使此基本示例按預期工作，您需要一個可公開訪問的API或GraphQL終結點。 視頻還說明了如何建立簡單 `mesh.json` 與Commerce實例一起使用的檔案。 有關詳細資訊和代碼示例，請訪問 [建立網格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}。
+此影片可協助開發人員瞭解如何在Adobe Developer App Builder的API Mesh中使用單一來源建立網格。 為了讓此基本範例按預期運作，您需要可公開存取的API或GraphQL端點。 此影片也說明如何建立簡易的 `mesh.json` 要與您的Commerce執行個體一起使用的檔案。 如需詳細資訊和程式碼範例，請造訪 [建立網格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 任何新加入API網格的人
-* 有興趣合併多個GraphQL和API源的開發人員
-* 任何需要知道如何過濾網路頁籤和由GraphQL過濾的人
+* 任何不熟悉API網狀架構的人
+* 有意合併多個GraphQL和API來源的開發人員
+* 需要瞭解如何篩選網路索引標籤及由GraphQL篩選的任何人
 
-## 視頻內容
+## 視訊內容
 
-* 使用API Mesh作為反向代理
-* 從JSON配置檔案建立網格
-* 訪問新建立的GraphQL終結點
+* 使用API網格作為反向Proxy
+* 從JSON設定檔案建立網格
+* 存取新建立的GraphQL端點
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
-## 建立json配置檔案
+## 建立json設定檔案
 
-API Mesh使用JSON配置檔案來定義源處理程式。 JSON檔案包含 `sources` 包含網格源的陣列。 這是一個單源網格的示例。
+API Mesh使用JSON設定檔案來定義您的來源處理常式。 JSON檔案包含 `sources` 包含網格來源的陣列。 以下是單一來源的網格範例。
 
 ```json
 {

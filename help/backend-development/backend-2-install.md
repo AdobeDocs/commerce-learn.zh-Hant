@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 用於開發人員 — 安裝」'
-description: 瞭解Composer安裝和示例資料。
+title: '"[!DNL Commerce] 適用於開發人員 — 安裝」'
+description: 瞭解關於Composer安裝和範例資料。
 kt: 5692
 doc-type: video
 topic: Development
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 對於開發人員 — 安裝
+# [!DNL Commerce] 適用於開發人員 — 安裝
 
-在此視頻中：
+在本影片中：
 
-- 合成器安裝和示例資料
+- Composer安裝和範例資料
 
-## 視頻內容
+## 視訊內容
 
 >[!IMPORTANT]
 >
->Adobe Commerce和Magento Open Source中已棄用Web安裝嚮導，2.3.6在2.3.7和2.4.0中刪除。必須使用命令行來安裝或升級實例以及模組和擴展。
+>網頁設定精靈在Adobe Commerce和Magento Open Source2.3.6中已過時，在2.3.7和2.4.0中已移除。您必須使用命令列來安裝或升級您的執行個體，以及模組和擴充功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: MBI — 度量
-description: 瞭解MBI度量及其如何用於構造報告。
+title: mbi — 量度
+description: 瞭解MBI量度以及如何使用它們來建構報表。
 kt: 5725
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# MBI — 度量
+# mbi — 量度
 
-度量是度量。 在SQL和資料庫結構中，度量類似於在可變時間段內儲存的查詢。 您的團隊會建立相關度量，用於構建業務所需的報告。
+量度是一種測量。 在SQL和資料庫結構中，量度就像變數時段內的預存查詢。 您的團隊會建立相關量度，用於建構業務所需的報表。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 業務用戶
-- 資料分析員
+- 商業使用者
+- 資料分析人員
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.2版。 查看 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 獲取最新資訊。
+>影片內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35980?quality=12&learn=on)
 
 ## 其他資源
 
-- [建立度量 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-metrics.html)
+- [建立量度 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-metrics.html)
 - [建立篩選器集 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)

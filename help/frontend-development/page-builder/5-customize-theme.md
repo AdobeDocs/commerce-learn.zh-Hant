@@ -1,6 +1,6 @@
 ---
-title: 開發人員頁面產生器-主題自訂
-description: 瞭解如何自訂「頁面產生器」主題。
+title: 適用於開發人員的頁面產生器 — 佈景主題自訂
+description: 瞭解如何自訂頁面產生器主題。
 topic: Commerce, Development
 kt: 5654
 doc-type: video
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 ---
 
-# 開發人員頁面產生器-主題自訂
+# 適用於開發人員的頁面產生器 — 佈景主題自訂
 
-在此影片中：
+在本影片中：
 
 - 自訂頁面產生器主題
 
-## 此影片是誰？
+## 這部影片是給誰看的？
 
 - 內容建立者
 - 前端開發人員
 
-## 影片內容
+## 視訊內容
 
 >[!NOTE]
 >
->此內容反映 Adobe Systems 商務2.3.1 的頁面產生器1.0.0 版。如需更高版本中更新的相關資訊，請參閱 [ 頁面產生器發行說明 ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html) 。
+>此內容反映適用於Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需更新版本的相關資訊，請參閱 [Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
-## 有用資源
+## 有用的資源
 
-[頁面產生器開發人員檔](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Page Builder開發人員檔案](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[頁面產生器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

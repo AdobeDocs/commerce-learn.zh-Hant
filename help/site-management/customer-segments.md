@@ -1,6 +1,6 @@
 ---
-title: 建立客戶細分
-description: 瞭解如何根據客戶地址、訂單歷史記錄、購物車內容等屬性動態顯示內容和促銷給特定客戶。
+title: 建立客戶區段
+description: 瞭解如何根據客戶地址、訂單歷史記錄、購物車內容等屬性，以動態方式向特定客戶顯示內容和促銷活動。
 kt: 10545
 doc-type: feature video
 audience: all
@@ -14,22 +14,22 @@ ht-degree: 0%
 
 ---
 
-# 建立客戶細分
+# 建立客戶區段
 
 {{ee-feature}}
 
-客戶細分允許您根據客戶地址、訂單歷史記錄、購物車內容等屬性動態地向特定客戶顯示內容和促銷。 您可以使用購物車價格規則根據目標細分市場來優化市場營銷計畫。 您還可以生成報告並導出目標客戶清單。
+客戶區段可讓您根據客戶地址、訂單歷史記錄、購物車內容等屬性，動態地向特定客戶顯示內容和促銷活動。 您可以根據具有購物車價格規則的目標區段，最佳化行銷方案。 您也可以產生報告並匯出目標客戶的清單。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 儲存管理員
-- 電子商務營銷人員
+- 存放區管理員
+- 電子商務行銷人員
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343659?quality=12&learn=on)
 
 ## 其他資源
 
-- [客戶細分 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [價格規則中的客戶段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [價格規則中的客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

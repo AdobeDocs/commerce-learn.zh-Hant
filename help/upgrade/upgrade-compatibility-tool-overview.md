@@ -1,8 +1,8 @@
 ---
-title: 升級相容性工具概述
-description: 觀看此技術視頻，瞭解升級相容性工具如何讓您的下一次升級更輕鬆、更便宜、更快。
-landing-page-description: 觀看此技術視頻，瞭解升級相容性工具如何讓您的下一次升級更輕鬆、更便宜、更快。
-short-description: 觀看此技術視頻，瞭解升級相容性工具如何讓您的下一次升級更輕鬆、更便宜、更快。
+title: 升級相容性工具概覽
+description: 觀看此技術影片，瞭解升級相容性工具如何讓您的下一次升級更容易、更便宜、更快速。
+landing-page-description: 觀看此技術影片，瞭解升級相容性工具如何讓您的下一次升級更容易、更便宜、更快速。
+short-description: 觀看此技術影片，瞭解升級相容性工具如何讓您的下一次升級更容易、更便宜、更快速。
 kt: 9983
 doc-type: technical video
 role: Admin, Leader, Developer
@@ -16,30 +16,30 @@ ht-degree: 0%
 
 ---
 
-# 升級相容性工具概述
+# 升級相容性工具概覽
 
-升級相容性工具(UCT)是一個免費工具，可在幾分鐘內分析當前版本和目標升級版本之間的不相容情況。 使用此工具可加快升級過程並簡化執行。
+升級相容性工具(UCT)是免費工具，可在幾分鐘內分析目前版本和目標升級版本之間的不相容性。 使用此工具可讓升級程式更快、更易於執行。
 
-在此視頻中：
+在本影片中：
 
-- 升級相容性工具是什麼
-- 它如何幫助您快速確定升級到更新的Adobe Commerce版本所需的錯誤和修復
-- 如何訪問HTML結果，以幫助按不相容的嚴重性和數量顯示模組
+- 什麼是升級相容性工具
+- 如何協助您快速找出升級至較新Adobe Commerce版本所需的錯誤和修正
+- 如何存取HTML結果，以協助依嚴重性和不相容性數目將模組視覺化
 
-要瞭解有關工具的詳細資訊，請參閱 [升級相容性工具文檔](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)。 如果您想瞭解有關執行和簡化升級的更多資訊，請參閱 [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)。
+若要進一步瞭解此工具，請參閱 [升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). 如果您想進一步瞭解如何執行和簡化升級，請參閱 [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 站點管理器
+- 網站管理員
 - 開發人員
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
 
 ## 其他資源
 
-- [升級相容性工具文檔](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [已發佈版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [發放計畫](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [發行排程](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

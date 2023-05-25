@@ -1,8 +1,8 @@
 ---
-title: 瞭解如何使用Commerce Events建立App Builder項目
-description: 瞭解如何建立App Builder項目以用於Commerce事件
-landing-page-description: 瞭解如何建立AdobeApp Builder項目以使用Adobe Commerce事件
-short-description: 瞭解如何建立AdobeApp Builder項目以使用Adobe Commerce事件
+title: 瞭解如何使用商務事件建立App Builder專案
+description: 瞭解如何建立App Builder專案以用於Commerce事件
+landing-page-description: 瞭解如何建立AdobeApp Builder專案以使用Adobe Commerce事件
+short-description: 瞭解如何建立AdobeApp Builder專案以使用Adobe Commerce事件
 kt: 11888
 doc-type: tutorial
 audience: all
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 ---
 
-# 建立應用生成器項目
+# 建立App Builder專案
 
-瞭解如何建立Adobe Developer應用程式生成器項目以使用來自Adobe Commerce的事件。 其他文檔，請參閱 [為Adobe Commerce安裝Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}。
+瞭解如何建立Adobe Developer App Builder專案，以使用Adobe Commerce中的事件。 其他檔案可在下列網址找到： [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 使用I/O事件的Adobe Commerce和Adobe DeveloperApp Builder的新開發人員，需要建立AdobeApp Builder項目。
+* 剛開始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的開發人員，需要建立AdobeApp Builder專案。
 
-## 視頻內容 {#video-content}
+## 視訊內容 {#video-content}
 
-* 建立App Builder項目
-* 使用Adobe Developer控制台
+* 建立應用程式建置器專案
+* 使用Adobe Developer Console
 * 使用Adobe I/O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)

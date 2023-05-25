@@ -1,6 +1,6 @@
 ---
-title: 向資料庫添加表
-description: '"[!DNL Commerce] 有一種特殊機制，使您能夠建立資料庫表、修改現有表，甚至向其中添加一些資料。」'
+title: 將表格新增至資料庫
+description: '"[!DNL Commerce] 擁有特殊機制，可讓您建立資料庫表格、修改現有表格，甚至新增部分資料。」'
 topic: Development
 kt: 5613
 doc-type: video
@@ -13,33 +13,33 @@ ht-degree: 0%
 
 ---
 
-# 向資料庫添加表
+# 將表格新增至資料庫
 
 >[!IMPORTANT]
 >
->不再建議這樣做，請參閱https://developer.adobe.com/commerce/php/development/components/declarative-schema/
+>不再建議使用此功能，請參閱https://developer.adobe.com/commerce/php/development/components/declarative-schema/
 
 
-[!DNL Commerce] 有一種特殊機制，使您能夠建立資料庫表、修改現有表，甚至向其中添加一些資料 — 例如安裝資料，安裝模組時必須添加這些資料。 這種機制允許在不同安裝之間轉移這些更改。
+[!DNL Commerce] 擁有特殊機制，可讓您建立資料庫表格、修改現有表格，甚至新增部分資料，例如安裝資料（安裝模組時必須新增）。 此機制可讓這些變更在不同的安裝之間轉換。
 
-開發人員不會在重新安裝系統時重複執行手動SQL操作，而是建立包含資料的安裝（或升級）指令碼。 每次安裝模組時，指令碼都會運行。
+開發人員不會重複在重新安裝系統時執行手動SQL操作，而是會建立包含資料的安裝（或升級）指令碼。 指令碼會在每次安裝模組時執行。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
 - 開發人員
 
-## 視頻內容
+## 視訊內容
 
 - 建立模組
 - 建立InstallSchema指令碼
 - 建立InstallData指令碼
-- 添加新模組並驗證是否已建立包含資料的表
+- 新增模組並確認已建立包含資料的表格
 - 建立UpgradeSchema指令碼
 - 建立UpgradeData指令碼
-- 運行升級指令碼並驗證表是否已更改
+- 執行升級指令碼並確認表格已變更
 
 >[!VIDEO](https://video.tv.adobe.com/v/35791?quality=12&learn=on)
 
-## 有用資源
+## 有用的資源
 
-- [將安裝/升級指令碼遷移到聲明性架構](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)
+- [將安裝/升級指令碼移轉至宣告式結構描述](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)

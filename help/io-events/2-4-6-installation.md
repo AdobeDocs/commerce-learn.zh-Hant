@@ -1,13 +1,13 @@
 ---
-title: 瞭解如何為Adobe Commerce2.4.6安裝IO事件
-description: 瞭解如何在Adobe Commerce2.4.6中安裝IO事件所需的模組，以便在Adobe DeveloperApp Builder中使用
-landing-page-description: 瞭解如何安裝Adobe Commerce2.4.6所需的幾個模組。
-short-description: 瞭解如何安裝Adobe Commerce2.4.6所需的幾個模組。
+title: 瞭解如何安裝Adobe Commerce 2.4.6的IO事件
+description: 瞭解如何在Adobe Commerce 2.4.6中安裝IO事件所需的模組，以用於Adobe Developer App Builder
+landing-page-description: 瞭解如何安裝Adobe Commerce 2.4.6所需的數個模組。
+short-description: 瞭解如何安裝Adobe Commerce 2.4.6所需的數個模組。
 kt: 11887
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: Adobe Commerce2.4.6
+badge: Adobe Commerce 2.4.6
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
@@ -16,27 +16,27 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce2.4.6安裝
+# Adobe Commerce 2.4.6安裝
 
-瞭解如何使用Composer 2.4.6版在Adobe Commerce安裝幾個新模組。其他文檔，請參閱 [為Adobe Commerce安裝Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}。
+瞭解如何使用2.4.6版的Composer，在Adobe Commerce中安裝數個新模組。其他檔案可在下列網址找到： [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 使用I/O事件的Adobe Commerce和Adobe DeveloperApp Builder新開發人員。
+* 不熟悉Adobe Commerce和Adobe Developer App Builder （使用I/O事件）的開發人員。
 
-## 視頻內容 {#video-content}
+## 視訊內容 {#video-content}
 
-* 要為本地托管運行的命令
-* 要為Adobe Commerce Cloud運行的命令
-* Adobe Commerce Cloud山
+* 針對內部部署託管執行的命令
+* 針對Adobe Commerce Cloud執行的命令
+* Adobe Commerce Cloud yaml必要編輯
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 
-根據您是在自主托管環境還是使用Adobe Commerce Cloud，有各種命令稍有不同。
+有些命令稍微有所不同，取決於您是在自行託管的環境中或使用Adobe Commerce Cloud。
 
-### 本地托管 {#on-premise}
+### 內部部署託管 {#on-premise}
 
 ```bash
 bin/magento events:generate:module
@@ -46,13 +46,13 @@ bin/magento module:enable --all
 bin/magento setup:upgrade && bin/magento setup:di:compile
 ```
 
-### Adobe Commerce雲 {#adobe-commerce-cloud}
+### 雲端上的Adobe Commerce {#adobe-commerce-cloud}
 
 ```bash
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`:
+Commerce Cloud `.magento.env.yaml`：
 
 ```yaml
 stage:

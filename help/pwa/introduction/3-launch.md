@@ -1,6 +1,6 @@
 ---
-title: PWA Studio開發人員 — 啟動和載入
-description: 瞭解PWA啟動前所需的步驟​、載入時間基線​以及效能如何改進轉換。
+title: 適用於開發人員的PWA Studio — 啟動和載入
+description: 瞭解PWA啟動前的必要步驟​、載入時間的基準，以​及效能如何改善轉換。
 topic: Development
 kt: 5646
 doc-type: video
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio開發人員 — 啟動和載入
+# 適用於開發人員的PWA Studio — 啟動和載入
 
-在此視頻中：
+在本影片中：
 
-- 啟動PWA所需步驟
-- 載入時間的基&#x200B;線
-- 效能如何改進轉換
+- 啟動PWA的必要步驟&#x200B;。
+- 載入時間的基準&#x200B;線
+- 效能如何改善轉換
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 前端開發商
-- 項目經理
+- 前端開發人員
+- 專案經理
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35717?quality=12&learn=on)

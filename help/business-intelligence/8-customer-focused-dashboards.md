@@ -1,6 +1,6 @@
 ---
 title: MBI — 以客戶為中心的儀表板
-description: 請參閱以客戶為重點的儀表板的演示和詳細說明。
+description: 請參閱以客戶為中心的控制面板的示範和詳細說明。
 kt: 5736
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,22 +16,22 @@ ht-degree: 0%
 
 # MBI — 以客戶為中心的儀表板
 
-為了實現明智的業務決策，以客戶為中心的儀表板可為您的客戶提供許多見解。 示例包括新客戶與註冊客戶、客戶的生命週期價值、按客戶組劃分的收入以及客戶的優惠券使用情況。
+為了做出明智的業務決策，以客戶為中心的儀表板會為客戶提供許多深入分析。 例如，新客戶與註冊客戶、客戶期限值、按客戶群組劃分的收入，以及客戶使用優惠券的情況。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 業務用戶
-- 資料分析員
+- 商業使用者
+- 資料分析人員
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.2版。 查看 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 獲取最新資訊。
+>影片內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 
 ## 其他資源
 
-- [客戶（允許來賓簽出） — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
-- [客戶（不允許來賓結帳） — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))
+- [客戶（允許訪客結帳） - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
+- [客戶（不允許訪客結帳） - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))

@@ -1,6 +1,6 @@
 ---
-title: 無頭體系結構會話1
-description: 瞭解什麼是無頭體系結構、可組合的商務和個性化體驗
+title: Headless架構研討會1
+description: 瞭解什麼是Headless架構、可撰寫的商業和個人化體驗
 kt: 13144
 doc-type: tutorial
 audience: all
@@ -13,25 +13,25 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce無頭建築
+# Adobe Commerce Headless架構
 
-對Adobe Commerce歷史的高級別概述，以及情況如何正朝著完全無頭方向發展。  無頭體系結構的好處包括跨接點的奇偶校驗、開發活動的分離、改進的可擴充性等。
+概述Adobe Commerce的發展歷史，並說明各種專案如何開始完全支援Headless。  Headless架構的優點包括各接觸點的對等性、開發活動的分離、改善的擴充性等等。
 
-## 觀看此視頻後有何期望
+## 觀看此影片有何期望
 
-瞭解什麼是無頭的，以及Adobe Commerce如何支援完全無頭的體系結構。
+瞭解什麼是Headless，以及Adobe Commerce如何支援完整的Headless架構。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 對Adobe Commerce不熟悉、希望更多瞭解無頭建築和一些基本策略的開發商和店主。
+* 不熟悉Adobe Commerce且想要進一步瞭解Headless架構和一些基本策略的開發人員和商店負責人。
 
-## 視頻內容
+## 視訊內容
 
-* 從後端分離前端
+* 前端與後端分離
 * 什麼是API
-* 多種無頭方法
-* 複合商業解讀
-* Adobe Commerce首先是API，但不僅是API
-* 無頭商務前要考慮的資格
+* 多種Headless方法
+* 可撰寫商務的說明
+* Adobe Commerce是API優先，但不僅是API
+* 在開始使用Headless商務之前要考慮的資格
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418862?learn=on)

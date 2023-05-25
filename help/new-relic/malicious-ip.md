@@ -1,8 +1,8 @@
 ---
-title: 瞭解如何使用New Relic識別需要阻止的IP
-description: 使用New Relic，確定可能是惡意的IP地址。  一旦確定IP,Rebistible將使用此IP來阻止它訪問應用程式
-landing-page-description: 此視頻指示New Relic的用戶查找可能需要阻止訪問該站點的IP地址。
-short-description: 此視頻指示New Relic的用戶查找可能需要阻止訪問該站點的IP地址。
+title: 瞭解如何使用New Relic來識別需要封鎖的IP
+description: 使用New Relic識別本質上可能為惡意的IP位址。  確定IP後，這會在Fastly中使用以阻止其存取應用程式
+landing-page-description: 此影片會指示New Relic的使用者尋找可能需要封鎖以存取網站的潛在IP位址。
+short-description: 此影片會指示New Relic的使用者尋找可能需要封鎖以存取網站的潛在IP位址。
 kt: 11566
 doc-type: video
 audience: all
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# 識別可能是惡意且應被阻止的IP
+# 識別可能是惡意且應該封鎖的IP
 
-在此視頻中：
+在本影片中：
 
-- 識別Abmestible中用於阻止&#x200B;其的可疑或惡意的潛在IP
+- 識別在Fastly中&#x200B;用於封鎖的可疑或惡意IP
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)

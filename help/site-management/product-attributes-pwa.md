@@ -1,5 +1,5 @@
 ---
-title: 將產品屬性與PWA Studio
+title: 使用產品屬性搭配PWA Studio
 description: 瞭解如何使用PWA Studio管理產品屬性。
 doc-type: feature video
 role: Admin, User
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# 將產品屬性與PWA Studio
+# 使用產品屬性搭配PWA Studio
 
-在此視頻中，瞭解如何在構建具有PWA Studio的店面時管理產品屬性。
+在本影片中，瞭解當您擁有以PWA Studio建立的店面時，如何管理產品屬性。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 前端開發商
-- 項目經理
+- 前端開發人員
+- 專案經理
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343788?quality=12&learn=on)
 
 ## 其他資源
 
 - [產品屬性 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
-- [PWA Studio — 開發人員文檔](https://developer.adobe.com/commerce/pwa-studio/)
+- [PWA Studio — 開發人員檔案](https://developer.adobe.com/commerce/pwa-studio/)

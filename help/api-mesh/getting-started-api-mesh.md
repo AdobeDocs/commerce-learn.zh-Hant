@@ -1,8 +1,8 @@
 ---
-title: 開始使用API網格
-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解有關安裝AdobeApp Builder、處理項目、建立圖形反向代理等內容。
-landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解如何安裝AdobeIO、處理項目、建立圖形反向代理等。
-short-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]。 瞭解如何安裝AdobeIO、處理項目、建立圖形反向代理等。
+title: 開始使用API Mesh
+description: 瞭解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 瞭解如何安裝Adobe App Builder、使用專案、建立graphql反向Proxy等。
+landing-page-description: 瞭解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 瞭解如何安裝AdobeIO、使用專案、建立graphql反向Proxy等。
+short-description: 瞭解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 瞭解如何安裝AdobeIO、使用專案、建立graphql反向Proxy等。
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -15,38 +15,38 @@ ht-degree: 0%
 
 ---
 
-# 開始使用API網格
+# 開始使用API Mesh
 
-如果您剛剛學過Adobe Developer應用程式生成器的API Mesh,Adobe建議先從本介紹教程開始，然後再轉到其他視頻和教程。
+如果您是初次使用Adobe Developer App Builder的API Mesh，Adobe建議先從這個入門教學課程開始，然後再進行其他影片和教學課程。
 
-## 什麼是API Mesh
+## 什麼是API網格
 
-API Mesh將多個資料源組合在一起，以獲得單個響應供您的應用程式使用。
+API Mesh結合多個資料來源，為您的應用程式取得單一回應以供使用。
 
-[查看完整的API Mesh文檔](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[檢視完整的API網格檔案](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* API Mesh或 [!DNL Adobe Commerce] 經驗有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API Mesh。
+* 不熟悉API Mesh的開發人員或 [!DNL Adobe Commerce] 使用經驗有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API網格。
 
-## 視頻內容
+## 視訊內容
 
 * API網格概述
-* 指向供應文檔的連結
-* 結帳時進行即時庫存檢查的使用案例
-* 將開發工作和資源使用從您的商業應用程式中移開
+* 補充檔案的連結
+* 結帳時執行即時詳細目錄檢查的使用案例
+* 將開發工作與資源使用從您的商務應用程式中移開
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
-## 示例使用案例
+## 範例使用案例
 
-您的Commerce應用程式具有REST API和GraphQL終結點。 例如，您可以使用REST API應用特殊定價或GraphQL終結點來處理庫存狀態。 使用API Mesh，可以定義兩個端點、檢索資訊並將其作為一個響應返回到請求應用程式。
+您的商務應用程式有REST API和GraphQL端點。 例如，您可以使用REST API來套用特殊定價，或使用GraphQL端點來處理庫存狀態。 使用「API網格」，您可以定義兩個端點、擷取資訊，然後將其以一個回應的形式傳回給請求的應用程式。
 
-## 什麼是反向代理
+## 什麼是反向Proxy
 
-作為使用Adobe應用程式生成器和API Mesh的開發人員，不需要瞭解反向代理是什麼。 但是，如果您對與AdobeApp Builder相關的整體功能感興趣，請使用以下資源：
+身為使用AdobeApp Builder和API Mesh的開發人員，不必瞭解什麼是反向Proxy。 不過，如果您對與AdobeApp Builder相關的整體功能感興趣，請使用下列資源：
 
-* [什麼是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [什麼是反向代理，為什麼它重要](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [什麼是反向Proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [什麼是反向Proxy以及它為什麼重要](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

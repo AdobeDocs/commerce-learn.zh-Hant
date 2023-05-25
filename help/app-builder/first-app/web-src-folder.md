@@ -1,7 +1,7 @@
 ---
-title: Web-src資料夾
-description: 瞭解Web-src資料夾中的檔案類型以及此示例應用程式的嵌套檔案和資料夾。
-landing-page-description: 瞭解與Adobe Commerce一起使用的Adobe Developer應用程式生成器以及Web-src資料夾中的檔案類型。
+title: web-src資料夾
+description: 瞭解Web-src資料夾中的檔案型別，以及此範例應用程式的巢狀檔案和資料夾。
+landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及web-src資料夾中的檔案型別。
 kt: 12425
 doc-type: tutorial
 audience: all
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ---
 
-# 瞭解Web-src資料夾的用途 {#web-src-folder}
+# 探索web-src資料夾的用途 {#web-src-folder}
 
-此示例應用的Web-src資料夾包含許多JavaScript檔案和資料夾。 此資料夾用於具有用戶介面的應用程式。 並非所有應用程式都使用此功能。 例如，與外部庫存管理系統整合的Commerce可能不需要前端介面和代碼。
+此範例應用程式的web-src資料夾包含許多JavaScript檔案和資料夾。 此資料夾用於具有使用者介面的應用程式。 並非所有應用程式都使用此功能。 例如，與外部庫存管理系統的Commerce整合可能不需要前端介面和程式碼。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 剛到Adobe Commerce的開發人員，在使用Adobe應用程式構建器方面經驗有限，他們正在瞭解 `web-src` 資料夾及其內容。
+* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，他們正瞭解關於 `web-src` 資料夾及其內容。
 
-## 視頻內容
+## 視訊內容
 
-* 為什麼 `web-src` 資料夾？
-* 通常包括檔案和資料夾
-* 如何 `web-src` 資料夾和內部內容在示例應用程式中使用
+* 的主要用途為何 `web-src` 資料夾？
+* 通常包含檔案和資料夾
+* 如何 `web-src` 資料夾及其中的內容在範例應用程式中使用
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
-## 代碼示例
+## 程式碼範例
 
 web-src/src/components/Orders.js
 
@@ -124,7 +124,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-在下面的示例中，代碼示例為 `not` 限制請求。 要避免400錯誤，請使用 `searchCriteria`。
+在以下範例中，程式碼範例為 `not` 限制請求。 若要避免400錯誤，請使用縮小回應大小 `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

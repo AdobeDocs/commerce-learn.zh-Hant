@@ -1,6 +1,6 @@
 ---
-title: 管理貨幣和稅收規則
-description: 瞭解如何根據客戶和產品類別來設定貨幣和稅收規則，  [!DNL Commerce]  以計算適當的稅收。
+title: 管理幣別與稅捐規則
+description: 瞭解如何設定貨幣和稅捐規則，以 [!DNL Commerce] 會根據客戶與產品類別，使用計算適當的稅捐。
 kt: 10542
 doc-type: feature video
 audience: all
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# 管理貨幣和稅收規則
+# 管理幣別與稅捐規則
 
-稅務規則包含產品類別、客戶類別和稅率的組合。 每個客戶都指派給客戶類別，並為每個產品指派產品類別。 [!DNL Commerce] 會分析每個客戶的購物車，並依據客戶和產品類別、區域（根據發貨位址、帳單位址或傳送來源）來計算適當的稅款。
+稅捐規則包含產品類別、客戶類別及稅率的組合。 每個客戶都會被指派給一個客戶類別，而每個產品都會被指派一個產品類別。 [!DNL Commerce] 分析每個客戶的購物車，並根據客戶、產品類別和地區（根據送貨地址、帳單地址或送貨來源）計算適當的稅捐。
 
-## 此影片是誰？
+## 這部影片是給誰看的？
 
-- 商店管理員
+- 存放區管理員
 - 電子商務管理員
 
-## 影片內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343657?quality=12&learn=on)
 
 ## 其他資源
 
-- [稅收規則-  [!DNL Commerce]  商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [貨幣-  [!DNL Commerce]  商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [稅捐規則 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [貨幣 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

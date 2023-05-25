@@ -1,5 +1,5 @@
 ---
-title: " [!DNL Commerce] 企業使用者-屬性"
+title: '"[!DNL Commerce] 適用於企業使用者 — 屬性」'
 description: 瞭解產品的自訂和系統屬性。
 topic: Commerce
 kt: 5769
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 對於商業使用者-屬性
+# [!DNL Commerce] 適用於企業使用者 — 屬性
 
-在此影片中：
+在本影片中：
 
 - 系統屬性
 - 自訂屬性
 
-## 此影片是誰？
+## 這部影片是給誰看的？
 
-- 企業使用者
+- 商業使用者
 
-## 影片內容
+## 視訊內容
 
 >[!NOTE]
 >
->影片中的內容反映了2.3.1 版本。 如需更新版本的相關資訊，請參閱 [ 發行說明 ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 
 ## 其他資源
 
-[產品屬性概述-  [!DNL Commerce]  目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[產品屬性概觀 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

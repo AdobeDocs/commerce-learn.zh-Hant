@@ -1,6 +1,6 @@
 ---
-title: 開發商PWA Studio — 佩雷格林
-description: 瞭解Peregrine，包括Peregrine圖書館。 瞭解Peregrine背後​的動機和Peregrine鈎子和爪子的區別。
+title: 適用於開發人員的PWA Studio- Peregrine
+description: 瞭解Peregrine，包括Peregrine資料庫。 瞭解Peregrine背後的動機​，Peregrine鉤子和爪子之間的差異。
 topic: Development
 kt: 5649
 doc-type: video
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# 開發商PWA Studio — 佩雷格林
+# 適用於開發人員的PWA Studio- Peregrine
 
-在此視頻中：
+在本影片中：
 
 - Peregrine簡介
-- 佩雷格林圖書館
-- 理解佩雷格林背後的動機
-- Peregrine鈎子和爪子的區別
+- Peregrine資料庫
+- 瞭解Peregrine背後的動機
+- 區分Peregrine鉤子和爪子
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 前端開發商
-- 項目經理
+- 前端開發人員
+- 專案經理
 
-## 視頻內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35720?quality=12&learn=on)

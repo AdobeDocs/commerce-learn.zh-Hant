@@ -1,6 +1,6 @@
 ---
-title: 雲端基礎結構服務和網站啟動 Adobe Systems 商務
-description: 查看上線、DNS、TLS 和 Fastly 服務。 瞭解如何設定 DNS 以指向 Adobe Systems 商務執行個體的生產網域。
+title: 雲端基礎結構上的Adobe Commerce — 服務和網站啟動
+description: 檢閱上線、DNS、TLS和Fastly服務。 瞭解如何設定DNS以指向Adobe Commerce執行個體的生產網域。
 kt: 5661
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# 雲端基礎結構服務和網站啟動 Adobe Systems 商務
+# 雲端基礎結構上的Adobe Commerce — 服務和網站啟動
 
-在此影片中：
+在本影片中：
 
-- 查看上線、DNS、TLS 和 Fastly
-- 如何設定 DNS 以指向 Adobe Systems 商務的生產網域執行個體
+- 稽核上線、DNS、TLS和Fastly
+- 如何設定DNS以指向Adobe Commerce執行個體的生產網域
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)
 
 ## 其他資源
 
-[網站啟動-  [!DNL Commerce]  Cloud 基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)
+[網站啟動 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

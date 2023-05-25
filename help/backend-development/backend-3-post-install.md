@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 用於開發人員 — 安裝後」'
-description: 驗證並配置實例、設定u-mask 、安裝示例資料、設定正確的運行模式
+title: '"[!DNL Commerce] 適用於開發人員 — 安裝後」'
+description: 驗證及設定執行個體、設定u-mask、安裝範例資料、設定正確的執行模式
 kt: 5693
 doc-type: video
 topic: Development
@@ -16,28 +16,28 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 對於開發人員 — 安裝後
+# [!DNL Commerce] 適用於開發人員 — 安裝後
 
-在此視頻中：
+在本影片中：
 
-- 驗證並配置實例
-- 設定U-mask
-- 安裝示例資料
-- 設定運行模式
+- 驗證及設定您的執行個體
+- 設定u遮色片
+- 安裝範例資料
+- 設定執行模式
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
->拆分資料庫功能在2.4.2版中已棄用。
+>分割資料庫功能在2.4.2版本中已過時。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36195?quality=12&learn=on)
 
 ## 其他資源
 
 - [驗證安裝](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
-- [（可選）設定umask](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
-- [安裝示例資料](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
+- [選擇性設定收件者](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [安裝範例資料](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
 - [關於應用程式模式](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

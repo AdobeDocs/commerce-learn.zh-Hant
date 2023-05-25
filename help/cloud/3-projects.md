@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce雲基礎架構 — 項目和檔案
-description: 瞭解項目結構和檔案。 瞭解雲項目和所有必要儲存庫的檔案結構。
+title: 雲端基礎結構上的Adobe Commerce — 專案和檔案
+description: 瞭解專案結構和yaml檔案。 瞭解Cloud專案的檔案結構和所有必要的存放庫。
 kt: 5658
 doc-type: video
 audience: all
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce雲基礎架構 — 項目和檔案
+# 雲端基礎結構上的Adobe Commerce — 專案和檔案
 
-在此視頻中：
+在本影片中：
 
-- 瞭解雲項目的檔案結構和相關代碼儲存庫
-- 瞭解四個主要配置檔案
+- 瞭解雲端專案的檔案結構和相關的程式碼存放庫
+- 瞭解四個主要設定檔案
 
 >[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)
 
 ## 其他資源
 
-- [項目結構 —  [!DNL Commerce] 雲基礎架構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
-- [配置環境 —  [!DNL Commerce] 雲基礎架構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [專案結構 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [設定環境 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 用於開發人員 — 練習」'
-description: 實踐 [!DNL Commerce] 以五個有用的練習，
+title: '"[!DNL Commerce] 適用於開發人員 — 練習」'
+description: 實務 [!DNL Commerce] 包含五個實用練習的開發任務。
 kt: 5699
 doc-type: video
 topic: Development
@@ -16,27 +16,27 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 用於開發人員 — 練習
+# [!DNL Commerce] 開發人員適用的 — 練習
 
-在這段視頻中，有五個練習 [!DNL Commerce] 開發任務：
+在本影片中，有五個練習需要練習 [!DNL Commerce] 開發任務：
 
 - [!DNL Commerce] CLI
-- PHP作曲家
-- 更新實例
-- 修復損壞的模組
-- 編寫並運行PHPUnittest
-- 建立 [!DNL Admin] 頁
+- PHP撰寫器
+- 更新您的執行個體
+- 修正損壞的模組
+- 編寫和執行PHPUnit測試
+- 建立 [!DNL Admin] 頁面
 
 [練習檔案下載](./assets/FreeIntro2.3.1.zip)
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)
 
 ## 其他資源
 
-[擴展開發人員的最佳做法](https://developer.adobe.com/commerce/php/best-practices/)
+[擴充功能開發人員的最佳作法](https://developer.adobe.com/commerce/php/best-practices/)

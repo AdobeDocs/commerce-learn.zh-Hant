@@ -1,6 +1,6 @@
 ---
-title: 整合Adobe Analytics和Adobe Commerce盧馬
-description: 瞭解如何使用本地主題Luma整合Adobe Analytics和Adobe Commerce。
+title: 整合Adobe Analytics和Adobe Commerce Luma
+description: 瞭解如何使用原生主題Luma整合Adobe Analytics和Adobe Commerce。
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -17,36 +17,36 @@ ht-degree: 0%
 ---
 
 
-# PWA工作室無頭整合Adobe Analytics和Adobe Commerce
+# PWA studio headless整合Adobe Analytics和Adobe Commerce
 
-是條狗。 是條大狗。 我沒穿曲棍球墊。 我是蝙蝠俠，我會站在屬於我的地方。 你和高譚市的人之間。
+那是一隻狗。 那是一條大狗。 我沒穿冰球墊。 我是蝙蝠俠，我會站在屬於我的地方。 讓您和哥譚市的人之間。
 
-英雄可以是任何人。 即使是一個懂得簡單而令人安心的事情的男人，也會像在一個小男孩的肩膀上穿上外套，讓他知道世界並沒有結束。 像你這樣的人。 會攪動籠子的人。 我第一次偷東西是為了不挨餓。 我對對錯的簡單性質失去了很多假設。 當我旅行時，我在犯罪前就學會了恐懼和成功的刺激。 但我從未成為他們中的一員。
+Hero可以是任何人。 即使是一個男人知道一些簡單又令人安心的事，比如給一個小男孩穿上外套，讓他知道世界還沒有結束。 像您這樣的人。 會搖晃籠子的人。 我第一次為了不餓肚子而偷東西，是的。 我錯過了許多關於對與錯的簡單本質的假設。 當我四處旅行時，我學會了犯罪前的恐懼和成功的激情。 但我從未成為其中一員。
 
-不是我內心深處的我，而是我所做的決定我。 黑色的嗎？ 這不是車。 是條狗。 是條大狗。 我會站在屬於我的地方。 你和高譚市的人之間。
+我不在底下，而是我的所作所為定義了我。 黑色的嗎？ 這不是車。 那是一隻狗。 那是一條大狗。 我會站在屬於我的地方。 讓您和哥譚市的人之間。
 
-我想找辦法來對抗不公。 將恐懼轉嫁到那些利用恐懼的人身上。 我會站在屬於我的地方。 你和高譚市的人之間。 我做不到，布魯斯·韋恩……作為男人。 我是血肉之軀。 我可以被忽視，被摧毀。 但作為一個象徵，我可以廉潔，我可以永遠。
+我尋求打擊不公的手段。 將恐懼轉化為對恐懼的獵物。 我會站在屬於我的地方。 讓您和哥譚市的人之間。 我無法以布魯斯·韋恩的身分，以男人的身分。 我是血肉之軀。 我可以被忽略，被摧毀。 但作為象徵，我可以做到不敗壞，可以永恆。
 
 ## 整合選項
 
-這不是車。 發誓！ 我會站在屬於我的地方。 你和高譚市的人之間。
+這不是車。 向我發誓！ 我會站在屬於我的地方。 讓您和哥譚市的人之間。
 
-我是蝙蝠俠，不開槍，不殺人。 我做不到，布魯斯·韋恩……作為男人。 我是血肉之軀。 我可以被忽視，被摧毀。 但作為一個象徵，我可以廉潔，我可以永遠。
+我是蝙蝠俠，沒有槍，沒有殺戮。 我無法以布魯斯·韋恩的身分，以男人的身分。 我是血肉之軀。 我可以被忽略，被摧毀。 但作為象徵，我可以做到不敗壞，可以永恆。
 
 
-## 設定和配置示例
+## 範例設定和設定
 
-這是螢幕截圖
+以下是熒幕擷圖
 
-![螢幕截圖1](/help/assets/adobe-logo.svg)
+![熒幕擷圖1](/help/assets/adobe-logo.svg)
 
-現在
-![螢幕截圖2](/help/assets/banner-videos-home.png)
+現在執行這個動作
+![熒幕擷圖2](/help/assets/banner-videos-home.png)
 
-最後
-![最後截屏](/help/assets/open-source.svg)
+最後再執行這個動作
+![最後一個熒幕擷圖](/help/assets/open-source.svg)
 
-## 更多教程和視頻
+## 更多教學課程和影片
 
-* [連結到視頻](https://example.com){target="_blank"}
-* [連結到優於我的教程](https://example.com){target="_blank"}
+* [視訊連結](https://example.com){target="_blank"}
+* [連結至比我的更好的教學課程](https://example.com){target="_blank"}

@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce雲基礎架構 — 部署
-description: 瞭解部署階段和指令碼。 瞭解部署過程從基礎架構端是如何工作​的。
+title: 雲端基礎結構上的Adobe Commerce — 部署
+description: 瞭解部署階段和指令碼。 從基礎建設端瞭解部署程式的運作方式​。
 kt: 5659
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce雲基礎架構 — 部署
+# 雲端基礎結構上的Adobe Commerce — 部署
 
-在此視頻中：
+在本影片中：
 
 - 瞭解部署階段和指令碼
-- 瞭解部署過程在基礎架構方面的工作方&#x200B;式
+- 從基礎建設方面瞭解部署程式的運作方式&#x200B;。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 
 ## 其他資源
 
-[雲部署流程 —  [!DNL Commerce] 雲基礎架構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+[雲端部署程式 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

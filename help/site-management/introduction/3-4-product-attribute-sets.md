@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] 用於業務用戶 — 屬性集"
-description: 瞭解產品屬性集以及如何在目錄中使用它們。
+title: '"[!DNL Commerce] 企業使用者 — 屬性集」'
+description: 瞭解產品屬性集以及如何在目錄中加以使用。
 topic: Commerce
 kt: 5770
 doc-type: video
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 用於業務用戶 — 屬性集
+# [!DNL Commerce] 適用於業務使用者 — 屬性集
 
-在此視頻中：
+在本影片中：
 
 - 屬性集
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 業務用戶
+- 商業使用者
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.3.1版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 

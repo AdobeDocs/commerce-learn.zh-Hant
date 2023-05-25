@@ -1,6 +1,6 @@
 ---
-title: 更改儲存URL
-description: 瞭解如何更改 [!DNL Commerce] 將基URL儲存在管理中。
+title: 變更商店URL
+description: 瞭解如何變更您的 [!DNL Commerce] 將基本URL儲存在「管理員」中。
 kt: 5605
 doc-type: feature video
 role: Admin, Leader
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# 更改儲存URL
+# 變更商店URL
 
-Adobe Commerce或Magento Open Source安裝中的每個網站都有一個分配給店面的基本URL，以及另一個分配給管理員的URL。 您可以執行幾個簡單步驟來更改商店的基URL。
+Adobe Commerce或Magento Open Source安裝中的每個網站都有一個指派給店面的基本URL，以及一個指派給管理員的URL。 您可以依照幾個簡單的步驟來變更商店的基本URL。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-- 儲存管理員
+- 存放區管理員
 - 網站管理員
 
-## 視頻內容
+## 視訊內容
 
 >[!NOTE]
 >
->視頻中的內容反映了2.1.0版。 有關以後版本中更新的資訊，請參見 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.1.0版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## 其他資源
 
-- [儲存URL - [!DNL Commerce] 商店和採購體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [使用自定義管理URL - [!DNL Commerce] 商店和採購體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [商店URL - [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [使用自訂管理員URL - [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

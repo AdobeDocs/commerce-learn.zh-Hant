@@ -1,7 +1,7 @@
 ---
 title: 結論
-description: 瞭解有關App Builder的詳細資訊，請轉至何處。
-landing-page-description: 瞭解有關App Builder的詳細資訊，請轉至何處。
+description: 瞭解如何前往，以取得App Builder的詳細資訊。
+landing-page-description: 瞭解如何前往，以取得App Builder的詳細資訊。
 kt: 12428
 doc-type: tutorial
 audience: all
@@ -16,26 +16,26 @@ ht-degree: 0%
 
 # 結論 {#conclusion}
 
-既然您已構建了第一個Adobe Developer應用程式構建器應用程式，請瞭解Adobe提供的其他資源。
+現在您已建立第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
 
-## 這段錄像是給誰的？
+## 這部影片是給誰看的？
 
-* 剛進入Adobe Commerce的開發人員，使用Adobe應用構建器的經驗有限，他們已完成了第一個Adobe Developer應用構建器應用，並準備了瞭解更多資訊。
+* 剛開始使用Adobe Commerce、但使用AdobeApp Builder經驗有限的開發人員，已完成其第一個Adobe Developer App Builder應用程式，且已準備好了解更多。
 
-## 視頻內容
+## 視訊內容
 
 * 其他資源
-* 與其他開發者連接的方法
-* 結束注釋
+* 連線至其他開發人員的方法
+* 關閉註解
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
 
 ## 其他App Builder資源
 
-* [Adobe Developer應用程式生成器](https://developer.adobe.com/app-builder/){target="_blank"}
-* [Adobe Developer應用程式生成器試用版](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Adobe Developer應用生成器文檔](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe DeveloperApp Builder論壇](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
-* [Adobe DeveloperApp Builder貢獻准則](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
+* [Adobe Developer App Builder試用版](https://developer.adobe.com/app-builder/trial/){target="_blank"}
+* [Adobe Developer App Builder檔案](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Adobe Developer App Builder論壇](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [Adobe Developer App Builder貢獻准則](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

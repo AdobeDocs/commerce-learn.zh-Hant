@@ -1,6 +1,6 @@
 ---
-title: " [!DNL Commerce] for business 使用者-分層導覽"
-description: 在您  [!DNL Commerce]  的商店中啟用階層式導覽，以便客戶能夠輕鬆、迅速地找到產品。
+title: '"[!DNL Commerce] 適用於企業使用者 — 分層導覽」'
+description: 啟用中的分層導覽 [!DNL Commerce] 讓客戶輕鬆快速地找到產品。
 topic: Commerce
 kt: 5775
 doc-type: video
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 對於商業使用者-分層導覽
+# [!DNL Commerce] 適用於企業使用者 — 分層導覽
 
-在此影片中：
+在本影片中：
 
 - 啟用分層導覽
 
-## 此影片是誰？
+## 這部影片是給誰看的？
 
-- 企業使用者
+- 商業使用者
 
-## 影片內容
+## 視訊內容
 
 >[!NOTE]
 >
->影片中的內容反映了2.3.1 版本。 如需更新版本的相關資訊，請參閱 [ 發行說明 ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 
 ## 其他資源
 
-[分層導覽  [!DNL Commerce]  目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)
+[分層導覽 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)
