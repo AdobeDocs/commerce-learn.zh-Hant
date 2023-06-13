@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程瞭解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [管理共用目錄](../b2b/shared-catalogs.md)
    + [管理公司信用](../b2b/company-credit.md)
    + [採購單與核准](../b2b/purchase-orders.md)
+   + 引用 {#b2b-quote}
+      + [銷售代表啟動報價](../b2b/sales-rep-initiates-quote.md)
+      + [來自管理員的報價驗證](../b2b/quote-validation-admin-panel.md)
+      + [銷售代表啟動報價單REST API](../b2b/sales-rep-initiates-quote-api.md)
+      + [報價單明細專案折扣](../b2b/quote-line-item-discount.md)
+      + [報價明細專案備註](../b2b/quote-line-item-notes.md)
+      + [報價明細專案折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [報價明細專案折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
 + 工具與外部服務 {#tools}
    + [全網站分析工具儀表板](../tools/site-wide-analysis-tool.md)
    + [Adobe Commerce的觀察](../tools/observation-tool.md)
