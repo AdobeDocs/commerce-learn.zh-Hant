@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程瞭解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: b8dd6c146735721612d55365e9559c925953f062
+source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '695'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,6 @@ ht-degree: 0%
       + [4 — 部署](../cloud/4-deployment.md)
       + [5 — 開發](../cloud/5-dev-config.md)
       + [6 — 服務和DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] 適用於開發人員 {#development}
-      + [1.1 — 概觀](../backend-development/backend-1-1-overview.md)
-      + [1.2 — 開發工作流程](../backend-development/backend-1-2-workflow.md)
-      + [2 — 安裝](../backend-development/backend-2-install.md)
-      + [3 — 安裝後](../backend-development/backend-3-post-install.md)
-      + [4 — 程式碼基底](../backend-development/backend-4-code-base.md)
-      + [5.1 — 開發基本知識](../backend-development/backend-5-1-dev-basics.md)
-      + [5.2 — 宣告式結構描述](../backend-development/backend-5-2-declarative-schema.md)
-      + [5.3 — 路由](../backend-development/backend-5-3-routing.md)
-      + [5.4 — 建立 [!DNL Admin] 頁面](../backend-development/backend-5-4-admin-page.md)
-      + [6 — 練習](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] 適用於企業使用者 {#merchants}
       + [1.1 - [!DNL Admin] 選單](../site-management/introduction/1-1-menus.md)
       + [1.2 — 資料網格](../site-management/introduction/1-2-data-grids.md)
