@@ -1,17 +1,17 @@
 ---
-title: MBI - SQLREPORT BUILDER
-description: 瞭解如何使用MBI SQLReport Builder直接查詢您的資料倉儲、檢視結果，並快速將其轉換為圖表。
-landing-page-description: 觀看此影片以瞭解如何使用MBI SQLReport Builder直接查詢您的資料倉儲、檢視結果，以及快速將其轉換為圖表。
-short-description: 觀看此影片以瞭解如何使用MBI SQLReport Builder直接查詢您的資料倉儲、檢視結果，以及快速將其轉換為圖表。
+title: Commerce Intelligence - SQLReport Builder
+description: 瞭解如何使用Commerce Intelligence SQLReport Builder直接查詢您的資料倉儲、檢視結果，並快速將其轉換為圖表。
+landing-page-description: 觀看此影片，瞭解如何使用Commerce Intelligence SQLReport Builder直接查詢您的資料倉儲、檢視結果，並快速將其轉換為圖表。
+short-description: 觀看此影片，瞭解如何使用Commerce Intelligence SQLReport Builder直接查詢您的資料倉儲、檢視結果，並快速將其轉換為圖表。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ SQLReport Builder可讓您直接查詢資料倉儲、檢視結果，以及快速
 
 >[!TIP]
 >
->若您為MBI的新手， [快速入門影片系列](1-overview.md) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您是初次使用Commerce Intelligence，您可以 [Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
 
 ## 這部影片是給誰看的？
 
@@ -45,6 +45,6 @@ SQLReport Builder可讓您直接查詢資料倉儲、檢視結果，以及快速
 
 ## 有用的資源
 
-[使用SQLReport Builder- MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[使用SQLReport Builder- Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Creating Visualizations from SQL Queries - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[從SQL查詢建立視覺效果 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

@@ -1,24 +1,24 @@
 ---
-title: MBI — 篩選集
-description: 瞭解如何使用MBI篩選集功能，簡化Adobe Commerce和Magento Open Source的業務資料報告。
-landing-page-description: 觀看此影片，瞭解如何使用MBI篩選器集功能來簡化業務資料報告。
-short-description: 觀看此影片，瞭解如何使用MBI篩選器集功能來簡化業務資料報告。
+title: Commerce Intelligence — 篩選集
+description: 瞭解如何使用Commerce Intelligence篩選器集功能，簡化Adobe Commerce和Magento Open Source的業務資料報告。
+landing-page-description: 觀看此影片，瞭解如何使用Commerce Intelligence篩選器集功能來簡化業務資料報告。
+short-description: 觀看此影片以瞭解如何使用MBCommerce IntelligenceI篩選集功能來簡化業務資料報告。
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-# MBI — 篩選集
+# Commerce Intelligence — 篩選集
 
-您只想分析某些業務資料片段嗎？ 厭倦了進行手動清理？ 在MBI中，您可以使用篩選集合功能來簡化此程式。
+您只想分析某些業務資料片段嗎？ 厭倦了進行手動清理？ 在Commerce Intelligence中，您可以使用篩選集合功能來簡化此程式。
 
 在本影片中：
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->若您為MBI的新手， [快速入門影片系列](1-overview.md) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您是初次使用Commerce Intelligence，您可以 [Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
 
 ## 這部影片是給誰看的？
 
@@ -42,6 +42,6 @@ ht-degree: 0%
 
 ## 有用的資源
 
-[建立篩選器集 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[建立篩選器集 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[分段和篩選的建議資料Dimension- MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[分段和篩選的建議資料Dimension- Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

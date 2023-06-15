@@ -2,9 +2,9 @@
 user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程瞭解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
-source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -117,31 +117,11 @@ ht-degree: 0%
    + [品質修補工具](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [尋找惡意IP](../new-relic/malicious-ip.md)
-+ MBI {#mbi}
++ Commerce Intelligence {#mbi}
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [為未來做準備](../business-intelligence/prepare-for-future.md)
-   + 網路研討會影片 {#webinars}
-      + [MBI快速入門](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
-      + [在MBI中管理資料集](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
-      + [最佳化您的MBIData Warehouse](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
-      + [MBI儀表板深入探討](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
-      + [MBI假日整備](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
-      + [MBI — 詢問專家](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
-   + MBI影片系列簡介 {#introduction}
-      + [概觀](../business-intelligence/1-overview.md)
-      + [資料倉儲](../business-intelligence/2-data-warehousing.md)
-      + [建置報告](../business-intelligence/3-build-reports.md)
-      + [量度](../business-intelligence/4-metrics.md)
-      + [標準報表](../business-intelligence/5-standard-reports.md)
-      + [執行摘要](../business-intelligence/6-executive-summary-dashboard.md)
-      + [訂單儀表板](../business-intelligence/7-orders-dashboard.md)
-      + [以客戶為中心的儀表板](../business-intelligence/8-customer-focused-dashboards.md)
-      + [類別分析](../business-intelligence/9-category-analysis.md)
-      + [投資報酬率追蹤](../business-intelligence/10-roi-tracking.md)
-      + [共用結果和匯出資料](../business-intelligence/11-share-results-export-data.md)
-      + [客戶成功案例](../business-intelligence/12-customer-success.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2.4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
