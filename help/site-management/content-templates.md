@@ -2,11 +2,15 @@
 title: 建立內容範本
 description: 瞭解範本如何在建立內容或取代舊內容時節省時間和精力。
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Native Luma Frontend Development
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

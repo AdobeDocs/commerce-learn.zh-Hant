@@ -7,8 +7,12 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
+feature: GraphQL
+topic: Commerce, Architecture, Headless
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -40,7 +44,7 @@ GraphQL可讓使用者端用表達的方式描述 _完全符合_ 所需的資料
 
 * [Altair](https://altairgraphql.dev/){target="_blank"} 是專為GraphQL打造的優秀且功能齊全的使用者端。 Adobe在逐步說明影片中使用Altair。
 * 如果您不想安裝案頭應用程式，還有可在
-   [鉻黃](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 瀏覽器。
+  [鉻黃](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 瀏覽器。
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} 是來自GraphQL Foundation的GraphQL IDE實作。 這不是可安裝的工具，而是您可以自行用來建置介面的套件。
 * 如果您已經熟悉 [Postman](https://www.postman.com/){target="_blank"}，雖然不如專用的GraphQL使用者端具備完整功能，但已相當支援GraphQL查詢。
 

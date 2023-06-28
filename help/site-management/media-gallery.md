@@ -2,11 +2,15 @@
 title: 管理媒體集
 description: 瞭解如何使用新的增強型媒體收藏集來整理和管理伺服器上的媒體檔案。
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

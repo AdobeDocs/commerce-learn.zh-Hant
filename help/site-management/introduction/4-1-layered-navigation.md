@@ -1,13 +1,16 @@
 ---
 title: '"[!DNL Commerce] 適用於企業使用者 — 分層導覽」'
 description: 啟用中的分層導覽 [!DNL Commerce] 讓客戶輕鬆快速地找到產品。
-topic: Commerce
 kt: 5775
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Native Luma Frontend Development, Site Navigation
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

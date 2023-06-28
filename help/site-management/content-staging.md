@@ -2,12 +2,16 @@
 title: 內容分段
 description: 瞭解如何直接從管理員為您的商店建立、預覽和排程各種內容更新。
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
 badge: label="Only in Adobe Commerce" type="Positive"
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Staging
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 884f7b71c9996d29d1c8eb07a30c445338b660f0
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

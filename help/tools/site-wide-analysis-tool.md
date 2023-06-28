@@ -2,11 +2,15 @@
 title: 全網站分析工具儀表板
 description: 觀看此技術影片，瞭解如何使用全網站分析工具儀表板來存取詳細的系統分析和建議，以確保您的Adobe Commerce安裝的安全性和可操作性。
 doc-type: technical video
-role: Developer, Admin
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Security, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer, Admin
+level: Beginner, Intermediate
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

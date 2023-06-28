@@ -3,10 +3,14 @@ title: 管理相關產品規則
 description: 瞭解如何呈現目標選擇的產品，以將客戶儲存為相關產品、向上銷售和交叉銷售。
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

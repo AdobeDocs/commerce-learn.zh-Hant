@@ -1,13 +1,16 @@
 ---
 title: '"[!DNL Commerce] 適用於企業使用者 — 網站、商店和檢視」'
 description: 瞭解的基礎知識 [!DNL Commerce] 架構，包括網站、商店、商店檢視和應用程式範圍之間的差異。 瞭解索引和快取。
-topic: Commerce
 kt: 5760
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

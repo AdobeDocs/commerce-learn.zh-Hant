@@ -1,13 +1,16 @@
 ---
 title: '"[!DNL Commerce] 適用於企業使用者 — 店面」'
 description: 瞭解店面的客戶體驗，包括建立帳戶、願望清單，以及將願望清單專案新增到購物車
-topic: Commerce
 kt: 5778
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Customers, Native Luma Frontend Development, Page Content, Site Navigation
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
