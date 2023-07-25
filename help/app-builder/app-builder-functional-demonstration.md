@@ -12,9 +12,9 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9991718a0c619bcf15e9de3102f8e77539bb588b
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,8 @@ ht-degree: 0%
 
 若要進一步瞭解如何搭配App Builder使用Adobe Commerce，請觀看以下影片，以瞭解如何將Adobe Commerce連結至Amazon賣家中心。 此示範使用App Builder所使用的Adobe Commerce事件，以持續整合Amazon Marketplace。 此功能示範會說明此整合的運作方式，並探索AdobeApp Builder的潛力。
 
->[!IMPORTANT]
->
->AmazonSales Channel擴充功能仍在開發中，尚未正式發行。  這些影片和教學課程旨在示範如何將Adobe Developer App Builder用於實際使用案例。
-
 ## 適用於Adobe Commerce的App Builder {#app-builder-functional-demonstration}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413502?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}
