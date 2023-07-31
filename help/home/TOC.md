@@ -3,9 +3,9 @@ user-guide-title: 影片和Tutorials
 user-guide-description: 透過影片和教學課程瞭解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 影片和Tutorials
 solution: Commerce
-source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
+source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
    + [將應用程式提交至市集](../app-builder/submit-app-process.md)
    + 建立您的第一個App Builder應用程式 {#first-app}
       + [概觀](../app-builder/first-app/overview.md)
-      + [產生和設定.env檔案](../app-builder/first-app/env-file.md)
+      + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
       + [app.config.yaml檔案的說明和使用方式](../app-builder/first-app/app-config-yaml-file.md)
       + [瞭解動作資料夾](../app-builder/first-app/actions-folder.md)
       + [瞭解測試資料夾](../app-builder/first-app/test-folder.md)
@@ -48,16 +48,16 @@ ht-degree: 0%
    + Adobe Commerce的IO事件 {#io-events}
       + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
       + [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
-      + [建立App Builder專案](../io-events/create-app-builder-project.md)
+      + [建立應用程式建置器專案](../io-events/create-app-builder-project.md)
       + [設定Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
       + [Adobe Commerce條件事件](../io-events/conditional-events.md)
    + API網格 {#api-mesh}
       + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
       + [安裝AdobeIO和網狀外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
-      + [使用專案和工作區](../api-mesh/aio-projects-workspaces.md)
+      + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
       + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
-      + [建立多來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
+      + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 + 存放區管理 {#admin}
    + [管理使用者角色和許可權](../site-management/users-roles-permissions.md)
    + [雙因素驗證](../site-management/two-factor-authentication.md)
@@ -72,12 +72,12 @@ ht-degree: 0%
    + [建立客戶屬性](../site-management/customer-attributes.md)
    + [賣家輔助購物](../site-management/seller-assisted-shopping.md)
 + 目錄管理 {#catalog}
-   + [Adobe Commerce的目錄服務](../site-management/catalog-service.md)
+   + [適用於Adobe Commerce的目錄服務](../site-management/catalog-service.md)
    + [建立類別](../site-management/category-create.md)
    + [管理類別中的產品](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
    + [建立產品屬性](../site-management/product-attributes-create.md)
-   + [使用產品屬性搭配PWA Studio](../site-management/product-attributes-pwa.md)
+   + [使用具有PWA Studio的產品屬性](../site-management/product-attributes-pwa.md)
    + [管理SEO中繼資料](../site-management/seo-metadata.md)
    + [管理SEO的URL重寫](../site-management/seo-url-rewrites.md)
 + 內容管理 {#content}
@@ -93,27 +93,27 @@ ht-degree: 0%
    + [管理相關產品規則](../site-management/related-product-rules.md)
    + [設定產品Recommendations](../site-management/product-recommendations.md)
    + [Live Search簡介](../site-management/live-search.md)
-   + [建議的「即時搜尋」](../site-management/live-search-recommendations.md)
+   + [Recommendations的即時搜尋](../site-management/live-search-recommendations.md)
    + [即時搜尋完整示範](../site-management/live-search-full-demonstration.md)
 + 訂單與履行 {#orders}
-   + [商店履行概要](../site-management/store-fulfillment.md)
+   + [商店履行概觀](../site-management/store-fulfillment.md)
    + [管理訂單狀態](../site-management/order-status.md)
-+ Adobe Commerce的B2B {#b2b}
++ 適用於Adobe Commerce的B2B {#b2b}
    + [管理公司帳戶](../b2b/company-accounts.md)
    + [管理共用目錄](../b2b/shared-catalogs.md)
-   + [管理公司信用](../b2b/company-credit.md)
+   + [管理公司評價](../b2b/company-credit.md)
    + [採購單與核准](../b2b/purchase-orders.md)
    + 引用 {#b2b-quote}
-      + [銷售代表啟動報價](../b2b/sales-rep-initiates-quote.md)
+      + [銷售代表啟動報價單](../b2b/sales-rep-initiates-quote.md)
       + [來自管理員的報價驗證](../b2b/quote-validation-admin-panel.md)
       + [銷售代表啟動報價單REST API](../b2b/sales-rep-initiates-quote-api.md)
       + [報價單明細專案折扣](../b2b/quote-line-item-discount.md)
       + [報價明細專案備註](../b2b/quote-line-item-notes.md)
       + [報價明細專案折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
-      + [報價明細專案折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
+      + [報價單明細專案折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
 + 工具與外部服務 {#tools}
    + [全網站分析工具儀表板](../tools/site-wide-analysis-tool.md)
-   + [Adobe Commerce的觀察](../tools/observation-tool.md)
+   + [Adobe Commerce的觀察結果](../tools/observation-tool.md)
    + [品質修補工具](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [尋找惡意IP](../new-relic/malicious-ip.md)
@@ -121,7 +121,7 @@ ht-degree: 0%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [為未來做準備](../business-intelligence/prepare-for-future.md)
+   + [為未來做好準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2.4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
@@ -132,9 +132,10 @@ ht-degree: 0%
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
-   + [Galera叢集複製緩慢](../backend-development/galera-db-slow-replication.md)
+   + [Galera叢集緩慢復寫](../backend-development/galera-db-slow-replication.md)
+   + [MySQL查詢快取](../backend-development/mysql-query-cache.md)
 + 原生前端Luma開發 {#frontend-development}
-   + 適用於開發人員的Page Builder {#page-builder}
+   + 適用於開發人員的頁面產生器 {#page-builder}
       + [1 — 簡介](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 — 設定和內容](../frontend-development/page-builder/2-config-create-content.md)
       + [3 — 主題](../frontend-development/page-builder/3-themes.md)
@@ -143,16 +144,15 @@ ht-degree: 0%
       + [6 — 自訂內容型別](../frontend-development/page-builder/6-custom-content-types.md)
    + [新增JavaScript模組](../frontend-development/add-javascript-module.md)
    + [建立頁面](../frontend-development/create-page.md)
-
 + Headless架構 {#headless-architecture}
    + Headless簡介 {#introduction-to-headless}
-      + [Headless架構 — 第1場會議](../headless/session-1.md)
+      + [Headless架構 — 第1階段](../headless/session-1.md)
    + PWA Studio簡介 {#introduction}
       + [1 — 概觀](../pwa/introduction/1-overview.md)
       + [2 -PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 — 啟動](../pwa/introduction/3-launch.md)
       + [4 — 向上](../pwa/introduction/4-upward.md)
       + [5 — 快速入門](../pwa/introduction/5-getting-started.md)
-      + [6 — 游泳](../pwa/introduction/6-peregrine.md)
+      + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
    + [PWADocker開發](../pwa/pwa-docker-development.md)
    + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
