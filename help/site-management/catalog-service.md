@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce的目錄服務
+title: 適用於Adobe Commerce的目錄服務
 description: 瞭解如何安裝和測試目錄服務。
 doc-type: feature video
 audience: all
@@ -11,20 +11,20 @@ level: Beginner, Intermediate
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 hidefromtoc: true
 hide: true
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 14c981835752b1cc370679559a0294088e4a3d9c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce的目錄服務
+# 適用於Adobe Commerce的目錄服務
 
-Adobe Commerce的目錄服務是多租使用者SaaS功能，提供唯讀目錄資料以支援店面購物體驗。 透過GraphQL API消耗，提供新的API查詢來提升效能及改善目錄資料擷取的擴充性。
+Adobe Commerce的目錄服務是多租使用者SaaS功能，提供唯讀目錄資料以支援店面購物體驗。 可透過GraphQL API消耗，提供新的API查詢來提升效能及改善目錄資料擷取的擴充性。
 
 在本影片中：
 
-- 如何下載和安裝目錄服務
+- 如何下載及安裝目錄服務
 - 如何測試功能
 
 ## 這部影片是給誰看的？
@@ -45,4 +45,4 @@ Adobe Commerce的目錄服務是多租使用者SaaS功能，提供唯讀目錄�
 ## 其他資源
 
 - [Adobe Commerce的目錄服務指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
-- [#storefront-services社群Slack頻道](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)
+
