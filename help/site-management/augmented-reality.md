@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace中可用的AR檢視器
-source-git-commit: 3561fe3635d823853df3b99b9bb4695a72e42db4
+source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,6 @@ AR檢視器提供給 [!DNL bridge] 實體零售和數位零售之間的鴻溝，
 ## 有用的資源
 
 [Adobe Commerce的AR檢視器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[AR檢視器需求](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-requirements.html){target="_blank"}
 [使用Adobe Commerce的AR Viewer管理產品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Adobe Commerce Marketplace擴充功能
