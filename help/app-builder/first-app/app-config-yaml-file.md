@@ -2,7 +2,7 @@
 title: app.config.yaml檔案
 description: 瞭解此範例應用程式的app.config.yaml檔案中的檔案型別。
 landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及app.config.yaml中有哪些型別的檔案。
-kt: 12429
+kt: 12929
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
@@ -11,7 +11,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: ee3e25c0b697f2e434f866932771cb7e4084fd9e
+source-git-commit: 01eb2abc854e7de4b3bbca9c0cd4d09ec43f9bf2
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
