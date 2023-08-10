@@ -4,16 +4,17 @@ description: 瞭解Adobe Commerce中B2B報價的明細專案折扣
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
+kt: 13797
+badge: label="適用於Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 4491e81c-7c78-4d01-a79b-190a1f2c72d9
-source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
+source-git-commit: 155cfb6de73ef0a0fc8709b973ae4025b2e0042b
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 # B2B銷售報價單明細專案折扣
 
 {{b2b-feature}}
-瞭解如何使用明細專案折扣，並使用Adobe Commerce管理員檢視值。
+瞭解如何使用條列專案折扣，並使用Adobe Commerce管理員檢視值。
 
 ## 這部影片是給誰看的？
 
