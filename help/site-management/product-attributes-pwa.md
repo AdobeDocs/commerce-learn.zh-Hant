@@ -1,25 +1,26 @@
 ---
-title: 使用產品屬性搭配PWA Studio
+title: 使用具有PWA Studio的產品屬性
 description: 瞭解如何使用PWA Studio管理產品屬性。
 doc-type: feature video
 audience: all
 activity: use
+kt: 13789
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 3eff251283f1a6c5dc2bff8d72bd494d7446db79
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# 使用產品屬性搭配PWA Studio
+# 使用具有PWA Studio的產品屬性
 
-在本影片中，瞭解當您擁有以PWA Studio建立的店面時，如何管理產品屬性。
+在本影片中，瞭解如何使用PWA Studio建立店面時管理產品屬性。
 
 ## 這部影片是給誰看的？
 
