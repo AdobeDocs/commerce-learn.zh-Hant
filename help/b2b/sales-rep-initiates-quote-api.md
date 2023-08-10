@@ -1,27 +1,28 @@
 ---
 title: 銷售代表使用REST API起始B2B報價單
-description: 瞭解銷售代表如何從Adobe Commerce REST API起始報價。
+description: 瞭解銷售代表如何從Adobe Commerce REST API起始報價單。
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
+kt: 13797
+badge: label="適用於Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 6ec1952f-3c8f-4159-a3a9-d02abcd6c1d4
-source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
+source-git-commit: eb39133e0cf36785745b13ae7c11e0ad0ff3bf14
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# 銷售代表使用REST API起始報價
+# 銷售代表使用REST API啟動報價單
 
 {{b2b-feature}}
-瞭解銷售代表如何從Adobe Commerce REST API起始報價。
+瞭解銷售代表如何從Adobe Commerce REST API起始報價單。
 
 ## 這部影片是給誰看的？
 
