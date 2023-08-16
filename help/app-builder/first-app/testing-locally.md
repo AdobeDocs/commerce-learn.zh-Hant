@@ -24,11 +24,11 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce、但使用AdobeApp Builder經驗有限的開發人員，已準備好測試自己的第一個Adobe Developer App Builder應用程式。
+* 剛開始使用Adobe Commerce的開發人員，在使用AdobeApp Builder方面經驗有限，現在已準備好測試自己的第一個Adobe Developer App Builder應用程式。
 
 ## 視訊內容
 
-* 不同等級的測試
+* 不同層級的測試
 * 單元測試
 * E2E測試
 * 手動測試

@@ -1,6 +1,6 @@
 ---
 title: 建立產品屬性
-description: 建立一個傳回json的頁面，並帶有一個引數。
+description: 建立一個傳回json的頁面，並包含一個引數。
 kt: 5602
 doc-type: video
 activity: use
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 在本影片中：
 
-- 使用可能的值新增名為clothing_material的屬性：棉花、皮革、絲綢、牛仔布、毛皮和羊毛
-- 以粗體文字將此屬性顯示在產品檢視頁面上
+- 新增名為clothing_material的屬性，其可能值為：棉花、皮革、絲綢、牛仔布、毛皮和羊毛
+- 以粗體文字在產品檢視頁面上顯示此屬性
 - 將其指派給預設屬性集並新增限制
 - 新增屬性
 

@@ -1,5 +1,5 @@
 ---
-title: Commerce Intelligence — 篩選集
+title: Commerce Intelligence — 篩選器集
 description: 瞭解如何使用Commerce Intelligence篩選器集功能，簡化Adobe Commerce和Magento Open Source的業務資料報告。
 landing-page-description: 觀看此影片，瞭解如何使用Commerce Intelligence篩選器集功能來簡化業務資料報告。
 short-description: 觀看此影片以瞭解如何使用MBCommerce IntelligenceI篩選集功能來簡化業務資料報告。
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ---
 
-# Commerce Intelligence — 篩選集
+# Commerce Intelligence — 篩選器集
 
-您只想分析某些業務資料片段嗎？ 厭倦了進行手動清理？ 在Commerce Intelligence中，您可以使用篩選集合功能來簡化此程式。
+您只想分析某些業務資料片段嗎？ 厭倦了進行手動清理？ 在Commerce Intelligence中，您可以使用篩選器集功能來簡化此程式。
 
 在本影片中：
 
 - 建立篩選器集
 - 使用篩選器運運算元
-- 套用篩選器集至量度
+- 將篩選器集套用至量度
 - 套用篩選器集至計算的資料維度
 
 >[!TIP]
@@ -38,8 +38,8 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
-- 資料分析人員
+- 業務使用者
+- 資料分析師
 
 ## 視訊內容
 

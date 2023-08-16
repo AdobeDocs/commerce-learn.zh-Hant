@@ -20,18 +20,18 @@ ht-degree: 0%
 
 # 新增網站、商店和商店檢視
 
-每個Adobe Commerce和Magento Open Source安裝都支援網站、商店和商店檢視的層次結構。 根據您的業務需求建置和擴展此階層。
+每個Adobe Commerce和Magento Open Source安裝都支援網站、商店和商店檢視的層次結構。 根據您的業務需求建置和展開此階層。
 
 ## 這部影片是給誰看的？
 
-- 存放區管理員
+- 商店管理員
 - 網站管理員
 
 ## 視訊內容
 
 >[!NOTE]
 >
->影片內容反映2.1.0版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.1.0版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 

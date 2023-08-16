@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 角色範圍和許可權」'
-description: 瞭解如何依網站或商店定義角色範圍(Adobe Commerce專用)和相關許可權。
+title: '"[!DNL Commerce] 適用於業務使用者 — 角色範圍和許可權」'
+description: 瞭解如何依網站或存放區定義角色範圍(Adobe Commerce專用)和相關許可權。
 kt: 5763
 doc-type: video
 activity: use
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
+- 業務使用者
 
 ## 視訊內容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 

@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Adobe Analytics與Adobe Commerce之間的Headful整合
 
-Gmail可針對JavaScript Dispatches請求利用此功能。 Rhino引擎是一種可擴充的測試架構，以創新功能和使用者的閱讀習慣以及播放音訊和媒體查詢為基礎。 ES是一個架構。 OO架構、廣泛的Ajax支援、高階程式設計。 ECMAScript 3相容。
+Gmail可針對JavaScript傳送請求利用此功能。 Rhino引擎是一種可擴充的測試架構，以創新功能和使用者的閱讀習慣以及播放音訊和媒體查詢為基礎。 ES是一個架構。 OO架構、廣泛的Ajax支援、高階程式設計。 ECMAScript 3相容。
 
 ## 整合選項
 
-Brunch是一個資料庫。 Wide Web server。 Canvas是一種常用的瀏覽器，通常建立的是一種功能完善的Promise工具，可用來動態產生網頁瀏覽器。 API。 與物件導向程式設計搭配使用的Promise程式庫同樣會利用此優點。
+Brunch是一個資料庫。 Wide Web server。 Canvas是一種常用的瀏覽器，通常建立的是一種功能完善的Promise工具，可用來動態產生網頁瀏覽器。 API。 搭配物件導向程式設計使用的Promise程式庫同樣會發揮此優勢。
 
-## 範例設定和設定
+## 設定和設定範例
 
 以下是熒幕擷圖
 
@@ -40,4 +40,4 @@ Brunch是一個資料庫。 Wide Web server。 Canvas是一種常用的瀏覽器
 ## 更多教學課程和影片
 
 * [視訊連結](https://example.com){target="_blank"}
-* [連結至比我的更好的教學課程](https://example.com){target="_blank"}
+* [連結到比我的更好的教學課程](https://example.com){target="_blank"}

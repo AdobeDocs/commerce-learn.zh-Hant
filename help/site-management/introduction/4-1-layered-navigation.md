@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 分層導覽」'
-description: 啟用中的分層導覽 [!DNL Commerce] 讓客戶輕鬆快速地找到產品。
+title: '"[!DNL Commerce] 適用於業務使用者 — 階層導覽」'
+description: 啟用中的分層導覽 [!DNL Commerce] 市集，方便客戶輕鬆快速地找到產品。
 kt: 5775
 doc-type: video
 activity: use
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 分層導覽
+# [!DNL Commerce] 適用於業務使用者 — 階層導覽
 
 在本影片中：
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
+- 業務使用者
 
 ## 視訊內容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 

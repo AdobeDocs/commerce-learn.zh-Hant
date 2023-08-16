@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，想要瞭解 `test` 資料夾。
+* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，希望深入瞭解 `test` 資料夾。
 
 ## 視訊內容
 

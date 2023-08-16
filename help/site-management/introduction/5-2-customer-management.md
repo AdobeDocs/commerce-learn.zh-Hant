@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 客戶管理」'
+title: '"[!DNL Commerce] 適用於業務使用者 — 客戶管理」'
 description: 瞭解客戶服務的建議許可權，在中建立客戶 [!DNL Admin]、管理客戶資訊和建立客戶群組。
 kt: 5779
 doc-type: video
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 客戶管理
+# [!DNL Commerce] 適用於業務使用者 — 客戶管理
 
 在本影片中：
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
+- 業務使用者
 
 ## 視訊內容
 

@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # 結論 {#conclusion}
 
-現在您已建立第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
+現在您已建立您的第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce、但使用AdobeApp Builder經驗有限的開發人員，已完成其第一個Adobe Developer App Builder應用程式，且已準備好了解更多。
+* 剛開始使用Adobe Commerce且使用AdobeApp Builder經驗有限的開發人員，已完成其第一個Adobe Developer App Builder應用程式，並準備好了解更多。
 
 ## 視訊內容
 

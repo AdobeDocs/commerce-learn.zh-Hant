@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 類別定位」'
-description: 在類別中定位產品，讓客戶在頂端看到您希望他們看到的產品。
+title: '"[!DNL Commerce] 適用於業務使用者 — 類別定位」'
+description: 在類別內定位產品，讓客戶在頂端看到您要讓他們看到的產品。
 kt: 5776
 doc-type: video
 activity: use
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 類別定位
+# [!DNL Commerce] 適用於業務使用者 — 類別定位
 
 在本影片中：
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
+- 業務使用者
 
 ## 視訊內容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 

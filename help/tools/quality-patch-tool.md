@@ -1,6 +1,6 @@
 ---
 title: 使用品質修補工具
-description: 觀看此技術影片，瞭解如何使用Adobe Commerce和Magento Open Source的Quality Patch Tool。
+description: 觀看此技術影片，瞭解如何使用Adobe Commerce和Magento Open Source的品質修補工具。
 doc-type: technical video
 audience: all
 activity: use

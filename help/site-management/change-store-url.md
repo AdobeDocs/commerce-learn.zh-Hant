@@ -1,6 +1,6 @@
 ---
 title: 變更商店URL
-description: 瞭解如何變更您的 [!DNL Commerce] 將基本URL儲存在「管理員」中。
+description: 瞭解如何變更您的 [!DNL Commerce] 在Admin中儲存基本URL。
 kt: 5605
 doc-type: feature video
 audience: all
@@ -20,18 +20,18 @@ ht-degree: 0%
 
 # 變更商店URL
 
-Adobe Commerce或Magento Open Source安裝中的每個網站都有一個指派給店面的基本URL，以及一個指派給管理員的URL。 您可以依照幾個簡單的步驟來變更商店的基本URL。
+Adobe Commerce或Magento Open Source安裝中的每個網站都有一個指派給店面的基本URL，以及另一個指派給管理員的URL。 您可以依照幾個簡單的步驟，變更商店的基本URL。
 
 ## 這部影片是給誰看的？
 
-- 存放區管理員
+- 商店管理員
 - 網站管理員
 
 ## 視訊內容
 
 >[!NOTE]
 >
->影片內容反映2.1.0版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.1.0版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 

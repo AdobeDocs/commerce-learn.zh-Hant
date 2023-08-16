@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence — 同類群組Report Builder
 description: 瞭解如何使用Commerce Intelligence同類群組Report Builder來建立與您的業務相關的最佳化報表和分析。
-landing-page-description: 觀看此影片，瞭解如何使用Commerce Intelligence同類群組Report Builder建立與您的業務相關的最佳化報表和分析。
-short-description: 觀看此影片，瞭解如何使用Commerce Intelligence同類群組Report Builder建立與您的業務相關的最佳化報表和分析。
+landing-page-description: 觀看此影片以瞭解如何使用Commerce Intelligence同類群組Report Builder建立與您的業務相關的最佳化報表和分析。
+short-description: 觀看此影片以瞭解如何使用Commerce Intelligence同類群組Report Builder建立與您的業務相關的最佳化報表和分析。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 # Commerce Intelligence — 同類群組Report Builder
 
-您曾經想要研究使用者的不同子集在一段時間內的行為嗎？ 例如，曾經想知道在促銷期間註冊的使用者是否比沒有註冊的使用者擁有更高的平均終身收入？ 如果答案為 _是_，同類群組Report Builder就是最適合您的工具。 Commerce Intelligence已最佳化，可執行此分析並使其與您的業務相關。
+您是否曾想要研究使用者的不同子集在一段時間內的行為？ 例如，曾經想知道在促銷期間註冊的使用者是否比沒有註冊的使用者擁有更高的平均終身收入？ 如果答案為 _是_，同類群組Report Builder就是最適合您的工具。 Commerce Intelligence已最佳化，可執行此分析並使其與您的業務相關。
 
 在本影片中：
 
 - 同類群組分析是什麼
 - 為什麼這很重要
-- 如何建立您自己的同類群組分析
+- 如何建置您自己的同類群組分析
 
 >[!TIP]
 >
@@ -37,8 +37,8 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
-- 資料分析人員
+- 業務使用者
+- 資料分析師
 
 ## 視訊內容
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 
 [使用同類群組Report Builder- Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[建立定性同類群組分析 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[建立質化同類群組分析 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

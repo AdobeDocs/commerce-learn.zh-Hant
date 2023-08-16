@@ -1,8 +1,8 @@
 ---
 title: 使用GraphQL執行變異
-description: 瞭解如何在Adobe Commerce上使用GraphQL執行變異，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個變異。
-landing-page-description: 瞭解如何在Adobe Commerce上使用GraphQL執行變異，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個變異。
-short-description: 瞭解如何在Adobe Commerce上使用GraphQL執行變異，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個變異。
+description: 取得在Adobe Commerce上使用GraphQL執行突變的簡介，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個突變。
+landing-page-description: 取得在Adobe Commerce上使用GraphQL執行突變的簡介，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個突變。
+short-description: 取得在Adobe Commerce上使用GraphQL執行突變的簡介，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個突變。
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -82,20 +82,20 @@ mutation doAddToCart(
 }
 ```
 
-關於上述範例，需要注意的主要事項是，除了使用 `mutation` 關鍵字而非 `query`，語法與查詢相同。 和查詢一樣，變異包括：
+關於上述範例，需要注意的主要事項是，除了使用 `mutation` 關鍵字而非 `query`，語法與查詢相同。 就像查詢一樣，變異包括：
 
 * 任意操作名稱(`doAddToCart`)
 * 變數清單(例如， `$cartId`)
-* 初始欄位(`addProductsToCart`)與引數(例如， `cartId`，設定為的值 `$cartId`)括弧中
+* 初始欄位(`addProductsToCart`)和引數(例如， `cartId`，設定為的值 `$cartId`)括弧中
 * 大括弧中的欄位細選
 
-欄位子選項可讓您靈活定義想要傳回的欄位（從指派為傳回值的型別） `addProductsToCart` - `AddProductsToCartOutput`)完成變異後。
+欄位子選項可讓您靈活地定義想要傳回的欄位（從指派為傳回值的型別） `addProductsToCart` - `AddProductsToCartOutput`)完成變異後。
 
-如前所述，GraphQL結構描述中定義的欄位從查詢的根型別開始(通常稱為 `Query`)。 同樣地，變異也存在另一種根型別(通常稱為 `Mutation`)。 `addProductsToCart` 是該根型別上的欄位。
+如前所述，GraphQL結構描述中定義的欄位從查詢的根型別開始(通常稱為 `Query`)。 同樣地，另一種根型別也存在變異(通常稱為 `Mutation`)。 `addProductsToCart` 是該根型別上的欄位。
 
-關於上述範例的其他幾點備註：
+關於上述範例的其他注意事項：
 
 * 此 `!` 字元尾碼 `String` 和 `CartItemInput` 表示變數為必要專案。
-* 方括弧(`[]`)周圍 `CartItemInput` 為指定的型別 `$cartItems` 表示該型別的清單，而不是單一值。
+* 方括弧(`[]`)周圍 `CartItemInput` 型別已指定給 `$cartItems` 表示該型別的清單，而不是單一值。
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

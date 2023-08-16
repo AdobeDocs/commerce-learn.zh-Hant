@@ -31,6 +31,6 @@ ht-degree: 0%
 - 前端開發人員
 - 專案經理
 
-## 影片內容：
+## 視訊內容：
 
 >[!VIDEO](https://video.tv.adobe.com/v/35719?quality=12&learn=on)

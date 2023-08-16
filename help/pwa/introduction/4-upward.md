@@ -1,6 +1,6 @@
 ---
 title: 適用於開發人員的PWA Studio — 向上
-description: 瞭解UPLOAD （統一的漸進式網頁應用程式回應定義）。
+description: 瞭解UPLOAD （整合式漸進式網頁應用程式回應定義）。
 kt: 5647
 doc-type: video
 activity: use

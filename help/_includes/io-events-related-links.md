@@ -14,7 +14,7 @@ ht-degree: 0%
 
 * [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
 * [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
-* [建立App Builder專案](../io-events/create-app-builder-project.md)
+* [建立應用程式建置器專案](../io-events/create-app-builder-project.md)
 * [Adobe Commerce設定](../io-events/configure-commerce.md)
 * [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
 * [Adobe Commerce條件事件](../io-events/conditional-events.md)

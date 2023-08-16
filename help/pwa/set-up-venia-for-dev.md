@@ -1,5 +1,5 @@
 ---
-title: 設定Venia進行PWA開發
+title: 設定Venia以進行PWA開發
 description: 瞭解如何為您的PWA開發專案設定Venia店面。
 kt: 5564
 doc-type: video
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# 設定Venia進行PWA開發
+# 設定Venia以進行PWA開發
 
 ## 這部影片是給誰看的？
 

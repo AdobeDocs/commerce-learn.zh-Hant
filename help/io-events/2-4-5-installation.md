@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Commerce 2.4.5安裝
 
-瞭解如何使用2.4.5版的Composer，在Adobe Commerce中安裝數個新模組。這會設定在Adobe Commerce應用程式中使用的必要模組。 其他檔案可在下列網址找到： [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何使用Composer for version 2.4.5在Adobe Commerce中安裝數個新模組。這會設定在Adobe Commerce應用程式中使用的必要模組。 若需其他檔案，請前往 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## 這部影片是給誰看的？
 
@@ -30,16 +30,16 @@ ht-degree: 0%
 
 ## 視訊內容 {#video-content}
 
-* 使用Composer安裝必要模組
+* 使用撰寫器安裝必要模組
 * 針對內部部署託管執行的命令
 * 針對Adobe Commerce Cloud執行的命令
-* Adobe Commerce Cloud yaml必要編輯
+* Adobe Commerce Cloud yaml需要編輯
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415794?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 
-有些命令稍微有所不同，取決於您是在自行託管的環境中或使用Adobe Commerce Cloud。
+有些命令會稍微不同，這取決於您是在自行託管的環境中還是使用Adobe Commerce Cloud。
 
 ### 內部部署託管 {#on-premise}
 

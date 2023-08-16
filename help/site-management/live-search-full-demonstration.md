@@ -27,7 +27,7 @@ Adobe Live搜尋的完整示範。
 
 ## 這部影片是給誰看的？
 
-* 不熟悉Adobe Live Search且想深入瞭解的開發人員和商店負責人。
+* 不熟悉Adobe Live Search且想要深入瞭解的開發人員與商店負責人。
 
 ## 視訊內容
 
@@ -37,7 +37,7 @@ Adobe Live搜尋的完整示範。
 * 瞭解Facet的後台設定及其使用方式
 * 瞭解同義字
 * 智慧型銷售
-* 說明以規則為基礎的排名型別
+* 規則型排名型別說明
 * GraphQL API內檢
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

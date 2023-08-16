@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [報價概述](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
+- [報價概觀](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
 - [設定引號](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
 - [詢價](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [議價報價](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
+- [交涉報價](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
 - [我的報價](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
 - [管理可協商的報價](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"}
 - [與NegotialQuote模組整合](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"}

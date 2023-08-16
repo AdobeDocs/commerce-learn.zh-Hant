@@ -1,8 +1,8 @@
 ---
 title: 瞭解如何在Adobe Commerce中使用條件式事件
 description: 瞭解如何使用要在Adobe Developer App Builder中使用的條件式事件。
-landing-page-description: 瞭解如何使用Adobe Commerce條件式事件。
-short-description: 瞭解如何使用Adobe Commerce條件式事件。
+landing-page-description: 瞭解如何使用Adobe Commerce條件事件。
+short-description: 瞭解如何使用Adobe Commerce條件事件。
 kt: 11890
 doc-type: tutorial
 audience: all
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe Commerce條件事件
 
-瞭解可用於Adobe Developer App Builder的Adobe Commerce條件事件。 其他檔案可在下列網址找到： [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+瞭解可用於Adobe Developer App Builder的Adobe Commerce條件事件。 若需其他檔案，請前往 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
 
 ## 這部影片是給誰看的？
 

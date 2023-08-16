@@ -1,5 +1,5 @@
 ---
-title: 指南標題
+title: 節目表標題
 seo-title: seo title
 description: 指南說明
 seo-description: seo-description
@@ -11,28 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 概述 {#overview}
+# 概觀 {#overview}
 
-本使用手冊所關注的產品的1-2句概述。 本使用手冊包含有關以下內容的許多功能和功能的視頻和教程 *x*。
+本使用手冊主要介紹的產品1-2句概觀。 本使用手冊包含了許多功能的相關影片和教學課程 *xyz*.
 
 ## 新增功能
 
-* **[新功能視頻（視頻）](README.md)**
+* **[新功能影片（影片）](README.md)**
+  <br>
+  *瞭解這項嶄新功能。*
 
-   <br>
-   *瞭解此超酷的新功能。*
+* **[新功能影片（影片）](README.md)**
+  <br>
+  *瞭解這項嶄新功能。*
 
-* **[新功能視頻（視頻）](README.md)**
+* **[新文章（文章）](README.md)**
+  <br>
+  *按一下這裡以深入瞭解功能xyz！*
 
-   <br>
-   *瞭解此超酷的新功能。*
-
-* **[新文章（條）](README.md)**
-
-   <br>
-   *按一下這裡以閱讀有關功能xyz的更多資訊！*
-
-## 員工挑選
+## 員工精選
 
 <table>
 <tr>
@@ -42,11 +39,11 @@ ht-degree: 0%
     </a>
     <div>
       <a href="#">
-    <strong>支援內容1</strong>
+    <strong>啟用內容1</strong>
     </a>
     </div>
     <p>
-    <em>支援內容的簡要說明。</em>
+    <em>啟用內容的簡短說明。</em>
     <p>
   </td>
    <td>
@@ -55,11 +52,11 @@ ht-degree: 0%
     </a>
     <div>
       <a href="#">
-    <strong>支援內容1</strong>
+    <strong>啟用內容1</strong>
     </a>
     </div>
     <p>
-    <em>支援內容的簡要說明。</em>
+    <em>啟用內容的簡短說明。</em>
     <p>
   </td>
   <td>
@@ -68,11 +65,11 @@ ht-degree: 0%
     </a>
     <div>
       <a href="#">
-    <strong>支援內容1</strong>
+    <strong>啟用內容1</strong>
     </a>
     </div>
     <p>
-    <em>支援內容的簡要說明。</em>
+    <em>啟用內容的簡短說明。</em>
     <p>
   </td>
 </tr>

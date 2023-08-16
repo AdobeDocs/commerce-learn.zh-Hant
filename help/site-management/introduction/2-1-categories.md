@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 產品類別」'
-description: 瞭解如何透過設定類別來管理產品目錄。
+title: '"[!DNL Commerce] 適用於業務使用者 — 產品類別」'
+description: 瞭解如何透過設定類別來管理您的產品目錄。
 kt: 5765
 doc-type: videos
 activity: use
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 產品類別
+# [!DNL Commerce] 適用於業務使用者 — 產品類別
 
 在本影片中：
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
+- 業務使用者
 
 ## 視訊內容
 

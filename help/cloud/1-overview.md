@@ -1,8 +1,8 @@
 ---
 title: 雲端基礎結構上的Adobe Commerce — 概觀
-description: 識別雲端棧疊中的關鍵技術​。 說明Adobe Commerce的內容傳遞策略。 瞭解唯讀檔案系統的價值。
-landing-page-description: 觀看此影片系列，開始使用部署和管理Adobe Commerce所用的雲端基礎結構。
-short-description: 觀看此影片系列，開始使用部署和管理Adobe Commerce所用的雲端基礎結構。
+description: 確定雲端堆疊中的關鍵技術。 說明 Adobe Commerce 的內容傳遞策略。 了解唯讀檔案系統的價值。
+landing-page-description: 觀看此影片系列，以開始使用部署及管理 Adobe Commerce 所用的雲端基礎結構。
+short-description: 觀看此影片系列，以開始使用部署及管理 Adobe Commerce 所用的雲端基礎結構。
 kt: 5656
 feature: Cloud
 topic: Commerce, Architecture
@@ -15,7 +15,7 @@ exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 52%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 在本影片中：
 
-- 識別雲端棧疊中的關鍵技術&#x200B;。
+- 確定雲端棧疊中的關鍵技術&#x200B;。
 - 說明雲端基礎結構上Adobe Commerce的內容傳遞策略
 - 瞭解唯讀檔案系統的價值
 

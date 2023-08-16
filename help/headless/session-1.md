@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Adobe Commerce Headless架構
 
-概述Adobe Commerce的發展歷史，並說明各種專案如何開始完全支援Headless。  Headless架構的優點包括各接觸點的對等性、開發活動的分離、改善的擴充性等等。
+Adobe Commerce發展歷程的整體概觀，以及各項進展如何完全支援Headless。  Headless架構的優點包括各接觸點的同位檢查、開發活動的分離、改善的擴充能力等等。
 
 ## 觀看此影片有何期望
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 不熟悉Adobe Commerce且想要進一步瞭解Headless架構和一些基本策略的開發人員和商店負責人。
+* 不熟悉Adobe Commerce且想要進一步瞭解Headless架構和一些基本策略的開發人員和商店老闆。
 
 ## 視訊內容
 
 * 前端與後端分離
 * 什麼是API
 * 多種Headless方法
-* 可撰寫商務的說明
+* 可組合商務的說明
 * Adobe Commerce是API優先，但不僅是API
-* 在開始使用Headless商務之前要考慮的資格
+* 在進行Headless商務之前要考慮的資格
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418862?learn=on)

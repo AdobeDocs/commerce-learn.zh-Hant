@@ -1,8 +1,8 @@
 ---
 title: 擴充性框架和商務事件
-description: 瞭解Unified Extensibility Framework和商務晚會
-landing-page-description: 瞭解Unified Extensibility Framework和商務晚會
-short-description: 瞭解Unified Extensibility Framework和商務晚會
+description: 瞭解統一擴充性框架和商務晚會
+landing-page-description: 瞭解統一擴充性框架和商務晚會
+short-description: 瞭解統一擴充性框架和商務晚會
 kt: 11740
 doc-type: tutorial
 audience: all
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # App Builder的可擴充性架構
 
-此功能示範將說明App Builder及其Adobe Commerce的潛在使用案例。 本影片介紹了擴充性架構、關鍵客戶優勢和功能。
+此功能示範會說明App Builder及其Adobe Commerce的潛在使用案例。 本影片介紹擴充性架構、主要客戶優勢和功能。
 
 ## 適用於Adobe Commerce的App Builder {#app-builder-extensibility}
 

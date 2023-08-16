@@ -22,23 +22,23 @@ ht-degree: 0%
 
 # Adobe Commerce 2.4.6安裝
 
-瞭解如何使用2.4.6版的Composer，在Adobe Commerce中安裝數個新模組。其他檔案可在下列網址找到： [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何使用Composer for version 2.4.6在Adobe Commerce中安裝數個新模組。若需其他檔案，請前往 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## 這部影片是給誰看的？
 
-* 不熟悉Adobe Commerce和Adobe Developer App Builder （使用I/O事件）的開發人員。
+* 剛開始使用I/O事件之Adobe Commerce和Adobe Developer App Builder的開發人員。
 
 ## 視訊內容 {#video-content}
 
 * 針對內部部署託管執行的命令
 * 針對Adobe Commerce Cloud執行的命令
-* Adobe Commerce Cloud yaml必要編輯
+* Adobe Commerce Cloud yaml需要編輯
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 
-有些命令稍微有所不同，取決於您是在自行託管的環境中或使用Adobe Commerce Cloud。
+有些命令會稍微不同，這取決於您是在自行託管的環境中還是使用Adobe Commerce Cloud。
 
 ### 內部部署託管 {#on-premise}
 

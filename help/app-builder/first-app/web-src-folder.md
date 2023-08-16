@@ -1,6 +1,6 @@
 ---
 title: web-src資料夾
-description: 瞭解Web-src資料夾中的檔案型別，以及此範例應用程式的巢狀檔案和資料夾。
+description: 瞭解web-src資料夾中的檔案型別，以及此範例應用程式的巢狀檔案和資料夾。
 landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及web-src資料夾中的檔案型別。
 kt: 12425
 doc-type: tutorial
@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-在以下範例中，程式碼範例為 `not` 限制請求。 若要避免400錯誤，請使用縮小回應大小 `searchCriteria`.
+在以下範例中，程式碼範例為 `not` 限制請求。 若要避免400錯誤，請使用來縮小回應大小 `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

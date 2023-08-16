@@ -21,12 +21,12 @@ ht-degree: 0%
 
 # 安裝Adobe I/O Runtime CLI和Mesh外掛程式
 
-開始使用Adobe Developer App Builder的API Mesh之前，您需要安裝 `aio` CLI和API網狀外掛程式。
-如需安裝指示和先決條件，請造訪API網格 [快速入門](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 頁面。
+開始使用Adobe Developer App Builder的API Mesh前，您必須先安裝 `aio` CLI和API網狀外掛程式。
+如需安裝指示和先決條件，請造訪API Mesh [快速入門](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 頁面。
 
 ## 這部影片是給誰看的？
 
-* 不熟悉API Mesh的開發人員或 [!DNL Adobe Commerce] 使用經驗有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API網格。
+* 剛開始接觸API Mesh或是 [!DNL Adobe Commerce] 使用經驗有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API Mesh。
 
 ## 視訊內容
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## 安裝 `aio` CLI和API網狀外掛程式
+## 安裝 `aio` CLI與API網狀外掛程式
 
-安裝後 `node` 和 `npm`，執行以下命令以安裝 `aio` CLI：
+安裝之後 `node` 和 `npm`，執行以下命令以安裝 `aio` CLI：
 
 ```bash
 npm install -g @adobe/aio-cli

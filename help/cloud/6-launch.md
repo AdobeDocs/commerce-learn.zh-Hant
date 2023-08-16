@@ -21,7 +21,7 @@ ht-degree: 0%
 
 在本影片中：
 
-- 稽核上線、DNS、TLS和Fastly
+- 稽核Go Live、DNS、TLS和Fastly
 - 如何設定DNS以指向Adobe Commerce執行個體的生產網域
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)

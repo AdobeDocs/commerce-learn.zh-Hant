@@ -1,6 +1,6 @@
 ---
 title: 適用於開發人員的頁面產生器 — 設定和內容自訂
-description: 設定和設定Page Builder​。 瞭解Page Builder工作區​。 瞭解並使用內容型別 — 版面、元素、媒體和其他內容​。 使用頁面產生器新增目錄內容。
+description: 設定和設定頁面產生器​。 瞭解Page Builder工作區​。 瞭解並使用內容型別 — 版面、元素、媒體和其他內容​。 使用頁面產生器新增目錄內容。
 kt: 5651
 doc-type: video
 activity: use
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此內容反映適用於Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需更新版本的相關資訊，請參閱 [Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需有關後續版本更新的資訊，請參閱 [Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 [Page Builder開發人員檔案](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[頁面產生器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

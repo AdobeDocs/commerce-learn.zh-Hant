@@ -1,6 +1,6 @@
 ---
 title: 雲端基礎結構上的Adobe Commerce — 託管和帳戶
-description: 瞭解現有的Adobe Commerce託管解決方案​。 瞭解Starter與Pro帳戶之間的差​異。
+description: 瞭解現有的Adobe Commerce託管解決方案​。 瞭解Starter和Pro帳戶之間的差​異。
 kt: 5657
 doc-type: video
 audience: all
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 在本影片中：
 
-- 瞭解適用於Adobe Commerce的現有&#x200B;雲端託管解決方案
-- 瞭解Starter與Pro帳戶之間的差&#x200B;異
+- 瞭解適用於Adobe Commerce的現有雲端託管解決方案&#x200B;
+- 瞭解Starter和Pro帳戶之間的差異&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)
 

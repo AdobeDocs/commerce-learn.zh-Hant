@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 管理SEO的URL重寫
 
-URL重寫工具可讓您變更與產品、類別或CMS頁面相關聯的任何URL。 當重寫生效時，任何指向先前URL的連結都會重新導向至新位址。
+URL重寫工具可讓您變更與產品、類別或CMS頁面相關聯的任何URL。 當重寫生效時，任何指向先前URL的連結都會重新導向到新位址。
 
 ## 這部影片是給誰看的？
 
@@ -34,5 +34,5 @@ URL重寫工具可讓您變更與產品、類別或CMS頁面相關聯的任何UR
 
 ## 其他資源
 
-- [URL重寫 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [URL重新寫入 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [一般>網頁 —  [!DNL Commerce] 設定參考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

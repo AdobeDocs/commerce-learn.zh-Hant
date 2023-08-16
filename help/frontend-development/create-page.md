@@ -1,6 +1,6 @@
 ---
 title: 建立新頁面
-description: 建立一個傳回json的頁面，並帶有一個引數。
+description: 建立一個傳回json的頁面，並包含一個引數。
 kt: 5602
 doc-type: video
 activity: use
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 建立新頁面
 
-建立一個傳回json的頁面，並帶有一個引數。
+建立一個傳回json的頁面，並包含一個引數。
 
 ## 這部影片是給誰看的？
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 - 建立模組資料夾
 - 建立 `etc/module.xml` 檔案
 - 建立 `registration.php` 檔案
-- 執行 `bin/magento setup:upgrade` 用於安裝新模組的指令碼
+- 執行 `bin/magento setup:upgrade` 指令碼以安裝新模組
 - 檢查模組是否正常運作
 
 ## 視訊內容

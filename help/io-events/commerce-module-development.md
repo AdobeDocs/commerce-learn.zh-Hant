@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe Commerce模組開發
 
-瞭解如何註冊事件、尋找支援的事件，以及如何使用新的XML檔案 `io_events.xml` 在自訂模組開發中。 影片也會向開發人員展示如何尋找可以使用的已註冊事件，以及取消訂閱任何可能已定義的事件。 其他檔案可在下列網址找到： [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何註冊事件、尋找支援的事件，以及如何使用新的XML檔案 `io_events.xml` 在自訂模組開發中。 影片也會向開發人員展示如何尋找可以使用的已註冊事件，以及取消訂閱任何可能已定義的事件。 若需其他檔案，請前往 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## 這部影片是給誰看的？
 

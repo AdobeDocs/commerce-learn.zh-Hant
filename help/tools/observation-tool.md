@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 對Adobe Commerce使用觀察
 
-在本影片中，瞭解Adobe Commerce的觀察工具，它是一個New Relic Nerdlet，可檢視Adobe Commerce網站的狀態、目前或過去時間檢視。 Nerdlet是以New Relic One程式設計功能建置的自訂應用程式。
+在本影片中，瞭解Adobe Commerce的觀察工具，這是一個New Relic小工具，可檢視Adobe Commerce網站的狀態、目前或過去時間檢視。 Nerdlet是使用New Relic One可程式化功能建置的自訂應用程式。
 
 ## 這部影片是給誰看的？
 

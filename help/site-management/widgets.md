@@ -1,6 +1,6 @@
 ---
 title: 建立Widget
-description: 瞭解如何建立Widget及修改現有元件，以自動更新整個商店的內容。
+description: 瞭解如何建立Widget並修改現有元件，以自動更新整個商店的內容。
 kt: null
 doc-type: feature video
 audience: all

@@ -1,18 +1,18 @@
 ---
-user-guide-title: 影片和Tutorials
-user-guide-description: 透過影片和教學課程瞭解Adobe Commerce和Magento Open Source。
-breadcrumb-title: 影片和Tutorials
+user-guide-title: 影片和教學課程
+user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
+breadcrumb-title: 影片和教學課程
 source-git-commit: 9dcbee360b0c25b83116ff5b1379052cf9b8fa62
 workflow-type: tm+mt
 source-wordcount: '527'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
 # Adobe Commerce影片和Tutorials {#tutorials}
 
-+ [[!DNL Commerce] Tutorials](overview.md)
++ [[!DNL Commerce] 教學課程](overview.md)
 + 快速入門 {#getting-started}
    + [!DNL Commerce] 雲端{#cloud}
       + [1 — 概觀](../cloud/1-overview.md)

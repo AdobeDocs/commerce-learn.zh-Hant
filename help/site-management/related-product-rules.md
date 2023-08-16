@@ -21,7 +21,7 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-相關產品規則可讓您鎖定向客戶呈現為相關產品、向上銷售和交叉銷售的產品選擇。 每個產品規則都可與客戶區段相關聯，以產生目標銷售的動態顯示。
+相關產品規則可讓您鎖定向客戶呈現為相關產品、向上銷售和交叉銷售的產品選擇。 每個產品規則都可以與客戶區段相關聯，以產生目標銷售的動態顯示。
 
 ## 這部影片是給誰看的？
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[相關產品規則 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[相關產品規則 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

@@ -1,6 +1,6 @@
 ---
 title: 雙因素驗證
-description: Adobe Commerce和Magento Open Source支援來自多個提供者的雙因素驗證(2FA)方法。 瞭解雙因素驗證功能如何協助保護商店的管理員。
+description: Adobe Commerce和Magento Open Source支援來自多個提供者的雙因素驗證(2FA)方法。 瞭解雙因素驗證功能如何協助保護商店管理員。
 kt: 9443
 doc-type: feature video
 audience: all
@@ -24,14 +24,14 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 存放區管理員
+- 商店管理員
 - 網站管理員
 
 ## 視訊內容
 
 >[!NOTE]
 >
->影片內容反映2.4.0版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.4.0版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 

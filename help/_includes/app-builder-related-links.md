@@ -1,5 +1,5 @@
 ---
-title: API網格相關頁面
+title: API Mesh相關頁面
 description: App Builder中相關頁面的連結
 source-git-commit: 9991718a0c619bcf15e9de3102f8e77539bb588b
 workflow-type: tm+mt

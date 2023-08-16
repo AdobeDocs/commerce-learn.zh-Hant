@@ -22,7 +22,7 @@ ht-degree: 0%
 在本影片中：
 
 - 瞭解部署階段和指令碼
-- 從基礎建設方面瞭解部署程式的運作方式&#x200B;。
+- 從基礎建設端瞭解部署程式的運作方式&#x200B;。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 

@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 商店設定」'
+title: '"[!DNL Commerce] 商務使用者 — 商店設定」'
 description: 瞭解地區設定、商店資訊、安全和不安全的URL、網站標題、標誌、版權資訊、通訊電子郵件標誌、商店電子郵件地址、貨幣選項和匯率。
 kt: 5764
 doc-type: video
@@ -33,16 +33,16 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商業使用者
+- 業務使用者
 
 ## 視訊內容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## 其他資源
 
-[存放區詳細資料 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[商店詳細資訊 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

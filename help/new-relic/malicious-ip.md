@@ -1,8 +1,8 @@
 ---
 title: 瞭解如何使用New Relic來識別需要封鎖的IP
-description: 使用New Relic識別本質上可能為惡意的IP位址。  確定IP後，這會在Fastly中使用以阻止其存取應用程式
-landing-page-description: 此影片會指示New Relic的使用者尋找可能需要封鎖以存取網站的潛在IP位址。
-short-description: 此影片會指示New Relic的使用者尋找可能需要封鎖以存取網站的潛在IP位址。
+description: 使用New Relic，識別可能具有惡意性質的ip位址。  確定IP後，這將用於Fastly以阻止其存取應用程式
+landing-page-description: 此影片會指示New Relic的使用者尋找可能需要封鎖的IP位址，以便存取網站。
+short-description: 此影片會指示New Relic的使用者尋找可能需要封鎖的IP位址，以便存取網站。
 kt: 11566
 doc-type: video
 audience: all

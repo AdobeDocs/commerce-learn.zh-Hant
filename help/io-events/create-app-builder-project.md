@@ -1,6 +1,6 @@
 ---
 title: 瞭解如何使用商務事件建立App Builder專案
-description: 瞭解如何建立App Builder專案以用於Commerce事件
+description: 瞭解如何建立可與Commerce事件搭配使用的App Builder專案
 landing-page-description: 瞭解如何建立AdobeApp Builder專案以使用Adobe Commerce事件
 short-description: 瞭解如何建立AdobeApp Builder專案以使用Adobe Commerce事件
 kt: 11888
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# 建立App Builder專案
+# 建立應用程式建置器專案
 
-瞭解如何建立Adobe Developer App Builder專案，以使用Adobe Commerce中的事件。 其他檔案可在下列網址找到： [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何建立Adobe Developer App Builder專案，以使用Adobe Commerce中的事件。 若需其他檔案，請前往 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## 這部影片是給誰看的？
 

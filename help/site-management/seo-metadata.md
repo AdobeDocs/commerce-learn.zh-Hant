@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 管理SEO中繼資料
 
-您的存放區會載入一些位置，您可以在其中輸入關鍵字豐富的中繼資料，以改善搜尋引擎為您的網站編制索引的方式。 隨著時間推移，您可以微調中繼資料，以鎖定客戶的購買模式和偏好設定。
+您的商店會載入您可輸入關鍵字豐富中繼資料的位置，以改善搜尋引擎為您的網站編制索引的方式。 您可以長期微調中繼資料，以鎖定客戶的購買模式和偏好設定。
 
 ## 這部影片是給誰看的？
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[中繼資料 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[中繼資料 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
