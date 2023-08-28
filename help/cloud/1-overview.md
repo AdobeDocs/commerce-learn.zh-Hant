@@ -12,7 +12,7 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: bf8571af4d06b26fd038efea71b9f0890c780ae7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 52%
@@ -23,7 +23,7 @@ ht-degree: 52%
 
 在本影片中：
 
-- 確定雲端棧疊中的關鍵技術&#x200B;。
+- 識別雲端棧疊中的關鍵技術
 - 說明雲端基礎結構上Adobe Commerce的內容傳遞策略
 - 瞭解唯讀檔案系統的價值
 
