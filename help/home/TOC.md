@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: c1ccfb2e32c7b638f6b8d4f16f15b8887b89f376
+source-git-commit: 68942d6c26da75adf93671b2d6a8bada38c1989a
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '530'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
    + [相依性插入範例](../backend-development/dependency-injection.md)
    + [Galera叢集緩慢復寫](../backend-development/galera-db-slow-replication.md)
    + [MySQL查詢快取](../backend-development/mysql-query-cache.md)
+   + [PT查詢摘要](../backend-development/pt-query-digest.md)
 + 原生前端Luma開發 {#frontend-development}
    + 適用於開發人員的頁面產生器 {#page-builder}
       + [1 — 簡介](../frontend-development/page-builder/1-intro-case-studies.md)
