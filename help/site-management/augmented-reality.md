@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce的AR檢視器
-description: Adobe已發行Commerce Marketplace上可用的模組，以支援增強現實檢視。
+description: 瞭解Commerce Marketplace提供的增強現實檢視模組。
 kt: 13738
 doc-type: video
 activity: use
@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace中可用的AR檢視器
-source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
+source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
