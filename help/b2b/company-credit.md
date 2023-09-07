@@ -4,23 +4,20 @@ description: 瞭解如何使用B2B公司帳戶使用者在其帳戶中進行購�
 doc-type: feature video
 audience: all
 activity: use
-badge: label="適用於Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 1cb75f809240487f772e33c30e9de33326ec38c2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # 管理公司評價
-
-{{b2b-feature}}
 
 針對擁有下列條件的公司： _[!UICONTROL Payment on Account]_已啟用並有可用的公司信用額度，他們便可以在帳戶上以授與的信用額度進行購買。 透過此功能，客戶可以從其帳戶儀表板檢查其公司業績的狀態。
 
@@ -30,6 +27,8 @@ ht-degree: 0%
 - 信用額度
 - 允許超過信用額度
 - 變更原因
+
+{{b2b-feature}}
 
 ## 這部影片是給誰看的？
 

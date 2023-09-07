@@ -1,7 +1,7 @@
 ---
 title: 版本橫幅
 description: 重複使用的視覺元素，以記下套用至特定版本的功能或頁面
-source-git-commit: 8c7c64ddff456815b0a1649f497e917da8b8fca0
+source-git-commit: 066e031bd98458c8692f1cb3234ff1ecd1b99e6e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 ## 僅限B2B功能 {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce功能" src="../assets/b2b.svg" width="20" height="20" /> 獨家功能僅適用於 <a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">適用於Adobe Commerce的B2B</a></td></tr>
+<tr><td><img alt="Adobe Commerce功能" src="../assets/b2b.svg" width="20" height="20" /> 獨家功能僅適用於 <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">適用於Adobe Commerce的B2B</a></td></tr>
 </table>
 
 ## 400個問題 {#avoid-400-error}

@@ -5,24 +5,24 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13794
-badge: label="適用於Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: ea3b8e74-a769-45db-ac71-91a063cde21f
-source-git-commit: b5da0c43fc807e3ca8068015ef758cd00d923ae0
+source-git-commit: 6b1aa7f56dcfc4967d94c26a779ac3fd706b0cd2
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 銷售代表啟動報價單
 
-{{b2b-feature}}
 瞭解銷售代表如何從管理面板啟動報價、依使用者和網站篩選、草稿報價、報價可見度以及更多功能。
+
+{{b2b-feature}}
 
 ## 這部影片是給誰看的？
 

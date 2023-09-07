@@ -4,23 +4,20 @@ description: 瞭解如何為您的B2B公司帳戶啟用採購單和核准規則�
 doc-type: feature video
 audience: all
 activity: use
-badge: label="適用於Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
 
 # 採購單與核准
-
-{{b2b-feature}}
 
 大多數B2B公司都有採購單的訂單核准規則。 公司可以控制誰可以建立採購單，以及可以花費多少。 例如：
 
@@ -30,6 +27,8 @@ ht-degree: 1%
 - 由Director層級或以上人員建立的採購單會自動獲得核准。
 
 B2B客戶擁有其角色所需的許可權，可以設定核准規則以強制執行公司原則。
+
+{{b2b-feature}}
 
 ## 這部影片是給誰看的？
 
