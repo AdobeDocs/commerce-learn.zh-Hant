@@ -10,14 +10,14 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
+source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# 瞭解匯入目錄的選項
+# 匯入目錄的選項
 
 有一些將目錄匯入Adobe Commerce的原生方法。 每種方法都有其使用理由，以及必須考慮的優點和缺點。
 
