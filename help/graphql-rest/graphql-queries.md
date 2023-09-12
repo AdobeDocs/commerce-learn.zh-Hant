@@ -3,23 +3,35 @@ title: 使用GraphQL執行查詢
 description: 瞭解如何在Adobe Commerce上使用GraphQL執行查詢，以及 [!DNL Magento Open Source]. 以下為使用GET和POST呼叫的GraphQL簡介。
 landing-page-description: 瞭解如何在Adobe Commerce上使用GraphQL執行查詢，以及 [!DNL Magento Open Source]. 以下為使用GET和POST呼叫的GraphQL簡介。
 short-description: 瞭解如何在Adobe Commerce上使用GraphQL執行查詢，以及 [!DNL Magento Open Source]. 以下為使用GET和POST呼叫的GraphQL簡介。
-kt: 11524
-doc-type: tutorial
+kt: 13937
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
 
 # GraphQL查詢
+
+這是GraphQL和Adobe Commerce系列的第2部分。 在本教學課程和影片中，瞭解GraphQL查詢，以及如何針對Adobe Commerce執行這些查詢。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+
+## 本系列中GraphQL的相關影片和教學課程
+
+* [第1部分GraphQL — 簡介](../graphql-rest/intro-graphql.md)
+* [第3部分GraphQL — 變動](../graphql-rest/graphql-mutations.md)
+* [第4部分GraphQL — 結構描述](../graphql-rest/graphql-schema.md)
+
+## GraphQL語法範例
 
 以完整的範例直接探討GraphQL查詢語法。 (請記住，您可以對https://venia.magento.com/graphql自行嘗試此做法。)
 

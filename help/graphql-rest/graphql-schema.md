@@ -3,25 +3,35 @@ title: GraphQL的結構描述語言
 description: 瞭解與GraphQL有關的結構描述。 閱讀結構描述，以及一些有趣的模式和讀取結構描述的方法。
 landing-page-description: 以下是GraphQL的簡介。 瞭解結構以及如何解譯部分元素
 short-description: 以下是GraphQL的簡介。 瞭解結構以及如何解譯部分元素
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
 # 結構描述語言
 
-使用的查詢和變動取決於在伺服器上實作的特定資料圖表，GraphQL執行階段會使用這個圖表並用來解決查詢。 GraphQL規格定義了不可知的語言，用於表示資料圖表的型別和關係。
+這是GraphQL和Adobe Commerce系列的第4部分。 使用的查詢和變動取決於在伺服器上實作的特定資料圖表，GraphQL執行階段會使用這個圖表並用來解決查詢。 GraphQL規格定義了不可知的語言，用於表示資料圖表的型別和關係。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## 本系列中GraphQL的相關影片和教學課程
+
+* [第1部分GraphQL — 簡介](../graphql-rest/intro-graphql.md)
+* [第2部分GraphQL — 查詢](../graphql-rest/graphql-queries.md)
+* [第3部分GraphQL — 變動](../graphql-rest/graphql-mutations.md)
+
+## 結構描述範例
 
 以下是支援您目前已檢視之查詢和變動的縮寫型別結構描述：
 

@@ -3,23 +3,36 @@ title: 使用GraphQL執行變異
 description: 取得在Adobe Commerce上使用GraphQL執行突變的簡介，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個突變。
 landing-page-description: 取得在Adobe Commerce上使用GraphQL執行突變的簡介，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個突變。
 short-description: 取得在Adobe Commerce上使用GraphQL執行突變的簡介，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個突變。
-kt: 11524
-doc-type: tutorial
+kt: 13938
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # 突變
+
+這是GraphQL和Adobe Commerce系列的第3部分。 變動是指使用GraphQL儲存、更新和傳回值的能力。
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+
+## 本系列中GraphQL的相關影片和教學課程
+
+* [第1部分GraphQL — 簡介](../graphql-rest/intro-graphql.md)
+* [第2部分GraphQL — 查詢](../graphql-rest/graphql-queries.md)
+* [第4部分GraphQL — 結構描述](../graphql-rest/graphql-schema.md)
+
+## 變異範例
 
 任何完整的API規格不僅需要提供查詢資料的能力，還需要提供建立和更新資料的能力。
 
