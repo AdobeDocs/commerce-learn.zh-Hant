@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 1771ef7e11482fc663bedc162a48acd394bc0980
+source-git-commit: fae9666d2850afb5eb79ff174f376c324717d6c4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '555'
 ht-degree: 3%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 3%
       + [什麼是全球參考架構](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [如何善用全球參考架構](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [您如何架構全域參考架構](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [如何實作全球參考架構](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
    + [查詢](../graphql-rest/graphql-queries.md)
