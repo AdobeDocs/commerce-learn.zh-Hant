@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 9f3195be50cab2457ac67bd92e9296b7c18c94b4
+source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,11 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/etc/module.xml
+
+>[!NOTE]
+>
+>如果您的模組使用「宣告式結構描述」，而且大部分都使用2.3.0以後的版本，您應該省略setup_version。 不過，如果您有一些舊版專案，您可能會看到使用此方法。  另請參閱 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} 以取得詳細資訊。
+
 
 ```xml
 <?xml version="1.0"?>
