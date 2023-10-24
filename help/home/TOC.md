@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 7b8f3342db01907b2c8a575ac86f6784aec38112
+source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '536'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 3%
       + [5 — 開發](../cloud/5-dev-config.md)
       + [6 — 服務和DNS](../cloud/6-launch.md)
    + 全球參考架構{#global-reference-architecture}
-      + [什麼是全球參考架構](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [如何善用全球參考架構](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [您如何架構全域參考架構](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [如何實作全球參考架構](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+      + [全球參考架構](../global-reference-architecture/what-is-global-reference-architecture.md)
+      + [善用全球參考架構](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+      + [架構者GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [實作全球參考架構](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
    + [查詢](../graphql-rest/graphql-queries.md)
