@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
+source-git-commit: 803b418ec85c907d087f8fe243799b56a281219b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 瞭解如何利用全球參考架構或GRA。 為了更妥善地準備GRA以成功實施，Adobe專家會討論專案的不同階段，並詳述探索階段的詳細資訊。 我們討論QA資源，並說明這些資源如何成為GRA實作的寶貴資源。
 
-## 這部影片是給誰看的？
+## 對象
 
 * 需要瞭解此概念的人。
 * 具有多個品牌的大型專案

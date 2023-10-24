@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 449445ba629f8db9d0e3535e6bcb5339fab99070
+exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
+source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 瞭解如何實作全球參考架構或GRA （簡稱）。 瞭解有助於設定成功GRA的早期決策。 取得如何區隔網站的想法、成功的關鍵，以及以有條理方式開發功能的一些概念。
 
-## 這部影片是給誰看的？
+## 對象
 
 * 需要瞭解此概念的人。
 * 具有多個品牌的大型專案
