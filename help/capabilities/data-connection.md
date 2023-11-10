@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Adobe Commerce資料連線的完整示範。
 
 ## 視訊內容
 
-* 瞭解可從Commerce傳輸到AdobeExperience Edge的客戶資料
-* 什麼是API
-* 如何使用Adobe Journey Optimizer來跟進客戶
-* 可擷取的店面事件型別
-* 在客戶繼續瀏覽時評估的即時客戶資料及顯示的個人化內容
-* 客戶區段，以及如何根據客戶歷史記錄自動調整客戶區段
-* 單一統一設定檔
-* 捨棄購物車電子郵件、簡訊訊息，以及如何搭配Adobe Journey Optimizer使用
-* Commerce Data Connector的基本設定和設定
-* 用於提供折扣的動態區塊和購物車價格規則
-* Adobe Experience Platform中的客戶設定檔、對象和客戶詳細資訊
-* Adobe Target如何提供動態個人化內容
-* 推出Customer Journey Analytics儀表板
+* 將行為資料從Adobe Commerce傳送至其他DX產品(例如AJO、Analytics、Target、Real-Time CDP)，以便在客戶歷程中進行區段決策、設定檔擴充和個人化體驗。
+* Real-Time CDP受眾會根據瀏覽器資料、伺服器端資料（包括訂單歷史記錄）和其他來源的資料（即忠誠度資料），即時更新和修改分段。
+* 利用Real-Time CDP受眾，在Adobe Commerce中個人化購物車價格規則和動態區塊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
