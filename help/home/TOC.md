@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 334659bda3b7889f28bacf6981da8e2091246ab1
+source-git-commit: 225faceffefc31a6205f689933210510dba235d1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '546'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 3%
       + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
    + 建立產品 {#create-products}
       + [簡單產品](../site-management/create-simple-product.md)
+      + [虛擬產品](../site-management/create-virtual-product.md)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
    + [查詢](../graphql-rest/graphql-queries.md)
