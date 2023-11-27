@@ -1,9 +1,9 @@
 ---
 title: IO事件相關頁面
 description: IO事件中相關頁面的連結
-source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 
 ## 其他相關的教學課程
 
+* [IO事件快速入門](../io-events/getting-started-io-events.md)
 * [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
 * [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
 * [建立應用程式建置器專案](../io-events/create-app-builder-project.md)
