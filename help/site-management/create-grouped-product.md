@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # 建立群組的產品
 
-群組產品由簡單獨立產品組成，並以群組呈現。 您可以提供單一產品的變數，或依季節或主題分組。 建立群組產品之前，請先確認要納入群組的所有簡單產品都可以在Adobe Commerce中使用，然後建立任何不存在的產品。 在本教學課程中，您將瞭解如何使用REST API和Adobe Commerce管理員建立分組產品。
+群組產品由簡單獨立產品組成，並以群組呈現。 您可以提供單一產品的變數，或依季節或主題分組。 建立群組產品之前，請先確認要納入群組的所有簡單產品都可以在Adobe Commerce中使用，然後建立任何不存在的產品。
+
+在本教學課程中，您將瞭解如何使用REST API和Adobe Commerce管理員建立分組產品。
 
 使用REST API在「管理員」中建立群組產品：
 
@@ -29,9 +31,9 @@ ht-degree: 0%
 1. 將簡單產品填入空白的分組產品中。
 1. 建立空的群組產品並關聯簡單產品。
 
-在Adobe Commerce管理員中建立分組產品時，建議先建立簡單產品。 當您準備好建立群組產品時，請將簡單產品指派給一個批次中的群組產品，以建立簡易產品的關聯。
+   將簡單產品關聯至群組產品時，排序順序屬性(`position`)中，前端會使用裝載，以所需順序顯示相關產品。 如果 `position` 屬性未指定，產品會以加入群組產品的順序顯示。
 
-承載中的排序順序屬性為必要項，且前端用來以所需順序顯示相關產品。
+從Adobe Commerce管理員建立分組產品時，請先建立簡單產品。 當您準備好建立群組產品時，請將簡單產品指派給一個批次中的群組產品，以建立簡易產品的關聯。
 
 ## 這部影片是給誰看的？
 
