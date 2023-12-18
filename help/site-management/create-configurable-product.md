@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 - 變更 `"attribute_set_id": 10,` 和取代 `10` 環境中具有的屬性集id。
 - 變更 `"value": "14"` 和取代 `14` 使用您環境中的值。
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 使用cURL建立第三個簡單產品
 
-使用API建立第三個簡單產品，以使用cURL傳送以下POST請求。
+使用cURL傳送以下POST請求來建立第三個簡單產品。
 
 在提交請求之前，請使用您環境的值更新範例。
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 使用cURL建立空的可設定產品
 
-使用API建立空的可設定產品，以使用cURL傳送以下POST請求。
+使用cURL傳送以下POST請求，以建立空的可設定產品。
 
 在提交請求之前，請使用您環境的值更新範例。
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 設定可供設定產品使用的選項
 
-使用API設定可設定產品可用的選項，以使用cURL傳送以下POST請求。
+使用cURL傳送以下POST請求，設定可設定產品的可用選項。
 
 在提交請求之前，請先變更 `"attribute_id": 93,` 要取代 `93` 環境中的id屬性取得。
 
@@ -289,7 +288,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-使用API新增這些簡單產品，作為可設定產品的子項，以針對每個產品傳送以下POST請求。 針對每項產品提交個別請求。
+傳送下列POST請求，將這些簡單產品新增為可設定產品的子項。 針對每項產品提交個別請求。
 
 針對每個請求，更新 `childSKU` 含您新增之子產品的值。 下列範例會指定簡單產品 `kids-Hawaiian-Ukulele-red` 至具有SKU的可設定產品 `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## 使用cURL取得可設定的產品
 
-現在您已建立可設定的產品並擁有三個指派的子SKU。 您可以檢視API指派之產品的連結ID，以使用cURL傳送下列GET請求。 此請求會傳回有關可設定產品的詳細資訊。
+現在您已建立可設定的產品並擁有三個指派的子SKU。 您可以使用cURL傳送下列GET請求，以檢視已指派產品的連結ID。 此請求會傳回有關可設定產品的詳細資訊。
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## 取得與可設定產品相關聯的子產品
 
-此請求只會傳回與可設定產品關聯的子項。 此回應具有子產品的所有屬性，包括SKU和價格。
+透過傳送以下GET請求，僅傳回與可設定產品關聯的子項。 回應將包含子產品的所有屬性，包括SKU和價格。
 
 以下專案使用GET方法
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## 從父可設定產品中刪除或移除子產品
 
-您可以使用API透過cURL傳送以下DELETE請求，從可設定產品中移除子產品，而不從目錄中刪除產品。
-
-以下專案使用DELETE方法
+您可以使用cURL傳送以下DELETE請求，從可設定產品中移除子產品而不從目錄中刪除產品。
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
