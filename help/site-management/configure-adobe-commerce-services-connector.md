@@ -1,6 +1,7 @@
 ---
 title: 設定Adobe Commerce服務聯結器
 description: 瞭解如何設定Adobe Commerce服務聯結器以與Commerce SaaS產品搭配使用，以及瞭解如何解決常見問題。
+kt: 14777
 doc-type: video
 audience: all
 activity: use
@@ -9,16 +10,18 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 6ee0e0f90864899dd717397a672e1ba4a1ba4351
+source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # 設定Adobe Commerce服務聯結器
 
-若要使用Adobe Commerce和Magento Open Source的支付服務，您必須完成一些入門步驟。 觀看以下影片，瞭解如何設定Adobe Commerce的支付服務。
+Commerce Services聯結器是由Adobe開發的設定，可解鎖各種SaaS功能。 若要使用Adobe Commerce和Magento Open Source的付款服務，您必須使用生產和沙箱API金鑰連線您的Commerce執行個體，並在設定中指定資料空間以進行設定。
+
+觀看「如何設定Adobe Commerce服務聯結器」影片，協助您設定付款服務。
 
 ## 這部影片是給誰看的？
 
