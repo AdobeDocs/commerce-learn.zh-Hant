@@ -2,6 +2,7 @@
 title: 設定Adobe Commerce支付服務
 description: 瞭解如何設定Adobe Commerce支付服務。
 doc-type: video
+kt: 14748
 audience: all
 activity: use
 last-substantial-update: 2024-01-09T00:00:00Z
@@ -9,9 +10,9 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 3e89efd4000f7983ea87eec87d0ca7a5fe9603b7
+source-git-commit: 9eac97ced3643d9cb3c2d77ab0bd93f61d6917e5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
