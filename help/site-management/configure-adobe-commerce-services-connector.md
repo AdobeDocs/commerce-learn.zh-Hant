@@ -10,9 +10,9 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
+source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Commerce Services聯結器是由Adobe開發的設定，可解鎖各種SaaS功能。 若要使用Adobe Commerce和Magento Open Source的付款服務，您必須使用生產和沙箱API金鑰連線您的Commerce執行個體，並在設定中指定資料空間以進行設定。
 
-觀看「如何設定Adobe Commerce服務聯結器」影片，協助您設定付款服務。
+觀看 _設定Adobe Commerce服務聯結器_ 協助您設定付款服務的影片。
 
 ## 這部影片是給誰看的？
 
@@ -40,7 +40,7 @@ Commerce Services聯結器是由Adobe開發的設定，可解鎖各種SaaS功能
 - 旋轉商店的API金鑰。
 - 瀏覽設定Commerce Service聯結器的SaaS識別碼步驟。
 - 疑難排解上線支付服務時的沙箱按鈕。
-- Commerce服務聯結器未在UI中載入。
+- UI中未載入Commerce Service Connector。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
