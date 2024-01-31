@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+source-git-commit: b5a9dbfdb7e44d98263131c24ee562375b77b0fc
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '587'
 ht-degree: 3%
 
 ---
@@ -80,6 +80,7 @@ ht-degree: 3%
    + [新增網站、商店和商店檢視](../site-management/add-websites-stores-views.md)
    + [變更商店URL](../site-management/change-store-url.md)
    + [送貨與交貨方式](../site-management/shipping-delivery.md)
+   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
    + Adobe Commerce服務 {#adobe-commerce-services}
       + [設定Commerce服務聯結器](../site-management/configure-adobe-commerce-services-connector.md)
       + [設定付款服務](../site-management/configure-adobe-payment-services.md)
