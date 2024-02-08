@@ -1,6 +1,6 @@
 ---
-title: 瞭解如何整合Adobe Commerce和Adobe Journey Optimizer
-description: 瞭解為何以及如何實作Adobe Commerce與Adobe Journey Optimizer的整合
+title: 整合Adobe Commerce和Adobe Journey Optimizer
+description: 瞭解為何以及如何實作Adobe Commerce與Adobe Journey Optimizer的整合。
 feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
 topic: Administration, Commerce, Integrations, Personalization
 role: Admin, Developer
@@ -10,17 +10,17 @@ duration: 512
 last-substantial-update: 2024-01-17T00:00:00Z
 jira: KT-14793
 thumbnail: 3426855.jpeg
-source-git-commit: b790ca7921fb5999c211619a2bf56e39a0dcf960
+exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
+source-git-commit: 8ffbcb364ce2a1bc3c6be0cb39fbece8f5fbd320
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
+# 整合Adobe Commerce和Adobe Journey Optimizer
 
-# 瞭解如何整合Adobe Commerce和Adobe Journey Optimizer
-
-瞭解如何使用 [資料連線](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} Adobe Commerce中的Adobe Journey Optimizer協助，解鎖Commerce資料並即時提供端對端個人化購物者體驗。
+瞭解如何使用 [資料連線](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} Adobe Commerce中的Adobe Journey Optimizer協助，解鎖Commerce資料並即時提供端對端個人化購物者體驗。
 
 ## 這部影片是給誰看的？
 
