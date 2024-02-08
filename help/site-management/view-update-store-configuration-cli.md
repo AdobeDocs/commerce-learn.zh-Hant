@@ -1,6 +1,6 @@
 ---
-title: 瞭解如何使用命令列檢視和設定管理員設定
-description: 示範如何使用命令列檢視和設定設定值
+title: 使用命令列檢視及設定管理員設定
+description: 瞭解如何使用命令列檢視和設定管理員設定。
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# 瞭解如何使用命令列檢視和設定管理員設定
+# 使用命令列檢視及設定管理員設定
 
 示範如何使用Commerce CLI檢視、設定和尋找設定值。 瞭解值的儲存位置以及預設值的來源。
 
