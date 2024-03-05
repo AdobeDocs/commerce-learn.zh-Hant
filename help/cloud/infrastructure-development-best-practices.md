@@ -1,0 +1,44 @@
+---
+title: Adobe Commerce Cloud基礎結構和開發最佳實務
+description: 瞭解Adobe Commerce Cloud技術入門基礎結構和開發最佳實務。
+feature: Cloud
+topic: Commerce, Architecture, Development
+role: Architect, Developer
+level: Intermediate
+doc-type: Technical Video
+duration: 0
+last-substantial-update: 2024-03-04T00:00:00Z
+jira: KT-15017
+kt: 15017
+source-git-commit: d8c18fd7ae141739112bebe60edea348802684f9
+workflow-type: tm+mt
+source-wordcount: '93'
+ht-degree: 0%
+
+---
+
+
+# Adobe Commerce Cloud技術入職和硬體移交 — 基礎結構和開發最佳實務
+
+瞭解Adobe Commerce的雲端基礎結構和一些開發最佳實務。
+
+## 這部影片是給誰看的？
+
+- 網站管理員
+- 商務架構師
+- 電子商務網站擁有者
+
+## 視訊內容
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+
+## 影片中提到的Experience League檔案
+
+- [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
+- [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
+- [COMMERCE CLOUDCLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+  [Adobe Commerce升級並套用修補程式](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
+- [Adobe Commerce啟動前檢查清單](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+- [建立支援票證](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
+
+{{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
