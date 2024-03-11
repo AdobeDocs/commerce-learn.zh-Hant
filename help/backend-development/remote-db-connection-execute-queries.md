@@ -1,5 +1,5 @@
 ---
-title: 瞭解如何連線並針對Adobe Commerce資料庫執行查詢
+title: 連線並執行對資料庫的查詢
 description: 瞭解連線至Adobe Commerce雲端專案的幾種方法。 瞭解如何提取資料庫以使用站外。 瞭解遮罩和移除PII的一些方法。
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
+# 連線並針對Adobe Commerce資料庫執行查詢
 
-# 瞭解如何連線並針對Adobe Commerce資料庫執行查詢
-
-在本教學課程中，您將瞭解如何連線至雲端專案上的Adobe Commerce、傾印資料庫以用於站外，以及遮罩PII並移除它。
-
+在本教學課程中，您將瞭解如何連線至雲端專案上的Adobe Commerce、傾印資料庫以供在異地使用，以及遮罩PII並移除它。
 
 您可以使用下列任一方法，從雲端專案存取Adobe Commerce資料：
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [設定MySQL服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [設定遠端MySQL資料庫連線](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [在雲端基礎結構上的Adobe Commerce上建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
