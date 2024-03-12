@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Commerce Cloud技術入門和硬體移交 — 設定和除錯
+# 技術入門 — 設定和偵錯
 
 瞭解如何設定和偵錯Adobe Commerce Cloud。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
-## 影片中提到Experience League檔案和Fastly Adobe Commerce檢查程式
+## 影片中提到的Experience League檔案
 
 - [設定Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [雲端Docker設定Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
