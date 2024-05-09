@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 043d873e9b649455202de9df137c7283d92a2a4a
+exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
+source-git-commit: 8ef4b0e0a0e4dfffdef8759e4ac7659ed854fae2
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -53,7 +54,7 @@ ht-degree: 0%
 
 現在網域已新增至 `env.php`，您可以在「Adobe Commerce管理員」中或使用REST API來建立可下載的產品。
 
-另請參閱 [設定參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) 以進一步瞭解。 另請參閱 [Adobe Commerce的CLI參考](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd以取得詳細資訊。
+另請參閱 [設定參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) 以進一步瞭解。
 
 >[!IMPORTANT]
 >在某些版本的Adobe Commerce上，當您在Adobe Commerce管理員中編輯產品時，可能會收到以下錯誤。 產品是使用REST API建立的，但連結的下載專案具有 `null` 價格。
@@ -111,14 +112,14 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## 使用cURL建立可下載的產品（從Commerce應用程式伺服器下載）
+## 使用cURL建立可下載的產品(從Commerce應用程式伺服器下載)
 
 此範例示範當檔案儲存於與Adobe Commerce應用程式相同的伺服器時，如何使用cURL從Adobe Commerce管理員建立可下載的產品。
 
 在此使用案例中，當管理型錄的管理員選擇 `upload file`，則會將檔案傳輸至 `pub/media/downloadable/files/links/` 目錄。  Automation會根據下列模式，建立檔案並將其移動到其各自的位置：
 
 - 每個上傳的檔案會根據檔案名稱的前兩個字元儲存在資料夾中。
-- 開始上傳時，商務應用程式會建立或使用現有資料夾來傳輸檔案。
+- 開始上傳時，Commerce應用程式會建立或使用現有資料夾來傳輸檔案。
 - 下載檔案時， `link_file` 路徑的區段會使用路徑中附加至 `pub/media/downloadable/files/links/` 目錄。
 
 例如，如果上傳的檔案名為 `download-example.zip`：
@@ -237,6 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [可下載的產品型別](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [可下載的網域設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [新增至.env.php中的可下載網域](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank}
 - [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
