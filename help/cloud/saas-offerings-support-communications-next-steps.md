@@ -10,22 +10,22 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# 技術入門 — 部署、測試、監控和安全性
+# 技術入門 — SaaS方案
 
 瞭解Adobe Commerce Cloud SaaS產品、支援和其他通訊，以及一些後續步驟。
 
 ## 這部影片是給誰看的？
 
 - 網站管理員
-- 商務架構師
+- Commerce架構師
 - 電子商務網站擁有者
 
 ## 視訊內容
@@ -81,7 +81,7 @@ ht-degree: 0%
 - [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [共擔責任](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [客戶資料存取與隱私權](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-- [商務認證](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
+- [Commerce認證](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
 - [Commerce學習課程](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Commerce社群論壇](https://community.magento.com/)
 -= [設定Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
