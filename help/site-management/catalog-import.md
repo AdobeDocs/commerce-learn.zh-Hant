@@ -10,9 +10,10 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
+exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
+source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ ht-degree: 0%
 
 ## 手動建立產品 {#manual-import}
 
-如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，並且有關如何使用Commerce Admin的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪 [建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，而且有關如何使用Commerce管理員的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪 [建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. 別忘了，您可以使用多種方法來管理您的目錄，不過一旦使用自動化，手動編輯必須受到限制。 自動更新有機會覆寫手動執行的任何變更，因此會導致混淆。 在與Adobe Commerce整合以管理目錄使用自動化和API後，建議限制從管理員到管理目錄 [使用者角色和許可權](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 
 
@@ -92,7 +93,7 @@ ht-degree: 0%
 
 - 目錄為任意大小
 - 更新頻繁，每天超過1倍是可接受的
-- 匯入時間很重要，但並不重要
+- 匯入時間很重要但並不重要，處理匯入資料的短暫延遲是可接受的
 - 資料並非以CSV格式結構，且您無法使用自動化將其轉換
 
 
@@ -112,8 +113,6 @@ ht-degree: 0%
 缺點：
 
 - 不支援GET要求
-- 您必須使用選項屬性ID，而非標籤
-
 
 ### 何時考量此方法
 
@@ -138,7 +137,6 @@ ht-degree: 0%
 缺點：
 
 - 關聯的影像和視訊必須個別上傳
-- 您必須使用選項屬性ID，而非標籤
 - 資料必須是CSV格式
 
 ### 何時考量此方法
