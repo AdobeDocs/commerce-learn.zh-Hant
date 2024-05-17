@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ ht-degree: 0%
 
 如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，而且有關如何使用Commerce管理員的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪 [建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. 別忘了，您可以使用多種方法來管理您的目錄，不過一旦使用自動化，手動編輯必須受到限制。 自動更新有機會覆寫手動執行的任何變更，因此會導致混淆。 在與Adobe Commerce整合以管理目錄使用自動化和API後，建議限制從管理員到管理目錄 [使用者角色和許可權](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### 何時考量此方法
 
 - 非常小的目錄，例如少於50種產品
@@ -41,8 +39,6 @@ ht-degree: 0%
 - 您已擁有所有產品詳細資料、影像、影片，而且您不想花時間瞭解如何將資料轉換為CSV
 - 建立產品時要加入新增影像和影片
 - 您的團隊為 `not` 熟悉API以及OAUTH的運作方式
-
-
 
 >[!TAB 管理員CSV]
 
@@ -61,16 +57,12 @@ ht-degree: 0%
 - 排程匯入限製為每天最多1次
 - 關聯的影像和視訊必須個別上傳
 
-
-
 ### 何時考量此方法
 
 - 目錄大小為中等
 - 更新每天不超過一次
 - 您可以存取一些伺服器設定，以備您必須增加檔案上傳大小上限
 - 您的團隊為 `not` 熟悉API以及OAUTH的運作方式
-
-
 
 >[!TAB 大量REST API]
 
@@ -85,9 +77,6 @@ ht-degree: 0%
 
 - 關聯的影像和視訊必須個別上傳
 - 可受限於託管提供者的頻寬限制
-- 您必須使用選項屬性ID，而非標籤
-
-
 
 ### 何時考量此方法
 
@@ -95,8 +84,6 @@ ht-degree: 0%
 - 更新頻繁，每天超過1倍是可接受的
 - 匯入時間很重要但並不重要，處理匯入資料的短暫延遲是可接受的
 - 資料並非以CSV格式結構，且您無法使用自動化將其轉換
-
-
 
 >[!TAB 非同步REST API]
 
@@ -118,7 +105,6 @@ ht-degree: 0%
 
 - 經常匯入
 - 從透過API提交並從訊息佇列處理的時間來看，沒有細微的延遲問題。
-
 
 
 >[!TAB CSV REST API]
@@ -145,8 +131,6 @@ ht-degree: 0%
 - 更新頻繁，每天超過1倍是可接受的
 - 整體匯入時間很重要
 - 資料已經是CSV格式，或是可以使用自動化輕鬆轉換
-
-
 
 >[!ENDTABS]
 
