@@ -1,9 +1,9 @@
 ---
 title: 啟用系列相關連結
-description: 連結至啟用系列中的相關頁面
-source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
+description: 連結至啟用系列中的相關頁面，以在所有個別頁面上使用
+source-git-commit: e5b9d8cc85412acf086bcb9ac5ee86ed53c7ae9c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
