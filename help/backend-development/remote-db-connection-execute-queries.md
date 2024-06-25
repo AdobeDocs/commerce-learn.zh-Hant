@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # 連線並針對Adobe Commerce資料庫執行查詢
 
-在本教學課程中，您將瞭解如何連線至雲端專案上的Adobe Commerce、傾印資料庫以供在異地使用，以及遮罩PII並移除它。
+瞭解如何連線至雲端專案上的Adobe Commerce、建立資料庫傾印以供異地使用，以及透過遮罩或移除來處理個人識別資訊(PII)。 瞭解如何使用各種方法存取Adobe Commerce資料，包括本機資料庫傾印、與MySQL Workbench或TablesPlus等應用程式的遠端資料庫連線，以及透過Magento雲端CLI工具的直接連線。
+
+## 視訊內容
+
+* 瞭解如何使用MysqlWorkbench或TablesPlus等工具快速連線到遠端Adobe Commerce Cloud專案。
+* 瞭解如何快速連線至Adobe Commerce專案，以透過命令列執行SQL
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+瞭解如何連線到雲端專案上的Adobe Commerce、傾印資料庫以供異地使用，以及遮罩PII並將其移除。
 
 您可以使用下列任一方法，從雲端專案存取Adobe Commerce資料：
 
