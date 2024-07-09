@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,10 @@ ht-degree: 2%
       + [善用全球參考架構](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [架構者GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [實作全球參考架構](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + 商務功能 {#capabilities}
+   + Commerce功能 {#capabilities}
       + [資料連線](../capabilities/data-connection.md)
       + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
+      + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
    + 建立產品 {#create-products}
       + [簡單產品](../site-management/create-simple-product.md)
       + [虛擬產品](../site-management/create-virtual-product.md)
@@ -75,7 +76,7 @@ ht-degree: 2%
       + [IO事件快速入門](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
       + [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
-      + [建立應用程式建置器專案](../io-events/create-app-builder-project.md)
+      + [建立App Builder專案](../io-events/create-app-builder-project.md)
       + [設定Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
       + [Adobe Commerce條件事件](../io-events/conditional-events.md)
