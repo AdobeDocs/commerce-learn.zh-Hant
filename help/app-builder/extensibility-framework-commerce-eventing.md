@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # App Builder的可擴充性架構
 
-此功能示範會說明App Builder及其Adobe Commerce的潛在使用案例。 本影片介紹擴充性架構、主要客戶優勢和功能。
+本功能展示說明App Builder及其Adobe Commerce的潛在使用案例。 本影片介紹擴充性架構、主要客戶優勢和功能。
 
 ## 適用於Adobe Commerce的App Builder {#app-builder-extensibility}
 

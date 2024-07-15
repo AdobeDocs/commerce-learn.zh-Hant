@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 適用於業務使用者 — 登陸頁面」'
+title: "[!DNL Commerce]適用於企業使用者 — 登陸頁面"
 description: 瞭解如何設定類別登陸頁面及控制外觀。
 kt: 5766
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於業務使用者 — 登陸頁面
+# 商務使用者適用的[!DNL Commerce] — 登陸頁面
 
 在本影片中：
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 

@@ -1,7 +1,7 @@
 ---
 title: .env檔案
 description: 瞭解此範例應用程式的.env檔案中的檔案型別
-landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder，以及.env檔案中使用的內容型別
+landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及.env檔案中使用的內容型別
 kt: 12423
 doc-type: tutorial
 audience: all
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # 產生並設定.env檔案 {#env-file}
 
-此 `.env` 是特殊檔案，不屬於範例模組，但對Adobe Developer App Builder應用程式中的使用很重要。 此檔案包含密碼和其他資訊。 避免將此檔案提交至任何程式碼存放庫。
+`.env`是特殊檔案，不屬於範例模組，但對於Adobe Developer App Builder應用程式中的使用很重要。 此檔案包含密碼和其他資訊。 避免將此檔案提交至任何程式碼存放庫。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，希望深入瞭解 `.env` 檔案。
+* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，他們想要瞭解`.env`檔案。
 
 ## 視訊內容
 
@@ -55,7 +55,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以在檔案中看到範例模組使用這些靜態值 `actions/commerce.index.js`.
+您可以在檔案`actions/commerce.index.js`中看到這些靜態值正用於範例模組。
 
 ```javascript
         const oauth = getCommerceOauthClient(

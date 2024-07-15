@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 適用於業務使用者 — 產品類別」'
+title: '[!DNL Commerce]適用於業務使用者 — 產品類別'
 description: 瞭解如何透過設定類別來管理您的產品目錄。
 kt: 5765
 doc-type: videos
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 3d35891b-d85a-4e91-877a-a375f047892d
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於業務使用者 — 產品類別
+# 商務使用者適用的[!DNL Commerce] — 產品類別
 
 在本影片中：
 

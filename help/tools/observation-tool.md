@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [Adobe Commerce的觀察 — 支援文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+- Adobe Commerce的[觀察 — 支援文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
 - [對Adobe Commerce使用觀察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

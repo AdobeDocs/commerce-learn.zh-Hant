@@ -25,7 +25,7 @@ ht-degree: 0%
 ## 這部影片是給誰看的？
 
 - 網站管理員
-- 商務架構師
+- Commerce架構師
 - 電子商務網站擁有者
 
 ## 視訊內容
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 影片中提到Experience League檔案和Fastly Adobe Commerce檢查程式
 
-- [Fastly Checker](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
+- [Fastly檢查程式](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
 - [Experience League中的Fastly服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
 - [Fastly WAF常見問題集](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
 - [影像最佳化](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)

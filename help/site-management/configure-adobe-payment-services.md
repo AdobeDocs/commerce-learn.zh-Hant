@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 設定Adobe Commerce的支付服務
 
-若要開始使用Adobe Commerce和Magento Open Source的支付服務，您必須完成一些入門步驟。 觀看 _設定Adobe Commerce的支付服務_ 有關如何開始使用的範例影片。
+若要開始使用Adobe Commerce和Magento Open Source的支付服務，您必須完成一些入門步驟。 觀看&#x200B;_設定Adobe Commerce的付款服務_&#x200B;影片，瞭解如何開始使用的範例。
 
 ## 這部影片是給誰看的？
 
@@ -32,6 +33,6 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [內建支付服務](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [支付服務指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+- [內建付款服務](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+- [付款服務指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
 - [Commerce服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

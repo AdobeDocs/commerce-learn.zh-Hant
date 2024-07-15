@@ -9,9 +9,10 @@ feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: 709619c8c1776c6da6575ae79b6ccb671700c365
+exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -45,4 +46,4 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## 有用的資源
 
 - [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- [MySQL中的死結](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"}
+- MySQL中的[死結](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"}

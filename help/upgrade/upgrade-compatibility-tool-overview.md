@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 25%
+source-wordcount: '206'
+ht-degree: 29%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 25%
 - 如何協助您快速找出升級至較新Adobe Commerce版本所需的錯誤與修正
 - 如何存取HTML結果，協助依嚴重性和不相容數量將模組視覺化
 
-若要進一步瞭解此工具，請參閱 [升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). 如果您想進一步瞭解如何執行和簡化升級，請參閱 [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+若要深入瞭解此工具，請參閱[升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)。 如果您想進一步瞭解如何執行和簡化升級，請參閱[升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)。
 
 ## 這部影片是給誰看的？
 

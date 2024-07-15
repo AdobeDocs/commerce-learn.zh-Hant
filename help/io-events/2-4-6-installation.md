@@ -15,18 +15,18 @@ level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 2.4.6安裝
 
-瞭解如何使用Composer for version 2.4.6在Adobe Commerce中安裝數個新模組。若需其他檔案，請前往 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何使用Composer for version 2.4.6在Adobe Commerce中安裝數個新模組。在[安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}找到其他檔案。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用I/O事件之Adobe Commerce和Adobe Developer App Builder的開發人員。
+* 剛開始使用I/O事件來使用Adobe Commerce和Adobe Developer App Builder的開發人員。
 
 ## 視訊內容 {#video-content}
 
@@ -56,7 +56,7 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`：
+Commerce Cloud`.magento.env.yaml`：
 
 ```yaml
 stage:

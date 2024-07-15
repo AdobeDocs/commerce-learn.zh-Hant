@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 ## 步驟
 
 - 建立模組
-- 建立 `requirejs-config.js` 和JavaScript模組檔案
+- 建立`requirejs-config.js`和JavaScript模組檔案
 - 建立版面更新以新增可啟用JS模組的範本
 - 建立範本檔案
 - 新增模組並進行測試
@@ -39,4 +39,4 @@ ht-degree: 0%
 ## 有用的資源
 
 - [JavaScript開發人員指南](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [呼叫和初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [呼叫並初始化JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

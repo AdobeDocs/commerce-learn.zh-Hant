@@ -1,6 +1,6 @@
 ---
 title: 適用於開發人員的頁面產生器 — 範本和樣式
-description: '"[!DNL Admin] 和舞台主題設定任務。 建立 [!DNL Admin] 範本​。 套用樣式至舞台上的內容型別（即時預覽）。」'
+description: 「[!DNL Admin]」和階段主題設定任務。 建立 [!DNL Admin] 範本​。 套用樣式至舞台上的內容型別（即時預覽）。」
 kt: 5653
 doc-type: video
 activity: use
@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 在本影片中：
 
-- [!DNL Admin] 和階段主題設定任務
-- 建立 [!DNL Admin] 範本&#x200B;
+- [!DNL Admin]和階段主題設定任務
+- 建立[!DNL Admin]個範本&#x200B;
 - 將樣式套用至舞台上的內容型別（即時預覽）
 
 ## 這部影片是給誰看的？
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需有關後續版本更新的資訊，請參閱 [Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需更新版本的相關資訊，請參閱[Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 

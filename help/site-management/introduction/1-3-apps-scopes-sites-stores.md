@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於業務使用者 — 網站、商店和檢視」'
-description: 瞭解的基礎知識 [!DNL Commerce] 架構，包括網站、商店、商店檢視和應用程式範圍之間的差異。 瞭解索引和快取。
+title: '[!DNL Commerce]適用於企業使用者 — 網站、商店和檢視'
+description: 瞭解 [!DNL Commerce] 架構的基本知識，包括網站、商店、商店檢視和應用程式範圍之間的差異。 瞭解索引和快取。
 kt: 5760
 doc-type: video
 activity: use
@@ -12,18 +12,18 @@ level: Beginner, Intermediate
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 網站、商店和檢視
+# 適用於企業使用者的[!DNL Commerce] — 網站、商店和檢視
 
 在本影片中：
 
-- 基本概念 [!DNL Commerce] 架構，包括網站、商店和商店檢視之間的差異
+- [!DNL Commerce]架構的基本概念，包括網站、商店和商店檢視之間的差異
 - 應用程式範圍的概念
-- 概略說明什麼是索引和快取，以及如何 [!DNL Commerce] 處理它們
+- 索引和快取以及[!DNL Commerce]如何處理這些專案的概觀
 
 ## 這部影片是給誰看的？
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需有關後續版本更新的資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 

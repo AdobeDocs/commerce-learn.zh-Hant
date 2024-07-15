@@ -1,5 +1,5 @@
 ---
-title: Commerce Intelligence - SQLReport Builder
+title: COMMERCE INTELLIGENCE - SQLREPORT BUILDER
 description: 瞭解如何使用Commerce Intelligence SQLReport Builder直接查詢您的資料倉儲、檢視結果，並快速將其轉換為圖表。
 landing-page-description: 觀看此影片，瞭解如何使用Commerce Intelligence SQLReport Builder直接查詢您的資料倉儲、檢視結果，並快速將其轉換為圖表。
 short-description: 觀看此影片，瞭解如何使用Commerce Intelligence SQLReport Builder直接查詢您的資料倉儲、檢視結果，並快速將其轉換為圖表。
@@ -16,7 +16,7 @@ level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ SQLReport Builder可讓您直接查詢資料倉儲、檢視結果，並快速將
 
 >[!TIP]
 >
->如果您是初次使用Commerce Intelligence，您可以 [Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
 ## 這部影片是給誰看的？
 

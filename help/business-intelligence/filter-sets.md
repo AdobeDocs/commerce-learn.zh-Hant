@@ -1,6 +1,6 @@
 ---
 title: Commerce Intelligence — 篩選器集
-description: 瞭解如何使用Commerce Intelligence篩選器集功能，簡化Adobe Commerce和Magento Open Source的業務資料報告。
+description: 瞭解如何使用Commerce Intelligence篩選器集功能，簡化Adobe Commerce和Magento Open Source的商業資料報告。
 landing-page-description: 觀看此影片，瞭解如何使用Commerce Intelligence篩選器集功能來簡化業務資料報告。
 short-description: 觀看此影片以瞭解如何使用MBCommerce IntelligenceI篩選集功能來簡化業務資料報告。
 kt: 10289
@@ -16,7 +16,7 @@ level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是初次使用Commerce Intelligence，您可以 [Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
 ## 這部影片是給誰看的？
 

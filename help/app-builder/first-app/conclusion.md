@@ -1,7 +1,7 @@
 ---
 title: 結論
-description: 瞭解如何前往，以取得App Builder的詳細資訊。
-landing-page-description: 瞭解如何前往，以取得App Builder的詳細資訊。
+description: 瞭解到哪裡可以取得有關App Builder的詳細資訊。
+landing-page-description: 瞭解到哪裡可以取得有關App Builder的詳細資訊。
 kt: 12428
 doc-type: tutorial
 audience: all
@@ -13,18 +13,18 @@ level: Beginner, Intermediate
 exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # 結論 {#conclusion}
 
-現在您已建立您的第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
+現在您已建立第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce且使用AdobeApp Builder經驗有限的開發人員，已完成其第一個Adobe Developer App Builder應用程式，並準備好了解更多。
+* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，已完成其第一個Adobe Developer App Builder應用程式並準備好了解更多。
 
 ## 視訊內容
 

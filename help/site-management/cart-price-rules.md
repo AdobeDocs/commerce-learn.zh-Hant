@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '687'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,9 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-購物車價格規則=套用至購物車中2個產品的10%折扣價格規則生效的條件：購物車中的料號總計為2動作套用產品價格折扣的百分比，該折扣金額為10
+購物車價格規則=套用至購物車中2項產品的10%折扣
+價格規則生效的條件：購物車中的專案總數為2
+動作會套用產品價格折扣的百分比，且折扣金額為10
 
 有2個專案加入購物車，每個價值$19.95美元
 
@@ -54,34 +56,46 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-如同上述購物車規則的10%折扣實際新增2個產品(19.95)到購物車
+如同上述購物車規則生效時的10%折扣
+新增2項產品19.95版到購物車
 
-每項產品可獲得$1.995的折扣產品1 - 19.95 x 0.1 = 1.995 2 - 19.95 x 0.1 = 1.995
+每項產品可獲得$1.995的折扣
+產品1 - 19.95 x 0.1 = 1.995
+2 - 19.95 x 0.1 = 1.995
 
 總金額為3.99的客戶可獲得折扣
 
-在管理員中向商店所有者顯示條列專案時，我們需要調整第一個專案並將其四捨五入到2.000。第二個專案，我們將第三個小數點產品1捨棄為2.00產品2 = 1.99
+在管理員中向商店所有者顯示條列專案時，
+我們需要調整第一個專案，並將其四捨五入為2.000。第二個專案則會捨棄小數點後的第三個專案
+產品1 = 2.00
+產品2 = 1.99
 
 這兩種產品加總後的總折扣符合提供給客戶的實際折扣。
 >[!ENDSHADEBOX]
 
 以下是熒幕擷圖，當訂單具有此情境時，其顯示在管理員中：
 
-![顯示具有不同值的已排序專案的管理員檢視](../assets/commerce-admin-cart-price-rule-values-different.png)
+![管理員檢視顯示具有不同值的已排序專案](../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### 其他可能的解決方案，以及未使用它們的原因
 
 >[!BEGINSHADEBOX]
 
-如同上述購物車規則的10%折扣實際新增2個產品(19.95)到購物車
+如同上述購物車規則生效時的10%折扣
+新增2項產品19.95版到購物車
 
-每件產品可獲得$1.995的折扣，但如果我們湊整的話，就會顯示太多折扣。
+每件產品可獲得$1.995的折扣，
+不過，如果我們只是湊整一下，就會顯示太多折扣。
 
-產品1 - 19.95 x 0.1 = 1.995產品2 - 19.95 x 0.1 = 1.995
+產品1 - 19.95 x 0.1 = 1.995
+產品2 - 19.95 x 0.1 = 1.995
 
-轉換為四捨五入所有專案產品1新值為2.00產品2新值為2.00
+轉換為四捨五入所有專案
+產品1新值為2.00
+產品2新值為2.00
 
-實際提供3.99的全額折扣給客戶，但如果我們彙總，就會顯示已提供$4.00，這是不正確的。
+總金額為3.99，實際提供給客戶作為折扣。
+但如果彙總，則會顯示已提供$4.00，這是不正確的。
 
 2.00 + 2.00 = $4.00
 
@@ -91,13 +105,19 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-如同上述購物車規則的10%折扣實際新增2個產品(19.95)到購物車
+如同上述購物車規則生效時的10%折扣
+新增2項產品19.95版到購物車
 
-每個產品可獲得$1.995的折扣，但如果我們直接捨棄小數點後的第三個數字，就會發生以下情況：產品1 - 19.95 x 0.1 = 1.995產品2 - 19.95 x 0.1 = 1.995
+每項產品可獲得$1.995的折扣，但如果我們直接捨棄小數點後的第三個專案，就會發生下列情形：
+產品1 - 19.95 x 0.1 = 1.995
+產品2 - 19.95 x 0.1 = 1.995
 
-轉換成捨棄所有專案的第三個小數點產品1新值為1.99產品2新值為1.99
+轉換為拖放所有專案的第三個小數
+產品1新值為1.99
+產品2新值為1.99
 
-實際提供3.99的總額作為客戶的折扣，但如果我們捨棄小數點後的第三個，則會顯示$3.98已提供，而且這是不正確的。
+總金額為3.99，實際提供給客戶作為折扣。
+不過，如果我們捨棄小數點後三個，則會顯示$3.98已提供，而且不正確。
 
 1.99 + 1.99 = $3.98
 
@@ -106,5 +126,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [建立購物車價格規則 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [優惠券代碼 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [優惠券代碼 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

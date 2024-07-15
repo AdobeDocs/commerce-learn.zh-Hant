@@ -11,17 +11,17 @@ duration: 398
 last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15141
 kt: 15141
-source-git-commit: bf09b4c1b0a4f3ac41cbae3a8345801536cd9eda
+exl-id: 26bc788c-0fc8-405b-a99e-0d202ac18ab8
+source-git-commit: 2d6e9bd0362df4a0babff54abb1acb7c47926286
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Commerce Intelligence快速入門
 
-瞭解Adobe Commerce智慧。 本教學課程概述該工具、需注意的幾個命名慣例，以及設定該工具的初始步驟。 Adobe Commerce Intelligence由三部分組成：資料來源、資料倉儲和報表。&#x200B;URL資料來源通常是Adobe Commerce網站及其資料庫。&#x200B;URLData Warehouse是執行報表查詢的位置，而非直接在網站的資料庫上執行。&#x200B;URL瞭解&#x200B;Adobe Commerce Intelligence的主要功能，例如儀表板、量度和報告，並提供存取檔案、建立支援票證和管理使用者許可權的相關資訊。
+瞭解Adobe Commerce Intelligence。 本教學課程概述該工具、需注意的幾個命名慣例，以及設定該工具的初始步驟。 Adobe Commerce Intelligence由三部分組成：資料來源、資料倉儲和報表。&#x200B;URL資料來源通常是Adobe Commerce網站及其資料庫。&#x200B;URLData Warehouse是執行報表查詢的位置，而非直接在網站的資料庫上執行。&#x200B;URL瞭解&#x200B;Adobe Commerce Intelligence的主要功能，例如儀表板、量度和報告，並提供存取檔案、建立支援票證和管理使用者許可權的相關資訊。
 
 ## 這部影片是給誰看的？
 

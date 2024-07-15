@@ -1,5 +1,5 @@
 ---
-title: 『[!DNL Commerce] 影片和Tutorials
+title: '[!DNL Commerce]影片和Tutorials'
 description: Adobe Commerce和Magento Open Source的影片和教學課程系列
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Commerce教學課程 {#videos}
 
-歡迎使用 [!DNL Commerce] 影片和教學課程集合。 使用這些資源以及 [檔案](https://experienceleague.adobe.com/docs/commerce.html)，是瞭解如何使用Adobe Commerce和Magento Open Source支援您的電子商務業務的機會。 此系列旨在為後端開發人員、前端開發人員、系統管理員、商家及您組織中的其他角色提供實用的內容。
+歡迎使用[!DNL Commerce]影片和教學課程集合。 使用這些資源以及[檔案](https://experienceleague.adobe.com/docs/commerce.html)，可讓您瞭解如何使用Adobe Commerce和Magento Open Source來支援您的電子商務業務。 此系列旨在為後端開發人員、前端開發人員、系統管理員、商家及您組織中的其他角色提供實用的內容。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此 [商務事件](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) 您可以透過空間存取可隨選觀看的錄製活動內容。
+>[Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html)空間可讓您存取可隨選觀看的錄製活動內容。
 
 ## 其他資源
 

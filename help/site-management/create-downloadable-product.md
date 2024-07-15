@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 允許下載的網域
 
-您必須指定允許下載的網域。 網域會新增至專案的 `env.php` 檔案。 此 `env.php` 檔案詳細資料允許包含可下載內容的網域。 如果使用REST API建立可下載的產品，則會發生錯誤 _早於_  此 `php.env` 檔案已更新：
+您必須指定允許下載的網域。 網域會透過命令列新增到專案的`env.php`檔案。 `env.php`檔案詳細說明允許包含可下載內容的網域。 如果是在&#x200B;_之前，使用REST API_&#x200B;建立可下載的產品，並更新`php.env`檔案，則會發生錯誤：
 
 ```bash
 {
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 若要設定網域，請連線到伺服器： `bin/magento downloadable:domains:add www.example.com`
 
-完成後， `env.php` 在中修改 _downloadable_domain_ 陣列。
+完成之後，就會在&#x200B;_downloadable_domains_&#x200B;陣列中修改`env.php`。
 
 ```php
     'downloadable_domains' => [
@@ -52,18 +52,18 @@ ht-degree: 0%
     ],
 ```
 
-現在網域已新增至 `env.php`，您可以在「Adobe Commerce管理員」中或使用REST API來建立可下載的產品。
+現在已將網域新增到`env.php`，您可以在Adobe Commerce管理員中或使用REST API建立可下載的產品。
 
-另請參閱 [設定參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) 以進一步瞭解。
+請參閱[組態參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)以瞭解更多資訊。
 
 >[!IMPORTANT]
->在某些版本的Adobe Commerce上，當您在Adobe Commerce管理員中編輯產品時，可能會收到以下錯誤。 產品是使用REST API建立的，但連結的下載專案具有 `null` 價格。
+>在某些版本的Adobe Commerce上，當您在Adobe Commerce管理員中編輯產品時，可能會收到以下錯誤。 產品是使用REST API建立，但連結的下載專案價格為`null`。
 
-`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
+`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`。
 
 若要修正此錯誤，請使用更新連結API： `POST V1/products/{sku}/downloadable-links.`
 
-請參閱 [使用cURL更新產品下載連結](#update-downloadable-links) 區段以取得更多資訊。
+如需詳細資訊，請參閱[使用cURL更新產品下載連結](#update-downloadable-links)區段。
 
 ## 使用cURL建立可下載的產品（從遠端伺服器下載）
 
@@ -116,20 +116,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 此範例示範當檔案儲存於與Adobe Commerce應用程式相同的伺服器時，如何使用cURL從Adobe Commerce管理員建立可下載的產品。
 
-在此使用案例中，當管理型錄的管理員選擇 `upload file`，則會將檔案傳輸至 `pub/media/downloadable/files/links/` 目錄。  Automation會根據下列模式，建立檔案並將其移動到其各自的位置：
+在此使用案例中，當管理目錄的管理員選擇`upload file`時，檔案會傳輸到`pub/media/downloadable/files/links/`目錄。  Automation會根據下列模式，建立檔案並將其移動到其各自的位置：
 
 - 每個上傳的檔案會根據檔案名稱的前兩個字元儲存在資料夾中。
 - 開始上傳時，Commerce應用程式會建立或使用現有資料夾來傳輸檔案。
-- 下載檔案時， `link_file` 路徑的區段會使用路徑中附加至 `pub/media/downloadable/files/links/` 目錄。
+- 下載檔案時，路徑的`link_file`區段會使用附加至`pub/media/downloadable/files/links/`目錄的路徑部分。
 
-例如，如果上傳的檔案名為 `download-example.zip`：
+例如，如果上傳的檔案名為`download-example.zip`：
 
-- 檔案會上傳至路徑 `pub/media/downloadable/files/links/d/o/`.
-子目錄 `/d` 和 `/d/o` 如果不存在，則會建立。
+- 檔案已上傳至路徑`pub/media/downloadable/files/links/d/o/`。
+如果子目錄`/d`和`/d/o`不存在，則會建立它們。
 
-- 檔案的最終路徑為 `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+- 檔案的最終路徑為`/pub/media/downloadable/files/links/d/o/download-example.zip`。
 
-- 此 `link_url` 此範例的值為 `d/o/download-example.zip`
+- 此範例的`link_url`值為`d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -181,8 +181,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## 使用Postman更新產品 {#update-downloadable-links}
 
-使用端點 `rest/all/V1/products/{sku}/downloadable-links`
-此 `SKU` 是在建立產品時產生的產品ID。 舉例來說，在下列程式碼範例中，數字為39，但請確定數字已更新，可使用您網站的ID。 這會更新可下載產品的連結。
+使用端點`rest/all/V1/products/{sku}/downloadable-links`
+`SKU`是在建立產品時產生的產品ID。 舉例來說，在下列程式碼範例中，數字為39，但請確定數字已更新，可使用您網站的ID。 這會更新可下載產品的連結。
 
 ```json
 {
@@ -207,7 +207,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## 使用CURL更新產品下載連結
 
-當您使用cURL更新產品下載連結時，URL會包含正在更新之產品的SKU。  在以下程式碼範例中，SKU為 `abcd12345`. 當您提交指令時，請變更值以符合您要更新之產品的SKU。
+當您使用cURL更新產品下載連結時，URL會包含正在更新之產品的SKU。  在下列程式碼範例中，SKU是`abcd12345`。 當您提交指令時，請變更值以符合您要更新之產品的SKU。
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
@@ -238,5 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [可下載的產品型別](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [可下載的網域設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

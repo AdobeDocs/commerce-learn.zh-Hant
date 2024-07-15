@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 - [建立類別 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
 - [類別許可權 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [頂端導覽 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [上層導覽 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

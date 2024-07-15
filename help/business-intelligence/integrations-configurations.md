@@ -21,7 +21,8 @@ ht-degree: 0%
 
 # Adobe Commerce Intelligence整合與設定
 
-本教學課程提供Adobe Commerce Intelligence中「管理資料」索引標籤的概觀，說明如何設定和設定整合、Data Warehouse及報告功能。&#x200B;URL
+本教學課程提供Adobe Commerce Intelligence中「管理資料」索引標籤的概觀，說明如何設定及設定整合、Data Warehouse和報表功能。
+&#x200B;URL
 此影片探討整合選項，包括預先建立的整合、標準整合和進階整合，以及新增自訂整合的功能。
 本檔案也會說明將表格同步至Data Warehouse、新增表格和欄，以及建立量度和篩選器以用於報表用途的程式。
 

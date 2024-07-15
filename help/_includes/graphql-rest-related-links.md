@@ -4,7 +4,7 @@ description: GraphQL REST區段中相關頁面的連結
 source-git-commit: a285852b7960d93687388e09ad901bb9a1ee675a
 workflow-type: tm+mt
 source-wordcount: '25'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

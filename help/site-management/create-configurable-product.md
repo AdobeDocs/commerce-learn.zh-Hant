@@ -1,6 +1,6 @@
 ---
 title: 建立可設定的產品
-description: 瞭解如何使用REST API和商務管理員建立可設定的產品。
+description: 瞭解如何使用REST API和Commerce管理員建立可設定的產品。
 kt: 14586
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
 
 ---
-
 
 # 建立可設定的產品
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 使用REST API建立可設定的產品：
 
-1. 取得的屬性 [屬性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) 用於後續API呼叫的ID號碼。
+1. 取得[屬性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)的屬性，以使用後續API呼叫的ID號碼。
 1. 建立簡單產品以用於可設定產品。
 1. 建立空的可設定產品並關聯簡單產品。
 1. 設定可設定產品的產品屬性。
@@ -85,7 +85,7 @@ ht-degree: 0%
 ```
 
 
-若要擷取屬性ID以設定可設定的產品，請更新 `attribute-sets/10/attributes` 要取代的以下cURL請求部分 `10` 環境中具有屬性集ID。 此要求使用GET方法。
+若要擷取屬性ID以設定可設定的產品，請更新下列cURL請求的`attribute-sets/10/attributes`部分，以使用您環境中的屬性集ID取代`10`。 此要求使用GET方法。
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -100,8 +100,8 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更 `"attribute-set": 10` 要取代 `10` 環境屬性集ID的ID。
-- 變更 `"value": "13"` 要取代 `13` 使用您環境中的值。
+- 變更`"attribute-set": 10`以使用您環境的屬性集ID取代`10`。
+- 變更`"value": "13"`以使用您環境的值取代`13`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +141,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更 `"attribute_set_id": 10,` 和取代 `10` 環境中具有的屬性集id。
-- 變更 `"value": "14"` 和取代 `14` 使用您環境中的值。
+- 變更`"attribute_set_id": 10,`並以您環境中的屬性集ID取代`10`。
+- 變更`"value": "14"`並以您環境的值取代`14`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +182,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更 `"attribute_set_id": 10,` 要取代 `10` 環境屬性集ID的ID。
-- 變更 `"value": "15"` 和取代 `15` 使用您環境中的值。
+- 變更`"attribute_set_id": 10,`以使用您環境的屬性集ID取代`10`。
+- 變更`"value": "15"`並以您環境的值取代`15`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +223,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更 `"attribute_set_id": 10,` 和取代 `10` 環境屬性集ID的位置。
-- 變更 `"value": "93"` 和取代 `93` 使用您環境中的值。
+- 變更`"attribute_set_id": 10,`並以您環境的屬性集ID取代`10`。
+- 變更`"value": "93"`並以您環境的值取代`93`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -254,7 +254,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 使用cURL傳送以下POST請求，設定可設定產品的可用選項。
 
-在提交請求之前，請先變更 `"attribute_id": 93,` 要取代 `93` 環境中的id屬性取得。
+在提交要求之前，請變更`"attribute_id": 93,`以使用您環境的屬性ID取代`93`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -290,7 +290,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 
 傳送下列POST請求，將這些簡單產品新增為可設定產品的子項。 針對每項產品提交個別請求。
 
-針對每個請求，更新 `childSKU` 含您新增之子產品的值。 下列範例會指定簡單產品 `kids-Hawaiian-Ukulele-red` 至具有SKU的可設定產品 `Kids-Hawaiian-Ukulele-red`.
+對於每個請求，請以您要新增的子產品的值更新`childSKU`值。 下列範例將簡單產品`kids-Hawaiian-Ukulele-red`指派給具有SKU `Kids-Hawaiian-Ukulele-red`的可設定產品。
 
 
 ```bash
@@ -349,5 +349,5 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 - [建立可設定的產品教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
 - [可設定的產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
-- [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

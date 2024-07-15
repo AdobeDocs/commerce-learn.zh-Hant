@@ -9,7 +9,8 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
+exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Adobe Commerce資料連線的完整示範。
 
 ## 視訊內容
 
-* 將行為資料從Adobe Commerce傳送至其他DX產品(例如AJO、Analytics、Target、Real-Time CDP)，以便在客戶歷程中進行區段決策、設定檔擴充和個人化體驗。
+* 將行為資料從Adobe Commerce傳送至其他DX產品(例如AJO、Analytics、Target、Real-Time CDP)，以便在客戶歷程中進行區段決策、個人資料擴充和個人化體驗。
 * Real-Time CDP受眾會根據瀏覽器資料、伺服器端資料（包括訂單歷史記錄）和其他來源的資料（即忠誠度資料），即時更新和修改分段。
 * 利用Real-Time CDP受眾，在Adobe Commerce中個人化購物車價格規則和動態區塊。
 

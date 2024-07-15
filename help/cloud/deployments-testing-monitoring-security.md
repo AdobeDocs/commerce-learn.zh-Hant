@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
+source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # 技術入門 — 部署、測試、監控和安全性
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 ## 這部影片是給誰看的？
 
 - 網站管理員
-- 商務架構師
+- Commerce架構師
 - 電子商務網站擁有者
 
 ## 視訊內容
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 影片中提到的Experience League檔案
 
-- [部署流程](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+- [部署程式](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
 - [SWAT全網站分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [ECE工具智慧精靈](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [安全性掃描](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)

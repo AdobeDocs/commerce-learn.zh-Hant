@@ -1,6 +1,6 @@
 ---
 title: 管理使用者角色和許可權
-description: 瞭解用來控制存取的使用者帳戶和許可權 [!DNL Commerce] 網站並將資料儲存在管理員中。
+description: 瞭解用來控制 [!DNL Commerce] 網站存取許可權的使用者帳戶和許可權，並將資料儲存在Admin。
 kt: 5610
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ ht-degree: 0%
 
 ## 其他資源
 
-[管理管理員使用者帳戶 —  [!DNL Commerce] Admin System指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[管理系統管理員使用者帳戶 —  [!DNL Commerce] 系統管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[使用者角色 —  [!DNL Commerce] Admin System指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[使用者角色 —  [!DNL Commerce] 系統管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

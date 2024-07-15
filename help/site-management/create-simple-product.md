@@ -1,6 +1,6 @@
 ---
 title: 建立簡單產品
-description: 瞭解如何使用REST API和商務管理員建立簡單的產品。
+description: 瞭解如何使用REST API和Commerce管理員建立簡單的產品。
 kt: 14446
 doc-type: video
 audience: all
@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
+exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -59,5 +60,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## 其他資源
 
-- [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

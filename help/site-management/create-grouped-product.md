@@ -1,6 +1,6 @@
 ---
 title: 建立群組的產品
-description: 瞭解如何使用REST API和商務管理員建立分組產品。
+description: 瞭解如何使用REST API和Commerce管理員建立分組產品。
 kt: 14585
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
 
 ---
-
 
 # 建立群組的產品
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 1. 將簡單產品填入空白的分組產品中。
 1. 建立空的群組產品並關聯簡單產品。
 
-   將簡單產品關聯至群組產品時，排序順序屬性(`position`)中，前端會使用裝載，以所需順序顯示相關產品。 如果 `position` 屬性未指定，產品會以加入群組產品的順序顯示。
+   將簡單產品與群組產品建立關聯時，前端會使用裝載中的排序順序屬性(`position`)，依所需順序顯示關聯產品。 如果未指定`position`屬性，則會以加入群組產品的順序顯示產品。
 
 從Adobe Commerce管理員建立分組產品時，請先建立簡單產品。 當您準備好建立群組產品時，請將簡單產品指派給一個批次中的群組產品，以建立簡易產品的關聯。
 
@@ -158,7 +158,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## 將第三個簡單產品新增到現有的分組產品
 
-包含適當的職位編號(除了 `1` 或 `2`)，用於最初與分組產品相關聯的前兩個產品。 在此範例中，位置為 `4`.
+包含適當的職位編號（`1`或`2`以外的任何專案），這些編號用於最初與分組產品相關聯的前兩個產品。 在此範例中，位置為`4`。
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -183,10 +183,10 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## 從分組產品中刪除簡單產品
 
-至 [刪除簡單產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) 在群組的產品中，使用： `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+若要從群組產品[刪除簡單產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)，請使用： `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`。
 
-若要探索要當做何物使用 `{type}`，使用xdebug擷取要求並評估$linkTypes： `related`， `crosssell`， `uupsell`、和 `associated`.
-![群組產品連結型別 — 替代文字](/help/assets/site-management/catalog/grouped-types.png "在xdebug工作階段期間擷取的分組產品連結型別")
+若要探索要當作`{type}`使用的專案，請使用xdebug來擷取要求並評估$linkTypes： `related`、`crosssell`、`uupsell`和`associated`。
+![已分組的產品連結型別 — 替代文字](/help/assets/site-management/catalog/grouped-types.png "已在xdebug工作階段期間擷取已分組的產品連結型別")
 
 將簡單產品連結至分組產品時，裝載包含幾個類似於的區段：
 
@@ -203,9 +203,9 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
         }
 ```
 
-在承載中， `link_type` 值 `associated` 提供 `{type}` DELETE請求中所需的值。 請求URL將類似於 `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+在承載中，`link_type`值`associated`提供DELETE要求中所需的`{type}`值。 要求URL將類似於`/V1/products/my-new-grouped-product/links/associated/product-sku-three`。
 
-請參閱cURL請求，刪除具有的簡單產品 `product-sku-three` 來自具群組之產品的SKU `my-new-grouped-product` SKU：
+檢視cURL要求，以從具有`my-new-grouped-product` SKU的分組產品中刪除具有`product-sku-three` SKU的簡單產品：
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -223,7 +223,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## 其他資源
 
-- [建立及管理群組的產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+- [建立和管理群組產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
 - [已分組的產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
-- [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

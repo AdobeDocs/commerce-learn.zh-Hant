@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 適用於業務使用者 — 商店檢視和快取清除」'
+title: '[!DNL Commerce]適用於商務使用者 — 商店檢視和快取清除'
 description: 瞭解如何建立存放區檢視及清除快取。
 kt: 5761
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於業務使用者 — 商店檢視和快取清除
+# 商務使用者適用的[!DNL Commerce] — 商店檢視和快取清除
 
 在本影片中：
 
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 [網站、商店和檢視 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[快取管理 —  [!DNL Commerce] Admin System指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[快取管理 —  [!DNL Commerce] 系統管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

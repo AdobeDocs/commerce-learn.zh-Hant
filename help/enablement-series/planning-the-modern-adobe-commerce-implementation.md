@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # 規劃現代Adobe Commerce實作
 
-此網路研討會提供與Adobe Commerce相關的各種主題的完整概觀，包括目錄服務、瞭解客戶架構和Edge Delivery Services。&#x200B;URL主題包括每項服務的新功能或現有功能與優點，例如Adobe Commerce Catalog as a Service中的即時搜尋和產品推薦、分析API和資料流程以瞭解客戶架構，以及Edge Delivery Services的高效能和低延遲。 此外，檔案還提到擁有標準檔案及與客戶互動時問題清單的重要性，以及全球參考架構(GRA)的概念，以有效建置專案。
+此網路研討會提供與Adobe Commerce相關的各種主題的完整概觀，包括目錄服務、瞭解客戶架構和Edge Delivery Services。
+&#x200B;URL主題包括每項服務的新功能或現有功能與優點，例如Adobe Commerce Catalog as a Service中的即時搜尋和產品推薦、分析API和資料流程以瞭解客戶架構，以及Edge Delivery Services的高效能和低延遲。 此外，檔案還提到擁有標準檔案及與客戶互動時問題清單的重要性，以及全球參考架構(GRA)的概念，以有效建置專案。
 
 ## 對象
 

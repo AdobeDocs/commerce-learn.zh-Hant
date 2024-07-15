@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 使用Adobe Commerce Cloud CLI工具
 
-建立資料庫傾印需要您擁有 [ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) 已安裝。 在本機筆記型電腦上，移至目錄，然後執行下列命令。 請務必取代 `your-project-id` 使用專案ID，類似 `asasdasd45q`. 您也需要取代 `your-environment-name` 使用您環境的名稱，例如 `master` 或 `staging`.
+建立資料庫傾印需要您安裝[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)。 在本機筆記型電腦上，移至目錄，然後執行下列命令。 請確定以類似`asasdasd45q`的專案識別碼取代`your-project-id`。 您也需要將`your-environment-name`取代為您的環境名稱，例如`master`或`staging`。
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -83,7 +83,8 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## 使用Adobe Commerce ECE-tools
 
-如果您沒有Adobe Commerce CLI工具，可以 `ssh` 至您的專案並執行 `ece` 命令 `vendor/bin/ece-tools db-dump`：範例回應：
+如果您沒有Adobe Commerce CLI工具，您可以`ssh`進入您的專案並執行`ece`命令`vendor/bin/ece-tools db-dump`：
+範例回應：
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -117,9 +118,9 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-使用 `SFTP` 或 `rsync` 將資料庫傾印提取到您的本機環境。
+使用`SFTP`或`rsync`將資料庫傾印提取到您的本機環境。
 
-以下範例使用 `rsync` 將檔案提取至 `~/Downloads/db-tutorial` 資料夾。
+下列範例使用`rsync`將檔案提取至`~/Downloads/db-tutorial`資料夾。
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -250,7 +251,7 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
   export MAGENTO_CLOUD_RELATIONSHIPS="$(magento-cloud tunnel:info --encode)"
 ```
 
-使用MySQL圖形介面建立連線，方法是使用 `SSH tunnel opened to database at` 命令選項。
+使用`SSH tunnel opened to database at`命令選項，使用MySQL圖形介面建立連線。
 
 ```bash
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
@@ -262,9 +263,9 @@ SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 
 ![標誌 — Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
-以下是其中一個範例： `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
-SSH主機名稱是@符號後面的所有專案： `ssh.us-4.magento.cloud` 在此範例中。
-SSH使用者名稱是@符號之前的所有專案：  `abasrpikfw4123-remote-db-ecpefky—mymagento`
+以下是範例： `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
+SSH主機名稱是@符號後面的所有專案：此範例中的`ssh.us-4.magento.cloud`。
+SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-ecpefky—mymagento`
 
 ## 尋找要連線到資料庫的值
 
@@ -276,7 +277,7 @@ SSH使用者名稱是@符號之前的所有專案：  `abasrpikfw4123-remote-db-
    magento-cloud ssh
    ```
 
-1. 從擷取MySQL登入認證 `database` 和 `type` 中的屬性 [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) 變數中。
+1. 從[$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships)變數中的`database`和`type`屬性擷取MySQL登入認證。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +315,15 @@ SSH使用者名稱是@符號之前的所有專案：  `abasrpikfw4123-remote-db-
 
 然後使用您MySQL GUI中的設定值。 下列範例使用MySQL Workbench，但任何支援MySQL連線的應用程式都會有類似的欄位。
 
-![標誌 — 使用Mysql Workbench的Mysql GUI範例](./assets/mysql-workbench-after-connecting.png " 使用Mysql Workbench的Mysql GUI範例")
+![logo — 使用Mysql Workbench的Mysql GUI範例](./assets/mysql-workbench-after-connecting.png "使用Mysql Workbench的Mysql GUI範例")
 
-![logo — 使用TablesPlus的Mysql GUI範例](./assets/tablesPlus-db-connection.png " 使用TablesPlus的Mysql GUI範例")
+![logo — 使用TablesPlus的Mysql GUI範例](./assets/tablesPlus-db-connection.png "使用TablesPlus的Mysql GUI範例")
 
 完成所有設定後，就可以使用MySQL GUI在遠端Adobe Commerce Cloud專案上執行查詢。
 
 ## 直接連線到雲端專案資料庫以執行SQL
 
-以下方法使用 `magento-cloud` cli直接連線至mysql資料庫並執行SQL，以加快資料庫查詢速度。 如果您需要複製此資料庫，請參閱以下其中一種替代方法： [建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+下列方法使用`magento-cloud` cli直接連線至mysql資料庫並執行SQL，以加快資料庫查詢速度。 如果您需要複製此資料庫，請參考[建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)的替代方法之一。
 
 ```bash
 magento-cloud db:sql    
@@ -348,7 +349,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-例如，您可以從 `core_config_data` 包含單字的表格 `secure` 做為欄的一部分 `path`：
+例如，您可以從`core_config_data`資料表中找到包含單字`secure`的所有記錄，這些記錄屬於資料行`path`的一部分：
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -382,7 +383,7 @@ MariaDB [main]>
 
 ## 其他資源
 
-[ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
 [設定MySQL服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [設定遠端MySQL資料庫連線](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [在雲端基礎結構上的Adobe Commerce上建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

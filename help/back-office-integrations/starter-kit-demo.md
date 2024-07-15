@@ -10,13 +10,13 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f275831ad706fa26a8c200a92a75907a7dc97ba4
+exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
+source-git-commit: 13d30cb06aa5d704aadf77a1f781ba0443c11af5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # 適用於後台整合的入門套件示範
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
-* 在Adobe Developer主控台中設定專案
+* 在Adobe Developer Console中設定專案
 * 不同的工作區
 * 新增API
 * 驗證型別

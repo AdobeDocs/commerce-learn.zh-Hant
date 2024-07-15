@@ -1,7 +1,7 @@
 ---
 title: app.config.yaml檔案
 description: 瞭解此範例應用程式的app.config.yaml檔案中的檔案型別。
-landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及app.config.yaml中有哪些型別的檔案。
+landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及app.config.yaml中的檔案型別。
 kt: 12929
 doc-type: tutorial
 audience: all
@@ -24,12 +24,12 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 剛開始接觸Adobe Commerce且在AdobeApp Builder方面經驗有限的開發人員，他們正瞭解以下內容： `app.config.yaml` 在範例應用程式中。
+* 剛開始接觸Adobe Commerce且在AdobeApp Builder方面經驗有限的開發人員，他們在範例應用程式中瞭解`app.config.yaml`。
 
 ## 視訊內容
 
-* 此 `app.config.yaml` 已討論的檔案
-* 定義如何連結到其他 `.js` 檔案
+* 討論的`app.config.yaml`檔案
+* 定義如何連結到其他`.js`個檔案
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
@@ -53,7 +53,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以在檔案中看到範例模組使用這些靜態值 `actions/commerce.index.js`
+您可以在檔案`actions/commerce.index.js`中看到這些靜態值正用於範例模組
 
 ```javascript
         const oauth = getCommerceOauthClient(

@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 手動建立產品 {#manual-import}
 
-如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，而且有關如何使用Commerce管理員的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪 [建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. 別忘了，您可以使用多種方法來管理您的目錄，不過一旦使用自動化，手動編輯必須受到限制。 自動更新有機會覆寫手動執行的任何變更，因此會導致混淆。 在與Adobe Commerce整合以管理目錄使用自動化和API後，建議限制從管理員到管理目錄 [使用者角色和許可權](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，而且有關如何使用Commerce管理員的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪[建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}。 別忘了，您可以使用多種方法來管理您的目錄，不過一旦使用自動化，手動編輯必須受到限制。 自動更新有機會覆寫手動執行的任何變更，因此會導致混淆。 一旦與Adobe Commerce的整合使用自動化和API來管理目錄，建議限制管理員透過[使用者角色和許可權](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}管理目錄。
 
 ### 何時考量此方法
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 - 不常更新
 - 您已擁有所有產品詳細資料、影像、影片，而且您不想花時間瞭解如何將資料轉換為CSV
 - 建立產品時要加入新增影像和影片
-- 您的團隊為 `not` 熟悉API以及OAUTH的運作方式
+- 您的團隊`not`熟悉API以及OAUTH的運作方式
 
 >[!TAB 管理員CSV]
 
@@ -47,7 +47,8 @@ ht-degree: 0%
 此工具可讓商店擁有者使用CSV許可權，從商務管理員匯入目錄。
 [從Commerce管理員匯入資料](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
-優點：從管理員上傳CSV是目錄管理的直接方法。 它允許對適度大小的目錄進行更快的目錄產品更新。
+優點：
+從管理員上傳CSV是目錄管理的直接方法。 它允許對適度大小的目錄進行更快的目錄產品更新。
 
 缺點：
 
@@ -62,7 +63,7 @@ ht-degree: 0%
 - 目錄大小為中等
 - 更新每天不超過一次
 - 您可以存取一些伺服器設定，以備您必須增加檔案上傳大小上限
-- 您的團隊為 `not` 熟悉API以及OAUTH的運作方式
+- 您的團隊`not`熟悉API以及OAUTH的運作方式
 
 >[!TAB 大量REST API]
 
@@ -71,7 +72,8 @@ ht-degree: 0%
 大量REST API允許自動化和更頻繁的更新。 此API比使用CSV的管理員上傳更快。
 [大量端點檔案](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
-優點：匯入不是CSV格式的大型資料集的功能。
+優點：
+匯入不是CSV格式的大型資料集的功能。
 
 缺點：
 
@@ -95,7 +97,7 @@ ht-degree: 0%
 優點：
 
 - 快速匯入資料
-- 支援存放區範圍，或者您可以指定 `all` 若要在所有現有存放區上執行作業
+- 支援存放區範圍，或者您可以指定`all`在所有現有存放區上執行作業
 
 缺點：
 
@@ -138,5 +140,5 @@ ht-degree: 0%
 
 - [使用新的REST CSV匯入資料](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 - [匯入資料主要檔案](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Adobe Commerce 2.4.6版發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [Adobe Commerce 2.4.6版的發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 - [使用者、角色和許可權](../site-management/users-roles-permissions.md){target="_blank"}

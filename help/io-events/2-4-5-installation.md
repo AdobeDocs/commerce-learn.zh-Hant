@@ -15,14 +15,14 @@ level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 2.4.5安裝
 
-瞭解如何使用Composer for version 2.4.5在Adobe Commerce中安裝數個新模組。這會設定在Adobe Commerce應用程式中使用的必要模組。 若需其他檔案，請前往 [安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+瞭解如何使用Composer for version 2.4.5在Adobe Commerce中安裝數個新模組。這會設定在Adobe Commerce應用程式中使用的必要模組。 在[安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}找到其他檔案。
 
 ## 這部影片是給誰看的？
 
@@ -65,7 +65,7 @@ composer update
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`：
+Commerce Cloud`.magento.env.yaml`：
 
 ```yaml
 stage:

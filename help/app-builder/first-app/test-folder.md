@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # 瞭解測試資料夾 {#test-folder}
 
-此 `test` 此範例應用程式的資料夾內含單一JavaScript檔案，可在應用程式上執行單元測試時使用。
+此範例應用程式的`test`資料夾包含單一JavaScript檔案，用於在該應用程式上執行單元測試。
 
 此為簡單範例，可展開以針對特定應用程式建立全面的測試。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，希望深入瞭解 `test` 資料夾。
+* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，他們想要瞭解`test`資料夾。
 
 ## 視訊內容
 
-* 為何使用 `test` 資料夾？
+* 為何使用`test`資料夾？
 * 單元測試檔案及其元件的簡短說明
 * 端對端測試簡介
 

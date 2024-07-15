@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace中可用的AR檢視器
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # 適用於Adobe Commerce的增強現實檢視器
 
@@ -24,7 +24,7 @@ AR Viewer是Adobe Commerce的擴充功能，為線上商店擁有者帶來新功
 
 AR Viewer可作為實體和數位零售之間的橋樑，讓賣家無需廣泛的技術知識或密集的手動工作，即可提供豐富的互動式客戶體驗。 其使用者友善的介面完美整合至Adobe Commerce管理員中，因此對任何線上商店而言都是一個方便的補充。
 
-AR檢視器提供給 [!DNL bridge] 實體零售和數位零售之間的鴻溝，讓賣家無需豐富的技術知識或密集的手動工作，就能提供豐富的互動式客戶體驗。 其使用者友善的介面完美整合至Adobe Commerce管理員中，因此對任何線上商店而言都是一個方便的補充。
+AR Viewer可填補實體和數位零售之間的空白[!DNL bridge]，讓賣家無需豐富的技術知識或密集的手動工作，就能提供豐富的互動式客戶體驗。 其使用者友善的介面完美整合至Adobe Commerce管理員中，因此對任何線上商店而言都是一個方便的補充。
 
 ## 功能
 
@@ -39,7 +39,7 @@ AR檢視器提供給 [!DNL bridge] 實體零售和數位零售之間的鴻溝，
 ## 將3D模型新增至產品
 
 在Adobe Commerce安裝模組後，將新的3D模型新增至產品是一個簡單的過程。
-在以下影片中，新區段支援上傳 `.USDZ` 檔案上傳。
+在以下影片中，新區段支援上傳`.USDZ`檔案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -57,10 +57,9 @@ AR檢視器提供給 [!DNL bridge] 實體零售和數位零售之間的鴻溝，
 
 ## 有用的資源
 
-[Adobe Commerce的AR檢視器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[使用Adobe Commerce的AR Viewer管理產品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+Adobe Commerce的[AR檢視器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[使用Adobe Commerce的AR檢視器管理產品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Adobe Commerce Marketplace擴充功能
 
 [AR檢視器](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-

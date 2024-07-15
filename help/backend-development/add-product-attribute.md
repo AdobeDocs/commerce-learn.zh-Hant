@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # 建立產品屬性
 
-新增產品屬性是中最常用的操作之一 [!DNL Commerce]. 屬性是解決與產品相關的許多實際任務的強大方法。 將下拉式清單型別屬性新增至產品的程式相當簡單。
+新增產品屬性是[!DNL Commerce]中最常用的操作之一。 屬性是解決與產品相關的許多實際任務的強大方法。 將下拉式清單型別屬性新增至產品的程式相當簡單。
 
 在本影片中：
 
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->如果您的模組使用「宣告式結構描述」，而且大部分都使用2.3.0以後的版本，您應該省略setup_version。 不過，如果您有一些舊版專案，您可能會看到使用此方法。  另請參閱 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} 以取得詳細資訊。
+>如果您的模組使用「宣告式結構描述」，而且大部分都使用2.3.0以後的版本，您應該省略setup_version。 不過，如果您有一些舊版專案，您可能會看到使用此方法。  如需詳細資訊，請參閱[developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}。
 
 
 ```xml

@@ -3,12 +3,12 @@ title: App Builder首次應用程式相關頁面
 description: App Builder首次應用程式區段中的相關頁面連結
 source-git-commit: 021098545e4666f43f02452358464701f30002fd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 1%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-# App Builder首次應用程式相關連結
+# App Builder第一個應用程式相關連結
 
 ## App Builder — 建立您的第一個應用程式相關頁面
 
@@ -21,4 +21,4 @@ ht-degree: 1%
 * [本機測試](../app-builder/first-app/testing-locally.md)
 * [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
 * [結論](../app-builder/first-app/conclusion.md)
-* [範例模組原始碼](https://github.com/magento/app-builder-samples){target="_blank"}
+* [範例模組原始程式碼](https://github.com/magento/app-builder-samples){target="_blank"}

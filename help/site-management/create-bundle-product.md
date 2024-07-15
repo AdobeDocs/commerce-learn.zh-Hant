@@ -1,6 +1,6 @@
 ---
 title: 建立套件組合產品
-description: 瞭解如何使用REST API和商務管理員建立套件組合產品。
+description: 瞭解如何使用REST API和Commerce管理員建立套件組合產品。
 kt: 14589
 doc-type: video
 audience: all
@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # 建立套件組合產品
 
 套件產品是一種將數個產品群組在父產品下的方式。 這些子產品可以是已定義的產品集，或提供一些可為客戶提供彈性設定選項的變體。 套裝產品型別的設定時間確實會稍長一些，而且您必須先進行一些規劃，才能進行設定。 不過，提供捆綁式產品可讓客戶更輕鬆地自訂其產品選擇，進而改善購物體驗。
 
-例如，您可以提供產品套件組合，稱為 `Learning to surf` 於您的網站商店中。 套件是父級產品，可作為指定可用選項的已指派子級產品的容器：
+例如，您可以在網站商店中提供名為`Learning to surf`的產品組合。 套件是父級產品，可作為指定可用選項的已指派子級產品的容器：
 
 - 標準衝浪板
 - 典型的衝浪板拴扣
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更 `"attribute-set": 4` 要取代 `4` 環境屬性集ID的ID。
+- 變更`"attribute-set": 4`以使用您環境的屬性集ID取代`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更 `"attribute_set_id": 4,` 和取代 `4` 環境屬性集ID的位置。
+- 變更`"attribute_set_id": 4,`並以您環境的屬性集ID取代`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 更新套件產品選項時，請務必加入所有要與此產品相關聯的選項。 如果您的原始選項集包含三個產品且一個已移除，請在POST請求中包含所有三個選項，以確保產品套件指定所有選項。 如果您只包含移除的選項，則更新的產品套件組合只會包含該選項。
 
-檢閱套件產品建立的回應，以找到選項ID。 在該回應中， `option_id` 是 `35`.
+檢閱套件產品建立的回應，以找到選項ID。 在該回應中，`option_id`是`35`。
 
 ```json
 ...
@@ -430,6 +430,6 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 ## 其他資源
 
 - [建立套件組合產品教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [套裝產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
-- [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+- [套件組合產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

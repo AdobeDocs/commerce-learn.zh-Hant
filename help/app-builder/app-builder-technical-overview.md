@@ -1,8 +1,8 @@
 ---
 title: App Builder技術概覽
-description: 透過技術概觀瞭解用於Adobe Commerce的Adobe Developer App Builder
-landing-page-description: 透過技術概觀瞭解用於Adobe Commerce的Adobe Developer App Builder
-short-description: 透過技術概觀瞭解用於Adobe Commerce的Adobe Developer App Builder
+description: 透過技術概述瞭解Adobe Commerce中使用的Adobe Developer App Builder
+landing-page-description: 透過技術概述瞭解Adobe Commerce中使用的Adobe Developer App Builder
+short-description: 透過技術概述瞭解Adobe Commerce中使用的Adobe Developer App Builder
 kt: 11763
 doc-type: tutorial
 audience: all

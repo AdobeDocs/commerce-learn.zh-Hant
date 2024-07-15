@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # 建立模組
 
-模組是的結構元素 [!DNL Commerce]  — 整個系統建立在模組之上。 通常，建立自訂化的第一步是建置模組。
+模組是[!DNL Commerce]的結構元素 — 整個系統建置在模組上。 通常，建立自訂化的第一步是建置模組。
 
 ## 這部影片是給誰看的？
 
@@ -71,12 +71,12 @@ ComponentRegistrar::register(
 
 ### 外掛程式的注意事項
 
-- 所有外掛程式都宣告於 `di.xml`.
+- 所有外掛程式皆已在`di.xml`中宣告。
 - 外掛程式需要唯一的名稱
 - 已停用，且sortOrder為選用
 - 外掛程式的範圍由其所在的資料夾設定
 - 外掛程式可以在呼叫方法之前、之後或兩者同時執行
-- 避免使用 `around` 外掛程式。 這些設定很吸引人，但經常是錯誤的選擇，並會導致效能問題。
+- 避免使用`around`外掛程式。 這些設定很吸引人，但經常是錯誤的選擇，並會導致效能問題。
 
 ### 外掛程式程式碼範例
 

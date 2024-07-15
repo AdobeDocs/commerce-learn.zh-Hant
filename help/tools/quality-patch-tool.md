@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ Adobe Commerce支援團隊和Magento Open Source社群會開發品質修補程�
 ## 其他資源
 
 - [品質修補工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [GitHub上的品質修補工具](https://github.com/magento/quality-patches)
+- GitHub上的[品質修補工具](https://github.com/magento/quality-patches)
