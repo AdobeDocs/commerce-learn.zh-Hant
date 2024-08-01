@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: c515ff321849045ba1abed2b3b5f6d3795854f91
+source-git-commit: 4445a494d0d84c8ececba27c976d06fe0f54fb70
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '684'
 ht-degree: 3%
 
 ---
@@ -45,6 +45,11 @@ ht-degree: 3%
       + [禮卡產品](../site-management/create-gift-card-product.md)
    + 後台整合入門套件{#back-office-integration-starter-kit}
       + [入門套件示範](../back-office-integrations/starter-kit-demo.md)
+      + [整合](../back-office-integrations/integrations.md)
+      + [Source程式碼組織](../back-office-integrations/source-code-organization.md)
+      + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
+      + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
+      + [重試機制](../back-office-integrations/retry-mechanism.md)
 + 網路研討會與活動{#webinars-and-events}
    + 啟用系列{#enablement-series}
       + [降低Commerce整合的目錄](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
