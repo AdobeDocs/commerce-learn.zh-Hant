@@ -1,5 +1,5 @@
 ---
-title: 設定、部署和自訂內嵌webhook，以將Commerce與協力廠商系統整合
+title: 設定、部署和自訂內嵌Webhook
 description: 瞭解如何設定和自訂內嵌webhook，以促進Commerce與第三方後台系統之間的通訊。
 landing-page-description: 瞭解如何使用Commerce整合入門套件，透過內嵌webhook將Commerce與協力廠商後台系統整合。
 kt: 15870
@@ -11,14 +11,14 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# 設定、部署和自訂內嵌webhook
+# 設定、部署和自訂內嵌Webhook
 
 瞭解內嵌webhook的設定和自訂，以將Commerce與協力廠商後台系統整合&#x200B;。 此影片說明webhook如何提供可公開使用的端點，以將來自協力廠商系統的訊息調整至AdobeIO事件API，以解決系統間事件通訊的限制。 程式涉及在`actions.config.yaml`檔案中設定webhook、在`app.config.yaml`檔案中啟用它，以及部署它以確保正常運作。
 
