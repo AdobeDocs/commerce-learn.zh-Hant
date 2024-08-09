@@ -1,6 +1,6 @@
 ---
-title: 瞭解品質修補工具
-description: 套用高品質的修補程式，以增強電子商務平台的穩定性和安全性。 透過此重要工具，隨時掌握最新資訊、解決問題，並最佳化效能。
+title: 品質修補工具
+description: 瞭解在診斷問題、尋找解決方案並套用現有可用修補程式清單中的修補程式時，如何使用品質修補工具。
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce品質修補工具
+# 品質修補工具
 
 瞭解在診斷問題、尋找解決方案並套用現有可用修補程式清單中的修補程式時，如何使用品質修補工具。
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 瞭解如何分類問題，然後使用一些基本技術來尋找品質修補程式以套用修正。
 
-## 這部影片是給誰看的？
+## 對象
 
 * 開發人員瞭解如何尋找問題，並運用此工具套用GIT修補程式來解決已知問題
 
@@ -40,7 +41,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## 為何要使用品質修補工具？
+## 為何使用品質修補工具
 
 如果您想要執行下列作業，建議您使用Adobe Commerce或Magento Open Source的「品質修補工具」：
 
