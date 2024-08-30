@@ -3,10 +3,10 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 3%
+source-wordcount: '712'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 3%
       + [部署、測試、監控及安全性](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS方案、支援和通訊，以及後續步驟](../cloud/saas-offerings-support-communications-next-steps.md)
    + 最佳實務{#commerce-cloud-best-practices}
+      + [支援要求](../cloud/best-practices/support-request.md)
       + [啟動前檢查清單](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入門{#getting-started}
    + 全域參考架構{#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 3%
       + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
       + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
       + [重試機制](../back-office-integrations/retry-mechanism.md)
+   + 說明與支援{#help-and-support}
+      + [建立支援票證](../help-and-support/create-a-support-ticket.md)
+      + [搜尋、追蹤、評論及提升支援票證](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [新增和移除監看員，關閉及重新開啟票證](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + 網路研討會與活動{#webinars-and-events}
    + 啟用系列{#enablement-series}
       + [降低Commerce整合的目錄](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
