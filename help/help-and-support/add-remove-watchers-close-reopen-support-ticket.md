@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 131
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16050
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
+source-git-commit: 82e4e3e2a922a513c7d45ce3833971bda093a86f
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# 新增和移除觀察者關閉和重新開啟票證
+# 新增和移除監看者，關閉和重新開啟票證
 
 瞭解如何新增和移除觀察者，以及在Adobe Commerce的Experience League中關閉和重新開啟支援票證。
 
