@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 540
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: 3e8ea2655f92c78465ed4e52ca81289ffed4fd2a
+source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
-- 透過Adobe Commerce的原生資料共用功能增強Personalization
+- 透過Adobe Commerce的原生資料共用功能增強個人化
 - 提高客戶參與度和忠誠度
 - 緊密整合與統一的客戶檢視
 
