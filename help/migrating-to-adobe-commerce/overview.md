@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,8 @@ ht-degree: 0%
 * 系統整合經銷商希望簡化其移轉程式。
 
 ## 視訊內容 {#video-content}
+
+* 瞭解成功移轉至Adobe Commerce的基本步驟和最佳實務。
+* 評估並最佳化自訂程式碼、第三方模組，並瞭解關鍵QA概念。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
