@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 118
 last-substantial-update: 2024-10-29T00:00:00Z
 jira: KT-16406
-source-git-commit: 1414bc22653f63a4cf19654f319116bea149ef08
+source-git-commit: 08e07add8628146271cf09e3cd6370f31521c726
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-#  — 過期的SSL憑證
+# 過期的SSL憑證
 
 瞭解如何識別過期的ssl憑證，以及如何為Adobe Commerce Cloud整合或其他開發環境重新產生一個憑證。
 
