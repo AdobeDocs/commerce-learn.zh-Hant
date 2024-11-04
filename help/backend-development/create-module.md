@@ -1,6 +1,6 @@
 ---
 title: 建立模組
-description: 建立記錄到PSR記錄器的模組
+description: 瞭解如何在Adobe Commerce中建立傳送資訊給PSR記錄器的模組。 這會將功能新增至Adobe Commerce中的第一個模組。
 kt: 5614
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
