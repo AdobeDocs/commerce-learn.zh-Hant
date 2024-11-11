@@ -1,32 +1,32 @@
 ---
 title: Adobe Commerce Cloud設定與偵錯
-description: 瞭解Adobe Commerce Cloud設定和偵錯。
+description: 瞭解Adobe Commerce Cloud的設定檔、偵錯工具和記錄管理，這些對於DevOps、系統管理員和後端開發人員至關重要。
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 500
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
+source-git-commit: 661e8cafc5870e4480c804c2aa482864272f602f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # 技術入門 — 設定和偵錯
 
-瞭解如何設定和偵錯Adobe Commerce Cloud。
+瞭解在Adobe Commerce Cloud中用於跨不同環境設定的重要Yaml檔案、可用於驗證和最佳化這些設定的工具，以及偵錯和記錄程式。 瞭解環境特定設定的重要性、如何使用EC工具和品質修補程式，以及New Relic在記錄彙總中的作用。 深入瞭解使用Xdebug進行遠端偵錯，以及跨多個應用程式伺服器管理記錄檔的必要性。
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
+- DevOp工程師
 - Commerce架構師
-- 電子商務網站擁有者
+- 後端開發人員
 
 ## 視訊內容
 
