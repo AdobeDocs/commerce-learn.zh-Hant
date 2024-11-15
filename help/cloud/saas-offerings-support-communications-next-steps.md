@@ -47,7 +47,7 @@ ht-degree: 0%
 - CDN內容傳遞網路
 - Fastly IO Fastly影像最佳化程式
 - VCL清漆組態語言
-- WAF Web應用程式防火牆
+- WAF網頁應用程式防火牆
 - PCI支付卡產業
 - TLS傳輸層服務
 - acl存取控制清單
