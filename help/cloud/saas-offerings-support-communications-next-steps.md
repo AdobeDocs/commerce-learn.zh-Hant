@@ -11,7 +11,7 @@ last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
-source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -85,7 +85,7 @@ ht-degree: 0%
 - [Commerce學習課程](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Commerce社群論壇](https://community.magento.com/)
 -= [設定Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
-- [效能測試](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
+- [效能測試](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
 - [全網站分析工具 — SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [適用於Adobe Commerce的New Relic Observation](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
   [安全性修補程式](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
