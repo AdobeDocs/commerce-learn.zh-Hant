@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce]商業使用者 — 屬性"
+title: 商務使用者適用的[!DNL Commerce] — 屬性
 description: 瞭解產品的自訂和系統屬性。
 kt: 5769
 doc-type: video

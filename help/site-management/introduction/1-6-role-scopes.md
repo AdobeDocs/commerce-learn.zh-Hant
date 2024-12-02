@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於業務使用者 — 角色範圍和許可權'
+title: 商務使用者的[!DNL Commerce] — 角色範圍和許可權
 description: 瞭解如何依網站或存放區定義角色範圍(Adobe Commerce專用)和相關許可權。
 kt: 5763
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] for business users - Configurable attributes"
+title: 商務使用者的[!DNL Commerce] — 可設定的屬性
 description: 瞭解如何設定可設定的產品屬性。
 kt: 5772
 doc-type: video

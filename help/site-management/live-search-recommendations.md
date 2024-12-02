@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Live Search] for recommendations'
+title: '[!DNL Live Search]個建議'
 description: 瞭解如何將產品推薦的 [!DNL Live Search] 新增到您的商店，並提供極為引人入勝、相關且個人化的購物體驗。
 doc-type: feature video
 audience: all

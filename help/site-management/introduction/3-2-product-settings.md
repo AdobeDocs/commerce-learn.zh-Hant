@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]商務使用者 — 產品設定'
+title: 商務使用者適用的[!DNL Commerce] — 產品設定
 description: 瞭解如何建立產品、設定設定及使用屬性。
 kt: 5768
 doc-type: video

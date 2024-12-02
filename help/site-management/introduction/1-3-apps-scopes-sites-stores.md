@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於企業使用者 — 網站、商店和檢視'
+title: 適用於企業使用者的[!DNL Commerce] — 網站、商店和檢視
 description: 瞭解 [!DNL Commerce] 架構的基本知識，包括網站、商店、商店檢視和應用程式範圍之間的差異。 瞭解索引和快取。
 kt: 5760
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於商務使用者 — 電子郵件通訊'
+title: 商務使用者適用的[!DNL Commerce] — 電子郵件通訊
 description: 使用客戶在店面上的動作所觸發的交易式電子郵件與其溝通。 自訂並設定您商店的電子郵件範本。
 kt: 5780
 doc-type: video

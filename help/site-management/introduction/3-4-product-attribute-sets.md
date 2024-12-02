@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] for business users - Attribute set"
+title: 商務使用者的[!DNL Commerce] — 屬性集
 description: 瞭解產品屬性集，以及如何在目錄中使用它們。
 kt: 5770
 doc-type: video

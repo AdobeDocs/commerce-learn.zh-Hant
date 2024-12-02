@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce]適用於企業使用者 — 登陸頁面"
+title: 商務使用者適用的[!DNL Commerce] — 登陸頁面
 description: 瞭解如何設定類別登陸頁面及控制外觀。
 kt: 5766
 doc-type: video

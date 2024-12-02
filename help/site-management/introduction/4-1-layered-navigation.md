@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於商務使用者 — 分層導覽'
+title: 商務使用者適用的[!DNL Commerce] — 分層導覽
 description: 在您的 [!DNL Commerce] 商店中啟用分層導覽，讓客戶可以輕鬆快速地找到產品。
 kt: 5775
 doc-type: video

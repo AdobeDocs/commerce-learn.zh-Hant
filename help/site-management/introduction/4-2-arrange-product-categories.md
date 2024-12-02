@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於業務使用者 — 類別定位'
+title: 商務使用者適用的[!DNL Commerce] — 類別定位
 description: 在類別內定位產品，讓客戶在頂端看到您要讓他們看到的產品。
 kt: 5776
 doc-type: video

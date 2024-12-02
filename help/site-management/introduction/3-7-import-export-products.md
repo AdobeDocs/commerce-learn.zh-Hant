@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於商務使用者 — 匯入和匯出產品'
+title: 商務使用者適用的[!DNL Commerce] — 匯入和匯出產品
 description: 瞭解如何匯入和匯出目錄產品。
 kt: 5773
 doc-type: video

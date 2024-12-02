@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]商務使用者 — 商店設定'
+title: 商務使用者適用的[!DNL Commerce] — 商店設定
 description: 瞭解地區設定、商店資訊、安全和不安全的URL、網站標題、標誌、版權資訊、通訊電子郵件標誌、商店電子郵件地址、貨幣選項和匯率。
 kt: 5764
 doc-type: video

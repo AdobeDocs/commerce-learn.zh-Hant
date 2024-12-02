@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於業務使用者 — 產品型別'
+title: 商務使用者適用的[!DNL Commerce] — 產品型別
 description: 瞭解 [!DNL Commerce] 產品型別及其選項。
 kt: 5767
 doc-type: video

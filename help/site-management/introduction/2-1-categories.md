@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於業務使用者 — 產品類別'
+title: 商務使用者適用的[!DNL Commerce] — 產品類別
 description: 瞭解如何透過設定類別來管理您的產品目錄。
 kt: 5765
 doc-type: videos

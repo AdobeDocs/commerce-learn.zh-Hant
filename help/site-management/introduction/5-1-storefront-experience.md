@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於商務使用者 — 店面'
+title: 商務使用者適用的[!DNL Commerce] — 店面
 description: 瞭解店面的客戶體驗，包括建立帳戶、願望清單，以及將願望清單專案新增到購物車
 kt: 5778
 doc-type: video

@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Commerce]商務使用者 — 禮品卡'
+title: 商務使用者[!DNL Commerce] — 禮品卡
 description: 瞭解如何在您的 [!DNL Commerce] 商店中加入禮品卡。
 kt: 5774
 doc-type: video
 activity: use
-badge1: 「Adobe Commerce 2.3.1」
+badge1: Adobe Commerce 2.3.1
 badge2: label="僅於Adobe Commerce上" type="Positive"
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Catalogs, Shopping Cart

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於商務使用者 — 商店檢視和快取清除'
+title: 商務使用者適用的[!DNL Commerce] — 商店檢視和快取清除
 description: 瞭解如何建立存放區檢視及清除快取。
 kt: 5761
 doc-type: video

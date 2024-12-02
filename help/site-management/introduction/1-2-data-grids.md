@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於業務使用者 — 資料網格'
+title: 商務使用者的[!DNL Commerce] — 資料網格
 description: 瞭解如何在 [!DNL Commerce Admin]中使用資料網格。
 kt: 5759
 doc-type: video

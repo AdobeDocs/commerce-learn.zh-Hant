@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]商務使用者 —  [!DNL Admin] 功能表'
+title: 商務使用者的[!DNL Commerce] - [!DNL Admin] 功能表
 description: ' [!DNL Commerce] v2.3 [!DNL Admin]中的功能功能功能表概觀。'
 landing-page-description: 觀看此影片系列，了解 Adobe Commerce 的基本知識和如何使用 Admin。
 short-description: 觀看此影片系列，了解 Adobe Commerce 的基本知識和如何使用 Admin。

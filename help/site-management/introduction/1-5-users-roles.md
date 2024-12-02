@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於業務使用者 — 使用者和角色'
+title: 適用於企業使用者的[!DNL Commerce] — 使用者和角色
 description: 了解決定許可權的 [!DNL Admin] 使用者帳戶和使用者角色的基本知識。
 kt: 5762
 doc-type: video

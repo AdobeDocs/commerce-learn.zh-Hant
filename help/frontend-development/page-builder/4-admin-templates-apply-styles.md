@@ -1,6 +1,6 @@
 ---
 title: 適用於開發人員的頁面產生器 — 範本和樣式
-description: 「[!DNL Admin]」和階段主題設定任務。 建立 [!DNL Admin] 範本​。 套用樣式至舞台上的內容型別（即時預覽）。」
+description: '[!DNL Admin]和階段主題設定任務。 建立 [!DNL Admin] 範本​。 將樣式套用至舞台上的內容型別（即時預覽）。'
 kt: 5653
 doc-type: video
 activity: use

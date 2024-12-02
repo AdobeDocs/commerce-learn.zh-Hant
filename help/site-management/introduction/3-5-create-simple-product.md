@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]適用於商務使用者 — 簡單產品'
+title: 商務使用者適用的[!DNL Commerce] — 簡單產品
 description: 瞭解如何使用產品屬性集建立簡單產品。
 kt: 5771
 doc-type: video

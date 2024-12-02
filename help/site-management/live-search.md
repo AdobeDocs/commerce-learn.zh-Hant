@@ -1,6 +1,6 @@
 ---
-title: 「 [!DNL Live Search]簡介」
-description: 「瞭解如何新增 [!DNL Live Search] 至您的商店，並提供極為引人入勝、相關且個人化的購物體驗。」
+title: ' [!DNL Live Search]簡介'
+description: 瞭解如何將 [!DNL Live Search] 新增至您的商店，並提供極為引人入勝、相關且個人化的購物體驗。
 doc-type: feature video
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z

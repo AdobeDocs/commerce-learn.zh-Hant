@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce]影片和Tutorials'
+title: '[!DNL Commerce]個影片和Tutorials'
 description: Adobe Commerce和Magento Open Source的影片和教學課程系列
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
