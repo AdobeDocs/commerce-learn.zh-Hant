@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # 對購物車專案使用產品屬性
 
-在成績單中，來自Acme品牌的開發人員名為Ali示範如何自訂和延伸Adobe Commerce購物車。 Ali處理三個專案需求：顯示延期交貨產品的交貨時間表、顯示可退貨及最終銷售通知，以及針對小計為$75或以上的購物車套用25%的折扣。 善用產品屬性和插槽，Ali成功將這些功能整合到購物車中，提升了整體使用者體驗，並符合所有專案需求。
+瞭解如何自訂和擴充Adobe Commerce購物車。 在此示範中，有三個更新。  此示範會先顯示延期交貨產品的交貨時間表、顯示可退貨及最終銷售通知，並套用25%的折扣（小計為$75或以上）。 運用產品屬性和插槽，將這些功能新增到購物車可改善整體使用者體驗。
 
 ## 觀看此影片有何期望
 

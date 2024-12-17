@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
-source-git-commit: c736f5d0a7277a0540f6257fb43a4224424b22bd
+exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ ht-degree: 1%
 
 ## 觀看此影片有何期望
 
-瞭解如何使用Adobe Commerce購物車放置並調整交易流程，透過變更幾行程式碼來向客戶顯示一組新功能。  同時瞭解如何將這些變更從Sharepoint轉換為受管理以進行AB測試。
+瞭解如何使用Adobe Commerce購物車並調整交易流程，透過變更幾行程式碼來向客戶顯示一組新功能。  同時瞭解如何將這些變更從Sharepoint轉換為受管理以進行AB測試。
 
 ## 這部影片是給誰看的？
 
