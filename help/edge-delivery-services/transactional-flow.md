@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services交易流程
 description: 瞭解Adobe Edge傳送服務以及如何變更交易流程。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -38,3 +38,7 @@ ht-degree: 1%
 * 增強行銷控制。 輕鬆管理和測試設定，改善使用者體驗和行銷效率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
+
+## 其他檔案
+
+* [設定購物車摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
