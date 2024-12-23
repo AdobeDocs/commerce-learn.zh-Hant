@@ -1,6 +1,6 @@
 ---
-title: Edge Delivery Services訂單摘要
-description: 瞭解Adobe Edge Delivery Services以及如何更新Commerce下拉式清單的訂單摘要區段。
+title: 結帳中的Edge Delivery Services訂單摘要
+description: 瞭解Adobe Edge Delivery Services，以及如何在結帳時更新Commerce下拉式清單的訂單摘要區段。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# 更新購物車摘要
+# 更新結帳中的購物車摘要
 
 瞭解如何變更Edge Delivery Services的Adobe Commerce購物車下拉式選單摘要。  有幾個範例說明如何快速改善在結帳時提供給客戶的版面或資訊。
 
