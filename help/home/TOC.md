@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
+source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '807'
 ht-degree: 3%
 
 ---
@@ -72,10 +72,15 @@ ht-degree: 3%
       + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
       + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
       + [重試機制](../back-office-integrations/retry-mechanism.md)
-   + 說明與支援{#help-and-support}
-      + [建立支援票證](../help-and-support/create-a-support-ticket.md)
-      + [搜尋、追蹤、評論及提升支援票證](../help-and-support/search-track-comment-escalate-support-ticket.md)
-      + [新增和移除監看員，關閉及重新開啟票證](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ 全域參考架構{#global-reference-architecture-implementation-techniques}
+   + [概觀](../global-reference-architecture/overview.md)
+   + [分割Git](../global-reference-architecture/split-git.md)
+   + [大量套件](../global-reference-architecture/bulk-packages.md)
+   + [獨立的封裝](../global-reference-architecture/separate-packages.md)
++ 說明與支援{#help-and-support}
+   + [建立支援票證](../help-and-support/create-a-support-ticket.md)
+   + [搜尋、追蹤、評論及提升支援票證](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [新增和移除監看員，關閉及重新開啟票證](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services{#edge-delivery-services}
    + 快速入門{#getting-started}
       + [變更異動流程](../edge-delivery-services/transactional-flow.md)
