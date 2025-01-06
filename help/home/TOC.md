@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
+source-git-commit: 16aac3305ed52ab29eb003abf39dba0bc882029d
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '809'
 ht-degree: 3%
 
 ---
@@ -87,6 +87,7 @@ ht-degree: 3%
       + [對購物車專案使用產品屬性](../edge-delivery-services/product-attributes-cart-items.md)
       + [更新結帳中的訂單摘要](../edge-delivery-services/update-order-summary.md)
       + [正在新增BOPI以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [自訂簽出](../edge-delivery-services/customize-checkout.md)
 + 網路研討會與活動{#webinars-and-events}
    + 啟用系列{#enablement-series}
       + [降低Commerce整合的目錄](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
