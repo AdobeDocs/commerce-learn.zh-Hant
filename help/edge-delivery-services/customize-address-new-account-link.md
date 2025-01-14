@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# 更新增強電子商務結帳：自訂地址表單版面配置與Google地址查詢整合
+# 自訂地址表單版面配置和Google地址查詢整合
 
 瞭解如何在結帳時自訂地址表單版面配置，以確保所有欄位的寬度均為50%，但文字區域除外。 瞭解使用整合式協力廠商API (尤其是Google Address API)的方法，以啟用地址表單中的自動地址查詢和驗證。&#x200B;URL 瞭解如何將新的側邊欄功能表專案新增到使用者帳戶儀表板，連結到商店定位器的自訂頁面。
 
