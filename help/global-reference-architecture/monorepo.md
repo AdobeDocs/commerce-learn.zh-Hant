@@ -1,7 +1,6 @@
 ---
-title: 如何善用全球參考架構
-description: 瞭解如何運用全球參考架構，建立可擴充且可復原的商業體驗
-landing-page-description: 瞭解全球參考架構，以及如何搭配Adobe Commerce使用
+title: 全球參考架構Monorepo
+description: 瞭解如何針對全球參考架構使用monorepo方法，以建立可擴充且可復原的商業體驗
 jira: KT-16728
 doc-type: tutorial
 audience: all
@@ -11,9 +10,9 @@ badge: label="由Adobe高級技術架構師Tony Evers提供" type="Informative" 
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
+source-git-commit: 421c6de9421d715127d0c892dc05ef22f77149cf
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1371'
 ht-degree: 0%
 
 ---
