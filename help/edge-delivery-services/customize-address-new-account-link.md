@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # 自訂地址表單版面配置和Google地址查詢整合
 
@@ -36,7 +38,7 @@ ht-degree: 0%
 * 結帳Forms中的欄位寬度一致，可在結帳時自訂地址表單以確保所有欄位。
 * 整合Google Address API以啟用自動地址查閱和完成，減少使用者輸入錯誤並簡化結帳程式。
 * 位址輸入欄位的驗證和錯誤處理，確保使用者會立即收到不正確或不完整專案的回饋，進而改善使用者體驗。
-* 新增側欄功能表專案至使用者帳戶控制面板的使用者帳戶控制面板擴充功能
+* 使用者帳戶儀表板的擴充功能，可將新的側邊欄功能表專案新增至使用者帳戶儀表板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
