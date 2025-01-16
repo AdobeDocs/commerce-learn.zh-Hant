@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 瞭解如何使用Edge Delivery Services車下拉式功能表調整結帳異動流程。
 
-## 觀看此影片有何期望
+## 您將瞭解的內容
 
 瞭解如何使用Adobe Commerce購物車並調整交易流程，透過變更幾行程式碼來向客戶顯示一組新功能。  同時瞭解如何將這些變更從Sharepoint轉換為受管理以進行AB測試。
 

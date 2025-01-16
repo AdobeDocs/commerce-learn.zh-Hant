@@ -10,9 +10,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 1ef99de8-3594-4783-a5f3-227e131cecde
-source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Live搜尋的完整示範。
 
-## 觀看此影片有何期望
+## 您將瞭解的內容
 
 瞭解如何使用Adobe Live搜尋組態和設定。 深入瞭解多面向、報表和同義字。
 

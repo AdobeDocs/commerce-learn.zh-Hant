@@ -10,9 +10,9 @@ topic: Commerce, Architecture, Headless
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Commerce發展歷程的整體概觀，以及各項進展如何完全支援Headless。  Headless架構的優點包括各接觸點的同位檢查、開發活動的分離、改善的擴充能力等等。
 
-## 觀看此影片有何期望
+## 您將瞭解的內容
 
 瞭解什麼是Headless，以及Adobe Commerce如何支援完整的Headless架構。
 

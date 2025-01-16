@@ -10,9 +10,9 @@ duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 瞭解在診斷問題、尋找解決方案並套用現有可用修補程式清單中的修補程式時，如何使用品質修補工具。
 
-## 觀看此影片有何期望
+## 您將瞭解的內容
 
 瞭解如何分類問題，然後使用一些基本技術來尋找品質修補程式以套用修正。
 
-## 對象
+## 客群
 
 * 開發人員瞭解如何尋找問題，並運用此工具套用GIT修補程式來解決已知問題
 

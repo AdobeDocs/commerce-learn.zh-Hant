@@ -10,9 +10,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
-source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Commerce資料連線的完整示範。
 
-## 觀看此影片有何期望
+## 您將瞭解的內容
 
 瞭解如何使用Adobe Commerce Data Connection以及一些基本配置和設定。 此示範示範如何使用Adobe Commerce和連線其他Adobe服務來達到客戶的360度全方位檢視。
 

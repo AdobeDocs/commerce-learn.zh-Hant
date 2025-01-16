@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 853
 last-substantial-update: 2025-1-2
 jira: KT-16723
-source-git-commit: 1db0daa3ca352d50cbda27c1e631ad869b2ac16b
+exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 瞭解如何在Adobe Commerce中從Edge Delivery Services車放置元件自訂結帳體驗，並專注於修改送貨選項及實作多步驟結帳程式。
 
-## 觀看此影片有何期望
+## 您將瞭解的內容
 
 瞭解範例，藉由移除並重新新增送貨選項和預估成本等元素，以及實作多步驟結帳程式，來自訂Edge Delivery Services購物車在結帳體驗中下拉的動作，同時重複使用現有程式碼並遵循最佳實務。&#x200B;URL
 
