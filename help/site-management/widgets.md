@@ -1,7 +1,7 @@
 ---
 title: 建立Widget
 description: 瞭解如何建立Widget並修改現有元件，以自動更新整個商店的內容。
-kt: null
+jira: KT-17155
 doc-type: feature video
 audience: all
 activity: use
@@ -10,8 +10,9 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+duration: 216
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: ee2c20d3faab8eb441c8112dcf6bba51906820a5
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
