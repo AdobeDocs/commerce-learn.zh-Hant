@@ -11,7 +11,8 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
+source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 &#x200B;URL
 探索原始程式碼結構背後的邏輯，詳述每個實體資料夾下的`commerce`和`external`資料夾如何處理來自不同系統的事件。 影片說明`consumer`資料夾在將事件分派給適當的事件處理常式執行階段動作時的角色，以確保順暢處理。 影片也會說明在執行階段動作中實作的重試機制，以便有效處理失敗的事件。&#x200B;URL瞭解Adobe Commerce整合入門套件中原始程式碼的組織和功能，針對事件處理、自動化指令碼和設定提供有價值的深入分析。
 
-## 對象
+## 客群
 
 * 想要瞭解原始程式碼如何整理到重要資料夾（例如`actions`和`scripts`）的開發人員。
 * 瞭解`actions`資料夾包含的子資料夾，例如`ingestion`和` webhook`，其中包含處理事件和追蹤部署的基本程式碼。
@@ -36,8 +37,8 @@ ht-degree: 0%
 * 瞭解`actions`資料夾以及它如何包含重要的子資料夾，例如`ingestion`和`webhook`。
 * 探索`actions`資料夾以及為何實體有特定資料夾，例如`customer`、`order`、`product`和`stock`，每個資料夾都包含結構化為`commerce`和`external`資料夾的執行階段動作，以便有效地管理Commerce和協力廠商系統的事件。&#x200B;URL
 * 瞭解不要變更`starter-kit-info`資料夾中的程式碼的重要性，此資料夾包含Adobe用來根據入門套件追蹤專案部署的執行階段動作。&#x200B;URL
-* 瞭解包含自動化指令碼（例如`commerce-event-subscribe`和`onboarding`）的`scripts`資料夾，這些指令碼可自動化Commerce中的事件設定、提供者設定和Adobe I/O事件模組的設定。&#x200B;URL
+* 瞭解包含自動化指令碼（例如`commerce-event-subscribe`和`onboarding`）的`scripts`資料夾，這些指令碼會在Commerce中自動執行事件設定、提供者設定和Adobe I/O Events模組的設定。&#x200B;URL
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
