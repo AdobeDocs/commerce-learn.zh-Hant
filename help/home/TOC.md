@@ -3,15 +3,15 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
 
 
-# Adobe Commerce影片和Tutorials {#tutorials}
+# Adobe Commerce影片和教學課程 {#tutorials}
 
 + [[!DNL Commerce] 教學課程](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -82,20 +82,20 @@ ht-degree: 3%
    + [建立支援票證](../help-and-support/create-a-support-ticket.md)
    + [搜尋、追蹤、評論及提升支援票證](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [新增和移除監看員，關閉及重新開啟票證](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge Delivery Services{#edge-delivery-services}
++ Edge Delivery Services {#edge-delivery-services}
    + 快速入門{#getting-started}
       + [變更異動流程](../edge-delivery-services/transactional-flow.md)
       + [對購物車專案使用產品屬性](../edge-delivery-services/product-attributes-cart-items.md)
       + [更新結帳中的訂單摘要](../edge-delivery-services/update-order-summary.md)
       + [正在新增BOPI以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
       + [自訂簽出](../edge-delivery-services/customize-checkout.md)
-      + [調整地址，包括自動完成和新增我的帳戶連結](../edge-delivery-services/customize-address-new-account-link.md)
+      + [自訂地址配置](../edge-delivery-services/customize-address-new-account-link.md)
 + 網路研討會與活動{#webinars-and-events}
    + 啟用系列{#enablement-series}
       + [降低Commerce整合的目錄](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [規劃現代Adobe Commerce實作](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [啟動、啟動後、監控和疑難排解](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [使用Adobe Commerce進行Edge Delivery Services](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+      + [Edge Delivery Services與Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL與REST {#graphql-rest}
    + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
    + [查詢](../graphql-rest/graphql-queries.md)
@@ -128,7 +128,7 @@ ht-degree: 3%
       + [Adobe Commerce條件事件](../io-events/conditional-events.md)
    + API網格{#api-mesh}
       + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [安裝AdobeIO和網狀外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
+      + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
       + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
       + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
       + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
@@ -156,7 +156,7 @@ ht-degree: 3%
    + [管理類別中的產品](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
    + [建立產品屬性](../site-management/product-attributes-create.md)
-   + [使用具有PWA Studio的產品屬性](../site-management/product-attributes-pwa.md)
+   + [搭配使用產品屬性與PWA Studio](../site-management/product-attributes-pwa.md)
    + [管理SEO中繼資料](../site-management/seo-metadata.md)
    + [管理SEO的URL重寫](../site-management/seo-url-rewrites.md)
    + [AR檢視器](../site-management/augmented-reality.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [建立型錄價格規則](../site-management/catalog-price-rules.md)
    + [建立購物車價格規則](../site-management/cart-price-rules.md)
    + [管理相關產品規則](../site-management/related-product-rules.md)
-   + [設定產品Recommendations](../site-management/product-recommendations.md)
+   + [設定產品推薦](../site-management/product-recommendations.md)
    + [Live Search簡介](../site-management/live-search.md)
    + [即時搜尋建議](../site-management/live-search-recommendations.md)
    + [將Commerce與AJO整合](../site-management/integrate-commerce-ajo.md)
@@ -207,7 +207,7 @@ ht-degree: 3%
    + [報告和儀表板](../business-intelligence/reports-and-dashboards.md)
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
-   + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級{#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
@@ -235,12 +235,12 @@ ht-degree: 3%
 + Headless架構{#headless-architecture}
    + Headless {#introduction-to-headless}簡介
       + [Headless架構 — 工作階段1](../headless/session-1.md)
-   + PWA Studio{#introduction}簡介
+   + PWA Studio {#introduction}簡介
       + [1 — 概觀](../pwa/introduction/1-overview.md)
-      + [2 -PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
+      + [2 - PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 — 啟動](../pwa/introduction/3-launch.md)
       + [4 — 向上](../pwa/introduction/4-upward.md)
       + [5 — 快速入門](../pwa/introduction/5-getting-started.md)
       + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
-   + [PWADocker開發](../pwa/pwa-docker-development.md)
+   + [PWA Docker開發](../pwa/pwa-docker-development.md)
    + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)

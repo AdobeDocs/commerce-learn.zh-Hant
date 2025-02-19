@@ -1,5 +1,5 @@
 ---
-title: 包含自動完成的Edge Delivery Services自訂地址
+title: Edge Delivery Services自訂位址，包括自動完成
 description: 瞭解如何自訂電子商務結帳表單及整合Google位址查詢，以改善使用者體驗並減少輸入錯誤。
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# 自訂地址表單版面配置和Google地址查詢整合
+# 自訂地址配置
 
 瞭解如何在結帳時自訂地址表單版面配置，以確保所有欄位的寬度均為50%，但文字區域除外。 瞭解使用整合式協力廠商API (尤其是Google Address API)的方法，以啟用地址表單中的自動地址查詢和驗證。&#x200B;URL 瞭解如何將新的側邊欄功能表專案新增到使用者帳戶儀表板，連結到商店定位器的自訂頁面。
 
