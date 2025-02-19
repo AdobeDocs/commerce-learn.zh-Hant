@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
+source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 - app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/installData.php
+- app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
@@ -64,7 +64,9 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->如果您的模組使用「宣告式結構描述」，而且大部分都使用2.3.0以後的版本，您應該省略setup_version。 不過，如果您有一些舊版專案，您可能會看到使用此方法。  如需詳細資訊，請參閱[developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}。
+>如果您的模組使用「宣告式結構描述」，而且大部分都使用2.3.0以後的版本，您應該省略setup_version。 不過，如果您有一些舊版專案，您可能會看到使用此方法。  如需詳細資訊，請參閱[developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}。\
+>請注意：若要讓此範常式式碼運作，您必須包含setup_version，否則InstallData.php不會執行。
+
 
 
 ```xml
@@ -76,6 +78,10 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+
+>[!NOTE]
+>
+>請務必使用您專案中的屬性集ID，在此範例中是數字9。
 
 ```php
 <?php
@@ -161,7 +167,7 @@ class Material extends AbstractSource
 }
 ```
 
-### app/code/Learning/ClothingMaterial/Setup/installData.php
+### app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ```php
 <?php
@@ -205,7 +211,7 @@ class InstallData implements InstallDataInterface
             Product::ENTITY,
             'clothing_material',
             [
-                'group'         => 'General',
+                'group'         => 'Product Details',
                 'type'          => 'varchar',
                 'label'         => 'Clothing Material',
                 'input'         => 'select',
@@ -228,7 +234,5 @@ class InstallData implements InstallDataInterface
 ```
 
 ## 有用的資源
-
-[建立產品屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
 [新增自訂文字欄位屬性](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
