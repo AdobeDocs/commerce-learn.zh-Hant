@@ -1,8 +1,8 @@
 ---
 title: Adobe Commerce 2.4升級工作坊
-description: 觀看此錄製的網路研討會，了解 2.4.4 或更新版本的 Adobe Commerce 2.4.4 的升級步驟和最佳實務。
-landing-page-description: 觀看此錄製的網路研討會，了解 Adobe Commerce 2.4 的升級步驟和最佳實務。
-short-description: 觀看此錄製的網路研討會，了解 Adobe Commerce 2.4 的升級步驟和最佳實務。
+description: 觀看此錄製的網路研討會，了解 2.4.4 或更新版本的 Adobe Commerce 2.4.4 的升級步驟和最佳做法。
+landing-page-description: 觀看此錄製的網路研討會，了解 Adobe Commerce 2.4 的升級步驟和最佳做法。
+short-description: 觀看此錄製的網路研討會，了解 Adobe Commerce 2.4 的升級步驟和最佳做法。
 kt: 9620
 doc-type: technical video
 audience: all
