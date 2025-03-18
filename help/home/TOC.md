@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: a33687b152162db94cd434c4de8a717ab332e51d
+source-git-commit: 98c1b61b6fec015c03a34b92f81acc530ebfa92b
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '826'
 ht-degree: 3%
 
 ---
@@ -75,6 +75,8 @@ ht-degree: 3%
       + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
       + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
       + [重試機制](../back-office-integrations/retry-mechanism.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+   + [概觀](../adobe-commerce-optimizer/overview.md)
 + 全域參考架構{#global-reference-architecture-implementation-techniques}
    + [概觀](../global-reference-architecture/overview.md)
    + [分割Git](../global-reference-architecture/split-git.md)
