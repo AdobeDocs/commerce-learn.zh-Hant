@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 4d4bbad0f3480d0f5ec02c4f91e823a3246c80d5
+source-git-commit: a33687b152162db94cd434c4de8a717ab332e51d
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '822'
 ht-degree: 3%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 3%
       + [啟動前檢查清單](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入門{#getting-started}
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+      + [概觀](../commerce-as-a-cloud-service/overview.md)
       + [架構](../commerce-as-a-cloud-service/architecture.md)
    + 正在移轉至Adobe Commerce{#migrating-to-adobe-commerce}
       + [概觀](../migrating-to-adobe-commerce/overview.md)
