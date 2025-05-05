@@ -75,4 +75,4 @@ ht-degree: 0%
 * [發行說明](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [修補程式的Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
 * [使用品質修補工具](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)上的[技術影片
+* QPT[&#128279;](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)上的技術影片

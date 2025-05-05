@@ -48,7 +48,7 @@ ht-degree: 0%
 - [ ]每個建立或更新頁面的目錄和H1相符。
 - [ ]目錄和H1有相關聯的動作，例如：瞭解如何建立GutHub提取請求
 - [ ] H1中不應有等寬
-- [ ]每個頁面標題都應以***C***apitol字母開頭
+- [ ]每個頁面標題都應以&#x200B;***C***apitol字母開頭
 - [ ]我已檢查是否有任何影片應該有章節
 - [ ]所有視訊都已指派海報以正確代表視訊
 - [ ]您是否使用[Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
