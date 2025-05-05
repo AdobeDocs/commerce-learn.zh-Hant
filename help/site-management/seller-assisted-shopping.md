@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [提供購物者協助 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [購物協助 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [提供購物者協助 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=zh-Hant)
+- [購物協助 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=zh-Hant#shopping-assistance)

@@ -50,7 +50,7 @@ magento-cloud CLI工具旨在協助開發人員和系統管理員有效管理Ado
 
 在範常式式碼的這個初始區段中，`magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`它正在要求環境的URL。 傳回的值看起來像這樣`http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`。 偶爾會看起來更像此`http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`。  第一個指令相當簡單，現在可以移至下一個指令。
 
-如需詳細資訊，請閱讀[雲端CLI總覽](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+如需詳細資訊，請閱讀[雲端CLI總覽](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## 使用`sed`進行搜尋和取代
 

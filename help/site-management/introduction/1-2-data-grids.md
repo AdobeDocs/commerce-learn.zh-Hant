@@ -31,10 +31,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## 其他資源
 
-[管理網格控制項 —  [!DNL Commerce] 入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[管理網格控制項 —  [!DNL Commerce] 入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html?lang=zh-Hant)

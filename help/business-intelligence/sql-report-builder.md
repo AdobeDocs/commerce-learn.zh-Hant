@@ -37,7 +37,7 @@ SQLReport Builder可讓您直接查詢資料倉儲、檢視結果，並快速將
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
+>如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
 ## 這部影片是給誰看的？
 
@@ -50,6 +50,6 @@ SQLReport Builder可讓您直接查詢資料倉儲、檢視結果，並快速將
 
 ## 有用的資源
 
-[使用SQLReport Builder- Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[使用SQLReport Builder- Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=zh-Hant)
 
-[從SQL查詢建立視覺效果 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[從SQL查詢建立視覺效果 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=zh-Hant)

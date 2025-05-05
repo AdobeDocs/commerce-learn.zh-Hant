@@ -33,6 +33,6 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [送貨設定 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [基本傳遞方式 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [運送業者設定 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [送貨設定 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=zh-Hant)
+- [基本傳遞方式 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=zh-Hant#basic-delivery-methods)
+- [運送業者設定 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=zh-Hant)

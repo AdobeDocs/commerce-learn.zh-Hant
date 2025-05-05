@@ -40,4 +40,4 @@ submitting a pull request!
 
 ## 安全性問題
 
-不應在此問題追蹤器上回報安全性問題。 而是 [向我們的安全性專家提出問題](https://helpx.adobe.com/security/alertus.html)
+不應在此問題追蹤器上回報安全性問題。 而是 [向我們的安全性專家提出問題](https://helpx.adobe.com/tw/security/alertus.html)

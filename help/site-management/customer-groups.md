@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=zh-Hant)
 - [網站的客戶群組限制 —  [!DNL Commerce] 客戶管理指南](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

@@ -30,7 +30,7 @@ ht-degree: 0%
 
 使用REST API建立可設定的產品：
 
-1. 取得[屬性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)的屬性，以使用後續API呼叫的ID號碼。
+1. 取得[屬性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hant)的屬性，以使用後續API呼叫的ID號碼。
 1. 建立簡單產品以用於可設定產品。
 1. 建立空的可設定產品並關聯簡單產品。
 1. 設定可設定產品的產品屬性。
@@ -348,6 +348,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## 其他資源
 
 - [建立可設定的產品教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [可設定的產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+- [可設定的產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=zh-Hant){target="_blank"}
 - [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

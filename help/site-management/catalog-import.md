@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 手動建立產品 {#manual-import}
 
-如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，而且有關如何使用Commerce管理員的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪[建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}。 別忘了，您可以使用多種方法來管理您的目錄，不過一旦使用自動化，手動編輯必須受到限制。 自動更新有機會覆寫手動執行的任何變更，因此會導致混淆。 一旦與Adobe Commerce的整合使用自動化和API來管理目錄，建議限制管理員透過[使用者角色和許可權](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}管理目錄。
+如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，而且有關如何使用Commerce管理員的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪[建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=zh-Hant){target="_blank"}。 別忘了，您可以使用多種方法來管理您的目錄，不過一旦使用自動化，手動編輯必須受到限制。 自動更新有機會覆寫手動執行的任何變更，因此會導致混淆。 一旦與Adobe Commerce的整合使用自動化和API來管理目錄，建議限制管理員透過[使用者角色和許可權](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hant){target="_blank"}管理目錄。
 
 ### 何時考量此方法
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 ## 管理員CSV匯入工具 {#admin-csv}
 
 此工具可讓商店擁有者使用CSV許可權，從商務管理員匯入目錄。
-[從Commerce管理員匯入資料](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[從Commerce管理員匯入資料](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=zh-Hant){target="_blank"}
 
 優點：
 從管理員上傳CSV是目錄管理的直接方法。 它允許對適度大小的目錄進行更快的目錄產品更新。
@@ -139,6 +139,6 @@ ht-degree: 0%
 ## 其他資源
 
 - [使用新的REST CSV匯入資料](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [匯入資料主要檔案](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Adobe Commerce 2.4.6版的發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [匯入資料主要檔案](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=zh-Hant){target="_blank"}
+- [Adobe Commerce 2.4.6版的發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=zh-Hant){target="_blank"}
 - [使用者、角色和許可權](../site-management/users-roles-permissions.md){target="_blank"}

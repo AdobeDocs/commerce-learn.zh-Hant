@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [媒體集 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [備用媒體儲存空間 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+- [媒體集 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+- [備用媒體儲存空間 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

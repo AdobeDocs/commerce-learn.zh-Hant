@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
+>如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
 ## 這部影片是給誰看的？
 

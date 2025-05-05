@@ -39,4 +39,4 @@ ht-degree: 0%
 
 ## 其他檔案
 
-* [多步驟來賓簽出](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [多步驟來賓簽出](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=zh-Hant)

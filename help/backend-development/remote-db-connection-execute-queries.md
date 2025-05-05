@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 使用Adobe Commerce Cloud CLI工具
 
-建立資料庫傾印需要您安裝[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)。 在本機筆記型電腦上，移至目錄，然後執行下列命令。 請確定以類似`asasdasd45q`的專案識別碼取代`your-project-id`。 您也需要將`your-environment-name`取代為您的環境名稱，例如`master`或`staging`。
+建立資料庫傾印需要您安裝[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hant)。 在本機筆記型電腦上，移至目錄，然後執行下列命令。 請確定以類似`asasdasd45q`的專案識別碼取代`your-project-id`。 您也需要將`your-environment-name`取代為您的環境名稱，例如`master`或`staging`。
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -276,7 +276,7 @@ SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-e
    magento-cloud ssh
    ```
 
-1. 從[$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships)變數中的`database`和`type`屬性擷取MySQL登入認證。
+1. 從[$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hant#relationships)變數中的`database`和`type`屬性擷取MySQL登入認證。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -322,7 +322,7 @@ SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-e
 
 ## 直接連線到雲端專案資料庫以執行SQL
 
-下列方法使用`magento-cloud` cli直接連線至mysql資料庫並執行SQL，以加快資料庫查詢速度。 如果您需要複製此資料庫，請參考[建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)的替代方法之一。
+下列方法使用`magento-cloud` cli直接連線至mysql資料庫並執行SQL，以加快資料庫查詢速度。 如果您需要複製此資料庫，請參考[建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hant)的替代方法之一。
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +382,7 @@ MariaDB [main]>
 
 ## 其他資源
 
-[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[設定MySQL服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-[設定遠端MySQL資料庫連線](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[在雲端基礎結構上的Adobe Commerce上建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hant)
+[設定MySQL服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=zh-Hant)
+[設定遠端MySQL資料庫連線](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=zh-Hant)
+[在雲端基礎結構上的Adobe Commerce上建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hant)

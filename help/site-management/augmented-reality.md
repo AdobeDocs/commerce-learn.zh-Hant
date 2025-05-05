@@ -57,8 +57,8 @@ AR Viewer可填補實體和數位零售之間的空白[!DNL bridge]，讓賣家�
 
 ## 有用的資源
 
-Adobe Commerce的[AR檢視器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[使用Adobe Commerce的AR檢視器管理產品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+Adobe Commerce的[AR檢視器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=zh-Hant){target="_blank"}
+[使用Adobe Commerce的AR檢視器管理產品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=zh-Hant){target="_blank"}
 
 ## Adobe Commerce Marketplace擴充功能
 

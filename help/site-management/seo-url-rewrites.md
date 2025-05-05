@@ -11,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案(Adobe管理的PaaS基礎結構)和內部部署專案的Adobe Commerce 。"
+badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案(Adobe管理的PaaS基礎結構)和內部部署專案的Adobe Commerce 。"
 source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
 workflow-type: tm+mt
 source-wordcount: '115'
@@ -35,5 +35,5 @@ URL重寫工具可讓您變更與產品、類別或CMS頁面相關聯的任何UR
 
 ## 其他資源
 
-- [URL重寫程式 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [一般>網頁 —  [!DNL Commerce] 設定參考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+- [URL重寫程式 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=zh-Hant)
+- [一般>網頁 —  [!DNL Commerce] 設定參考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=zh-Hant)

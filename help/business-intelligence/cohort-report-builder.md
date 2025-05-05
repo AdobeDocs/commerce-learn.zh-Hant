@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
+>如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
 ## 這部影片是給誰看的？
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 
 ## 有用的資源
 
-[使用同類群組Report Builder- Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[使用同類群組Report Builder- Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=zh-Hant)
 
-[建立定性同類群組分析 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[建立定性同類群組分析 — Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=zh-Hant)

@@ -36,5 +36,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [管理公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=zh-Hant){target="_blank"}
+- [管理公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=zh-Hant){target="_blank"}

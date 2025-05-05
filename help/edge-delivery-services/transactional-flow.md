@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ## 其他檔案
 
-* [設定購物車摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [設定購物車摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=zh-Hant)

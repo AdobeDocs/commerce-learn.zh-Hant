@@ -43,4 +43,4 @@ ht-degree: 0%
 
 ## 其他檔案
 
-* [新增產品線到購物車](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [新增產品線到購物車](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=zh-Hant)

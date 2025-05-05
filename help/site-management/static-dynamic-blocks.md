@@ -34,5 +34,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [區塊 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [動態區塊 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [區塊 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=zh-Hant)
+- [動態區塊 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=zh-Hant)

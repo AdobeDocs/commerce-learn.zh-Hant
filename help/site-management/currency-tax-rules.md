@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [稅捐規則 —  [!DNL Commerce] 存放與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [貨幣 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [稅捐規則 —  [!DNL Commerce] 存放與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=zh-Hant)
+- [貨幣 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=zh-Hant)

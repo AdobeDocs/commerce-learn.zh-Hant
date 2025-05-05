@@ -41,5 +41,5 @@ B2B客戶擁有其角色所需的許可權，可以設定核准規則以強制�
 
 ## 其他資源
 
-- [公司的採購單](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-- [採購單核准規則](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+- [公司的採購單](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=zh-Hant){target="_blank"}
+- [採購單核准規則](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=zh-Hant){target="_blank"}

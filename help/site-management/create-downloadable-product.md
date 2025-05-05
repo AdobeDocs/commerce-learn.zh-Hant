@@ -54,7 +54,7 @@ ht-degree: 0%
 
 現在已將網域新增到`env.php`，您可以在Adobe Commerce管理員中或使用REST API建立可下載的產品。
 
-請參閱[組態參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)以瞭解更多資訊。
+請參閱[組態參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hant#downloadable_domains)以瞭解更多資訊。
 
 >[!IMPORTANT]
 >在某些版本的Adobe Commerce上，當您在Adobe Commerce管理員中編輯產品時，可能會收到以下錯誤。 產品是使用REST API建立，但連結的下載專案價格為`null`。
@@ -236,7 +236,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 其他資源
 
-- [可下載的產品型別](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
-- [可下載的網域設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+- [可下載的產品型別](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=zh-Hant){target="_blank"}
+- [可下載的網域設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hant#downloadable_domains){target="_blank"}
 - [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

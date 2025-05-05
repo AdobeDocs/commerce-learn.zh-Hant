@@ -33,12 +33,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## 其他資源
 
-[網站、商店和檢視 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[網站、商店和檢視 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=zh-Hant)
 
-[範圍設定 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[範圍設定 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=zh-Hant#scope-settings)

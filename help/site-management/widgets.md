@@ -34,5 +34,5 @@ Widget是可重複使用的元件，您可以輕鬆建立和修改，以自動�
 
 ## 其他資源
 
-- [介面工具集 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [建立和管理Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [介面工具集 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=zh-Hant)
+- [建立和管理Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=zh-Hant)
