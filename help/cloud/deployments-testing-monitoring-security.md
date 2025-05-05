@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432825?learn=on&captions=chi_hant)
 
 ## 影片中提到的Experience League檔案
 

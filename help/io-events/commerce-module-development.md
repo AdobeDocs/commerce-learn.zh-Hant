@@ -35,7 +35,7 @@ ht-degree: 0%
 * 瞭解如何在Commerce執行個體`app/etc/config.php`中註冊事件
 * 瞭解如何取消訂閱事件
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430651?quality=12&learn=on&captions=chi_hant)
 
 ## 有用的命令 {#useful-commands}
 

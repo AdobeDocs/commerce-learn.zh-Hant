@@ -45,7 +45,7 @@ Adobe Commerce的Store Fulfillment，由Walmart Commerce Technologies提供，�
 >
 >影片內容反映了Adobe Commerce 2.4安裝在店面上的Store Fulfillment解決方案1.0版本。如需最新資訊，請參閱[Store Fulfillment使用手冊](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447546?quality=12&learn=on&captions=chi_hant)
 
 ## 其他資源
 

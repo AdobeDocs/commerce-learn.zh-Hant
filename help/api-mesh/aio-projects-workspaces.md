@@ -36,7 +36,7 @@ ht-degree: 0%
 * 在CLI中變更選取的組織、專案或工作區
 * 測試簡單的API Mesh命令
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430774?quality=12&learn=on&captions=chi_hant)
 
 ## 瞭解Adobe Developer Console
 

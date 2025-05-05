@@ -31,7 +31,7 @@ ht-degree: 0%
 * 討論的`app.config.yaml`檔案
 * 定義如何連結到其他`.js`個檔案
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430842?quality=12&learn=on&captions=chi_hant)
 
 ## 程式碼範例
 

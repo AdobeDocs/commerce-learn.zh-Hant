@@ -33,4 +33,4 @@ _探索Adobe Commerce Edge配送店面的新客戶和現有客戶。
 - 透過A/B測試瞭解最佳化。
 - 瞭解一些進階工具和AI整合，以精簡內容、產生變體並增強整體促銷策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433543?learn=on&captions=chi_hant)

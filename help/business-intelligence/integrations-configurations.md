@@ -33,4 +33,4 @@ ht-degree: 0%
 
 ## 整合與設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452701?learn=on&captions=chi_hant)

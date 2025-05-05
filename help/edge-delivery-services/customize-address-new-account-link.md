@@ -40,7 +40,7 @@ ht-degree: 0%
 * 位址輸入欄位的驗證和錯誤處理，確保使用者會立即收到不正確或不完整專案的回饋，進而改善使用者體驗。
 * 使用者帳戶儀表板的擴充功能，可將新的側邊欄功能表專案新增至使用者帳戶儀表板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442917?learn=on&captions=chi_hant)
 
 ## 其他檔案
 

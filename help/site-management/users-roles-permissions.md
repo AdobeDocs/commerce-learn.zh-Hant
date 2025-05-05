@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443518?quality=12&learn=on&captions=chi_hant)
 
 ## 其他資源
 

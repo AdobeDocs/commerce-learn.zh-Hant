@@ -33,6 +33,6 @@ Adobe Commerce Marketplace現在接受提交App Builder應用程式清單。 App
 * 應用程式提交的技術和行銷區段
 * 應用程式通過稽核後，您會收到的電子郵件範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420313)
+>[!VIDEO](https://video.tv.adobe.com/v/3447355?captions=chi_hant)
 
 {{$include /help/_includes/app-builder-related-links.md}}

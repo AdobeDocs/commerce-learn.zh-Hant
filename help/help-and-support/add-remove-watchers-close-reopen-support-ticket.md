@@ -31,7 +31,7 @@ ht-degree: 0%
 * 瞭解如何關閉支援票證
 * 瞭解如何重新開啟支援票證
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441363?learn=on&captions=chi_hant)
 
 ## Commerce知識庫說明中心指南
 

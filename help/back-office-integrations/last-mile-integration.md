@@ -43,6 +43,6 @@ ht-degree: 0%
 * 了解轉換掛接在原始和目的地系統之間轉換資料物件時的角色。
 * 瞭解傳送勾點對於促進實際資料傳送至目的地系統的重要性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451940?learn=on&captions=chi_hant)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

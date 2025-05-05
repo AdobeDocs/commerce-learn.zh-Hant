@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439981?&learn=on&captions=chi_hant)
 
 ## 教學課程中使用的一些命令
 

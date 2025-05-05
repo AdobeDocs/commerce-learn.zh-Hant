@@ -31,4 +31,4 @@ ht-degree: 0%
 * 瞭解如何使用篩選器來限制管理網格的結果
 * 瞭解篩選器如何影響Adobe CommerceAdmin Console中的其他管理員
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440393?learn=on&captions=chi_hant)

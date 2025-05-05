@@ -23,7 +23,7 @@ ht-degree: 0%
 
 這是GraphQL和Adobe Commerce系列的第4部分。 使用的查詢和變動取決於在伺服器上實作的特定資料圖表，GraphQL執行階段會使用這個圖表並用來解決查詢。 GraphQL規格定義了不可知的語言，用於表示資料圖表的型別和關係。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446621?learn=on&captions=chi_hant)
 
 ## 本系列中GraphQL的相關影片和教學課程
 

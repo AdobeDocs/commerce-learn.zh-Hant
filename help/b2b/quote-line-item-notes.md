@@ -32,6 +32,6 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423690?learn=on&captions=chi_hant)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

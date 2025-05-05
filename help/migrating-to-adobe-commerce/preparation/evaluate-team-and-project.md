@@ -35,7 +35,7 @@ ht-degree: 0%
 * 瞭解一些前端和後端考量事項。
 * 透過評估現有模組、升級核心應用程式並與其他Adobe解決方案整合，規劃順暢的移轉。
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447457/?learn=on&captions=chi_hant)
 
 ## 相關檔案
 

@@ -33,7 +33,7 @@ ht-degree: 0%
 - 找到一些常見的大型記錄檔
 - 截斷記錄檔的快速方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454594?learn=on&captions=chi_hant)
 
 
 ## 視訊中使用的命令

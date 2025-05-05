@@ -37,7 +37,7 @@ ht-degree: 0%
 * 在配送和店內取貨之間切換
 * 擷取取取車地點
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441711?learn=on&captions=chi_hant)
 
 ## 其他檔案
 

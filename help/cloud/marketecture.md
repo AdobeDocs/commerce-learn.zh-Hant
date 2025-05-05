@@ -35,4 +35,4 @@ API Mesh和統一事件管理等擴充性工具可簡化開發和整合，而Edg
 - Adobe Commerce提供可撰寫服務，例如即時搜尋、AI推薦和彈性支付解決方案。
 - 進階整合包括API Mesh、統一的事件管理以及緊密整合的Adobe Experience Platform。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433446?learn=on&captions=chi_hant)

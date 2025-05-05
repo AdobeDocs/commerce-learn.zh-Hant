@@ -35,4 +35,4 @@ Adobe Commerce資料連線的完整示範。
 * Real-Time CDP受眾會根據瀏覽器資料、伺服器端資料（包括訂單歷史記錄）和其他來源的資料（即忠誠度資料），即時更新和修改分段。
 * 利用Real-Time CDP受眾，在Adobe Commerce中個人化購物車價格規則和動態區塊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453829?learn=on&captions=chi_hant)

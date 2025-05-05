@@ -32,4 +32,4 @@ ht-degree: 0%
 - 產品與資產之間的無縫同步。
 - 完整的生命週期控制，包括核准、移除和到期。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434087?learn=on&captions=chi_hant)

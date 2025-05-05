@@ -34,7 +34,7 @@ ht-degree: 0%
 * 如何疑難排解錯誤，例如名稱衝突、結構描述可用性和其他結構描述語法問題
 * 使用修改的組態更新您的網格
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430764?quality=12&learn=on&captions=chi_hant)
 
 ## 建立json設定檔案
 

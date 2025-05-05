@@ -32,7 +32,7 @@ ht-degree: 0%
 - 管理維護模式
 - 有效的疑難排解提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447704?learn=on&captions=chi_hant)
 
 
 ## 視訊中使用的命令

@@ -43,4 +43,4 @@ ht-degree: 0%
 * 瞭解如何管理訂單，包括新增專案至購物車、以訪客身分登出、取消訂單和重新排序專案。
 * 深入瞭解如何更新帳戶資訊、合併來賓和客戶購物車，以及確保順暢的結帳體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446773?learn=on&captions=chi_hant)

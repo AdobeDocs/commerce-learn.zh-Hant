@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453089?learn=on&captions=chi_hant)
 
 ## 使用簡單裝載建立禮品卡
 

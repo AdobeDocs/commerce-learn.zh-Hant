@@ -33,4 +33,4 @@ ht-degree: 0%
 * 瞭解如何根據資料彙總來設定警示的臨界值。
 * 使用嚴重性等級設定警示並指派給現有原則，以控制通知工作流程和目的地。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440782?learn=on&captions=chi_hant)

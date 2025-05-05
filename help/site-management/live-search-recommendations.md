@@ -31,7 +31,7 @@ Adobe Commerce的[!DNL Live Search]可免費為Adobe Commerce提供快速、超�
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430760?quality=12&learn=on&captions=chi_hant)
 
 
 ## 其他資源

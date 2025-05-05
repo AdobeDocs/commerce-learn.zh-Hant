@@ -37,7 +37,7 @@ ht-degree: 0%
 - 在Adobe Journey Optimizer中，使用Data Connection提供的現成事件輕鬆建立及啟用1:1客戶歷程
 - 使用Adobe Journey Optimizer的原生訊息功能，即時與所有管道的購物者互動
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452481/?learn=on&captions=chi_hant)
 
 ## 其他資源
 

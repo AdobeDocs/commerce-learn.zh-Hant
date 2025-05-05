@@ -31,7 +31,7 @@ ht-degree: 0%
 * 瞭解如何為開啟的支援票證新增註解
 * 瞭解升級支援票證的方式和一些原因
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445322?learn=on&captions=chi_hant)
 
 ## Commerce知識庫說明中心指南
 

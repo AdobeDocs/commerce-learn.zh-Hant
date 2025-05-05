@@ -36,7 +36,7 @@ ht-degree: 0%
 * 瞭解如何包含購物車摘要的儲存總額。
 * 瞭解如何將購物車摘要中的行合併到一個可摺疊的區段中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441196?learn=on&captions=chi_hant)
 
 ## 其他檔案
 

@@ -40,4 +40,4 @@ Adobe Live搜尋的完整示範。
 * 規則型排名型別說明
 * GraphQL API內檢
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454470?learn=on&captions=chi_hant)

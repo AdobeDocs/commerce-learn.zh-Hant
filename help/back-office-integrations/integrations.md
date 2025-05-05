@@ -35,7 +35,7 @@ ht-degree: 0%
 * 執行指令碼以建立和設定事件提供者和訂閱。
 * 更新Commerce和App Builder中的事件以進行同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452788?learn=on&captions=chi_hant)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

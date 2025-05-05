@@ -38,7 +38,7 @@ ht-degree: 0%
 * 使用購物車規則和頁尾位置顯示的優惠券折扣，以有效顯示此資訊。
 * 使用產品屬性和插槽來擴充及自訂購物車功能，確保符合所有專案需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441127?learn=on&captions=chi_hant)
 
 
 ## 其他檔案

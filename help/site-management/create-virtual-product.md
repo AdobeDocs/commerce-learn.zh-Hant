@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444875?learn=on&captions=chi_hant)
 
 ## 使用curl建立虛擬產品
 

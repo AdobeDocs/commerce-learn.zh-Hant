@@ -21,7 +21,7 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Commerce Cloud cli命令重設管理員URI。 如果管理員URL從管理員變更過，但發生錯誤，而且您無法再存取管理員，此功能會很有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439703/?learn=on&captions=chi_hant)
 
 ## 教學課程中使用的一些命令
 

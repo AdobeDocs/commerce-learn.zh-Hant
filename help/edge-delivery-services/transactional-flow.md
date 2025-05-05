@@ -37,7 +37,7 @@ ht-degree: 0%
 * A/B測試彈性。 透過SharePoint啟用設定，讓行銷人員能夠控制並測試這些功能。
 * 增強行銷控制。 輕鬆管理和測試設定，改善使用者體驗和行銷效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442362?learn=on&captions=chi_hant)
 
 ## 其他檔案
 

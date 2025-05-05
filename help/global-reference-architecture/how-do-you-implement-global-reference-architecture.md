@@ -38,6 +38,6 @@ ht-degree: 0%
 * 全域控制板 — 使用哪些功能
 * 使用GRA作為模組市場的替代概念
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457219?learn=on&captions=chi_hant)
 
 {{$include /help/_includes/gra-related-links.md}}
