@@ -1,6 +1,6 @@
 ---
 title: 採用及啟用成功加速器
-description: 採用和啟用Adobe Commerce Success Accelerator，以進行策略開發、技能提升和治理
+description: 瞭解Adobe Commerce Success Accelerator的採用和啟用，以進行策略開發、技能提升和治理。
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,13 +9,13 @@ doc-type: Value Video
 duration: 95
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
-source-git-commit: 11384ef49c6cfe3d59a7cee22cdca8ceb123d7d6
+exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
+source-git-commit: 34e15bd8c440b2f63fbf43e29fdd2961c72301f6
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 採用及啟用成功加速器
 
