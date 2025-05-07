@@ -1,7 +1,6 @@
 ---
 title: Success Accelerator技術整備
-description: Adobe Commerce Success Accelerator技術整備、解決方案審查、事件規劃，以及全天候監控以獲得最佳效能。
-feature: Site Management, Support
+description: 瞭解Commerce Success Accelerator技術整備、解決方案審查、事件規劃和全天候監控，以獲得最佳效能。
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -9,13 +8,13 @@ doc-type: Value Video
 duration: 160
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17804
-source-git-commit: 080c355e656e918415de74156830d787aad20af4
+exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
+source-git-commit: a79bc113cbedb89c56e74571a68538fa94a3945c
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Success Accelerator技術整備
 
