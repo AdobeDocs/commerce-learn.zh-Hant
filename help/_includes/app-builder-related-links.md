@@ -1,9 +1,9 @@
 ---
 title: API Mesh相關頁面
 description: App Builder中相關頁面的連結
-source-git-commit: 9991718a0c619bcf15e9de3102f8e77539bb588b
+source-git-commit: 6979188559818d3db0369c3527954b39109ccc60
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 * [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
 * [App Builder的功能示範](../app-builder/app-builder-functional-demonstration.md)
 * [App Builder技術概覽](../app-builder/app-builder-technical-overview.md)
-* [將應用程式提交至市集](../app-builder/submit-app-process.md)
-* [完成擴充功能資訊概述](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
-* App Builder上的[AmazonSales Channel](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
+* [完成擴充功能資訊概觀](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
+* 在App Builder上[Amazon Sales Channel](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
 * [管理UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}

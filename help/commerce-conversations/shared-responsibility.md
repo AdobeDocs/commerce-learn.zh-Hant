@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 152
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
-source-git-commit: 3dd00fba9c51b7bd636008aa341206c71b4ac6c5
+exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
+source-git-commit: bd2ae796c91bbec5b07e3f9aaf4967e67f31ceb7
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 共擔責任
 
@@ -34,3 +34,10 @@ ht-degree: 0%
 * 最佳實務： Adobe建議商戶使用的最佳實務，包括啟用雙因素驗證、設定安全的管理員存取權，以及遵循最低許可權原則。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+
+## 其他檔案
+
+* [安全性修補程式發行說明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [通知通道](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Adobe安全性佈告欄](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [保護您的商務網站和基礎結構](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
