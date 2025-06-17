@@ -9,9 +9,10 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: e88e6056-a7c8-4b89-b992-777e74467135
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案(Adobe管理的PaaS基礎結構)和內部部署專案的Adobe Commerce 。"
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,12 +32,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需更新版本的相關資訊，請參閱[Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=zh-Hant)。
+>本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需更新版本的相關資訊，請參閱[Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430981?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
 ## 有用的資源
 
 [Page Builder開發人員檔案](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[頁面產生器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=zh-Hant)
+[頁面產生器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
