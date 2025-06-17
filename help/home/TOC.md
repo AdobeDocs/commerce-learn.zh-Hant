@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 3%
 
 ---
@@ -147,12 +147,13 @@ ht-degree: 3%
       + [設定Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
       + [Adobe Commerce條件事件](../io-events/conditional-events.md)
-   + API網格 {#api-mesh}
-      + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
-      + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
-      + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
-      + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
++ API網格 {#api-mesh}
+   + [使用GitHub程式碼空間的API Mesh入門套件](../api-mesh/starter-kit-github-codespaces.md)
+   + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
+   + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
+   + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
+   + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
+   + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 + 存放區管理 {#admin}
    + [管理使用者角色和許可權](../site-management/users-roles-permissions.md)
    + [雙因素驗證](../site-management/two-factor-authentication.md)
@@ -229,13 +230,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 3%
       + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
    + [PWA Docker開發](../pwa/pwa-docker-development.md)
    + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
-
