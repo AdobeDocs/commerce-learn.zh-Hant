@@ -33,7 +33,7 @@ ht-degree: 0%
 * 內建測試工具：包含預先設定的GraphQL伺服器(Yoga)和自動伺服器重新啟動，以實現順暢開發。
 * 實作學習：直接在瀏覽器中複製入門套件、設定端點，以及測試API回應。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464028?learn=on&enablevpops&captions=chi_hant)
 
 ## 相關檔案
 
