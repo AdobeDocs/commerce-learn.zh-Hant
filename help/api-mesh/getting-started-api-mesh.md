@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
+source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 15%
+source-wordcount: '305'
+ht-degree: 16%
 
 ---
 
@@ -51,6 +51,6 @@ API Mesh結合多個資料來源以取得單一回應，供您的應用程式使
 身為使用Adobe App Builder和API Mesh的開發人員，不必瞭解什麼是反向Proxy。 不過，如果您對Adobe App Builder相關的整體功能感興趣，請使用下列資源：
 
 * [什麼是反向Proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League社群 — 反向Proxy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
+
 
 {{$include /help/_includes/api-mesh-related-links.md}}
