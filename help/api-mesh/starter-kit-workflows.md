@@ -31,7 +31,7 @@ ht-degree: 0%
 * 自動部署或更新網格的deployMesh工作流程
 * 使用K6負載測試工作流程進行負載測試
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464535?learn=on&enablevpops&captions=chi_hant)
 
 ## 相關檔案
 
