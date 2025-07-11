@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: ce2e7415b2d30dbd46a0a40a1c32b5933234e8f1
+source-git-commit: 810d1a17e9fe564e8450b091bbeb5574d7d76075
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '888'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 3%
    + [體驗銷售機會資料和促銷活動](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [從自行託管的解決方案移轉](../cloud/overview.md)
+   + [使用Fastly限制存取](../cloud/limit-website-access-using-fastly.md)
    + 技術入門和硬體移交 {#technical-onboarding-hardware-handoff}
       + [基礎結構和開發最佳實務](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
@@ -231,13 +232,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
