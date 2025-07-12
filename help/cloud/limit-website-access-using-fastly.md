@@ -31,7 +31,7 @@ ht-degree: 0%
 * Adobe Commerce開發人員
 * 網站可靠性工程師
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464790/?learn=on&enablevpops&captions=chi_hant)
 
 ## 程式碼範例
 
