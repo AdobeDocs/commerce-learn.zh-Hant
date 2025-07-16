@@ -9,9 +9,10 @@ feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
-source-git-commit: 41fe222aa45ff19f4802f705f077348f024cfefe
+exl-id: ba6cd559-812f-4985-881f-45a9324095f3
+source-git-commit: b29dd601b59e289f89ede03d33df8dadc3e7b19f
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -38,4 +39,8 @@ Adobe Commerce as a Cloud Service為企業提供彈性、可擴充且有效的�
 * 簡化上線和自助布建，以快速有效設定沙箱或生產執行個體。
 * 可組合的架構，利用API優先的擴充功能，提供獨立的部署、擴充和更新服務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443322?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
+
+## 相關檔案
+
+* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
