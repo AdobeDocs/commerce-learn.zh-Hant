@@ -37,6 +37,6 @@ ht-degree: 0%
 
 ## 相關內容
 
-* [什麼是Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [開始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [什麼是Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [開始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/get-started){target="_blank"}
