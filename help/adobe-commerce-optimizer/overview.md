@@ -33,7 +33,7 @@ Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現�
 * 與現有ERP、CRM、OMS和其他系統緊密整合，無需重新平台。
 * 縮放數位作業
 
->[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450474?learn=on&captions=chi_hant)
 
 ## 其他資源
 
