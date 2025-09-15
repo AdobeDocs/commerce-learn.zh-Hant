@@ -1,5 +1,5 @@
 ---
-title: Commerce as a Cloud Service概觀
+title: Adobe Commerce as a Cloud Service概觀
 description: 瞭解Adobe Commerce as a Cloud Service。 彈性、可擴充且有效率的解決方案，適合動態數位作業，並具備可撰寫的架構。
 kt: 17219
 doc-type: Technical Video
@@ -10,14 +10,14 @@ topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
-source-git-commit: b29dd601b59e289f89ede03d33df8dadc3e7b19f
+source-git-commit: ae0d2892e7b3499be1270fd183fca0e4bdf2aef4
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce as a Service概覽
+# Adobe Commerce as a Cloud Service概觀
 
 Adobe Commerce as a Cloud Service為企業提供彈性、可擴充且有效率的解決方案，並具備雲端原生功能，例如彈性自動擴充和自動更新。 它透過自助服務布建簡化了上線流程，並擁有可組合的架構，以實現獨立服務部署和API優先擴充性。 預先設定的服務與持續提供的新功能，可確保最佳效能與易用性，是成長中動態企業的理想選擇
 
@@ -39,8 +39,8 @@ Adobe Commerce as a Cloud Service為企業提供彈性、可擴充且有效的�
 * 簡化上線和自助布建，以快速有效設定沙箱或生產執行個體。
 * 可組合的架構，利用API優先的擴充功能，提供獨立的部署、擴充和更新服務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443322?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## 相關檔案
 
-* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
