@@ -33,7 +33,7 @@ ht-degree: 0%
 - 瞭解此Percona Toolkit功能的優點和缺點
 - 瞭解結果並瞭解應考慮哪些可能的效能步驟
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452305?learn=on&captions=chi_hant)
 
 ## 程式碼參考
 
