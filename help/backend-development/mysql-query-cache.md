@@ -34,7 +34,7 @@ ht-degree: 0%
 - 瞭解SQL如何儲存並用於尋找相符的查詢快取
 - 組態設定的部分提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423382?learn=on&captions=chi_hant)
 
 ## 有用的資源
 
