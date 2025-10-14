@@ -13,8 +13,8 @@ ht-degree: 2%
 ## App Builder — 建立您的第一個應用程式相關頁面
 
 * [概觀](../app-builder/first-app/overview.md)
-* [此 ](../app-builder/first-app/env-file.md)
-* [此 ](../app-builder/first-app/app-config-yaml-file.md)
+* [此 &#x200B;](../app-builder/first-app/env-file.md)
+* [此 &#x200B;](../app-builder/first-app/app-config-yaml-file.md)
 * [&#39;動作&#39;](../app-builder/first-app/actions-folder.md)
 * [&#39;測試&#39;](../app-builder/first-app/test-folder.md)
 * [&#39;web-src&#39;](../app-builder/first-app/web-src-folder.md)
