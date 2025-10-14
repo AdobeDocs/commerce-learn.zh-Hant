@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 可組合商務是電子商務的架構方法，涉及將前端展示層與後端商務功能分離。&#x200B;URL 它可讓企業選擇並組合最佳的元件或模組，以建立自訂的解決方案。 此方法包括將傳統整體電子商務平台分解為更小、更獨立的服務或微服務，以便共同組成。 可組合商務具備彈性、擴充性、自訂性、靈活性等優勢，並可更輕鬆地與其他系統和技術整合。
 
-Adobe Commerce提供許多功能和工具，可支援商家採用和實施可組合商務。 Adobe Commerce提供可撰寫的商務方法以及混合式Headless和非Headless前端體驗。 Adobe秉持程式外擴充性的理念，提供API Mesh整合多項服務，並AdobeApp Builder建立自訂微服務。
+Adobe Commerce提供許多功能和工具，可支援商家採用和實施可組合商務。 Adobe Commerce提供可撰寫的商務方法以及混合式Headless和非Headless前端體驗。 Adobe秉持程式外擴充性的理念，提供API Mesh整合多項服務，以及Adobe App Builder建立自訂微服務。
 
 ## 可撰寫商務為何重要
 
@@ -73,7 +73,7 @@ Adobe Commerce提供的這些功能簡化了可組合商務的採用和實作，
 
 **考量事項：**&#x200B;在考慮可撰寫商務時，應仔細評估複雜性、內部技術成熟度、專案大小和結構、自訂與標準化、總體擁有成本，以及安全性和資料隱私權等因素。
 
-**Adobe Commerce：** Adobe Commerce提供功能與工具，支援商家採用與實作可組合商務。 這些包括可撰寫的商務方法、功能豐富的功能、混合式前端體驗、整合的API Mesh，以及用於自訂微服務的AdobeApp Builder。
+**Adobe Commerce：** Adobe Commerce提供功能與工具，支援商家採用與實作可組合商務。 其中包括可撰寫的商務方法、功能豐富的功能、混合式前端體驗、整合的API Mesh以及用於自訂微服務的Adobe App Builder。
 
 **業務影響：**&#x200B;可撰寫商務可讓企業建立高度彈性、可擴充且可自訂的電子商務平台。 它可讓客戶提供獨特的客戶體驗、根據需求擴充、與其他系統整合、經得起未來的營運，並運用開發人員的專業知識。
 
