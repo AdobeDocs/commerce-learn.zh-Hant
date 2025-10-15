@@ -113,7 +113,7 @@ Adobe Commerce Cloud採用MariaDB Galera叢集作為中繼和生產環境的資�
    > - 如何停用電子郵件通訊：
    >   移至&#x200B;_商店>設定>進階>系統>電子郵件傳送設定_。
 
-4. 在[共擔責任安全性模型](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}中，對生產執行個體進行安全性滲透測試。 為了符合PCI （支付卡產業）規範，客製化網站需要進行滲透測試。
+4. 在[共擔責任安全性模型](https://business.adobe.com/tw/products/magento/secure-ecommerce.html){target="_blank"}中，對生產執行個體進行安全性滲透測試。 為了符合PCI （支付卡產業）規範，客製化網站需要進行滲透測試。
 
 ## 8.其他組態
 
