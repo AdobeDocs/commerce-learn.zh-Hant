@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
+source-git-commit: 65ffab8f8359d493b5519100384f4570b94b7730
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '928'
 ht-degree: 3%
 
 ---
@@ -86,6 +86,8 @@ ht-degree: 3%
    + [管理Adobe Commerce Optimizer執行個體](../adobe-commerce-optimizer/managing-instances.md)
    + [擷取範例資料](../adobe-commerce-optimizer/ingest-sample-data.md)
    + [使用GraphQL的第一個查詢](../adobe-commerce-optimizer/first-query.md)
+   + Salesforce Commerce cloud入門套件 {#sfcc-starter-kit}
+      + [概觀](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
 + 全球參考架構 {#global-reference-architecture-implementation-techniques}
    + [概觀](../global-reference-architecture/overview.md)
    + [分割Git](../global-reference-architecture/split-git.md)
@@ -241,13 +243,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
