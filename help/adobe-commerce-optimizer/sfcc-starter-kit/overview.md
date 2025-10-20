@@ -32,4 +32,4 @@ ht-degree: 0%
 * 瞭解Salesforce Commerce Cloud整合入門套件的用途。
 * 瞭解在何處安裝入門套件
 
->[!VIDEO](https://video.tv.adobe.com/v/3476013)
+>[!VIDEO](https://video.tv.adobe.com/v/3476024?captions=chi_hant)
