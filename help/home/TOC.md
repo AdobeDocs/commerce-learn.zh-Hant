@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: c00df1105c757705faabf51bb31192c2eff64329
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '943'
 ht-degree: 3%
 
 ---
@@ -89,6 +89,9 @@ ht-degree: 3%
    + Salesforce Commerce cloud入門套件 {#sfcc-starter-kit}
       + [概觀](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
       + [架構概述](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+      + [安裝SFCC卡匣](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+      + [應用程式建立工具入門套件](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+      + [端對端示範](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + 全球參考架構 {#global-reference-architecture-implementation-techniques}
    + [概觀](../global-reference-architecture/overview.md)
    + [分割Git](../global-reference-architecture/split-git.md)
@@ -244,13 +247,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
