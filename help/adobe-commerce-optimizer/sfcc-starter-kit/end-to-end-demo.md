@@ -34,4 +34,4 @@ ht-degree: 0%
 * SFC目錄中的產品詳細資料和定價變更，會透過Delta Sync程式在Commerce Optimizer中自動偵測和更新。
 * 即時更新，並展示系統間的順暢資料流程與同步處理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476104?captions=chi_hant&learn=on)

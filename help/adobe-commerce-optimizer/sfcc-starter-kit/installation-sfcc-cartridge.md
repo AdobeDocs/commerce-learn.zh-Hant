@@ -36,4 +36,4 @@ ht-degree: 0%
 * 匯入自訂物件和作業定義以支援追蹤和同步。
 * 測試自訂API端點，以確認安裝成功並準備目錄同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476081?captions=chi_hant&learn=on)
