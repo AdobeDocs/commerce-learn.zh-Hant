@@ -3,19 +3,19 @@ title: HIPAA就緒託管
 description: 瞭解HIPPA就緒託管。 Adobe Commerce中符合HIPAA要求的解決方案可確保醫療保健企業使用安全、合規的電子商務。
 feature: Cloud, Compliance, System
 topic: Commerce, Security
-role: Admin, Architect, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 268
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-14593
-source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
+exl-id: 60314a97-1922-490f-be18-e5e5998075e2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce中可供HIPAA使用的託管
 
@@ -33,11 +33,10 @@ Adobe Commerce提供HIPAA就緒解決方案，旨在協助醫療保健企業遵�
 * 此解決方案包含增強的PHI記錄機制，並提供與內部Adobe產品及外部第三方服務的整合功能。
 * Adobe Commerce提供特殊的準備環境以進行支援和疑難排解，確保敏感資料受到保護，並且環境會密切映象生產環境。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463188/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
 
 ## 其他檔案
 
-* [HIPAA整備 — 資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA整備程度 — 合規性](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [安裝資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce/data-connection/fundamentals/install)
-
+* [HIPAA整備 — 資料連線](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA整備程度 — 合規性](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [安裝資料連線](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

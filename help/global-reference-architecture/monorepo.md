@@ -6,17 +6,18 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
-badge: label="由Adobe高級技術架構師Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰寫"
+badge: label="由Adobe資深技術架構師Tony Evers撰寫" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰寫"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Experienced
-source-git-commit: cc6a79b20ae1864f7a7e9b99f90df7b0aa61ef6e
+exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
 
 ---
-
 
 # Monorepo全球參考架構模式
 
@@ -271,7 +272,7 @@ monorepo中的模組存在於`packages`目錄中。 這樣，Composer就能透�
 
 如有需要，您可以在`packages`目錄中擁有多個名稱空間。
 
-開發會在封裝目錄中進行。 執行`composer update`之後，會在`vendor`目錄中建立指向`packages`目錄內封裝的Symlink。 如此一來，程式碼就會成為Adobe Commerce安裝的一部分。
+開發會在封裝目錄中進行。 執行`packages`之後，會在`vendor`目錄中建立指向`composer update`目錄內封裝的Symlink。 如此一來，程式碼就會成為Adobe Commerce安裝的一部分。
 
 執行`bin/magento module:enable --all`或只針對特定模組啟用新增的模組。
 

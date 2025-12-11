@@ -1,18 +1,19 @@
 ---
 title: 使用GraphQL執行變異
-description: 取得在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個突變。
-landing-page-description: 取得在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個突變。
-short-description: 取得在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個突變。
+description: 取得在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個變異。
+landing-page-description: 取得在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個變異。
+short-description: 取得在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個變異。
 kt: 13938
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 這是GraphQL和Adobe Commerce系列的第3部分。 變動是指使用GraphQL儲存、更新和傳回值的能力。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441937?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 本系列中GraphQL的相關影片和教學課程
 
@@ -115,7 +116,7 @@ mutation doAddToCart(
 關於上述範例的其他注意事項：
 
 * `!`字元尾碼`String`和`CartItemInput`表示變數為必要專案。
-* 為`$cartItems`指定的`CartItemInput`型別周圍的方括弧(`[]`)表示清單
+* 為`[]`指定的`CartItemInput`型別周圍的方括弧(`$cartItems`)表示清單
 而不是單一值。
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

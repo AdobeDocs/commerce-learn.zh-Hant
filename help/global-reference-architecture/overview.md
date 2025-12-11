@@ -6,12 +6,13 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
-badge: label="由Adobe高級技術架構師Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰寫"
+badge: label="由Adobe資深技術架構師Tony Evers撰寫" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰寫"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ ht-degree: 0%
 1. **不同的商店擁有者**：如果您維護多個商店擁有者的程式碼，而每個擁有各自的不同商店，則可能需要個別的執行個體才能有效維護其個別需求。
 2. **遵守國家法規**：某些法規規定客戶資料必須儲存在特定區域。 在這種情況下，必須個別執行個體，以確保符合這些法規。
 3. **跨地理區域的作業差異**：在多個區域作業可能代表不同的維護排程和需求。 使用個別例項可讓您靈活有效地管理這些變化。
-4. **高強度Flash銷售**：進行大規模快閃磁碟銷售的商店通常需要最佳化的伺服器效能。 由個別執行個體提供的專用基礎建設，可確保在這類高需求期間提供最佳效能。
+4. **高強度快閃銷售**：進行大規模快閃銷售的商店通常需要最佳化的伺服器效能。 由個別執行個體提供的專用基礎建設，可確保在這類高需求期間提供最佳效能。
 5. **品牌或國家/地區之間的重大差異**：當品牌或國家/地區之間的差異很大時，使用單一執行個體會產生僅用於某些品牌或國家/地區的程式碼。 個別例項可消除不需要程式碼的品牌和國家/地區不必要的程式碼，進而提升效能和穩定性。
 
 ## 全球參考架構模式

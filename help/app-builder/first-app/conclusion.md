@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -20,11 +21,11 @@ ht-degree: 0%
 
 # 結論 {#conclusion}
 
-現在您已建立第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
+現在您已建立您的第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，已完成其第一個Adobe Developer App Builder應用程式並準備好了解更多。
+* 剛開始使用Adobe Commerce但使用Adobe App Builder經驗有限的開發人員，已完成他們的第一個Adobe Developer App Builder應用程式並準備好了解更多。
 
 ## 視訊內容
 

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -41,12 +42,12 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 剛開始接觸Adobe Commerce的開發人員，使用AdobeApp Builder的經驗有限。
+* 剛開始接觸Adobe Commerce的開發人員，使用Adobe App Builder的經驗有限。
 
 ## 視訊內容
 
 * App Builder和範例模組簡介
-* 必要條件
+* 先決條件
 * 對使用範例模組的期望
 * 範例模組中可重複使用的部分
 

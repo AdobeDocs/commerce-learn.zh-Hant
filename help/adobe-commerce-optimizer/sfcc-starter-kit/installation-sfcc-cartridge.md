@@ -3,13 +3,14 @@ title: 安裝Salesforce Commerce Cloud Cartridge
 description: 瞭解搭配Adobe Commerce Optimizer在Salesforce中使用的墨水匣。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -36,4 +37,4 @@ ht-degree: 0%
 * 匯入自訂物件和作業定義以支援追蹤和同步。
 * 測試自訂API端點，以確認安裝成功並準備目錄同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476081?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

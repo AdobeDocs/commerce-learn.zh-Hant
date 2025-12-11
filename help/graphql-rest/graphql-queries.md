@@ -1,18 +1,19 @@
 ---
 title: 使用GraphQL執行查詢
-description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行查詢。 以下為使用GET和POST呼叫的GraphQL簡介。
-landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行查詢。 以下為使用GET和POST呼叫的GraphQL簡介。
-short-description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行查詢。 以下為使用GET和POST呼叫的GraphQL簡介。
+description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行查詢。 以下介紹如何使用GET和POST呼叫GraphQL。
+landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行查詢。 以下介紹如何使用GET和POST呼叫GraphQL。
+short-description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行查詢。 以下介紹如何使用GET和POST呼叫GraphQL。
 kt: 13937
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 這是GraphQL和Adobe Commerce系列的第2部分。 在本教學課程和影片中，瞭解GraphQL查詢，以及如何針對Adobe Commerce執行這些查詢。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450069?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## 本系列中GraphQL的相關影片和教學課程
 
@@ -128,7 +129,7 @@ GraphQL伺服器對上述查詢的合理回應可能是：
 
 >[!NOTE]
 >
->GraphQL使用者端會模糊化實際傳送之HTTP請求的形式，但很容易發現。 如果您使用瀏覽器型使用者端，請在傳送查詢時觀察[!UICONTROL Network]索引標籤。 您看到要求包含原始內文，其中包含「查詢： `{string}`」，其中`{string}`只是您整個查詢的原始字串。 如果請求是以GET形式傳送，則查詢可能會改以查詢字串引數&quot;query&quot;編碼。 不像REST，HTTP要求型別並不重要，只有關鍵查詢的內容。
+>GraphQL使用者端會模糊化實際傳送之HTTP請求的形式，但很容易發現。 如果您使用瀏覽器型使用者端，請在傳送查詢時觀察[!UICONTROL Network]索引標籤。 您看到要求包含原始內文，其中包含「查詢： `{string}`」，其中`{string}`只是您整個查詢的原始字串。 如果請求是以GET傳送，則查詢可能會改以查詢字串引數&quot;query&quot;編碼。 不像REST，HTTP要求型別並不重要，只有關鍵查詢的內容。
 
 
 ## 查詢您想要的
@@ -146,7 +147,7 @@ GraphQL伺服器對上述查詢的合理回應可能是：
 
 雖然您要傳回的欄位是在每個型別的大括弧內指定，但已命名的引數和它們的值是在型別名稱后的括弧內指定。 引數通常是選用的，通常會影響查詢結果的篩選、格式化或以其他方式轉換的方式。
 
-您正在將`id`引數傳給`country`，指定要查詢的特定國家/地區，以及`categories`的`filters`引數。
+您正在將`id`引數傳給`country`，指定要查詢的特定國家/地區，以及`filters`的`categories`引數。
 
 ## 欄位一直向下對齊
 
@@ -154,7 +155,7 @@ GraphQL伺服器對上述查詢的合理回應可能是：
 
 任何GraphQL資料圖表都有單一「根」型別（通常稱為`Query`）來啟動樹狀結構，且通常會視為實體的型別會指派給此根目錄上的欄位。 範例查詢實際上正在對根型別進行一個泛型查詢，並選取欄位`country`和`categories`。 接著，它會選取這些欄位的子欄位，依此類推，可能深入數個層級。 只要欄位的傳回型別是複雜型別（例如，具有自己欄位的型別，而不是純量型別），請繼續選取您想要的欄位。
 
-這個巢狀欄位概念也是您以同樣方式傳遞最上層`categories`欄位的`products` （`pageSize`和`currentPage`）引數的原因。
+這個巢狀欄位概念也是您以同樣方式傳遞最上層`products`欄位的`pageSize` （`currentPage`和`categories`）引數的原因。
 
 ![GraphQL欄位樹狀結構](../assets/graphql-field-tree.png)
 
@@ -188,7 +189,7 @@ fragment productDetails on ProductInterface {
 
 在上一個查詢中，您可以直接將欄位引數的值硬式編碼，格式為字串或整數。 然而，GraphQL規格具有第一級支援，可透過變數將使用者輸入與主要查詢分開。
 
-在新查詢中，您在整個查詢的開頭大括弧前使用括弧，以定義`$search`變數（變數一律使用美元符號首碼語法）。 這是提供給`products`之`search`引數的變數。
+在新查詢中，您在整個查詢的開頭大括弧前使用括弧，以定義`$search`變數（變數一律使用美元符號首碼語法）。 這是提供給`search`之`products`引數的變數。
 
 當查詢包含變數時，GraphQL要求應隨查詢本身包含個別的JSON編碼值字典。 對於上述查詢，除了查詢本文之外，您還可以傳送下列變數值JSON：
 

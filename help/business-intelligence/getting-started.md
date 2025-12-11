@@ -4,7 +4,8 @@ description: 瞭解Adobe Commerce Intelligence、命名慣例、資料整合、�
 feature: Cloud
 topic: Commerce, Administration
 solution: Commerce,Commerce Intelligence
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 398
@@ -12,7 +13,7 @@ last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15141
 kt: 15141
 exl-id: 26bc788c-0fc8-405b-a99e-0d202ac18ab8
-source-git-commit: 2d6e9bd0362df4a0babff54abb1acb7c47926286
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

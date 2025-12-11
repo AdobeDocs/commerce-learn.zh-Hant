@@ -1,16 +1,17 @@
 ---
 title: 適用於開發人員的PWA Studio — 啟動和載入
-description: 瞭解PWA啟動前的必要步驟​、載入時間的基準，以​及效能如何改善轉換。
+description: 瞭解啟動PWA之前的必要步驟​、載入時間的基準，以​及效能如何改善轉換。
 kt: 5646
 doc-type: video
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: d1744a5c-7e56-48d3-971e-5abf21196cfa
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

@@ -3,19 +3,20 @@ title: 評估團隊和專案
 description: 針對Adobe Commerce評估您的團隊和專案，著重角色、技術優勢、前端和後端考量因素，以便成功移轉。
 feature: Backend Development, Saas, Storefront, Tools and External Services
 topic: Architecture, Collaboration, Development, Migration, Upgrade
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 270
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
-source-git-commit: da9c7062f0b9ef1f26b07b9bd02abc306d06fbb6
+exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # 移轉至Adobe Commerce — 評估團隊和專案
 
@@ -35,8 +36,8 @@ ht-degree: 0%
 * 瞭解一些前端和後端考量事項。
 * 透過評估現有模組、升級核心應用程式並與其他Adobe解決方案整合，規劃順暢的移轉。
  
->[!VIDEO](https://video.tv.adobe.com/v/3447457/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
 
 ## 相關檔案
 
-[什麼是Adobe Commerce](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/about)
+[什麼是Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

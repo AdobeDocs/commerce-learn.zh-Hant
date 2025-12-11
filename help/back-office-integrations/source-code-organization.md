@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -37,7 +38,7 @@ ht-degree: 0%
 * 瞭解`actions`資料夾以及它如何包含重要的子資料夾，例如`ingestion`和`webhook`。
 * 探索`actions`資料夾以及為何實體有特定資料夾，例如`customer`、`order`、`product`和`stock`，每個資料夾都包含結構化為`commerce`和`external`資料夾的執行階段動作，以便有效地管理Commerce和協力廠商系統的事件。&#x200B;URL
 * 瞭解不要變更`starter-kit-info`資料夾中的程式碼的重要性，此資料夾包含Adobe用來根據入門套件追蹤專案部署的執行階段動作。&#x200B;URL
-* 瞭解包含自動化指令碼（例如`commerce-event-subscribe`和`onboarding`）的`scripts`資料夾，這些指令碼會在Commerce中自動執行事件設定、提供者設定和Adobe I/O Events模組的設定。&#x200B;URL
+* 瞭解包含自動化指令碼（例如`scripts`和`commerce-event-subscribe`）的`onboarding`資料夾，這些指令碼會在Commerce中自動執行事件設定、提供者設定和Adobe I/O Events模組的設定。&#x200B;URL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 

@@ -3,14 +3,15 @@ title: 處理中PHP編碼標準
 description: 概述Adobe Commerce移轉的程式內編碼標準，涵蓋PHP、JavaScript和自訂的最佳實務。
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: b3068480fe1e3008daebff40d95388b161b9721e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -29,6 +30,6 @@ ht-degree: 0%
 ## 視訊內容 {#video-content}
 
 * 瞭解PHP、JavaScript和自訂的最佳實務，以確保順利移轉。
-* 從Adobe專家獲得成功Adobe Commerce專案的準備、效能和安全性見解。
+* 獲得Adobe專家對於成功Adobe Commerce專案的準備、效能和安全的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434868?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

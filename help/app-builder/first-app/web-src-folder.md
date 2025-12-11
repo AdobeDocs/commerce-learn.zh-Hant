@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，他們正瞭解`web-src`資料夾及其內容。
+* 剛開始使用Adobe Commerce但使用Adobe App Builder經驗有限的開發人員，他們正瞭解`web-src`資料夾及其內容。
 
 ## 視訊內容
 

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
-source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 瞭解如何實作全球參考架構或GRA （簡稱）。 瞭解有助於設定成功GRA的早期決策。 取得如何區隔網站的想法、成功的關鍵，以及以有條理方式開發功能的一些概念。
 
-## 對象
+## 客群
 
 * 需要瞭解此概念的人。
 * 具有多個品牌的大型專案
@@ -38,6 +39,6 @@ ht-degree: 0%
 * 全域控制板 — 使用哪些功能
 * 使用GRA作為模組市場的替代概念
 
->[!VIDEO](https://video.tv.adobe.com/v/3457219?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

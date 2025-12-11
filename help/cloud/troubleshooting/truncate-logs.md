@@ -3,13 +3,15 @@ title: 截斷記錄
 description: 瞭解如何截斷大型記錄檔，以因硬碟已滿而分類失敗的部署。
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ ht-degree: 0%
 - 找到一些常見的大型記錄檔
 - 截斷記錄檔的快速方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3454594?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## 視訊中使用的命令
@@ -89,4 +91,4 @@ ssh連線至正確的專案和環境後，請變更至`var/log`目錄。 然後�
 
 ## 相關檔案
 
-- [健康狀態通知](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [健康狀態通知](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

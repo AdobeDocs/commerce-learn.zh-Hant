@@ -1,25 +1,26 @@
 ---
-title: 診斷並修正幾個常見的Commerce Cloud錯誤
-description: 解決兩個阻止網站載入的常見Adobe Cloud專案錯誤。
+title: 診斷並修正一些常見的Commerce Cloud錯誤
+description: 解決導致網站無法載入的兩個常見Adobe Cloud專案錯誤。
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
-source-git-commit: 27c1715dd42853013181d9c729549a5a32bc2af0
+exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # 無法診斷和修正服務，且發生錯誤
 
-瞭解如何分類及解決Adobe Commerce Cloud專案中看到的兩個常見錯誤。  瞭解這些錯誤發生的方式和原因，以及解決這些錯誤的建議步驟。
+瞭解如何分類及解決在Adobe Commerce Cloud專案中看到的兩個常見錯誤。  瞭解這些錯誤發生的方式和原因，以及解決這些錯誤的建議步驟。
 
 ## 此影片給誰看
 
@@ -32,7 +33,7 @@ ht-degree: 0%
 - 管理維護模式
 - 有效的疑難排解提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3447704?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## 視訊中使用的命令

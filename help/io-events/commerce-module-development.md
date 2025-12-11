@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Commerce模組開發
 
-瞭解如何註冊事件、尋找支援的事件，以及如何在自訂模組開發中使用新的XML檔案`io_events.xml`。 影片也會向開發人員展示如何尋找可以使用的已註冊事件，以及取消訂閱任何可能已定義的事件。 在[安裝Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}找到其他檔案。
+瞭解如何註冊事件、尋找支援的事件，以及如何在自訂模組開發中使用新的XML檔案`io_events.xml`。 影片也會向開發人員展示如何尋找可以使用的已註冊事件，以及取消訂閱任何可能已定義的事件。 在[安裝適用於Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}找到其他檔案。
 
 ## 這部影片是給誰看的？
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 瞭解如何在Commerce執行個體`app/etc/config.php`中註冊事件
 * 瞭解如何取消訂閱事件
 
->[!VIDEO](https://video.tv.adobe.com/v/3430651?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

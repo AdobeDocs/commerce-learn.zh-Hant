@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Galera叢集可提供效能與擴充能力。 在考慮次要資料庫時，請�
 - 大量執行只會發生在主要播放器。 一次複製1次
 - 批次處理大型認可，以幫助復寫跟上主要的
 
->[!VIDEO](https://video.tv.adobe.com/v/3423538?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## 有用的資源
 
