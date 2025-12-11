@@ -33,4 +33,4 @@ ht-degree: 0%
 - 識別在過程中何時建立新憑證。
 - 驗證新憑證是否如預期般運作。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439770?captions=chi_hant&learn=on)

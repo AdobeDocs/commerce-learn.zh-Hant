@@ -36,7 +36,7 @@ ht-degree: 0%
 * 從JSON設定檔案建立網格
 * 存取新建立的GraphQL端點
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430824?captions=chi_hant&quality=12&learn=on)
 
 ## 建立json設定檔案
 

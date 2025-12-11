@@ -35,7 +35,7 @@ ht-degree: 0%
 * 在Commerce管理員中儲存唯一識別碼
 * 建立事件提供者
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430615?captions=chi_hant&quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

@@ -25,7 +25,7 @@ ht-degree: 0%
 這是GraphQL和Adobe Commerce系列的第3部分。 變動是指使用GraphQL儲存、更新和傳回值的能力。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441937?captions=chi_hant&learn=on)
 
 ## 本系列中GraphQL的相關影片和教學課程
 

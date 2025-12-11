@@ -39,7 +39,7 @@ ht-degree: 0%
 
 這些修補程式是由Adobe開發人員Magento Open Source社群所開發，可增強穩定性和效能。 請記住，不建議套用大量修補程式，因為這會使未來的升級複雜化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454082?captions=chi_hant&learn=on)
 
 ## 為何使用品質修補工具
 

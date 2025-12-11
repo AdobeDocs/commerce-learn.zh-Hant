@@ -38,4 +38,4 @@ ht-degree: 0%
 * 設定I/O事件
 * 連線至協力廠商以同步資料
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452025?captions=chi_hant&learn=on)

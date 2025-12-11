@@ -35,4 +35,4 @@ ht-degree: 0%
 * 瞭解警示通知、原則和工作流程
 * 儲存目的地並驗證新電子郵件已新增至原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441218?captions=chi_hant&learn=on)

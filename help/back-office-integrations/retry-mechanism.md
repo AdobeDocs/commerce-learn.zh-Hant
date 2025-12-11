@@ -39,7 +39,7 @@ ht-degree: 0%
 * 開發人員控制檯中的視覺指示器，例如失敗事件的警告圖示和重試事件的圓形箭頭圖示。
 * 「取用者」執行階段動作在決定事件處理的適當HTTP回應狀態程式碼時，扮演了重要的角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449084?captions=chi_hant&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

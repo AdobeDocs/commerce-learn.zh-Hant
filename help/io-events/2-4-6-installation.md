@@ -35,7 +35,7 @@ ht-degree: 0%
 * 針對Adobe Commerce Cloud執行的命令
 * Adobe Commerce Cloud Yaml必要的編輯
 
->[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430639?captions=chi_hant&quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

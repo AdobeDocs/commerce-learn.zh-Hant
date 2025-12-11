@@ -34,4 +34,4 @@ ht-degree: 0%
 * 透過目錄創新加速全球擴張
 * 透過對話式Commerce提升店面體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475706/?captions=chi_hant&learn=on&enablevpops)

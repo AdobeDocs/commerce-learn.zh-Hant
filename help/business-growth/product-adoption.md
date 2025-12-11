@@ -36,4 +36,4 @@ Adobe Commerce分階段協助企業移至Adobe Commerce as a Cloud Service和Ado
 * App Builder的擴充功能可將自訂邏輯分離為無伺服器函式，以方便維護。
 * 店面增強功能利用插入式元件和邊緣交付來改善效能和內容建立。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475759/?captions=chi_hant&learn=on&enablevpops)

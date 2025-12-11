@@ -34,7 +34,7 @@ ht-degree: 0%
 * 使用Adobe Developer Console
 * 使用Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430630?captions=chi_hant&quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

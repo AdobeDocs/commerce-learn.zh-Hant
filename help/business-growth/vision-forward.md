@@ -36,4 +36,4 @@ Adobe Commerce的2026年藍圖概述了一項全面策略，透過即時資料�
 * 商戶中心與管理員體驗
 * 開發人員體驗與可觀察性改善
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475717/?captions=chi_hant&learn=on&enablevpops)

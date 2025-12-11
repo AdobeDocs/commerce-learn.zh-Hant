@@ -25,7 +25,7 @@ ht-degree: 0%
 
 若您為GraphQL的新手，本節將引導您瞭解基本概念及使用方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443953?captions=chi_hant&learn=on)
 
 ## 本系列中GraphQL的相關影片和教學課程
 
