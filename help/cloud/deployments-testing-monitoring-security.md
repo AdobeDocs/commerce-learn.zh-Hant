@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 影片中提到的Experience League檔案
 
-- [部署程式](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [SWAT全網站分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [ECE工具智慧精靈](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [安全性掃描](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Fastly WAF Web應用程式防火牆](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [New Relic服務總覽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [部署程式](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=zh-Hant)
+- [SWAT全網站分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=zh-Hant)
+- [ECE工具智慧精靈](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=zh-Hant)
+- [安全性掃描](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=zh-Hant)
+- [Fastly WAF Web應用程式防火牆](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=zh-Hant)
+- [New Relic服務總覽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=zh-Hant)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

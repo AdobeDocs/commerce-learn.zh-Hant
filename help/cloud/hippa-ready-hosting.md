@@ -37,6 +37,6 @@ Adobe Commerce提供HIPAA就緒解決方案，旨在協助醫療保健企業遵�
 
 ## 其他檔案
 
-* [HIPAA整備 — 資料連線](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA整備程度 — 合規性](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [安裝資料連線](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
+* [HIPAA整備 — 資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA整備程度 — 合規性](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [安裝資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce/data-connection/fundamentals/install)
