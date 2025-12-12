@@ -35,4 +35,4 @@ ht-degree: 0%
 * 協調手動和自動化測試、負載測試和滲透測試，以確保網站各方面的功能如預期般運作。
 * 讓業務利害關係人、開發人員和IT團隊參與驗證程式，以確保順利和成功啟動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445503/?captions=chi_hant&learn=on)
