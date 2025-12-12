@@ -37,12 +37,12 @@ feature: Configuration, System, Catalogs, Shopping Cart
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 
 ## 其他資源
 
-[禮卡產品 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
-[禮卡購買與兌換 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
+[禮卡產品 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=zh-Hant)
+[禮卡購買與兌換 —  [!DNL Commerce] 商店與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html?lang=zh-Hant)
 

@@ -36,10 +36,10 @@ feature: Configuration, System, Catalogs
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 
 ## 其他資源
 
-[產品屬性概觀 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[產品屬性概觀 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=zh-Hant)

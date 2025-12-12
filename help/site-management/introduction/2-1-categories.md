@@ -37,4 +37,4 @@ feature: Configuration, System, Catalogs, Site Navigation
 
 ## 其他資源
 
-[類別 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[類別 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html?lang=zh-Hant)
