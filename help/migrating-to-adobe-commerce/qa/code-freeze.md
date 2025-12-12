@@ -3,19 +3,19 @@ title: 程式碼凍結
 description: 瞭解在Adobe Commerce移轉期間實作程式碼凍結的重要性。 遵循QA、測試和驗證的最佳實務，確保穩定性、可信度和成功啟動。
 feature: Best Practices
 topic: Commerce, Development
-role: Architect
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
-source-git-commit: 00b97157e20778d1eeaa30236b9d340cccaf3a38
+exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # 移轉至Adobe Commerce — 程式碼凍結
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 * 協調手動和自動化測試、負載測試和滲透測試，以確保網站各方面的功能如預期般運作。
 * 讓業務利害關係人、開發人員和IT團隊參與驗證程式，以確保順利和成功啟動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445503/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
