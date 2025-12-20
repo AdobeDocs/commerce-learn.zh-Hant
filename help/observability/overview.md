@@ -33,7 +33,7 @@ ht-degree: 0%
 * 集中可觀察性是關鍵：關聯所有元件的記錄檔和量度。
 * 提升結帳效能：快速找出瓶頸，確保購物順暢。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478299?captions=chi_hant&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

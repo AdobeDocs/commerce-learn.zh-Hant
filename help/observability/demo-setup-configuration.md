@@ -33,7 +33,7 @@ ht-degree: 0%
 * 針對自動化訊號使用Commerce可觀察性模組
 * 使用應用程式的IO Live Telemetry Library延伸監視
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478345?captions=chi_hant&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

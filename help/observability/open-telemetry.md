@@ -33,7 +33,7 @@ ht-degree: 0%
 * 相互關聯記錄、追蹤和量度，以加快根本原因分析
 * 維護現有的監控工具，同時統一資料串流
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478334?captions=chi_hant&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
