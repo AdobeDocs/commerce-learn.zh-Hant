@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
+source-git-commit: b515a9044cb6610fb7096ef50c0a398bcf71bc44
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '993'
 ht-degree: 3%
 
 ---
@@ -162,7 +162,6 @@ ht-degree: 3%
    + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
    + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
    + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [App Builder的功能示範](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder技術概覽](../app-builder/app-builder-technical-overview.md)
    + 建立您的第一個App Builder應用程式 {#first-app}
       + [概觀](../app-builder/first-app/overview.md)
@@ -267,13 +266,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
