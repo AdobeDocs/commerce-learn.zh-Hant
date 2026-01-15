@@ -9,14 +9,15 @@ feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
-source-git-commit: a747277312b158feea30e241e6f9d9af8058af65
+exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
+source-git-commit: 3336d73e601f55c8be76616c52f087b0a067913e
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce as a Service架構
+# Adobe Commerce as a Cloud Service架構
 
 Adobe Commerce as a cloud service提供安全、自動化的託管平台，以及管理商務應用程式的自助服務功能。 主要功能包括透過Adobe Experience Manager進行資產管理、透過GraphQL和REST API提供全面的API涵蓋範圍，以及智慧型銷售服務。 此平台支援完整的Headless架構，可讓開發人員使用各種前端架構，例如React和Angular。 它還提供現代Headless店面，包含檔案式撰寫和原生A/B測試。 此外，Adobe Commerce與Adobe Experience Cloud整合，提供個人化的商務體驗，並為開發人員提供廣泛的工具，包括Adobe Developer App Builder和API網格。
 
@@ -38,4 +39,4 @@ Adobe Commerce as a cloud service提供安全、自動化的託管平台，以�
 * 全面的API涵蓋範圍：此平台支援廣泛的API涵蓋範圍(使用GraphQL和REST API)，實現與協力廠商系統的緊密整合。
 * Headless架構：完全分離式架構可讓開發人員使用各種前端架構，提供彈性和效能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443278?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
