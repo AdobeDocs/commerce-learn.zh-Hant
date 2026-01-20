@@ -38,7 +38,7 @@ ht-degree: 0%
 - 進階整合與自訂。
 - 增強的購物體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434075?captions=chi_hant&learn=on)
 
 ## 即時搜尋
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 - 可自訂的搜尋體驗：進階搜尋規則、同義字和Facet等功能，可為客戶提供量身打造和最佳化的搜尋體驗。
 - B2B整合： Live Search支援具有共用目錄和特定定價的B2B模型，加強其多功能性，以因應各種業務需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434053?captions=chi_hant&learn=on)
 
 ## 促銷活動  
 
@@ -62,5 +62,5 @@ Adobe Commerce可讓商店管理員輕鬆地建立和管理產品套件和促銷
 - 進階促銷策略。
 - 與協力廠商系統緊密整合，提升彈性和自動化程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434064?captions=chi_hant&learn=on)
 >
