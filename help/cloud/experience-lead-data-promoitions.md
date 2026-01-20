@@ -1,5 +1,5 @@
 ---
-title: 體驗導向的終極平台，提供卓越的業務成果
+title: Ultimate Experience導向的平台，提供卓越的業務成果
 description: 探索Adobe Commerce的進階搜尋和目錄管理（由AI提供技術支援），為B2B和B2C客戶最佳化電子商務體驗。
 feature: B2B, Catalog Management, Promotions/Events, Search
 topic: Administration, Architecture, Commerce
@@ -9,17 +9,17 @@ doc-type: Technical Video
 duration: 1227
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
-source-git-commit: 0f8faa05e44b49ade6d09291106ea331afccff18
+exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
+source-git-commit: f7019a524a6978908fdd50d93eb0fbe0b5f032a4
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
 
-
 # 體驗銷售機會資料和促銷活動  
 
-瞭解Adobe Commerce的進階搜尋功能(由Adobe Sensei提供技術支援)及其強大的目錄管理功能。 瞭解AI驅動搜尋最佳化、多面向和銷售工具增強使用者體驗的部分重點內容。&#x200B;URL 此外，您還可以瞭解產品捆綁、促銷活動管理，以及與第三方系統的無縫整合，針對B2B和B2C電子商務需求提供全面的解決方案。
+瞭解Adobe Commerce由Adobe AI支援的進階搜尋功能，及其強大的目錄管理功能。 瞭解AI驅動搜尋最佳化、多面向和銷售工具增強使用者體驗的部分重點內容。&#x200B;URL 此外，您還可以瞭解產品捆綁、促銷活動管理，以及與第三方系統的無縫整合，針對B2B和B2C電子商務需求提供全面的解決方案。
 
 ## 這些影片是給誰看的？
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 - 進階整合與自訂。
 - 增強的購物體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434075?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## 即時搜尋
 
-探索Adobe Commerce的進階搜尋功能(由Adobe Sensei的AI驅動即時搜尋提供技術支援)。&#x200B;URL 這個強大的SaaS解決方案可快速有效率地提供高度相關的搜尋結果，進而改善電子商務體驗。&#x200B;URL 銷售人員和行銷人員可使用進階搜尋規則、同義字和Facet等工具，最佳化網站搜尋結果。 即時搜尋提供即時建議、智慧型排名和可自訂的搜尋體驗，確保客戶找到他們需要的內容。&#x200B;URL 它還支援具有共用目錄和特定定價的B2B模型，使其成為滿足所有業務需求的通用解決方案。
+探索由Adobe AI提供技術支援的Adobe Commerce Live Search進階搜尋功能&#x200B;。 這個強大的SaaS解決方案可快速有效率地提供高度相關的搜尋結果，進而改善電子商務體驗。&#x200B;URL 銷售人員和行銷人員可使用進階搜尋規則、同義字和Facet等工具，最佳化網站搜尋結果。 即時搜尋提供即時建議、智慧型排名和可自訂的搜尋體驗，確保客戶找到他們需要的內容。&#x200B;URL 它還支援具有共用目錄和特定定價的B2B模型，使其成為滿足所有業務需求的通用解決方案。
 
 ## 即時搜尋視訊內容
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 - 可自訂的搜尋體驗：進階搜尋規則、同義字和Facet等功能，可為客戶提供量身打造和最佳化的搜尋體驗。
 - B2B整合： Live Search支援具有共用目錄和特定定價的B2B模型，加強其多功能性，以因應各種業務需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434053?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## 促銷活動  
 
@@ -62,5 +62,5 @@ Adobe Commerce可讓商店管理員輕鬆地建立和管理產品套件和促銷
 - 進階促銷策略。
 - 與協力廠商系統緊密整合，提升彈性和自動化程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434064?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >
