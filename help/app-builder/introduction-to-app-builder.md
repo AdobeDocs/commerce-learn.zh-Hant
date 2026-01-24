@@ -90,6 +90,6 @@ App Builder為開發人員提供影片和檔案，包括指南和參考檔案，
 
 ## 支援 {#support}
 
-若是開發人員支援要求，請使用[Experience League論壇](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"}尋求協助。
+若是開發人員支援要求，請使用[Experience League論壇](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=zh-Hant){target="_blank"}尋求協助。
 
 {{$include /help/_includes/app-builder-related-links.md}}
