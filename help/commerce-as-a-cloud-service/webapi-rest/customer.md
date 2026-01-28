@@ -32,7 +32,7 @@ ht-degree: 0%
 * 對Commerce as a Cloud Service使用正確的REST API端點格式
 * 以程式設計方式使用POST和PUT請求，搭配適當的JSON負載，建立並更新客戶帳戶
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479373/?captions=chi_hant&learn=on&enablevpops)
 
 ## 程式碼範例
 
