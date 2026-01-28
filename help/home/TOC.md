@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: ba2331d38d7595ade9a1d1314c105ae4101147b7
+source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '990'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,8 @@ ht-degree: 3%
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [概觀](../commerce-as-a-cloud-service/overview.md)
       + [架構](../commerce-as-a-cloud-service/architecture.md)
+      + Webapi-rest{#webapi-rest}
+         + [客戶](../commerce-as-a-cloud-service/webapi-rest/customer.md)
       + 產品概述{#product-overview}
          + [介紹](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [安裝體驗](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
@@ -265,13 +267,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
