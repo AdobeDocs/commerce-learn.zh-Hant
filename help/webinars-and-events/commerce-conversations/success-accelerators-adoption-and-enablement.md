@@ -34,4 +34,4 @@ Adobe Commerce成功加速計畫採用和啟用包含三個關鍵服務：使用
 * 多工作階段桌邊輔導，以縮小技能差距，並符合策略優先順序。
 * 建立存取權、許可權和設計控管，以確保適當的產品採用和最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463089/?captions=chi_hant&learn=on&enablevpops)
