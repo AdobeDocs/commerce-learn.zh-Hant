@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
+source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '945'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,6 @@ ht-degree: 3%
       + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
       + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
       + [重試機制](../back-office-integrations/retry-mechanism.md)
-+ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-   + [概觀](../adobe-commerce-optimizer/overview.md)
-   + [建立您的第一個Adobe Commerce Optimizer執行個體](../adobe-commerce-optimizer/create-first-instance.md)
-   + [管理Adobe Commerce Optimizer執行個體](../adobe-commerce-optimizer/managing-instances.md)
-   + [擷取範例資料](../adobe-commerce-optimizer/ingest-sample-data.md)
-   + [使用GraphQL的第一個查詢](../adobe-commerce-optimizer/first-query.md)
-   + Salesforce Commerce cloud入門套件 {#sfcc-starter-kit}
-      + [概觀](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
-      + [架構概述](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
-      + [安裝SFCC卡匣](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
-      + [應用程式建立工具入門套件](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
-      + [端對端示範](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + 可觀察性 {#observability}
    + [可觀察性概觀](../observability/overview.md)
    + [開啟遙測](../observability/open-telemetry.md)
@@ -267,13 +255,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
