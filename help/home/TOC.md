@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
+source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -120,29 +120,7 @@ ht-degree: 3%
       + [自訂簽出](../edge-delivery-services/customize-checkout.md)
       + [自訂地址配置](../edge-delivery-services/customize-address-new-account-link.md)
       + [購物者體驗](../edge-delivery-services/shopper-experience.md)
-+ 網路研討會與活動 {#webinars-and-events}
-   + 業務成長 {#business-growth}
-      + [AI創新](../business-growth/ai-innovation.md)
-      + [展望未來](../business-growth/vision-forward.md)
-      + [產品採用](../business-growth/product-adoption.md)
-   + Commerce的未來 {#future-of-commerce}
-      + [新產品公告](../future-of-commerce/new-product-announcements.md)
-      + [大幅降低成本](../future-of-commerce/drastically-cut-costs.md)
-      + [超級充電轉換率](../future-of-commerce/supercharge-conversion-rates.md)
-      + [快速通道擴充](../future-of-commerce/fast-track-expansion.md)
-   + 啟用系列 {#enablement-series}
-      + [降低Commerce整合的目錄](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
-      + [規劃現代Adobe Commerce實作](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
-      + [啟動、啟動後、監控和疑難排解](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services與Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-   + Commerce交談 {#commerce-conversations}
-      + [什麼是專家級成功](../commerce-conversations/what-is-expert-success.md)
-      + [Commerce支援附加元件](../commerce-conversations/commerce-support-add-ons.md)
-      + [什麼是最終成功](../commerce-conversations/what-is-ultimate-success.md)
-      + [Success Accelerator技術整備](../commerce-conversations/success-accelerators-technical-readiness.md)
-      + [採用及啟用成功加速器](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
-      + [成功加速器組織整備](../commerce-conversations/success-accelerators-organizational-readiness.md)
-      + [共擔責任](../commerce-conversations/shared-responsibility.md)
+
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
    + [查詢](../graphql-rest/graphql-queries.md)
@@ -255,13 +233,13 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 + Commerce升級 {#upgrade}
    + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
    + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
 + 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [建立模組](../backend-development/create-module.md)
    + [新增產品屬性](../backend-development/add-product-attribute.md)
    + [相依性插入範例](../backend-development/dependency-injection.md)
