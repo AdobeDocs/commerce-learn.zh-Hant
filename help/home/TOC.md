@@ -267,7 +267,7 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + 未來的[準備](../business-intelligence/prepare-for-future.md)
+   + [未來的準備](../business-intelligence/prepare-for-future.md)
 
 
 
