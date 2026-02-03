@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
+source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '866'
 ht-degree: 3%
 
 ---
@@ -96,6 +96,89 @@ ht-degree: 3%
       + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
       + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
       + [重試機制](../back-office-integrations/retry-mechanism.md)
+
++ 擴充性 {#extensibility}
+   + 後端開發 {#backend-development}
+      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [建立模組](../backend-development/create-module.md)
+      + [新增產品屬性](../backend-development/add-product-attribute.md)
+      + [相依性插入範例](../backend-development/dependency-injection.md)
+      + [Galera叢集緩慢復寫](../backend-development/galera-db-slow-replication.md)
+      + [MySQL查詢快取](../backend-development/mysql-query-cache.md)
+      + [PT查詢摘要](../backend-development/pt-query-digest.md)
+      + [連線和下載Adobe Commerce資料庫](../backend-development/remote-db-connection-execute-queries.md)
+      + Commerce升級 {#upgrade}
+         + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
+         + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
+         + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
+   + 前端Luma開發 {#frontend-development}
+      + 適用於開發人員的PaaS/SaaS頁面產生器 {#page-builder}
+         + [1 — 簡介](../frontend-development/page-builder/1-intro-case-studies.md)
+         + [2 — 設定和內容](../frontend-development/page-builder/2-config-create-content.md)
+         + [3 — 主題](../frontend-development/page-builder/3-themes.md)
+         + [4 — 範本和樣式](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
+         + [5 — 自訂主題](../frontend-development/page-builder/5-customize-theme.md)
+         + [6 — 自訂內容型別](../frontend-development/page-builder/6-custom-content-types.md)
+      + [新增JavaScript模組](../frontend-development/add-javascript-module.md)
+      + [建立頁面](../frontend-development/create-page.md)
+      + Edge Delivery Services {#edge-delivery-services}
+         + 快速入門 {#getting-started}
+            + [變更異動流程](../edge-delivery-services/transactional-flow.md)
+            + [對購物車專案使用產品屬性](../edge-delivery-services/product-attributes-cart-items.md)
+            + [更新結帳中的訂單摘要](../edge-delivery-services/update-order-summary.md)
+            + [正在新增BOPI以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
+            + [自訂簽出](../edge-delivery-services/customize-checkout.md)
+            + [自訂地址配置](../edge-delivery-services/customize-address-new-account-link.md)
+            + [購物者體驗](../edge-delivery-services/shopper-experience.md)
+      + Headless架構 {#headless-architecture}
+         + Headless簡介 {#introduction-to-headless}
+            + [Headless架構 — 工作階段1](../headless/session-1.md)
+         + PWA Studio簡介 {#introduction}
+            + [1 — 概觀](../pwa/introduction/1-overview.md)
+            + [2 - PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
+            + [3 — 啟動](../pwa/introduction/3-launch.md)
+            + [4 — 向上](../pwa/introduction/4-upward.md)
+            + [5 — 快速入門](../pwa/introduction/5-getting-started.md)
+            + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
+         + [PWA Docker開發](../pwa/pwa-docker-development.md)
+         + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
+   + GraphQL和REST {#graphql-rest}
+      + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
+      + [查詢](../graphql-rest/graphql-queries.md)
+      + [突變](../graphql-rest/graphql-mutations.md)
+      + [結構描述](../graphql-rest/graphql-schema.md)
+   + Adobe Developer App Builder {#adobe-developer-app-builder}
+      + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
+      + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
+      + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
+      + 建立您的第一個App Builder應用程式 {#first-app}
+         + [概觀](../app-builder/first-app/overview.md)
+         + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
+         + [app.config.yaml檔案的描述和使用方式](../app-builder/first-app/app-config-yaml-file.md)
+         + [瞭解動作資料夾](../app-builder/first-app/actions-folder.md)
+         + [瞭解測試資料夾](../app-builder/first-app/test-folder.md)
+         + [探索web-src資料夾的用途](../app-builder/first-app/web-src-folder.md)
+         + [在本機測試](../app-builder/first-app/testing-locally.md)
+         + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
+         + [結論](../app-builder/first-app/conclusion.md)
+         + [範例模組原始程式碼](https://github.com/magento/app-builder-samples){target="_blank"}
+      + Adobe Commerce的IO事件 {#io-events}
+         + [IO事件快速入門](../io-events/getting-started-io-events.md)
+         + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
+         + [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
+         + [建立App Builder專案](../io-events/create-app-builder-project.md)
+         + [設定Adobe Commerce](../io-events/configure-commerce.md)
+         + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
+         + [Adobe Commerce條件事件](../io-events/conditional-events.md)
+   + API網格 {#api-mesh}
+      + [使用GitHub程式碼空間的API Mesh入門套件](../api-mesh/starter-kit-github-codespaces.md)
+      + [API Mesh入門套件工作流程](../api-mesh/starter-kit-workflows.md)
+      + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
+      + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
+      + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
+      + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
+      + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
+
 + 可觀察性 {#observability}
    + [可觀察性概觀](../observability/overview.md)
    + [開啟遙測](../observability/open-telemetry.md)
@@ -111,52 +194,7 @@ ht-degree: 3%
    + [建立支援票證](../help-and-support/create-a-support-ticket.md)
    + [搜尋、追蹤、評論及提升支援票證](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [新增和移除監看員，關閉及重新開啟票證](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge Delivery Services {#edge-delivery-services}
-   + 快速入門 {#getting-started}
-      + [變更異動流程](../edge-delivery-services/transactional-flow.md)
-      + [對購物車專案使用產品屬性](../edge-delivery-services/product-attributes-cart-items.md)
-      + [更新結帳中的訂單摘要](../edge-delivery-services/update-order-summary.md)
-      + [正在新增BOPI以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
-      + [自訂簽出](../edge-delivery-services/customize-checkout.md)
-      + [自訂地址配置](../edge-delivery-services/customize-address-new-account-link.md)
-      + [購物者體驗](../edge-delivery-services/shopper-experience.md)
 
-+ GraphQL和REST {#graphql-rest}
-   + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
-   + [查詢](../graphql-rest/graphql-queries.md)
-   + [突變](../graphql-rest/graphql-mutations.md)
-   + [結構描述](../graphql-rest/graphql-schema.md)
-+ Adobe Developer App Builder {#adobe-developer-app-builder}
-   + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
-   + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
-   + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
-   + 建立您的第一個App Builder應用程式 {#first-app}
-      + [概觀](../app-builder/first-app/overview.md)
-      + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
-      + [app.config.yaml檔案的描述和使用方式](../app-builder/first-app/app-config-yaml-file.md)
-      + [瞭解動作資料夾](../app-builder/first-app/actions-folder.md)
-      + [瞭解測試資料夾](../app-builder/first-app/test-folder.md)
-      + [探索web-src資料夾的用途](../app-builder/first-app/web-src-folder.md)
-      + [在本機測試](../app-builder/first-app/testing-locally.md)
-      + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
-      + [結論](../app-builder/first-app/conclusion.md)
-      + [範例模組原始程式碼](https://github.com/magento/app-builder-samples){target="_blank"}
-   + Adobe Commerce的IO事件 {#io-events}
-      + [IO事件快速入門](../io-events/getting-started-io-events.md)
-      + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
-      + [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
-      + [建立App Builder專案](../io-events/create-app-builder-project.md)
-      + [設定Adobe Commerce](../io-events/configure-commerce.md)
-      + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
-      + [Adobe Commerce條件事件](../io-events/conditional-events.md)
-+ API網格 {#api-mesh}
-   + [使用GitHub程式碼空間的API Mesh入門套件](../api-mesh/starter-kit-github-codespaces.md)
-   + [API Mesh入門套件工作流程](../api-mesh/starter-kit-workflows.md)
-   + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
-   + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
-   + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
-   + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
-   + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 + 存放區管理 {#admin}
    + [管理使用者角色和許可權](../site-management/users-roles-permissions.md)
    + [雙因素驗證](../site-management/two-factor-authentication.md)
@@ -233,39 +271,7 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
-+ Commerce升級 {#upgrade}
-   + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
-   + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
-   + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
-+ 後端開發 {#backend-development}
-   + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
-   + [建立模組](../backend-development/create-module.md)
-   + [新增產品屬性](../backend-development/add-product-attribute.md)
-   + [相依性插入範例](../backend-development/dependency-injection.md)
-   + [Galera叢集緩慢復寫](../backend-development/galera-db-slow-replication.md)
-   + [MySQL查詢快取](../backend-development/mysql-query-cache.md)
-   + [PT查詢摘要](../backend-development/pt-query-digest.md)
-   + [連線和下載Adobe Commerce資料庫](../backend-development/remote-db-connection-execute-queries.md)
-+ 原生前端Luma開發 {#frontend-development}
-   + 適用於開發人員的頁面產生器 {#page-builder}
-      + [1 — 簡介](../frontend-development/page-builder/1-intro-case-studies.md)
-      + [2 — 設定和內容](../frontend-development/page-builder/2-config-create-content.md)
-      + [3 — 主題](../frontend-development/page-builder/3-themes.md)
-      + [4 — 範本和樣式](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
-      + [5 — 自訂主題](../frontend-development/page-builder/5-customize-theme.md)
-      + [6 — 自訂內容型別](../frontend-development/page-builder/6-custom-content-types.md)
-   + [新增JavaScript模組](../frontend-development/add-javascript-module.md)
-   + [建立頁面](../frontend-development/create-page.md)
-+ Headless架構 {#headless-architecture}
-   + Headless簡介 {#introduction-to-headless}
-      + [Headless架構 — 工作階段1](../headless/session-1.md)
-   + PWA Studio簡介 {#introduction}
-      + [1 — 概觀](../pwa/introduction/1-overview.md)
-      + [2 - PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
-      + [3 — 啟動](../pwa/introduction/3-launch.md)
-      + [4 — 向上](../pwa/introduction/4-upward.md)
-      + [5 — 快速入門](../pwa/introduction/5-getting-started.md)
-      + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
-   + [PWA Docker開發](../pwa/pwa-docker-development.md)
-   + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
+
+
+
