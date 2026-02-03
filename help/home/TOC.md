@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
+source-git-commit: 3592fb0e022fcbecc100e64547c4ceea4b26e7ee
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '850'
 ht-degree: 3%
 
 ---
@@ -71,11 +71,7 @@ ht-degree: 3%
          + [處理中程式碼標準](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA{#qa}
          + [程式碼凍結](../migrating-to-adobe-commerce/qa/code-freeze.md)
-   + 全球參考架構{#global-reference-architecture}
-      + [全球參考架構](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [善用全球參考架構](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [架構者GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [實作全球參考架構](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+
    + Commerce功能 {#capabilities}
       + [資料連線](../capabilities/data-connection.md)
       + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
@@ -99,7 +95,7 @@ ht-degree: 3%
 
 + 擴充性 {#extensibility}
    + 後端開發 {#backend-development}
-      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [建立模組](../backend-development/create-module.md)
       + [新增產品屬性](../backend-development/add-product-attribute.md)
       + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -271,7 +267,7 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 
 
 

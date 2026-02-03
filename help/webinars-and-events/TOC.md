@@ -2,9 +2,9 @@
 user-guide-title: Adobe Commerce網路研討會與活動
 user-guide-description: 透過網路研討會和活動瞭解Adobe Commerce。
 breadcrumb-title: Adobe Commerce網路研討會與活動
-source-git-commit: 7a3cccd690a39fd2a5f84f577102f83e0ba85e09
+source-git-commit: 1a73be30f2ee55c9f767b7b10fd3c47172e4057d
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -34,3 +34,8 @@ ht-degree: 0%
    + [採用及啟用成功加速器](./commerce-conversations/success-accelerators-adoption-and-enablement.md)
    + [成功加速器組織整備](./commerce-conversations/success-accelerators-organizational-readiness.md)
    + [共擔責任](./commerce-conversations/shared-responsibility.md)
++ 全球參考架構{#global-reference-architecture}
+   + [全球參考架構](../global-reference-architecture/what-is-global-reference-architecture.md)
+   + [善用全球參考架構](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+   + [架構者GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+   + [實作全球參考架構](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
