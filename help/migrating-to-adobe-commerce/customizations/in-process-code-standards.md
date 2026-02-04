@@ -34,4 +34,4 @@ ht-degree: 0%
 * 瞭解PHP、JavaScript和自訂的最佳實務，以確保順利移轉。
 * 獲得Adobe專家對於成功Adobe Commerce專案的準備、效能和安全的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434868?captions=chi_hant&learn=on&enablevpops)
