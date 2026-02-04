@@ -42,4 +42,4 @@ ht-degree: 0%
 
 ## 相關檔案
 
-[什麼是Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[什麼是Adobe Commerce](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/about)

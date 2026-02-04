@@ -33,7 +33,7 @@ ht-degree: 29%
 - 如何協助您快速找出升級至較新Adobe Commerce版本所需的錯誤與修正
 - 如何存取HTML結果，協助依嚴重性和不相容數量將模組視覺化
 
-若要深入瞭解此工具，請參閱[升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)。 如果您想進一步瞭解如何執行和簡化升級，請參閱[升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)。
+若要深入瞭解此工具，請參閱[升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hant)。 如果您想進一步瞭解如何執行和簡化升級，請參閱[升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hant)。
 
 ## 這部影片是給誰看的？
 
@@ -46,7 +46,7 @@ ht-degree: 29%
 
 ## 其他資源
 
-- [升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-- [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [發行排程](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [升級相容性工具檔案](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hant)
+- [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hant)
+- [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hant)
+- [發行排程](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=zh-Hant)
