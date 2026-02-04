@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # 全球參考架構實作技術
+
+{{only-for-on-prem-commerce-cloud}}
 
 有數種方式可透過Adobe Commerce最佳化程式碼重複使用。 這四種實作技術各有其優點。 本文的範例依序由簡單到複雜。 選擇最適合您專案和未來藍圖的策略。 從一種策略遷移到另一種策略可能很耗時。
 

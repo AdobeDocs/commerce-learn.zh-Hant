@@ -10,7 +10,7 @@ duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -18,6 +18,8 @@ ht-degree: 0%
 ---
 
 # 移轉至Adobe Commerce — 程式碼凍結
+
+{{only-for-on-prem-commerce-cloud}}
 
 在Adobe Commerce移轉期間實作程式碼凍結對於確保穩定且成功啟動至關重要。 藉由停止新程式碼部署，QA團隊、開發人員和利害關係人就能夠與靜態程式碼基底合作，提高信心並降低缺陷風險。 此程式包含徹底的測試和驗證、解決高優先順序的錯誤，以及確保網站各方面的功能如預期般運作。 妥善執行的程式碼凍結可協助整個專案，避免最新問題，並確保順利轉換至Adobe Commerce。
 
@@ -35,4 +37,4 @@ ht-degree: 0%
 * 協調手動和自動化測試、負載測試和滲透測試，以確保網站各方面的功能如預期般運作。
 * 讓業務利害關係人、開發人員和IT團隊參與驗證程式，以確保順利和成功啟動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445503/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)

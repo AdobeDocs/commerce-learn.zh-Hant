@@ -11,7 +11,7 @@ duration: 270
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # 移轉至Adobe Commerce — 評估團隊和專案
+
+{{only-for-on-prem-commerce-cloud}}
 
 移至Adobe Commerce時，徹底評估您的團隊和專案至關重要。 您的團隊應包含關鍵角色，例如專案經理、QA測試人員、開發人員、業務利害關係人及技術銷售機會。 評估您團隊的技術優勢，確保符合您的專案目標。 例如，JavaScript和後端整合的強大背景最適合運用Adobe Commerce和App Builder。 如果您的團隊對Java或PHP更有經驗，請考慮與Adobe Consulting服務合作來處理App Builder部分。
 
@@ -36,8 +38,8 @@ ht-degree: 0%
 * 瞭解一些前端和後端考量事項。
 * 透過評估現有模組、升級核心應用程式並與其他Adobe解決方案整合，規劃順暢的移轉。
  
->[!VIDEO](https://video.tv.adobe.com/v/3447457/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
 
 ## 相關檔案
 
-[什麼是Adobe Commerce](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/about)
+[什麼是Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

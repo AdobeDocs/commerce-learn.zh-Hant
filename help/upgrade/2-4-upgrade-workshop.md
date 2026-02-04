@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -22,6 +22,8 @@ ht-degree: 33%
 ---
 
 # Adobe Commerce 2.4升級工作坊
+
+{{only-for-on-prem-commerce-cloud}}
 
 觀看此錄製的網路研討會，瞭解在準備下一次升級到2.4.4或更高版本時要遵循的步驟和最佳實務。
 
@@ -39,10 +41,10 @@ ht-degree: 33%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3431941?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## 其他資源
 
-- [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hant)
-- [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hant)
-- [發行排程](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=zh-Hant)
+- [升級指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [發行排程](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
