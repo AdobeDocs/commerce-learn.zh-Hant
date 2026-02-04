@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 225
 last-substantial-update: 2026-01-27T00:00:00Z
 jira: KT-20160
-source-git-commit: cb3fecf5f8b23425311dc31ed526b3b9bfe07b45
+source-git-commit: ad2cfb4b38d739b03e0c2fff8bcd88d77d6e4b12
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 對Commerce as a Cloud Service使用正確的REST API端點格式
 * 以程式設計方式使用POST和PUT請求，搭配適當的JSON負載，建立並更新客戶帳戶
 
->[!VIDEO](https://video.tv.adobe.com/v/3479373/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
 
 ## 程式碼範例
 
@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## 引用
 
-* [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API參考](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [使用者驗證指南](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
