@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 344
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20086
-source-git-commit: 9a05cac9fe45aa709ca98a9e8f91a94b37588a5a
+exl-id: 2b0ff49b-0703-43c2-8127-b4b395c17971
+source-git-commit: 53503375829db6c3e1041a9b03fef95b96d206e7
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# 內容本地化與排程
+# 本地化及排程內容
 
 瞭解如何使用Adobe ACCS，並有效當地語系化和排程您的內容。 這麼做可確保您及時與全球各地的對象取得聯絡，進而增強溝通和參與。 觀看影片，以獲得見解和實用技巧。
 
