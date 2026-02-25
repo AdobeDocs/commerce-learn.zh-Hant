@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 3592fb0e022fcbecc100e64547c4ceea4b26e7ee
+source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '853'
 ht-degree: 3%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 3%
       + [支援要求](../cloud/best-practices/support-request.md)
       + [啟動前檢查清單](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入門 {#getting-started}
+   + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [概觀](../commerce-as-a-cloud-service/overview.md)
       + [架構](../commerce-as-a-cloud-service/architecture.md)
@@ -95,7 +96,7 @@ ht-degree: 3%
 
 + 擴充性 {#extensibility}
    + 後端開發 {#backend-development}
-      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [建立模組](../backend-development/create-module.md)
       + [新增產品屬性](../backend-development/add-product-attribute.md)
       + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -267,7 +268,7 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 
 
 
