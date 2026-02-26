@@ -34,7 +34,7 @@ ht-degree: 0%
 * 瞭解何時需在不取代後端的情況下匯入最新的店面
 * 根據DevOps資源、擴充能力及業務目標，找出最適合的專案
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480254?captions=chi_hant&learn=on)
 
 ## 相關檔案
 
