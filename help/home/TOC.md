@@ -3,7 +3,7 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 3%
@@ -44,7 +44,6 @@ ht-degree: 3%
       + [支援要求](../cloud/best-practices/support-request.md)
       + [啟動前檢查清單](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入門 {#getting-started}
-   + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [概觀](../commerce-as-a-cloud-service/overview.md)
       + [架構](../commerce-as-a-cloud-service/architecture.md)
@@ -74,6 +73,7 @@ ht-degree: 3%
          + [程式碼凍結](../migrating-to-adobe-commerce/qa/code-freeze.md)
 
    + Commerce功能 {#capabilities}
+      + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
       + [資料連線](../capabilities/data-connection.md)
       + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
       + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 擴充性 {#extensibility}
    + 後端開發 {#backend-development}
-      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [建立模組](../backend-development/create-module.md)
       + [新增產品屬性](../backend-development/add-product-attribute.md)
       + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -268,7 +268,7 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 
 
 

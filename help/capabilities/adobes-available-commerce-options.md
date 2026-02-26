@@ -8,13 +8,13 @@ feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
+source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce資料連線完整示範
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 商務副總裁/主管
+* Commerce副總裁/總監
 * 技術領導力
 * DevOps/平台工程師
 * 行銷技術管理員
@@ -38,6 +38,6 @@ ht-degree: 0%
 
 ## 相關檔案
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
