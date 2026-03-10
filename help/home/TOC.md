@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
+source-git-commit: ec9d6444696968c72cabb1b532e205f92a2d9e5a
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 擴充性 {#extensibility}
    + 後端開發 {#backend-development}
-      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [建立模組](../backend-development/create-module.md)
       + [新增產品屬性](../backend-development/add-product-attribute.md)
       + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -148,6 +148,8 @@ ht-degree: 3%
       + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
       + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
       + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
+      + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
+         + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + 建立您的第一個App Builder應用程式 {#first-app}
          + [概觀](../app-builder/first-app/overview.md)
          + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
@@ -268,7 +270,7 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 
 
 
