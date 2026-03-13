@@ -34,6 +34,6 @@ Agent將完成實施、清除未使用的代碼，並準備項目進行部署。
 憑據和環境配置為部署和註冊新的發運擴展。
 店面測試確認外部運費顯示並按預期運行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481339/?captions=chi_hant&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
