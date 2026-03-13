@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
@@ -44,13 +44,13 @@ ht-degree: 3%
       + [支援要求](../cloud/best-practices/support-request.md)
       + [啟動前檢查清單](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入門 {#getting-started}
-   + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+   + Commerceas a Cloud Service {#commerce-as-a-cloud-service}
       + [概觀](../commerce-as-a-cloud-service/overview.md)
       + [架構](../commerce-as-a-cloud-service/architecture.md)
       + Webapi-rest{#webapi-rest}
          + [客戶](../commerce-as-a-cloud-service/webapi-rest/customer.md)
       + 產品概述{#product-overview}
-         + [介紹](../commerce-as-a-cloud-service/product-overview/introduction.md)
+         + [引產](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [安裝體驗](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
          + [內容製作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [本地化及排程內容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
@@ -75,9 +75,9 @@ ht-degree: 3%
    + Commerce功能 {#capabilities}
       + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
       + [資料連線](../capabilities/data-connection.md)
-      + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
-      + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
-      + [品質修補工具](../capabilities/quality-patch-tool.md)
+      + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
+      + [可合併的Commerce](../capabilities/what-is-composable-commerce.md)
+      + [質量補丁工具](../capabilities/quality-patch-tool.md)
    + 建立產品 {#create-products}
       + [簡單產品](../site-management/create-simple-product.md)
       + [虛擬產品](../site-management/create-virtual-product.md)
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 擴充性 {#extensibility}
    + 後端開發 {#backend-development}
-      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [建立模組](../backend-development/create-module.md)
       + [新增產品屬性](../backend-development/add-product-attribute.md)
       + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -105,8 +105,8 @@ ht-degree: 3%
       + [PT查詢摘要](../backend-development/pt-query-digest.md)
       + [連線和下載Adobe Commerce資料庫](../backend-development/remote-db-connection-execute-queries.md)
       + Commerce升級 {#upgrade}
-         + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
-         + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
+         + [Adobe Commerce2.4升級研討會](../upgrade/2-4-upgrade-workshop.md)
+         + [升級相容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
          + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
    + 前端Luma開發 {#frontend-development}
       + 適用於開發人員的PaaS/SaaS頁面產生器 {#page-builder}
@@ -122,8 +122,8 @@ ht-degree: 3%
          + 快速入門 {#getting-started}
             + [變更異動流程](../edge-delivery-services/transactional-flow.md)
             + [對購物車專案使用產品屬性](../edge-delivery-services/product-attributes-cart-items.md)
-            + [更新結帳中的訂單摘要](../edge-delivery-services/update-order-summary.md)
-            + [正在新增BOPI以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
+            + [在結帳時更新訂單摘要](../edge-delivery-services/update-order-summary.md)
+            + [添加BOPIS以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
             + [自訂簽出](../edge-delivery-services/customize-checkout.md)
             + [自訂地址配置](../edge-delivery-services/customize-address-new-account-link.md)
             + [購物者體驗](../edge-delivery-services/shopper-experience.md)
@@ -137,7 +137,7 @@ ht-degree: 3%
             + [4 — 向上](../pwa/introduction/4-upward.md)
             + [5 — 快速入門](../pwa/introduction/5-getting-started.md)
             + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
-         + [PWA Docker開發](../pwa/pwa-docker-development.md)
+         + [PWADocker開發](../pwa/pwa-docker-development.md)
          + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
    + GraphQL和REST {#graphql-rest}
       + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
@@ -150,6 +150,8 @@ ht-degree: 3%
       + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
       + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
          + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+         + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+         + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
          + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + 建立您的第一個App Builder應用程式 {#first-app}
          + [概觀](../app-builder/first-app/overview.md)
@@ -182,14 +184,14 @@ ht-degree: 3%
 + 可觀察性 {#observability}
    + [可觀察性概觀](../observability/overview.md)
    + [開啟遙測](../observability/open-telemetry.md)
-   + [示範設定和設定](../observability/demo-setup-configuration.md)
+   + [演示設定和配置](../observability/demo-setup-configuration.md)
    + [示範](../observability/demo.md)
 + 全球參考架構 {#global-reference-architecture-implementation-techniques}
    + [概觀](../global-reference-architecture/overview.md)
    + [分割Git](../global-reference-architecture/split-git.md)
    + [大量套件](../global-reference-architecture/bulk-packages.md)
    + [獨立的套件](../global-reference-architecture/separate-packages.md)
-   + [Monorepo](../global-reference-architecture/monorepo.md)
+   + [莫諾雷波](../global-reference-architecture/monorepo.md)
 + 說明與支援 {#help-and-support}
    + [建立支援票證](../help-and-support/create-a-support-ticket.md)
    + [搜尋、追蹤、評論及提升支援票證](../help-and-support/search-track-comment-escalate-support-ticket.md)
@@ -197,14 +199,14 @@ ht-degree: 3%
 
 + 存放區管理 {#admin}
    + [管理使用者角色和許可權](../site-management/users-roles-permissions.md)
-   + [雙因素驗證](../site-management/two-factor-authentication.md)
-   + [管理幣別與稅捐規則](../site-management/currency-tax-rules.md)
-   + [新增網站、商店和商店檢視](../site-management/add-websites-stores-views.md)
-   + [變更商店URL](../site-management/change-store-url.md)
+   + [雙因素身份驗證](../site-management/two-factor-authentication.md)
+   + [管理幣種和稅則](../site-management/currency-tax-rules.md)
+   + [添加網站、商店和商店視圖](../site-management/add-websites-stores-views.md)
+   + [更改儲存URL](../site-management/change-store-url.md)
    + [重設管理員URI](../site-management/reset-admin-uri.md)
    + [送貨與交貨方式](../site-management/shipping-delivery.md)
    + [管理網格和篩選器](../site-management/admin-grids-and-filters.md)
-   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
+   + [Commerce](../site-management/view-update-store-configuration-cli.md)
    + Adobe Commerce服務 {#adobe-commerce-services}
       + [設定Commerce服務聯結器](../site-management/configure-adobe-commerce-services-connector.md)
       + [設定付款服務](../site-management/configure-adobe-payment-services.md)
@@ -269,9 +271,9 @@ ht-degree: 3%
    + [整合與設定](../business-intelligence/integrations-configurations.md)
    + [報告和儀表板](../business-intelligence/reports-and-dashboards.md)
    + [篩選器集](../business-intelligence/filter-sets.md)
-   + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
-   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + [隊列Report Builder](../business-intelligence/cohort-report-builder.md)
+   + [SQLReport Builder](../business-intelligence/sql-report-builder.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 
 
 
