@@ -1,6 +1,6 @@
 ---
-title: 使用AI工具建立自定義發運費率
-description: 學習使用Adobe的AI工具建立自定義運費，並通過模擬API和安全配置擴展簽出功能。
+title: 使用AI工具建立自訂運費|建立功能
+description: 瞭解如何使用Adobe的AI工具，建立自訂運費，並透過模擬API和安全設定擴充結帳功能。
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
@@ -9,30 +9,30 @@ doc-type: Tutorial
 duration: 490
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
-source-git-commit: 2cf5392b7cf21cad9f912f16891cfa550d118d77
+exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
+source-git-commit: 650cd54d155520f4d2ff89bceefbd529efccc8c3
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
+# 使用AI工具建立自訂運費 — 建立功能
 
-# 使用AI工具建立自定義發運費率
+瞭解如何利用Adobe的AI支援工具來簡化開發工作流程並擴充結帳功能。 本教學課程涵蓋使用以API金鑰保護的模擬API，從外部系統整合自訂運費。 瞭解如何設定服務URL、管理安全性以及啟用進階簽出功能。 這份全方位的指南會示範AI如何加速軟體開發，從需求收集到實作規劃。 觀看內嵌影片以取得詳細逐步解說。
 
-瞭解如何利用Adobe的AI支援工具來簡化開發工作流並擴展簽出功能。 本教程介紹使用API密鑰保護的模擬API從外部系統整合自定義運費。 瞭解如何配置服務URL、管理安全性以及啟用高級簽出功能。 本綜合指南演示了AI如何加速軟體開發，從需求收集到實施規劃。 觀看嵌入式視頻，進行詳細的瀏覽。
-
-## 這段錄影帶是給誰的？
+## 這部影片是給誰看的？
 
 * 技術和解決方案架構師
 * 後端開發人員和工程師
-* 實施工程師和技術顧問
+* 實作工程師與技術顧問
 
-## 視頻內容
+## 視訊內容
 
-* 人工智慧代理分析上下文並使用基於角色的技能指導發展。
-* 啟動套件提供結構和樣本模式，以加快擴展構建。
-* MCP工具公開代理用於規劃和生成代碼的命令和資料。
-* AI自動化了需求、體系結構和實施決策。
+* AI代理程式會分析情境並使用角色型技能來指導開發。
+* 入門套件提供結構和範例模式，以加快擴充功能的建置速度。
+* MCP工具會公開代理程式用來規劃和產生程式碼的命令和資料。
+* AI可自動化需求、架構和實作決策。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
 
