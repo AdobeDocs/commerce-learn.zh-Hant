@@ -34,6 +34,6 @@ ht-degree: 0%
 * MCP工具會公開代理程式用來規劃和產生程式碼的命令和資料。
 * AI可自動化需求、架構和實作決策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481355/?captions=chi_hant&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

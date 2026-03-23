@@ -32,6 +32,6 @@ ht-degree: 0%
 * 瞭解MCP意見回饋工具的運作方式
 * 瞭解如何從IDE為Adobe提供意見回饋
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481317?captions=chi_hant&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
