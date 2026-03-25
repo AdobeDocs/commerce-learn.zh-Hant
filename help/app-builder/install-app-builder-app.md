@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471535?captions=chi_hant&learn=on)

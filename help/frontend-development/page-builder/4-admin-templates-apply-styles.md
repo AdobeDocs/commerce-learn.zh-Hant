@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需更新版本的相關資訊，請參閱[Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/35712?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430949?captions=chi_hant&learn=on)
 
 ## 有用的資源
 

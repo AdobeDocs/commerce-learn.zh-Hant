@@ -33,7 +33,7 @@ ht-degree: 0%
 * 為您的執行個體選擇正確的環境和地區。
 * 在未來的教學課程中，快速部署並準備目錄設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469889?captions=chi_hant&learn=on)
 
 ## 相關內容
 

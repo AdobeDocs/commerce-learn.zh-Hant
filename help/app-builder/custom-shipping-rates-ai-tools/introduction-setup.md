@@ -33,6 +33,6 @@ ht-degree: 0%
 * 逐步瞭解如何設定開發環境，包括出庫存放庫、檢閱入門套件結構和安裝所需工具。
 * 透過登入、設定存取權並確保所有相依性和先決條件都已就緒，準備好系統以進行AI輔助開發。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481339?captions=chi_hant&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

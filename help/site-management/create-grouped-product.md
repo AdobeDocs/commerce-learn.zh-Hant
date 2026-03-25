@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454049?captions=chi_hant&learn=on)
 
 ## 群組產品的設定
 

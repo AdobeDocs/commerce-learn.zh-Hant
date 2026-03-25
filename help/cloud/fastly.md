@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432807?captions=chi_hant&learn=on)
 
 ## 影片中提到Experience League檔案和Fastly Adobe Commerce檢查器
 

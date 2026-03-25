@@ -44,4 +44,4 @@ ht-degree: 0%
 * 使用購物車與訂單：新增料號、以客人身份結帳、取消訂單、重新排序以及處理退貨。
 * 更新帳戶資訊、合併來賓和客戶購物車，並保持結帳一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446773?captions=chi_hant&learn=on)

@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453958?captions=chi_hant&learn=on)
 
 ## 允許下載的網域
 

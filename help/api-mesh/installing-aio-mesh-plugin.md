@@ -36,7 +36,7 @@ ht-degree: 0%
 * 安裝Adobe I/O Runtime CLI （命令列介面）
 * 安裝API網狀外掛程式
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430769?captions=chi_hant&learn=on)
 
 ## 安裝`aio` CLI和API Mesh外掛程式
 

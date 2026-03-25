@@ -33,7 +33,7 @@ ht-degree: 0%
 * 更新名稱和說明
 * 尋找整合的關鍵端點和識別碼
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470243?captions=chi_hant&learn=on)
 
 ## 相關內容
 

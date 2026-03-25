@@ -29,7 +29,7 @@ Adobe的Cloud Automation Patching Service (CAPS)是Adobe Commerce全網站分析
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476258?captions=chi_hant&learn=on)
 
 ## 相關檔案
 

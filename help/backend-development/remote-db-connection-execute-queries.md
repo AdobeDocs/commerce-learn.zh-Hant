@@ -26,7 +26,7 @@ ht-degree: 0%
 * 使用GUI工具（例如MySQL Workbench或TablePlus）連線到遠端Adobe Commerce Cloud專案。
 * 連線至專案，並從命令列執行SQL。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450047?captions=chi_hant&learn=on)
 
 您可以使用下列任一方法，從雲端專案存取Adobe Commerce資料：
 
