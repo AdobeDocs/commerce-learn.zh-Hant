@@ -35,7 +35,7 @@ ht-degree: 0%
 * 實施多步驟結帳&#x200B;
 * 重複使用現有程式碼和最佳作法
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442661?captions=chi_hant&learn=on)
 
 ## 其他檔案
 
