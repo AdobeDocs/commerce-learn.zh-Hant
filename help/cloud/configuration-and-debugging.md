@@ -33,7 +33,7 @@ ht-degree: 0%
 * 驗證、最佳化和偵錯工作流程。
 * ECE-Tools、品質修補工具、New Relic、Xdebug和記錄管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432814?captions=chi_hant&learn=on)
 
 ## 影片中提到的Experience League檔案
 
