@@ -37,5 +37,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
-* [價格規則中的客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}
+* [客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=zh-Hant){target="_blank"}
+* [價格規則中的客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=zh-Hant){target="_blank"}

@@ -128,5 +128,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-* [優惠券代碼 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}
+* [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=zh-Hant){target="_blank"}
+* [優惠券代碼 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=zh-Hant){target="_blank"}
