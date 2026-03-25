@@ -3,19 +3,19 @@ title: 可觀察性示範設定與詳細資訊
 description: 透過Adobe Commerce和自訂應用程式的標準化、相關遙測，提供端對端可觀察性
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 170
+duration: 208
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19992
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: b81f83de-782c-42ae-ae27-96d78caab4f5
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 設定與組態
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 針對自動化訊號使用Commerce可觀察性模組
 * 使用應用程式的IO Live Telemetry Library延伸監視
 
->[!VIDEO](https://video.tv.adobe.com/v/3478345?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

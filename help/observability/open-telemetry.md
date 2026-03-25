@@ -3,19 +3,19 @@ title: 開啟遙測
 description: 與OpenTelemetry統一可觀察性 — 記錄、追蹤和量度，以進行順暢的監控和根本原因分析。
 feature: Observability,Extensibility,App Builder
 topic: Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 137
+duration: 175
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19975
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 697d4290-1181-4fde-b8a8-132de9057264
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 開啟遙測
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 相互關聯記錄、追蹤和量度，以加快根本原因分析
 * 維護現有的監控工具，同時統一資料串流
 
->[!VIDEO](https://video.tv.adobe.com/v/3478334?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

@@ -3,19 +3,19 @@ title: 可觀察性示範
 description: 瞭解Adobe Commerce如何使用可觀察性、webhook和事件關聯來順暢地追蹤和偵錯
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 463
+duration: 508
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-20000
-source-git-commit: c0a2aa9b657b3ad0edc2cafb28f53970db4e1b42
+exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # 可觀察性示範
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 說明Webhook和事件的相互關聯以提高可追蹤性
 * 顯示與Grafana和New Relic的整合以供記錄與追蹤
 
->[!VIDEO](https://video.tv.adobe.com/v/3477878?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
