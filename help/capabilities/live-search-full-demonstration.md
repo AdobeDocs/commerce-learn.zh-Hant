@@ -3,6 +3,7 @@ title: 即時搜尋完整示範
 description: 觀看即時搜尋功能與彈性的完整示範
 kt: 13168
 doc-type: tutorial
+duration: 935
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 1ef99de8-3594-4783-a5f3-227e131cecde
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -40,4 +41,4 @@ Adobe Live搜尋的完整示範。
 * 規則型排名型別說明
 * GraphQL API內檢
 
->[!VIDEO](https://video.tv.adobe.com/v/3454470?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

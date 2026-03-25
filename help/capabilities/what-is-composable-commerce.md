@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development, Headless, Integrations, Performance,
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 可撰寫的商務
 
-可組合商務是電子商務的架構方法，涉及將前端展示層與後端商務功能分離。&#x200B;URL 它可讓企業選擇並組合最佳的元件或模組，以建立自訂的解決方案。 此方法包括將傳統整體電子商務平台分解為更小、更獨立的服務或微服務，以便共同組成。 可組合商務具備彈性、擴充性、自訂性、靈活性等優勢，並可更輕鬆地與其他系統和技術整合。
+可組合商務是電子商務的架構方法，涉及將前端展示層與後端商務功能分離&#x200B;。 它可讓企業選擇並組合最佳的元件或模組，以建立自訂的解決方案。 此方法包括將傳統整體電子商務平台分解為更小、更獨立的服務或微服務，以便共同組成。 可組合商務具備彈性、擴充性、自訂性、靈活性等優勢，並可更輕鬆地與其他系統和技術整合。
 
 Adobe Commerce提供許多功能和工具，可支援商家採用和實施可組合商務。 Adobe Commerce提供可撰寫的商務方法以及混合式Headless和非Headless前端體驗。 Adobe秉持程式外擴充性的理念，提供API Mesh整合多項服務，以及Adobe App Builder建立自訂微服務。
 

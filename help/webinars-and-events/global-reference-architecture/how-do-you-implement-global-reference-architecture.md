@@ -4,6 +4,7 @@ description: 瞭解如何實作全球參考架構。 瞭解發佈網站的想法
 landing-page-description: 瞭解如何使用Adobe Commerce實作全球參考架構
 kt: 14042
 doc-type: video
+duration: 2289
 audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
-source-git-commit: 42525268cda32ac461b6842c27675ee1b9a3305a
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -42,6 +43,6 @@ ht-degree: 0%
 * 全域控制板 — 使用哪些功能
 * 使用GRA作為模組市場的替代概念
 
->[!VIDEO](https://video.tv.adobe.com/v/3457219?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

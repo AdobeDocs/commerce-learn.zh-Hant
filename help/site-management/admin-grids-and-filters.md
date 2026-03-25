@@ -6,16 +6,16 @@ topic: Administration, Commerce
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 195
+duration: 218
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16565
-source-git-commit: e1dc4bf5b4434869667ab3601445f2965421829f
+exl-id: 70b66d2a-7f20-49de-ad4e-c0f665ca7eba
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # 管理格線篩選器
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 * 在哪裡可以找到每個屬性的設定值，以將其啟用或停用作為篩選條件
 * 瞭解如何使用篩選器來限制管理網格的結果
-* 瞭解篩選器如何影響Adobe CommerceAdmin Console中的其他管理員
+* 瞭解篩選器如何影響Adobe Commerce Admin Console中的其他管理員
 
->[!VIDEO](https://video.tv.adobe.com/v/3440393?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)

@@ -1,16 +1,16 @@
 ---
 title: Edge Delivery Services購物車專案
-description: 瞭解Adobe Edge遞送服務，以及如何使用產品屬性來顯示購物車專案的新資訊。
+description: 瞭解Adobe Edge Delivery Services，以及如何使用產品屬性來顯示購物車專案的新資訊。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 363
+duration: 429
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -38,9 +38,9 @@ ht-degree: 0%
 * 使用購物車規則和頁尾位置顯示的優惠券折扣，以有效顯示此資訊。
 * 使用產品屬性和插槽來擴充及自訂購物車功能，確保符合所有專案需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441127?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 其他檔案
 
-* [新增產品線到購物車](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=zh-Hant)
+* [新增產品線到購物車](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

@@ -5,6 +5,7 @@ landing-page-description: 瞭解如何尋找New Relic警示的警示、原則和
 short-description: 瞭解如何在New Relic中新增電子郵件地址至現有的警報原則。
 kt: 15984
 doc-type: technical video
+duration: 162
 audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -35,4 +36,4 @@ ht-degree: 0%
 * 瞭解警示通知、原則和工作流程
 * 儲存目的地並驗證新電子郵件已新增至原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3441218?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

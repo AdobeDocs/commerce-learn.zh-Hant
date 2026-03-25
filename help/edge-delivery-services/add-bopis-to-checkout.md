@@ -1,16 +1,16 @@
 ---
-title: EDGE DELIVERY SERVICESBOPI
+title: EDGE DELIVERY SERVICES BOPI
 description: 瞭解Adobe Edge Delivery Services，並新增商店內的線上購物提貨或BOPIS功能以進行結帳。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 331
+duration: 360
 last-substantial-update: 2024-12-19T00:00:00Z
 jira: KT-16699
 exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 新增BOPI以簽出
 
-瞭解如何將必要的元件新增到Edge Delivery Services結帳，以容納線上購買和商店提貨（又稱為BOPIS）。
+瞭解如何將必要的元件新增到Edge Delivery Services結帳，以容納線上購買和商店取貨（又稱為BOPIS）。
 
 ## 您將瞭解的內容
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 * 在配送和店內取貨之間切換
 * 擷取取取車地點
 
->[!VIDEO](https://video.tv.adobe.com/v/3441711?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
 
 ## 其他檔案
 
-* [在商店購買線上取貨](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=zh-Hant)
+* [在商店購買線上取貨](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)

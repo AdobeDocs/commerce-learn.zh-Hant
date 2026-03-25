@@ -6,11 +6,11 @@ topic: Security
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 183
+duration: 207
 last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16606
 exl-id: a6546956-6aaa-4511-9a62-1bf94fd038f4
-source-git-commit: fbe79f36ba7cc699287b1adc1fcb1fab7246da1c
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 * 瞭解如何根據資料彙總來設定警示的臨界值。
 * 使用嚴重性等級設定警示並指派給現有原則，以控制通知工作流程和目的地。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440782?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

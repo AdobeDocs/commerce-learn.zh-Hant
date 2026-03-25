@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 613
+duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 自訂地址配置
 
-瞭解如何在結帳時自訂地址表單版面配置，以確保所有欄位的寬度均為50%，但文字區域除外。 瞭解使用整合式協力廠商API (尤其是Google Address API)的方法，以啟用地址表單中的自動地址查詢和驗證。&#x200B;URL 瞭解如何將新的側邊欄功能表專案新增到使用者帳戶儀表板，連結到商店定位器的自訂頁面。
+瞭解如何在結帳時自訂地址表單版面配置，以確保所有欄位的寬度均為50%，但文字區域除外。 瞭解使用整合式協力廠商API （尤其是Google Address API）的方法，以啟用地址表單中的自動地址查詢和驗證&#x200B;。 瞭解如何將新的側邊欄功能表專案新增到使用者帳戶儀表板，連結到商店定位器的自訂頁面。
 
 ## 這部影片是給誰看的？
 
@@ -40,8 +40,8 @@ ht-degree: 0%
 * 位址輸入欄位的驗證和錯誤處理，確保使用者會立即收到不正確或不完整專案的回饋，進而改善使用者體驗。
 * 使用者帳戶儀表板的擴充功能，可將新的側邊欄功能表專案新增至使用者帳戶儀表板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442917?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## 其他檔案
 
-* [使用者帳戶](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=zh-Hant)
+* [使用者帳戶](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

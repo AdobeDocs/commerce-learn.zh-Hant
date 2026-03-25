@@ -4,7 +4,7 @@ description: 針對彈性應用程式運用Adobe I/O Events的重試機制，包
 landing-page-description: 瞭解並運用Adobe I/O Events的內建重試機制，以增強應用程式復原力並有效管理事件啟用。
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 * 開發人員控制檯中的視覺指示器，例如失敗事件的警告圖示和重試事件的圓形箭頭圖示。
 * 「取用者」執行階段動作在決定事件處理的適當HTTP回應狀態程式碼時，扮演了重要的角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449084?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

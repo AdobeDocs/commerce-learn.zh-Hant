@@ -1,17 +1,17 @@
 ---
 title: 規劃現代Adobe Commerce實作
-description: 此網路研討會是關於現代商務系統(尤其是Adobe Commerce)的實作規劃，並包括探索階段、服務、全球參考架構、前端開發實務和最佳實務的討論。
+description: 此網路研討會是關於現代商務系統（尤其是Adobe Commerce）的實作規劃，並包括探索階段、服務、全球參考架構、前端開發實務和最佳實務的討論。
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
 role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 3511
+duration: 3624
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
 exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
-source-git-commit: 13842248124d0089dc8489b15e6612dde86697db
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%

@@ -6,16 +6,16 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 337
+duration: 355
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-15165
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # 使用Experience League建立支援票證
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 任何能夠在Experience League中建立Adobe Commerce支援請求的人
+* 任何能夠在Experience League中為Adobe Commerce建立支援請求的人
 
 ## 視訊內容 {#video-content}
 
@@ -32,8 +32,8 @@ ht-degree: 0%
 * 瞭解建議文章會如何依據表單中使用的資訊而改變
 * 瞭解在表單欄位中找到的預留位置文字如何有助於瞭解良好的支援請求所需的資訊型別
 
->[!VIDEO](https://video.tv.adobe.com/v/3449564?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Commerce知識庫說明中心指南
 
-[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[提交支援案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

@@ -6,13 +6,13 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 131
+duration: 173
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16050
 exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
-source-git-commit: 82e4e3e2a922a513c7d45ce3833971bda093a86f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 有能力在Experience League中管理Adobe Commerce支援請求的任何人
+* 任何能夠在Experience League中管理Adobe Commerce支援請求的人
 
 ## 視訊內容 {#video-content}
 
@@ -31,8 +31,8 @@ ht-degree: 0%
 * 瞭解如何關閉支援票證
 * 瞭解如何重新開啟支援票證
 
->[!VIDEO](https://video.tv.adobe.com/v/3441363?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
 
 ## Commerce知識庫說明中心指南
 
-[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[提交支援案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

@@ -5,6 +5,7 @@ landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open So
 short-description: 瞭解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL執行查詢。 以下介紹如何使用GET和POST呼叫GraphQL。
 kt: 13937
 doc-type: video
+duration: 651
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 這是GraphQL和Adobe Commerce系列的第2部分。 在本教學課程和影片中，瞭解GraphQL查詢，以及如何針對Adobe Commerce執行這些查詢。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450069?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## 本系列中GraphQL的相關影片和教學課程
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
 ## GraphQL語法範例
 
-以完整的範例直接探討GraphQL查詢語法。 (請記住，您可以對https://venia.magento.com/graphql自行嘗試此做法。)
+以完整的範例直接探討GraphQL查詢語法。 （請記住，您可以對https://venia.magento.com/graphql自行嘗試此做法。）
 
 請注意下列GraphQL查詢，此查詢會依件細分：
 
@@ -201,7 +202,7 @@ fragment productDetails on ProductInterface {
 
 >[!NOTE]
 >
->如果您是針對Venia範例網站(而不是您自己的Adobe Commerce執行個體)嘗試這些查詢，傳回的結果在`related_products`中可能會是空的。
+>如果您是針對Venia範例網站（而不是您自己的Adobe Commerce執行個體）嘗試這些查詢，傳回的結果在`related_products`中可能會是空的。
 
 在您用於測試的任何GraphQL感知使用者端（例如Altair和GraphiQL）中，UI支援與查詢分開輸入變數JSON。
 

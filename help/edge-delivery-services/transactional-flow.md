@@ -1,16 +1,16 @@
 ---
 title: Edge Delivery Services交易流程
-description: 瞭解Adobe Edge傳送服務以及如何變更交易流程。
+description: 瞭解Adobe Edge Delivery Services以及如何變更交易流程。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 453
+duration: 525
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 調整結帳的異動流程
 
-瞭解如何使用Edge Delivery Services車下拉式功能表調整結帳異動流程。
+瞭解如何使用Edge Delivery Services購物車下拉式功能表調整結帳異動流程。
 
 ## 您將瞭解的內容
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 開發人員和商店所有者正在瞭解需要變更某些購物車下拉式元素的Edge Delivery Services。
+* 開發人員和商店負責人需要變更一些購物車下拉式元素，才能瞭解Edge Delivery Services。
 * 對使用SharePoint管理功能和AB測試感興趣的行銷人員和其他人。
 
 ## 視訊內容
@@ -37,8 +37,8 @@ ht-degree: 0%
 * A/B測試彈性。 透過SharePoint啟用設定，讓行銷人員能夠控制並測試這些功能。
 * 增強行銷控制。 輕鬆管理和測試設定，改善使用者體驗和行銷效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442362?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 其他檔案
 
-* [設定購物車摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=zh-Hant)
+* [設定購物車摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
