@@ -3,6 +3,7 @@ title: Inventory management
 description: 瞭解Inventory management功能，以及如何使用它們從單一倉儲或複雜的出貨網路中運作。
 kt: 10551
 doc-type: feature video
+duration: 383
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- 電子商務銷售商
+* 網站管理員
+* 電子商務銷售商
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
 
 ## 其他資源
 
-- [Inventory management指南](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=zh-Hant)
-- [Inventory management - Developer REST檔案](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+* [Inventory management指南](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory management - Developer REST檔案](https://developer.adobe.com/commerce/webapi/rest/inventory/)

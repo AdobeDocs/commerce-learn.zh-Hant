@@ -3,6 +3,7 @@ title: 建立客戶屬性
 description: 瞭解如何將自訂屬性新增到客戶帳戶的「帳戶資訊」、「通訊錄」和「帳單資訊」區段。
 kt: 10547
 doc-type: feature video
+duration: 117
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商店管理員
-- 電子商務行銷人員
+* 商店管理員
+* 電子商務行銷人員
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343661?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
 
 ## 其他資源
 
-- [客戶屬性屬性 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=zh-Hant)
-- [建立個別客戶帳戶 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=zh-Hant)
+* [客戶屬性屬性 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+* [建立個別客戶帳戶 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

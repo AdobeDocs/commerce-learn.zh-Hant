@@ -6,11 +6,11 @@ topic: Commerce, Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 199
+duration: 253
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -37,4 +37,4 @@ ht-degree: 0%
 * 協調手動和自動化測試、負載測試和滲透測試，以確保網站各方面的功能如預期般運作。
 * 讓業務利害關係人、開發人員和IT團隊參與驗證程式，以確保順利和成功啟動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445503/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965?learn=on)

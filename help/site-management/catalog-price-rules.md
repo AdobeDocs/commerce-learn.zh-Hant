@@ -10,9 +10,9 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 jira: KT-17149
-duration: 124
+duration: 153
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: c3f992e4ec71632629500adc7c0b8f2feef34364
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -25,14 +25,14 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 電子商務行銷人員
-- 網站管理員
+* 電子商務行銷人員
+* 網站管理員
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343834?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
 
 ## 其他資源
 
-- [建立目錄價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=zh-Hant)
-- [具有多個SKU的目錄價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=zh-Hant)
+* [建立目錄價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+* [具有多個SKU的目錄價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

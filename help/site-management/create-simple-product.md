@@ -3,6 +3,7 @@ title: 建立簡單產品
 description: 瞭解如何使用REST API和Commerce管理員建立簡單的產品。
 kt: 14446
 doc-type: video
+duration: 197
 audience: all
 activity: use
 last-substantial-update: 2023-11-14T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
-source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -24,13 +25,13 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- 電子商務銷售商
-- 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立產品。
+* 網站管理員
+* 電子商務銷售商
+* 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立產品。
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3443913?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
 ## 使用curl建立產品
 
@@ -60,5 +61,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## 其他資源
 
-- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

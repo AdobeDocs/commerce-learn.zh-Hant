@@ -3,6 +3,7 @@ title: 使用大量套件最佳化Adobe Commerce全球參考架構
 description: 瞭解如何使用大量套件全域參考架構來設定Adobe Commerce，以有效進行程式碼管理和版本控制。
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ ht-degree: 0%
 
 優點：
 
-- 透過共用程式碼存放庫重複使用程式碼
-- 靈活地在不同執行個體上安裝不同歷史版本的GRA，以啟用分階段發行
-- 彈性支援並維護GRA的多個主要版本
-- 支援GRA的語意版本設定
-- 簡單明瞭，開發人員不需要比一般單一商店開發模式更多的技能
-- 不需要特殊的工具、複雜的基礎架構或特殊的分支策略
-- 發行版本中的套件組合一律會一起開發和測試
+* 透過共用程式碼存放庫重複使用程式碼
+* 靈活地在不同執行個體上安裝不同歷史版本的GRA，以啟用分階段發行
+* 彈性支援並維護GRA的多個主要版本
+* 支援GRA的語意版本設定
+* 簡單明瞭，開發人員不需要比一般單一商店開發模式更多的技能
+* 不需要特殊的工具、複雜的基礎架構或特殊的分支策略
+* 發行版本中的套件組合一律會一起開發和測試
 
 缺點：
 
-- 只能升級完整的GRA，包括其中所包含的所有套件。
-- GRA大量套件不支援Adobe Commerce模組、語言套件和主題以外的撰寫器套件，因此無中繼套件、magento2元件套件、Composer外掛程式和修補程式
+* 只能升級完整的GRA，包括其中所包含的所有套件。
+* GRA大量套件不支援Adobe Commerce模組、語言套件和主題以外的撰寫器套件，因此無中繼套件、magento2元件套件、Composer外掛程式和修補程式
 
 ## 使用分割Git GRA模式設定Adobe Commerce
 
@@ -233,11 +234,11 @@ git push origin main
 
 只有當協力廠商未透過Composer存放庫提供安裝時，您才能將協力廠商模組儲存在Foundation存放庫的`src/`目錄或專用的協力廠商大量套件中。
 
-- **Adobe Commerce核心**：可透過repo.magento.com取得。
-- **協力廠商模組**：可透過Marketplace或廠商自己的Composer存放庫取得。
-- **協力廠商模組後援選項**：儲存在大量套件的`src/`中。
-- **GRA Foundation程式碼**：儲存在Foundation大量封裝的`src/`中。
-- **本機代碼**：儲存在部署存放庫的`packages/local`目錄中。
+* **Adobe Commerce核心**：可透過repo.magento.com取得。
+* **協力廠商模組**：可透過Marketplace或廠商自己的Composer存放庫取得。
+* **協力廠商模組後援選項**：儲存在大量套件的`src/`中。
+* **GRA Foundation程式碼**：儲存在Foundation大量封裝的`src/`中。
+* **本機代碼**：儲存在部署存放庫的`packages/local`目錄中。
 
 ## 開發GRA模組
 
@@ -272,6 +273,6 @@ composer install --prefer-source
 
 本文的程式碼範例可作為一組Git存放庫提供，用於測試概念證明。
 
-- 範例生產存放區： <https://github.com/AntonEvers/gra-bulk-brand-x>
-- GRA程式碼存放庫： <https://github.com/AntonEvers/gra-bulk-foundation>
-- 範例本機模組： <https://github.com/AntonEvers/module-example-local>
+* 範例生產存放區： <https://github.com/AntonEvers/gra-bulk-brand-x>
+* GRA程式碼存放庫： <https://github.com/AntonEvers/gra-bulk-foundation>
+* 範例本機模組： <https://github.com/AntonEvers/module-example-local>

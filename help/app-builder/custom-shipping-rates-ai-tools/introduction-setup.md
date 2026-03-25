@@ -6,11 +6,11 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 191
+duration: 195
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 * 逐步瞭解如何設定開發環境，包括出庫存放庫、檢閱入門套件結構和安裝所需工具。
 * 透過登入、設定存取權並確保所有相依性和先決條件都已就緒，準備好系統以進行AI輔助開發。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481339/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

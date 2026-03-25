@@ -4,6 +4,7 @@ description: 瞭解此範例應用程式測試資料夾中的檔案型別。
 landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及測試資料夾中的檔案型別。
 kt: 12424
 doc-type: tutorial
+duration: 233
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 單元測試檔案及其元件的簡短說明
 * 端對端測試簡介
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## 程式碼範例
 

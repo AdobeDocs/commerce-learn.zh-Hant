@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 663
+duration: 705
 last-substantial-update: 2025-05-15T00:00:00Z
 jira: KT-18110
 exl-id: 87b6200e-79e0-48ed-8926-eaa7bfea36d4
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Adobe Commerce的雲端原生平台可全面管理基礎架構、自動更新及
 * 快速部署 — 利用自助服務工具，在幾分鐘內啟動預先設定的環境。
 * 彈性的整合 — 使用API和加速器，輕鬆與ERP、CRM等連線。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458485/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458485?learn=on)
 
 ## 此系列的其他影片
 

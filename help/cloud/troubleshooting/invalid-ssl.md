@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 118
+duration: 141
 last-substantial-update: 2024-10-29T00:00:00Z
 jira: KT-16406
 exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ## 此影片給誰看
 
-- 開發人員使用Adobe Commerce Cloud整合和其他開發人員分支進行測試。
-- 使用Luma店面測試功能的新Adobe Commerce Cloud團隊成員。
+* 開發人員使用Adobe Commerce Cloud整合和其他開發人員分支進行測試。
+* 使用Luma店面測試功能的新Adobe Commerce Cloud團隊成員。
 
 ## 視訊內容
 
-- 瞭解如何偵測無效的SSL憑證。
-- 識別在過程中何時建立新憑證。
-- 驗證新憑證是否如預期般運作。&#x200B;URL
+* 瞭解如何偵測無效的SSL憑證。
+* 識別在過程中何時建立新憑證。
+* 驗證新憑證是否如預期般運作&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439770?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

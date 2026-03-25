@@ -3,6 +3,7 @@ title: 適用於開發人員的PWA Studio — 向上
 description: 瞭解UPLOAD （整合式漸進式網頁應用程式回應定義）。
 kt: 5647
 doc-type: video
+duration: 159
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: 5c2c332a-62b0-4292-9a2d-760db0be882f
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -22,13 +23,13 @@ ht-degree: 0%
 
 在本影片中：
 
-- UPPER （統一的漸進式網頁應用程式回應定義）概觀
+* UPPER （統一的漸進式網頁應用程式回應定義）概觀
 
 ## 這部影片是給誰看的？
 
-- 前端開發人員
-- 專案經理
+* 前端開發人員
+* 專案經理
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/35718?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35718?learn=on)

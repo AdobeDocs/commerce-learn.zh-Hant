@@ -6,16 +6,16 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce管理員角色
 
@@ -23,14 +23,14 @@ ht-degree: 0%
 
 ## 此影片給誰看
 
-- 存放區管理員和負責管理存取權和許可權的企業使用者。
-- 需要指示以特定許可權建立角色並將使用者指派給這些角色的新商店擁有者
-- 有意確保在Adobe Commerce管理員中安全且有效地管理所執行管理任務的Adobe Commerce專案。
+* 存放區管理員和負責管理存取權和許可權的企業使用者。
+* 需要指示以特定許可權建立角色並將使用者指派給這些角色的新商店擁有者
+* 有意確保在Adobe Commerce管理員中安全且有效地管理所執行管理任務的Adobe Commerce專案。
 
 ## 視訊內容
 
-- 瞭解最新的登入方法。
-- 充分瞭解角色的建立與管理
-- 瞭解使用者指派和存取層級。&#x200B;URL
+* 瞭解最新的登入方法。
+* 充分瞭解角色的建立與管理
+* 瞭解使用者指派和存取層級&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433524?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

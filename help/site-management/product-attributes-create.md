@@ -3,6 +3,7 @@ title: 建立產品屬性
 description: 瞭解如何建立用於管理與產品、客戶和產品評等相關的資訊的產品屬性。
 kt: 10552
 doc-type: feature video
+duration: 348
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Adobe Commerce使用屬性來管理與產品、客戶和產品評等相關聯的
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- 電子商務銷售商
+* 網站管理員
+* 電子商務銷售商
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
 
 ## 其他資源
 
-[產品屬性概觀 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=zh-Hant)
+[產品屬性概觀 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[屬性集 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hant)
+[屬性集 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

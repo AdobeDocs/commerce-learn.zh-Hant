@@ -1,40 +1,41 @@
 ---
 title: 建立購物車價格規則
-description: 瞭解如何建立購物車價格規則，這些規則會根據一組條件在購物車中套用折扣。
-doc-type: feature video
-audience: all
-activity: use
+description: 瞭解如何建立購物車價格規則，當符合您定義的條件時，這些規則會在購物車中套用折扣。
+doc-type: Tutorial
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
-role: Admin, Leader, User
+role: User
 level: Beginner
-duration: 171
+duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: d290ba1d9c8892b4322aeb19d3c65d9d8087a309
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
 
 # 建立購物車價格規則
 
-購物車價格規則會根據一組條件，將折扣套用至購物車中的專案。 當滿足條件或客戶輸入有效優惠券代碼時，可自動套用折扣。 套用時，折扣會顯示在小計下的購物車中。 如有需要，可以透過變更其狀態和日期範圍，將購物車價格規則用於季節或促銷活動。
+購物車價格規則會根據您設定的條件，將折扣套用至購物車中的專案。 當滿足條件或客戶輸入有效優惠券代碼時，可自動套用折扣。 折扣會顯示在小計下的購物車中。 您可以透過變更其狀態和日期範圍來開啟或關閉季節或促銷活動的規則。
 
 ## 這部影片是給誰看的？
 
-- 電子商務行銷人員
-- 網站管理員
+* 電子商務行銷人員
+* 網站管理員
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
+* 建立購物車價格規則和選用的優惠券代碼。
+* 瞭解折扣在購物車中的顯示方式以及促銷活動。
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## 定價顯示問題
 
-有些獨特案例會要求每個明細專案顯示其所提供的折扣，但值可能並不完全相符。 原因是購物車價格規則折扣已套用至多個產品，但值未平均分成兩位小數。
+在某些情況下，每個明細專案都必須顯示套用的折扣，但顯示的值可能並不完全相符。 當購物車價格規則將某個折扣套用至多個產品，而分割未平均分割至兩個小數位時，就會發生這種情況。
 
 >[!BEGINSHADEBOX]
 
@@ -54,7 +55,7 @@ ht-degree: 0%
 
 ### 解決方案
 
-回想一下唯一受此問題影響的人員，發現以美元折扣訂購的每件商品顯示最為合適。 為了確保正確計算整個訂單金額，決定舍入第一個專案，而其他專案捨棄第三個小數。 檢閱此情境：
+對於「管理員」中的商家來說，最明確的方法是顯示每個訂購明細行及其美元折扣。 若要保持訂單總計正確，請將第一行專案向上四捨五入，並將第三個小數點放在剩餘的行專案上。 檢閱此情境：
 
 >[!BEGINSHADEBOX]
 
@@ -68,11 +69,11 @@ ht-degree: 0%
 總金額為3.99的客戶可獲得折扣
 
 在管理員中向商店所有者顯示條列專案時，
-我們需要調整第一個專案，並將其四捨五入為2.000。第二個專案則會捨棄小數點後的第三個專案
+我們需要調整第一個專案，並將其四捨五入為2.000。針對第二個專案，拖放第三個小數。
 產品1 = 2.00
 產品2 = 1.99
 
-這兩種產品加總後的總折扣符合提供給客戶的實際折扣。
+這兩種產品加總後的總折扣現在符合提供給客戶的實際折扣。
 >[!ENDSHADEBOX]
 
 以下是熒幕擷圖，當訂單具有此情境時，其顯示在管理員中：
@@ -125,8 +126,7 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-
 ## 其他資源
 
-- [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=zh-Hant)
-- [優惠券代碼 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=zh-Hant)
+* [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [優惠券代碼 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}

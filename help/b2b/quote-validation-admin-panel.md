@@ -2,6 +2,7 @@
 title: 從管理面板瞭解B2B報價流程的驗證層級
 description: 瞭解Adobe Commerce應用程式如何具有嚴格的驗證流程。  本影片教學課程示範Adobe Commerce管理員面板的驗證程式，以確保引述程式有效且一致
 doc-type: feature video
+duration: 348
 audience: all
 activity: use
 last-substantial-update: 2023-6-13
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -25,11 +26,11 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- 電子商務銷售商
+* 網站管理員
+* 電子商務銷售商
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3423717?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

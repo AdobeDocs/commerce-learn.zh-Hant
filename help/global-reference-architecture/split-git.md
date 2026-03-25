@@ -1,8 +1,9 @@
 ---
 title: 使用分割Git全域參考架構設定Adobe Commerce
-description: 瞭解如何使用Split Git全域參考架構來設定Adobe Commerce，以有效管理程式碼並簡化部署。​URL
+description: 瞭解如何使用Split Git全域參考架構來設定Adobe Commerce，以有效管理程式碼並簡化部署​。
 kt: 16725
 doc-type: tutorial
+duration: 515
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -33,18 +34,18 @@ ht-degree: 0%
 
 優點：
 
-- 透過共用程式碼存放庫重複使用程式碼
-- 簡單的GRA模式，甚至適用於擁有有限撰寫器知識的團隊
-- 除了Adobe Commerce模組、主題和語言套件之外，您也可以透過此模型安裝任何型別的Composer套件，包括composer-plugin、composer-metapackage、magento2-component和patches
-- 可分階段發行，計畫於其維護視窗中發行至各區域
-- 支援Git標籤用於管理目的，而非部署控制
-- 保證在此確切的設定中開發和測試生產部署中的套件組合
+* 透過共用程式碼存放庫重複使用程式碼
+* 簡單的GRA模式，甚至適用於擁有有限撰寫器知識的團隊
+* 除了Adobe Commerce模組、主題和語言套件之外，您也可以透過此模型安裝任何型別的Composer套件，包括composer-plugin、composer-metapackage、magento2-component和patches
+* 可分階段發行，計畫於其維護視窗中發行至各區域
+* 支援Git標籤用於管理目的，而非部署控制
+* 保證在此確切的設定中開發和測試生產部署中的套件組合
 
 缺點：
 
-- 與其他GRA模式相比，沒有增加彈性
-- 無法升級或降級每個執行個體的個別模組，請一律升級或降級GRA整體
-- 在大多數情況下，大量封裝模式會更適合，因為它同樣簡單，但更傳統
+* 與其他GRA模式相比，沒有增加彈性
+* 無法升級或降級每個執行個體的個別模組，請一律升級或降級GRA整體
+* 在大多數情況下，大量封裝模式會更適合，因為它同樣簡單，但更傳統
 
 ## 使用分割Git GRA模式設定Adobe Commerce
 
@@ -153,11 +154,11 @@ Adobe Commerce是撰寫器應用程式。 首選的安裝方式一律透過Compo
 
 摘要：
 
-- **Adobe Commerce**：儲存在Composer存放庫中。
-- **協力廠商模組**：儲存在Composer存放庫中。
-- **協力廠商模組後援選項**：儲存在gra-split-3rdparty Git存放庫中。
-- **GRA foundation程式碼**：儲存在gra-split-gra Git存放庫中。
-- **本機代碼**：儲存在gra-split-brand-x Git存放庫中。
+* **Adobe Commerce**：儲存在Composer存放庫中。
+* **協力廠商模組**：儲存在Composer存放庫中。
+* **協力廠商模組後援選項**：儲存在gra-split-3rdparty Git存放庫中。
+* **GRA foundation程式碼**：儲存在gra-split-gra Git存放庫中。
+* **本機代碼**：儲存在gra-split-brand-x Git存放庫中。
 
 ### 將套件儲存裝置連線至Composer
 
@@ -377,9 +378,9 @@ git push origin main
 
 本文的程式碼範例可作為一組Git存放庫提供，用於測試概念證明。
 
-- 範例生產存放區： <https://github.com/AntonEvers/gra-split-brand-x>
-- 協力廠商程式碼存放庫： <https://github.com/AntonEvers/gra-split-3rdparty>
-- GRA程式碼存放庫： <https://github.com/AntonEvers/gra-split-gra>
-- 範例本機模組： <https://github.com/AntonEvers/module-example-local>
-- GRA模組範例： <https://github.com/AntonEvers/module-example-gra>
-- 範例第三方模組： <https://github.com/AntonEvers/module-example-3rdparty>
+* 範例生產存放區： <https://github.com/AntonEvers/gra-split-brand-x>
+* 協力廠商程式碼存放庫： <https://github.com/AntonEvers/gra-split-3rdparty>
+* GRA程式碼存放庫： <https://github.com/AntonEvers/gra-split-gra>
+* 範例本機模組： <https://github.com/AntonEvers/module-example-local>
+* GRA模組範例： <https://github.com/AntonEvers/module-example-gra>
+* 範例第三方模組： <https://github.com/AntonEvers/module-example-3rdparty>

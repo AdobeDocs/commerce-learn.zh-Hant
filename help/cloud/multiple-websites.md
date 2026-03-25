@@ -6,10 +6,11 @@ topic: Administration, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 353
+duration: 390
 last-substantial-update: 2024-09-12T00:00:00Z
 jira: KT-16199
-source-git-commit: cea265de4a1e8f828d60d9f5773f0d7fa5e6b5de
+exl-id: c041bd9a-9955-4053-a147-570ae1d88692
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -22,14 +23,14 @@ Adobe Commerce可讓企業透過單一後端介面管理多個商店、品牌或
 
 ## 此影片給誰看
 
-- 想要跨越多個地區、品牌或產品線擴展其電子商務業務的企業。
-- 商店經理、電子商務主管和行銷團隊。
-- 具有下列需求的公司：想要線上上線上提供擴充能力與彈性。
+* 想要跨越多個地區、品牌或產品線擴展其電子商務業務的企業。
+* 商店經理、電子商務主管和行銷團隊。
+* 具有下列需求的公司：想要線上上線上提供擴充能力與彈性。
 
 ## 視訊內容
 
-- 多網站管理
-- 本地化和自訂
-- 擴充性與彈性
+* 多網站管理
+* 本地化和自訂
+* 擴充性與彈性
 
->[!VIDEO](https://video.tv.adobe.com/v/3434038?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

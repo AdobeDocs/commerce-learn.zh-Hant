@@ -6,16 +6,16 @@ topic: Architecture, Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 540
+duration: 575
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
+exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce資料共用
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ## 此影片給誰看
 
-- 希望提高客戶忠誠度的企業和電子商務公司
-- 零售商、電信公司和品牌希望能在Adobe Experience Cloud之間順暢地整合其資料
+* 希望提高客戶忠誠度的企業和電子商務公司
+* 零售商、電信公司和品牌希望能在Adobe Experience Cloud之間順暢地整合其資料
 
 ## 視訊內容
 
-- 透過Adobe Commerce的原生資料共用功能增強個人化
-- 提高客戶參與度和忠誠度
-- 緊密整合與統一的客戶檢視
+* 透過Adobe Commerce的原生資料共用功能增強個人化
+* 提高客戶參與度和忠誠度
+* 緊密整合與統一的客戶檢視
 
->[!VIDEO](https://video.tv.adobe.com/v/3433580?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)

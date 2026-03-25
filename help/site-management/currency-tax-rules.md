@@ -3,6 +3,7 @@ title: 管理幣別與稅捐規則
 description: 瞭解如何設定貨幣以及 [!DNL Commerce] 根據客戶與產品類別計算適當稅捐時所使用的稅捐規則。
 kt: 10542
 doc-type: feature video
+duration: 157
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 商店管理員
-- 電子商務管理員
+* 商店管理員
+* 電子商務管理員
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## 其他資源
 
-- [稅捐規則 —  [!DNL Commerce] 存放與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=zh-Hant)
-- [貨幣 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=zh-Hant)
+* [稅捐規則 —  [!DNL Commerce] 存放與購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [貨幣 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

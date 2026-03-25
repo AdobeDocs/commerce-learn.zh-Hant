@@ -7,12 +7,12 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 848
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
 exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -25,21 +25,21 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- Commerce架構師
-- 電子商務網站擁有者
+* 網站管理員
+* Commerce架構師
+* 電子商務網站擁有者
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3432825?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
 
 ## 影片中提到的Experience League檔案
 
-- [部署程式](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=zh-Hant)
-- [SWAT全網站分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=zh-Hant)
-- [ECE工具智慧精靈](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=zh-Hant)
-- [安全性掃描](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=zh-Hant)
-- [Fastly WAF Web應用程式防火牆](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=zh-Hant)
-- [New Relic服務總覽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=zh-Hant)
+* [部署程式](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+* [SWAT全網站分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [ECE工具智慧精靈](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+* [安全性掃描](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+* [Fastly WAF Web應用程式防火牆](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+* [New Relic服務總覽](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

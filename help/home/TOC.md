@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '871'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,18 @@ ht-degree: 3%
 
 + 擴充性 {#extensibility}
    + 後端開發 {#backend-development}
-      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+      + [修改資料庫資料表的最佳實務](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [建立模組](../backend-development/create-module.md)
       + [新增產品屬性](../backend-development/add-product-attribute.md)
       + [相依性插入範例](../backend-development/dependency-injection.md)
       + [Galera叢集緩慢復寫](../backend-development/galera-db-slow-replication.md)
       + [MySQL查詢快取](../backend-development/mysql-query-cache.md)
       + [PT查詢摘要](../backend-development/pt-query-digest.md)
-      + [連線和下載Adobe Commerce資料庫](../backend-development/remote-db-connection-execute-queries.md)
+      + [連線並針對Adobe Commerce資料庫執行查詢](../backend-development/remote-db-connection-execute-queries.md)
       + Commerce升級 {#upgrade}
          + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
          + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [使用PHP Storm中的升級相容性工具](../upgrade/uct-phpstorm.md)
+         + [使用PhpStorm中的升級相容性工具](../upgrade/uct-phpstorm.md)
    + 前端Luma開發 {#frontend-development}
       + 適用於開發人員的PaaS/SaaS頁面產生器 {#page-builder}
          + [1 — 簡介](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -131,12 +131,12 @@ ht-degree: 3%
          + Headless簡介 {#introduction-to-headless}
             + [Headless架構 — 工作階段1](../headless/session-1.md)
          + PWA Studio簡介 {#introduction}
-            + [1 — 概觀](../pwa/introduction/1-overview.md)
-            + [2 - PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 — 啟動](../pwa/introduction/3-launch.md)
-            + [4 — 向上](../pwa/introduction/4-upward.md)
-            + [5 — 快速入門](../pwa/introduction/5-getting-started.md)
-            + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
+            + [概觀](../pwa/introduction/1-overview.md)
+            + [PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Launch](../pwa/introduction/3-launch.md)
+            + [向上](../pwa/introduction/4-upward.md)
+            + [快速入門](../pwa/introduction/5-getting-started.md)
+            + [Peregrine](../pwa/introduction/6-peregrine.md)
          + [PWA Docker開發](../pwa/pwa-docker-development.md)
          + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
    + GraphQL和REST {#graphql-rest}
@@ -273,7 +273,7 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 
 
 

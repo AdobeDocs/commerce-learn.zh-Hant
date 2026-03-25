@@ -5,6 +5,7 @@ landing-page-description: 觀看此系列影片，瞭解Progressive Web Applicat
 short-description: 觀看此系列影片，瞭解Progressive Web Applications (PWA)，以及PWA Studio之所以是 [!DNL Commerce] 網站未來趨勢的原因。
 kt: 5644
 doc-type: video
+duration: 658
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: 26b1b560-c155-4316-9481-44679bf9216a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 14%
@@ -24,19 +25,19 @@ ht-degree: 14%
 
 在本影片中：
 
-- PWA (Progressive Web Application)是什麼？
-- 為什麼PWA是電子商務的未來？
+* PWA (Progressive Web Application)是什麼？
+* 為什麼PWA是電子商務的未來？
 
 ## 這部影片是給誰看的？
 
-- 前端開發人員
-- 專案經理
+* 前端開發人員
+* 專案經理
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/35715?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35715?learn=on)
 
 ## 有用的資源
 
-- [PWA Studio檔案](https://developer.adobe.com/commerce/pwa-studio/)
-- [PWA Studio GitHub存放庫](https://github.com/magento/pwa-studio)
+* [PWA Studio檔案](https://developer.adobe.com/commerce/pwa-studio/)
+* [PWA Studio GitHub存放庫](https://github.com/magento/pwa-studio)

@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 297
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
 exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -24,16 +24,16 @@ ht-degree: 0%
 
 ## 此影片給誰看
 
-- 開發人員與IT專業人員
-- 系統管理員
+* 開發人員與IT專業人員
+* 系統管理員
 
 ## 視訊內容
 
-- 診斷並解決儲存問題：
-- 管理維護模式
-- 有效的疑難排解提示
+* 診斷並解決儲存問題：
+* 管理維護模式
+* 有效的疑難排解提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3447704?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## 視訊中使用的命令

@@ -6,16 +6,16 @@ topic: Migration, Architecture
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 339
+duration: 363
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20094
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 45687736-d1be-4d9a-9355-024cfafbf08c
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
-
 
 # 移轉至Adobe Commerce as a Cloud Service
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 瞭解移轉選項，包括完整移轉、分階段採用和隨附解決方案。
 * 瞭解Adobe如何透過App Builder和API Mesh支援使用工具、合作夥伴協助和擴充功能進行移轉。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478800/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478800?learn=on)

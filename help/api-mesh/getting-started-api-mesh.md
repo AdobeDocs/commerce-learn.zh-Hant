@@ -5,6 +5,7 @@ landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Build
 short-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安裝 Adobe IO、處理專案、建立 GraphQL 反向 Proxy 等。
 kt: 11802
 doc-type: tutorial
+duration: 442
 audience: all
 last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 16%
@@ -41,7 +42,7 @@ API Mesh結合多個資料來源以取得單一回應，供您的應用程式使
 * 結帳時執行即時詳細目錄檢查的使用案例
 * 將開發工作與資源使用從您的商務應用程式中移開
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?learn=on)
 
 ## 範例使用案例
 

@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 95
+duration: 130
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
 exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Adobe Commerce成功加速計畫採用和啟用包含三個關鍵服務：使用
 * 多工作階段桌邊輔導，以縮小技能差距，並符合策略優先順序。
 * 建立存取權、許可權和設計控管，以確保適當的產品採用和最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463089/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457657?learn=on)

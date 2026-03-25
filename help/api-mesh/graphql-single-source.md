@@ -5,6 +5,7 @@ landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Build
 short-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 瞭解如何建立具有一個來源的網格。
 kt: 11804
 doc-type: tutorial
+duration: 510
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -36,7 +37,7 @@ ht-degree: 0%
 * 從JSON設定檔案建立網格
 * 存取新建立的GraphQL端點
 
->[!VIDEO](https://video.tv.adobe.com/v/3430824?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?learn=on)
 
 ## 建立json設定檔案
 

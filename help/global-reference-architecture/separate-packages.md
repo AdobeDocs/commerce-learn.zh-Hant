@@ -3,6 +3,7 @@ title: 個別套件全球參考架構
 description: 使用獨立的套件GRA最佳化Adobe Commerce。 瞭解彈性的版本化套件管理的設定、好處和最佳實務。
 jira: KT-16727
 doc-type: tutorial
+duration: 594
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -35,16 +36,16 @@ ht-degree: 0%
 
 優點：
 
-- 透過共用程式碼存放庫重複使用程式碼
-- 封裝安裝的完整彈性，每個GRA封裝都可以個別升級、降級或反向移植
-- 完全支援語意版本設定
-- 不需要特殊的工具、複雜的基礎架構或特殊的分支策略
-- 支援Composer支援的所有套件型別
+* 透過共用程式碼存放庫重複使用程式碼
+* 封裝安裝的完整彈性，每個GRA封裝都可以個別升級、降級或反向移植
+* 完全支援語意版本設定
+* 不需要特殊的工具、複雜的基礎架構或特殊的分支策略
+* 支援Composer支援的所有套件型別
 
 缺點：
 
-- 在這個GRA模式中的開發在開始時會稍微困難一些，會有小段學習曲線
-- 可能部署未以相同組態開發的套件組合，需要嚴格的測試程式
+* 在這個GRA模式中的開發在開始時會稍微困難一些，會有小段學習曲線
+* 可能部署未以相同組態開發的套件組合，需要嚴格的測試程式
 
 ## 使用個別套件GRA模式設定Adobe Commerce
 
@@ -84,9 +85,9 @@ git push -u origin main
 
 此全域參考架構模式中的每個套件都有自己的Git存放庫。 以下是包含Adobe Commerce模組的範例套件，這些模組代表GRA模組、第三方模組及本機模組。
 
-- <https://github.com/AntonEvers/module-example-gra>
-- <https://github.com/AntonEvers/module-example-3rdparty>
-- <https://github.com/AntonEvers/module-example-local>
+* <https://github.com/AntonEvers/module-example-gra>
+* <https://github.com/AntonEvers/module-example-3rdparty>
+* <https://github.com/AntonEvers/module-example-local>
 
 使用範例建立您自己的套件。
 
@@ -290,10 +291,10 @@ composer install --prefer-source
 
 此部落格的程式碼範例已合併到一組Git存放庫中，可供您用來進行概念證明的遊戲。
 
-- 範例生產存放區： <https://github.com/AntonEvers/gra-separate-brand-x>
-- 基礎模組範例： <https://github.com/AntonEvers/module-example-gra>
-- 範例第三方模組： <https://github.com/AntonEvers/module-example-3rdparty>
-- 範例本機模組： <https://github.com/AntonEvers/module-example-local>
-- 基礎中繼資料範例： <https://github.com/AntonEvers/gra-meta-foundation>
-- 本機中繼資料範例（選擇性）： <https://github.com/AntonEvers/gra-meta-brand-x>
-- 範例撰寫器存放庫： <https://github.com/AntonEvers/gra-composer-repository>
+* 範例生產存放區： <https://github.com/AntonEvers/gra-separate-brand-x>
+* 基礎模組範例： <https://github.com/AntonEvers/module-example-gra>
+* 範例第三方模組： <https://github.com/AntonEvers/module-example-3rdparty>
+* 範例本機模組： <https://github.com/AntonEvers/module-example-local>
+* 基礎中繼資料範例： <https://github.com/AntonEvers/gra-meta-foundation>
+* 本機中繼資料範例（選擇性）： <https://github.com/AntonEvers/gra-meta-brand-x>
+* 範例撰寫器存放庫： <https://github.com/AntonEvers/gra-composer-repository>

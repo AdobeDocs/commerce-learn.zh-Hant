@@ -3,6 +3,7 @@ title: 瞭解Percona Toolkit pt-query-digest的運作方式及其使用原因
 description: 從緩慢、一般和二進位記錄檔中分析MySQL查詢。 它也可以從tcpdump分析「SHOW PROCESSLIST」和MySQL通訊協定資料的查詢。
 kt: 13846
 doc-type: video
+duration: 510
 activity: use
 last-substantial-update: 2023-8-28
 feature: Backend Development, Tools and External Services, Logs
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -24,17 +25,17 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 架構師
-- 開發人員
-- DevOps
+* 架構師
+* 開發人員
+* DevOps
 
 ## 視訊內容
 
-- 瞭解pt-query-digest用法
-- 瞭解此Percona Toolkit功能的優點和缺點
-- 瞭解結果並瞭解應考慮哪些可能的效能步驟
+* 瞭解pt-query-digest用法
+* 瞭解此Percona Toolkit功能的優點和缺點
+* 瞭解結果並瞭解應考慮哪些可能的效能步驟
 
->[!VIDEO](https://video.tv.adobe.com/v/3452305?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 程式碼參考
 
@@ -46,4 +47,4 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 
 ## 有用的資源
 
-- [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
+* [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}

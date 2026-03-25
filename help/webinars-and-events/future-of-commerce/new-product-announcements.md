@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 783
+duration: 838
 last-substantial-update: 2025-05-15T00:00:00Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 * Adobe Commerce Optimizer可讓擁有複雜或舊式系統的企業在不需完整重新平台的情況下，實現其客戶體驗的現代化，擔當通往雲端服務的橋樑。
 * 靈活、漸進的採用路徑，可讓企業根據自己的步調進行轉換，持續支援現有解決方案，並延長版本支援時間表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458484/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
 
 ## 此系列的其他影片
 

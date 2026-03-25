@@ -3,6 +3,7 @@ title: 建立可下載的產品
 description: 瞭解如何使用REST API和Adobe Commerce管理員建立可下載的產品。
 kt: 14464
 doc-type: video
+duration: 946
 audience: all
 activity: use
 last-substantial-update: 2023-11-16T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -24,13 +25,13 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- 電子商務銷售商
-- 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立產品
+* 網站管理員
+* 電子商務銷售商
+* 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立產品
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3453958?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## 允許下載的網域
 
@@ -44,7 +45,7 @@ ht-degree: 0%
 
 若要設定網域，請連線到伺服器： `bin/magento downloadable:domains:add www.example.com`
 
-完成之後，就會在&#x200B;_downloadable_domains_&#x200B;陣列中修改`env.php`。
+完成之後，就會在`env.php`downloadable_domains _陣列中修改_。
 
 ```php
     'downloadable_domains' => [
@@ -54,7 +55,7 @@ ht-degree: 0%
 
 現在已將網域新增到`env.php`，您可以在Adobe Commerce管理員中或使用REST API建立可下載的產品。
 
-請參閱[組態參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hant#downloadable_domains)以瞭解更多資訊。
+請參閱[組態參考](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)以瞭解更多資訊。
 
 >[!IMPORTANT]
 >在某些版本的Adobe Commerce上，當您在Adobe Commerce管理員中編輯產品時，可能會收到以下錯誤。 產品是使用REST API建立，但連結的下載專案價格為`null`。
@@ -112,24 +113,24 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## 使用cURL建立可下載的產品(從Commerce應用程式伺服器下載)
+## 使用cURL建立可下載的產品（從Commerce應用程式伺服器下載）
 
 此範例示範當檔案儲存於與Adobe Commerce應用程式相同的伺服器時，如何使用cURL從Adobe Commerce管理員建立可下載的產品。
 
 在此使用案例中，當管理目錄的管理員選擇`upload file`時，檔案會傳輸到`pub/media/downloadable/files/links/`目錄。  Automation會根據下列模式，建立檔案並將其移動到其各自的位置：
 
-- 每個上傳的檔案會根據檔案名稱的前兩個字元儲存在資料夾中。
-- 開始上傳時，Commerce應用程式會建立或使用現有資料夾來傳輸檔案。
-- 下載檔案時，路徑的`link_file`區段會使用附加至`pub/media/downloadable/files/links/`目錄的路徑部分。
+* 每個上傳的檔案會根據檔案名稱的前兩個字元儲存在資料夾中。
+* 開始上傳時，Commerce應用程式會建立或使用現有資料夾來傳輸檔案。
+* 下載檔案時，路徑的`link_file`區段會使用附加至`pub/media/downloadable/files/links/`目錄的路徑部分。
 
 例如，如果上傳的檔案名為`download-example.zip`：
 
-- 檔案已上傳至路徑`pub/media/downloadable/files/links/d/o/`。
+* 檔案已上傳至路徑`pub/media/downloadable/files/links/d/o/`。
 如果子目錄`/d`和`/d/o`不存在，則會建立它們。
 
-- 檔案的最終路徑為`/pub/media/downloadable/files/links/d/o/download-example.zip`。
+* 檔案的最終路徑為`/pub/media/downloadable/files/links/d/o/download-example.zip`。
 
-- 此範例的`link_url`值為`d/o/download-example.zip`
+* 此範例的`link_url`值為`d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -236,7 +237,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 其他資源
 
-- [可下載的產品型別](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=zh-Hant){target="_blank"}
-- [可下載的網域設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hant#downloadable_domains){target="_blank"}
-- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [可下載的產品型別](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [可下載的網域設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

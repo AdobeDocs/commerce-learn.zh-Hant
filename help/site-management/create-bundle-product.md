@@ -3,6 +3,7 @@ title: 建立套件組合產品
 description: 瞭解如何使用REST API和Commerce管理員建立套件組合產品。
 kt: 14589
 doc-type: video
+duration: 1335
 audience: all
 activity: use
 last-substantial-update: 2024-1-8
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
@@ -24,18 +25,18 @@ ht-degree: 0%
 
 例如，您可以在網站商店中提供名為`Learning to surf`的產品組合。 套件是父級產品，可作為指定可用選項的已指派子級產品的容器：
 
-- 標準衝浪板
-- 典型的衝浪板拴扣
-- Red surfboard fins
+* 標準衝浪板
+* 典型的衝浪板拴扣
+* Red surfboard fins
 
 當需要額外彈性時，建議允許子產品的多個選項。 這需要更複雜地使用選項和子產品。 若要在上一個範例中展開，最後的選項為：
 
-- 標準衝浪板
-- 典型的衝浪板拴扣
-- 翅膀顏色選擇：
-   - 紅色
-   - 藍色
-   - 黃色
+* 標準衝浪板
+* 典型的衝浪板拴扣
+* 翅膀顏色選擇：
+   * 紅色
+   * 藍色
+   * 黃色
 
 無論套件組合是簡單產品的靜態群組，還是多種不同產品，彈性的設定選項讓套件組合產品型別成為Adobe Commerce商店專屬且功能強大的銷售工具。
 
@@ -55,13 +56,13 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- 電子商務銷售商
-- 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立套件組合產品
+* 網站管理員
+* 電子商務銷售商
+* 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立套件組合產品
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3454515?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## 使用REST建立產品
 
@@ -69,7 +70,7 @@ ht-degree: 0%
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更`"attribute-set": 4`以使用您環境的屬性集ID取代`4`。
+* 變更`"attribute-set": 4`以使用您環境的屬性集ID取代`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -188,11 +189,11 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 建立套件組合產品並將簡單產品指派為選項
 
-傳送以下POST要求以建立套件組合產品。
+傳送下列POST要求以建立套件組合產品。
 
 在提交請求之前，請使用您環境的值更新範例。
 
-- 變更`"attribute_set_id": 4,`並以您環境的屬性集ID取代`4`。
+* 變更`"attribute_set_id": 4,`並以您環境的屬性集ID取代`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -319,7 +320,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 ## 還原產品選項
 
-更新套件產品選項時，請務必加入所有要與此產品相關聯的選項。 如果您的原始選項集包含三個產品且一個已移除，請在POST請求中包含所有三個選項，以確保產品套件指定所有選項。 如果您只包含移除的選項，則更新的產品套件組合只會包含該選項。
+更新套件產品選項時，請務必加入所有要與此產品相關聯的選項。 如果您的原始選項集包含三個產品且其中一個已移除，請在POST請求中包含所有三個選項，以確保產品套件指定所有選項。 如果您只包含移除的選項，則更新的產品套件組合只會包含該選項。
 
 檢閱套件產品建立的回應，以找到選項ID。 在該回應中，`option_id`是`35`。
 
@@ -429,7 +430,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## 其他資源
 
-- [建立套件組合產品教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [套件組合產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=zh-Hant){target="_blank"}
-- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [建立套件組合產品教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [套件組合產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+* [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

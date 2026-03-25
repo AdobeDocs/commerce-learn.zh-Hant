@@ -1,46 +1,44 @@
 ---
-title: 連線並執行對資料庫的查詢
-description: 瞭解連線至Adobe Commerce雲端專案的幾種方法。 瞭解如何提取資料庫以使用站外。 瞭解遮罩和移除PII的一些方法。
+title: 連線並針對Adobe Commerce資料庫執行查詢
+description: 連線至雲端專案上的Adobe Commerce、建立資料庫傾印以供異地使用、遮罩或移除PII，以及使用Cloud CLI、GUI使用者端或直接連線執行SQL。
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
 role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
-duration: 0
+duration: 1024
 last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: 9af981957b5c8722002a5c1cbd09b71e98e0a754
+source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
 
 # 連線並針對Adobe Commerce資料庫執行查詢
 
-瞭解如何連線至雲端專案上的Adobe Commerce、建立資料庫傾印以供異地使用，以及透過遮罩或移除來處理個人識別資訊(PII)。 瞭解如何使用各種方法存取Adobe Commerce資料，包括本機資料庫傾印、與MySQL Workbench或TablesPlus等應用程式的遠端資料庫連線，以及透過Magento雲端CLI工具的直接連線。
+瞭解如何連線至雲端專案上的Adobe Commerce、建立資料庫傾印以供異地使用，以及遮罩或移除個人識別資訊(PII)。 使用本機傾印、GUI （例如MySQL Workbench或TablePlus）或`magento-cloud` CLI存取資料。
 
 ## 視訊內容
 
-* 瞭解如何使用MysqlWorkbench或TablesPlus等工具快速連線到遠端Adobe Commerce Cloud專案。
-* 瞭解如何快速連線至Adobe Commerce專案，以透過命令列執行SQL
+* 使用GUI工具（例如MySQL Workbench或TablePlus）連線到遠端Adobe Commerce Cloud專案。
+* 連線至專案，並從命令列執行SQL。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450047?learn=on&captions=chi_hant)
-
-瞭解如何連線到雲端專案上的Adobe Commerce、傾印資料庫以供異地使用，以及遮罩PII並將其移除。
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 您可以使用下列任一方法，從雲端專案存取Adobe Commerce資料：
 
-* 使用本機資料庫傾印
-* 使用Mysql Workbench或Tables Plus之類的應用程式來建立與遠端雲端環境的DB連線
-* 使用magento-cloud CLI工具直接連線至雲端環境，並在遠端伺服器上執行命令
+* 使用本機資料庫傾印。
+* 使用MySQL Workbench或TablePlus等應用程式開啟與遠端雲端環境的DB連線。
+* 使用`magento-cloud` CLI直接連線到雲端環境，並在遠端伺服器上執行命令。
 
-建議的方法是執行資料庫傾印並擦除它以移除任何客戶資訊。 如果不需要資料，請完全移除客戶資料。
+偏好使用您清除以移除客戶資訊的資料庫傾印。 完全移除不需要的客戶資料。
 
 ## 使用Adobe Commerce Cloud CLI工具
 
-建立資料庫傾印需要您安裝[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hant)。 在本機筆記型電腦上，移至目錄，然後執行下列命令。 請確定以類似`asasdasd45q`的專案識別碼取代`your-project-id`。 您也需要將`your-environment-name`取代為您的環境名稱，例如`master`或`staging`。
+您必須安裝[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)，才能建立資料庫傾印。 在本機電腦上，開啟目錄並執行下列命令。 將`your-project-id`取代為您的專案識別碼（類似`asasdasd45q`）。 將`your-environment-name`取代為您的環境名稱，例如`master`或`staging`。
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -62,7 +60,7 @@ cd ~/Downloads/db-tutorial
 magento-cloud db:dump
 ```
 
-由於我們未指定專案或環境，Adobe Commerce CLI將會詢問幾個問題，以下是一些範例對話方塊
+由於您未指定專案或環境，Adobe Commerce Cloud CLI會詢問您幾個問題。 下列範例顯示範例對話方塊。
 
 ```bash
 Enter a number to choose a project:
@@ -141,10 +139,10 @@ total size is 2690241  speedup is 1.00
 ```bash
 ls -lah
 total 29840
-drwxr-xr-x    4 <ussername>  staff   128B Feb 13 13:02 .
-drwx------@ 103 <ussername>   staff   3.2K Feb 13 12:52 ..
--rw-r--r--    1 <ussername>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
--rw-r--r--    1 <ussername>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
+drwxr-xr-x    4 <username>  staff   128B Feb 13 13:02 .
+drwx------@ 103 <username>   staff   3.2K Feb 13 12:52 ..
+-rw-r--r--    1 <username>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
+-rw-r--r--    1 <username>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
 ```
 
 取得資料後，請務必移除或遮罩客戶資料，加以清除。 以下範例指令碼將幫助您開始使用。
@@ -206,11 +204,11 @@ SET FOREIGN_KEY_CHECKS=1;
 
 或者，您可以刪除記錄，而不是遮罩資訊，這樣也會使新的DB變小。 遮罩或移除PII後，資料就可以安全地提供給隊友，以供在本機環境使用。
 
-## 到Adobe Commerce Cloud專案的遠端DB連線
+## 與Adobe Commerce Cloud專案的遠端資料庫連線
 
-此方法不允許意外編輯和刪除真實資料。 使用此方法時請務必謹慎。 建議使用資料庫備份並離線檢閱資料。 某些情況下需要直接在Adobe Commerce Cloud存取資料，但這確實有風險。 沒有「您確定嗎？」 如有疑問，可能會無意中變更或移除資料。
+此方法可讓您意外編輯和刪除即時資料。 請謹慎使用。 您可以時偏好使用資料庫備份和離線檢閱。 有時您必須直接在Adobe Commerce Cloud上存取資料；該工作流程仍有風險。 GUI不會新增確認提示，因此您可能會錯誤地變更或移除資料。
 
-超重要！ 進行遠端DB連線既方便又使用真實即時資料，但也有風險。 我個人及身為Adobe Commerce的主要技術架構師，不建議這麼做。 很容易忘記您位於遠端DB，並意外刪除或修改資料。 您可以選擇連線到唯讀復本，但是這會根據SQL活動的負載大小對網站造成一些影響。 不過，由於這是可能的，因此以下是完成此目標的步驟。
+使用遠端資料庫連線很方便，但是風險很大。 您很容易忘記自己已連線至生產環境，並且刪除或變更資料。 您可以連線到唯讀復本，但繁重的SQL仍會影響網站。 Adobe不建議以例行遠端連線方式連線至可寫入的資料庫；請務必瞭解風險，才使用下列步驟。
 
 建立SSH通道：
 
@@ -256,19 +254,19 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 ```
 
-現在您有了正確的資訊，請繼續將這些值插入Cloud Console。
+現在您有了正確的資訊，請在Cloud Console中輸入這些值。
 
 您可以在Cloud Console的雲端憑證中找到SSH主機名稱和使用者名稱。
 
-![標誌 — Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
+![Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
 以下是範例： `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 SSH主機名稱是@符號後面的所有專案：此範例中的`ssh.us-4.magento.cloud`。
-SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-ecpefky—mymagento`
+SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-ecpefky--mymagento`
 
 ## 尋找要連線到資料庫的值
 
-直接存取MariaDB資料庫需要使用SSH登入遠端雲端環境並連線至資料庫。
+若要直接存取MariaDB資料庫，請使用SSH登入遠端雲端環境並連線至資料庫。
 
 1. 使用SSH登入遠端環境。
 
@@ -276,7 +274,7 @@ SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-e
    magento-cloud ssh
    ```
 
-1. 從[$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hant#relationships)變數中的`database`和`type`屬性擷取MySQL登入認證。
+2. 從`database`$MAGENTO_CLOUD_RELATIONSHIPS`type`變數中的[和](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships)屬性擷取MySQL登入認證。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +312,15 @@ SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-e
 
 然後使用您MySQL GUI中的設定值。 下列範例使用MySQL Workbench，但任何支援MySQL連線的應用程式都會有類似的欄位。
 
-![logo — 使用Mysql Workbench的Mysql GUI範例](./assets/mysql-workbench-after-connecting.png "使用Mysql Workbench的Mysql GUI範例")
+![MySQL Workbench連線範例](./assets/mysql-workbench-after-connecting.png "MySQL Workbench連線範例")
 
-![logo — 使用TablesPlus的Mysql GUI範例](./assets/tablesPlus-db-connection.png "使用TablesPlus的Mysql GUI範例")
+![TablePlus連線範例](./assets/tablesPlus-db-connection.png "TablePlus連線範例")
 
-完成所有設定後，就可以使用MySQL GUI在遠端Adobe Commerce Cloud專案上執行查詢。
+設定連線後，您可以使用MySQL GUI在遠端Adobe Commerce Cloud專案上執行查詢。
 
 ## 直接連線到雲端專案資料庫以執行SQL
 
-下列方法使用`magento-cloud` cli直接連線至mysql資料庫並執行SQL，以加快資料庫查詢速度。 如果您需要複製此資料庫，請參考[建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hant)的替代方法之一。
+下列方法使用`magento-cloud` CLI直接連線至MySQL資料庫，並執行SQL以加快查詢速度。 如果您需要此資料庫的復本，請使用其中一種替代方法[建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)。
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +380,7 @@ MariaDB [main]>
 
 ## 其他資源
 
-[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hant)
-[設定MySQL服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=zh-Hant)
-[設定遠端MySQL資料庫連線](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=zh-Hant)
-[在雲端基礎結構上的Adobe Commerce上建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hant)
+* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [設定MySQL服務](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
+* [設定遠端MySQL資料庫連線](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
+* [在雲端基礎結構上的Adobe Commerce上建立資料庫傾印](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

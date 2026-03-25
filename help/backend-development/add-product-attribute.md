@@ -3,6 +3,7 @@ title: 建立產品屬性
 description: 建立一個傳回json的頁面，並包含一個引數。
 kt: 14131
 doc-type: video
+duration: 605
 activity: use
 last-substantial-update: 2023-2-10
 feature: Configuration, System, Backend Development
@@ -10,7 +11,7 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -23,29 +24,29 @@ ht-degree: 0%
 
 在本影片中：
 
-- 新增名為clothing_material的屬性，其可能值為：棉花、皮革、絲綢、牛仔布、毛皮和羊毛
-- 以粗體文字在產品檢視頁面上顯示此屬性
-- 將其指派給預設屬性集並新增限制
-- 新增屬性
+* 新增名為clothing_material的屬性，其可能值為：棉花、皮革、絲綢、牛仔布、毛皮和羊毛
+* 以粗體文字在產品檢視頁面上顯示此屬性
+* 將其指派給預設屬性集並新增限制
+* 新增屬性
 
 ## 這部影片是給誰看的？
 
-- 剛開始使用Commerce且需要瞭解如何以程式設計方式建立產品屬性的開發人員
+* 剛開始使用Commerce且需要瞭解如何以程式設計方式建立產品屬性的開發人員
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## 程式碼範例
 
 首先建立所需的資料夾、xml和PHP檔案：
 
-- app/code/Learning/ClothingMaterial/registration.php
-- app/code/Learning/ClothingMaterial/etc/module.xml
-- app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/InstallData.php
+* app/code/Learning/ClothingMaterial/registration.php
+* app/code/Learning/ClothingMaterial/etc/module.xml
+* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+* app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 

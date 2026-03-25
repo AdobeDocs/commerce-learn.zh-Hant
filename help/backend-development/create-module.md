@@ -1,42 +1,42 @@
 ---
 title: 建立模組
-description: 瞭解如何在Adobe Commerce中建立傳送資訊給PSR記錄器的模組。 這會將功能新增至Adobe Commerce中的第一個模組。
-kt: 5614
-doc-type: video
+description: 在Adobe Commerce中建立並註冊模組、執行設定，以及新增在管理區域、店面和REST API內容中記錄到PSR記錄器的外掛程式。
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23T00:00:00Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
+source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # 建立模組
 
-模組是[!DNL Commerce]的結構元素 — 整個系統建置在模組上。 通常，建立自訂化的第一步是建置模組。
+模組是[!DNL Commerce]的結構元素 — 模組構成系統的骨幹。 您通常會透過建置模組來開始自訂。
 
 ## 這部影片是給誰看的？
 
-- 開發人員
+* 後端開發人員
 
 ## 新增模組的步驟
 
-- 建立模組資料夾。
-- 建立etc/module.xml檔案。
-- 建立registration.php檔案。
-- 執行bin/magento設定。
-- 升級指令碼以安裝新模組。
-- 檢查模組是否正常運作。
+1. 建立模組資料夾。
+2. 建立`etc/module.xml`檔案。
+3. 建立`registration.php`檔案。
+4. 執行`bin/magento setup:upgrade`以登入並安裝模組。
+5. 檢查模組是否正常運作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### module.xml檔案
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +50,7 @@ ht-degree: 0%
 </config>
 ```
 
-### registration.php
+### registration.php檔案
 
 ```php
 <?php
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### 新增外掛程式並提供一些功能
+### 新增外掛程式
 
-下一步是將一些功能新增至我們的基本模組。 外掛程式是所有Adobe Commerce開發人員使用的基本工具。 此影片和教學課程可協助您建立外掛程式。
+接下來，將功能新增至基本模組。 您使用外掛程式作為Adobe Commerce開發的基本工具。 本影片和教學課程說明如何建立外掛程式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
 ### 外掛程式的注意事項
 
-- 所有外掛程式皆已在`di.xml`中宣告。
-- 外掛程式需要唯一的名稱
-- 已停用，且sortOrder為選用
-- 外掛程式的範圍由其所在的資料夾設定
-- 外掛程式可以在呼叫方法之前、之後或兩者同時執行
-- 避免使用`around`外掛程式。 這些設定很吸引人，但經常是錯誤的選擇，並會導致效能問題。
+* 您在`di.xml`中宣告所有外掛程式。
+* 您可以為每個外掛程式指定唯一的名稱。
+* 您可以選擇設定`disabled`和`sortOrder`屬性。
+* 您透過選擇包含`di.xml`檔案的資料夾來設定外掛程式範圍。
+* 您會在目標方法呼叫之前、之後或周圍執行外掛程式。
+* 避免`around`外掛程式。 它們會引誘您，但通常代表錯誤的選擇，並造成效能問題。
 
 ### 外掛程式程式碼範例
 
-以下是在教學課程中用來將外掛程式新增至第一個模組的XML和PHP類別
+本教學課程使用下列XML和PHP類別，將外掛程式新增至您的第一個模組。
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## 有用的資源
 
-- [模組參考指南](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [外掛程式](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [模組參考指南](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [外掛程式](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

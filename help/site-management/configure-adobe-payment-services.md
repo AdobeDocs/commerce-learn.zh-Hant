@@ -2,6 +2,7 @@
 title: 設定Adobe Commerce支付服務
 description: 瞭解如何設定Adobe Commerce支付服務。
 doc-type: video
+duration: 310
 kt: 14748
 audience: all
 activity: use
@@ -11,8 +12,8 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案(Adobe管理的PaaS基礎結構)和內部部署專案的Adobe Commerce 。"
-source-git-commit: 182563f9f53cc2de5a1a0577d6d0ee39d0874cef
+badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -25,8 +26,8 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 營運工程師
-- 電子商務經理與聯絡點
+* 營運工程師
+* 電子商務經理與聯絡點
 
 ## 視訊內容
 
@@ -34,6 +35,6 @@ ht-degree: 0%
 
 ## 其他資源
 
-- [內建付款服務](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=zh-Hant){target="_blank"}
-- [付款服務指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=zh-Hant){target="+blank"}
-- [Commerce服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hant){target="+blank"}
+* [內建付款服務](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+* [付款服務指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+* [Commerce服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

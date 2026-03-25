@@ -3,6 +3,7 @@ title: 建立群組的產品
 description: 瞭解如何使用REST API和Commerce管理員建立分組產品。
 kt: 14585
 doc-type: video
+duration: 979
 audience: all
 activity: use
 last-substantial-update: 2023-11-30T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -37,13 +38,13 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-- 網站管理員
-- 電子商務銷售商
-- 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立分組的產品。
+* 網站管理員
+* 電子商務銷售商
+* 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立分組的產品。
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3454049?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## 群組產品的設定
 
@@ -205,7 +206,7 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 在承載中，`link_type`值`associated`提供DELETE要求中所需的`{type}`值。 要求URL將類似於`/V1/products/my-new-grouped-product/links/associated/product-sku-three`。
 
-檢視cURL要求，以從具有`my-new-grouped-product` SKU的分組產品中刪除具有`product-sku-three` SKU的簡單產品：
+檢視cURL要求，以從具有`product-sku-three` SKU的分組產品中刪除具有`my-new-grouped-product` SKU的簡單產品：
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -223,7 +224,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## 其他資源
 
-- [建立和管理群組產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [已分組的產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=zh-Hant){target="_blank"}
-- [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [建立和管理群組產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [已分組的產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

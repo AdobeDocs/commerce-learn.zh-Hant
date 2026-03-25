@@ -6,11 +6,11 @@ topic: Commerce, Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 624
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * 瞭解如何在Adobe Commerce Cloud中找出任何環境的IP位址。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457493/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457493?learn=on)
 
 ## 取得IP位址的命令
 
@@ -50,7 +50,7 @@ magento-cloud CLI工具旨在協助開發人員和系統管理員有效管理Ado
 
 在範常式式碼的這個初始區段中，`magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`它正在要求環境的URL。 傳回的值看起來像這樣`http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`。 偶爾會看起來更像此`http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`。  第一個指令相當簡單，現在可以移至下一個指令。
 
-如需詳細資訊，請閱讀[雲端CLI概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+如需詳細資訊，請閱讀[雲端CLI概觀](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## 使用`sed`進行搜尋和取代
 
@@ -120,4 +120,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 相關檔案
 
-* [地區IP位址](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [地區IP位址](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

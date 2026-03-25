@@ -5,6 +5,7 @@ landing-page-description: 瞭解如何使用Adobe Commerce條件事件。
 short-description: 瞭解如何使用Adobe Commerce條件事件。
 kt: 11890
 doc-type: tutorial
+duration: 421
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -36,7 +37,7 @@ ht-degree: 0%
 * 定義用於條件事件的規則
 * 瞭解如何在Commerce執行個體`app/etc/config.php`中註冊事件
 
->[!VIDEO](https://video.tv.adobe.com/v/3430658?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?learn=on)
 
 ## 有用的命令 {#useful-commands}
 
