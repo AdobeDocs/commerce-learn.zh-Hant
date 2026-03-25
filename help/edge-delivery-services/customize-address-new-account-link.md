@@ -44,4 +44,4 @@ ht-degree: 0%
 
 ## 其他檔案
 
-* [使用者帳戶](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [使用者帳戶](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=zh-Hant)
