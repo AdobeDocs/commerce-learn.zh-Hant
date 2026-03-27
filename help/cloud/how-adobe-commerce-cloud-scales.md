@@ -32,6 +32,6 @@ ht-degree: 0%
 
 ## 相關檔案
 
-* [雲端上的Commerce — 專案概觀](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
-* [效能測試指引](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [雲端上的Commerce — 專案概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/project/overview)
+* [效能測試指引](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [啟動前檢查清單](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)
