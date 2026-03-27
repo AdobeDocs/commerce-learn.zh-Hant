@@ -30,13 +30,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->影片內容反映2.4.0版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)。
+>影片內容反映2.4.0版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## 其他資源
 
-* [雙因素驗證(2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [使用者帳戶的雙因素驗證設定](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [管理雙因素驗證](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [雙因素驗證(2FA)](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [使用者帳戶的雙因素驗證設定](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [管理雙因素驗證](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [設定雙因素驗證(2FA) — 開發人員檔案](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
