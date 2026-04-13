@@ -1,21 +1,18 @@
 ---
-title: App Builders建立您的第一個應用程式
+title: 建立您的第一個App Builder應用程式
 description: 瞭解如何使用Adobe Developer App Builder並建立您的第一個應用程式。
-landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder並建立您的第一個應用程式。
-kt: 12421
-doc-type: tutorial
+jira: KT-12421
+doc-type: Tutorial
 duration: 197
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -31,7 +28,7 @@ ht-degree: 0%
 * [已建立Adobe Developer App Builder工作區 — 步驟2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [已執行初始化專案並執行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
-如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
+如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
 
 ## 閱讀本教學課程有何期望
 

@@ -1,5 +1,5 @@
 ---
-title: 使用AI工具的自訂運費|實作與測試
+title: 使用AI工具實作和測試自訂運費
 description: 瞭解如何實作及測試AI驅動的自訂運費、設定環境，以及驗證整合以提升結帳體驗。
 feature: Deploy
 topic: Development
@@ -10,9 +10,9 @@ duration: 385
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ ht-degree: 0%
 認證和環境已設定為部署和註冊新的出貨擴充功能。
 店面測試可確認外部運費如期顯示及運作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481368?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
