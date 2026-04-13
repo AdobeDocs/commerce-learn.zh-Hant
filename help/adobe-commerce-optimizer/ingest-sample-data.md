@@ -33,7 +33,7 @@ ht-degree: 0%
 * 建立原則。
 * 建立目錄檢視。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470485?captions=chi_hant&learn=on)
 
 ## 相關內容
 
