@@ -3,7 +3,6 @@ title: Salesforce Commerce Cloud Connector的架構概述
 description: 瞭解使用Adobe Commerce Optimizer的Salesforce Commerce Cloud架構。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,7 +10,7 @@ duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -33,4 +32,4 @@ ht-degree: 0%
 * 自訂SFCC卡匣和API會透過差異匯出偵測目錄變更，實現與Adobe App Builder的有效資料同步。
 * App Builder執行階段動作會管理完整和差異同步、驗證和狀態追蹤，以確保Commerce Optimizer的更新準確且不會發生衝突。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476062?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)

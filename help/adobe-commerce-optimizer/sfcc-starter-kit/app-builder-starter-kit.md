@@ -1,9 +1,8 @@
 ---
-title: 適用於Salesforce Commerce Cloud的App Builder Starter Kit概覽
+title: 適用於Salesforce Commerce Cloud的App Builder Starter Kit
 description: 瞭解適用於Salesforce Commerce Cloud的Adobe App Builder入門套件與Adobe Commerce Optimizer。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,9 +10,9 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -34,4 +33,4 @@ ht-degree: 0%
 * 複製App Builder Starter Kit，並使用Adobe IO CLI設定環境檔案。
 * 部署應用程式，並確認成功註冊工作區中的動作和事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476093?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

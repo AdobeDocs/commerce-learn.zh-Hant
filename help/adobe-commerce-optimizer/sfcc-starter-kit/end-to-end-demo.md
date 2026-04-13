@@ -3,7 +3,6 @@ title: Salesforce Commerce Cloud Connector的端對端示範
 description: 觀看使用Adobe Commerce Optimizer的Salesforce Commerce Cloud端對端示範。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,7 +10,7 @@ duration: 429
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -35,4 +34,4 @@ ht-degree: 0%
 * Salesforce Commerce Cloud目錄中的產品詳細資料和定價變更，會透過Delta Sync程式在Commerce Optimizer中自動偵測和更新。
 * 即時更新，並展示系統間的順暢資料流程與同步處理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476104?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
