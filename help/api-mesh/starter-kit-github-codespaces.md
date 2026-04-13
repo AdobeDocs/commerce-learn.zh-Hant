@@ -39,4 +39,4 @@ ht-degree: 0%
 
 * [API mesh starter kit GitHub存放庫](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer檔案graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh視訊播放清單](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh視訊播放清單](https://experienceleague.adobe.com/zh-hant/playlists/commerce-get-started-app-builder-and-api-mesh)
