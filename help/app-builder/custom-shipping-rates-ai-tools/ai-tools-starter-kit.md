@@ -1,5 +1,5 @@
 ---
-title: 使用AI工具建立自訂運費|建立功能
+title: 使用AI工具建立自訂運費的功能
 description: 瞭解如何使用Adobe的AI工具，建立自訂運費，並透過模擬API和安全設定擴充結帳功能。
 feature: Extensibility
 topic: Artificial Intelligence
@@ -10,7 +10,7 @@ duration: 341
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
