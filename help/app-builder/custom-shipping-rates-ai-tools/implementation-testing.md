@@ -33,6 +33,6 @@ ht-degree: 0%
 認證和環境已設定為部署和註冊新的出貨擴充功能。
 店面測試可確認外部運費如期顯示及運作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481368?captions=chi_hant&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
