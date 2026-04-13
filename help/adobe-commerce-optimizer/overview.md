@@ -7,10 +7,10 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 242
-last-substantial-update: 2025-03-6
+last-substantial-update: 2025-03-06T00:00:00Z
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Adobe Commerce Optimizer概觀
 
-Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現有的商務平台，提升自然流量並支援A/B測試等銷售工具。 它著重於增加店面流量和轉換率、提升銷售商生產力、擴充數位作業，以及簡化管理以降低成本，加速創新。 此解決方案與現有系統緊密整合，提供店面移轉服務、隨插即用型目錄整合，以及統一的目錄協調，非常適合尋求增加收入並最佳化購物體驗，而不需要重新打造平台的企業。
+Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現有的商務平台，提升自然流量並支援A/B測試等銷售工具。 它著重於增加店面流量和轉換率、提升銷售商生產力、擴充數位作業，以及簡化管理以降低成本，加速創新。 此解決方案與現有系統緊密整合，提供店面移轉服務、隨插即用型目錄整合，以及統一的目錄協調，非常適合希望在不重新平台的情況下增加收入並最佳化購物體驗的企業。
 
 ## 這部影片是給誰看的？
 
