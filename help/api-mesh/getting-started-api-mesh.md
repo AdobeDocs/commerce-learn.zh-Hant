@@ -1,23 +1,19 @@
 ---
 title: 開始使用API Mesh
 description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安裝 Adobe App Builder、處理專案、建立 GraphQL 反向 Proxy 等。
-landing-page-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安裝 Adobe IO、處理專案、建立 GraphQL 反向 Proxy 等。
-short-description: 瞭解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安裝 Adobe IO、處理專案、建立 GraphQL 反向 Proxy 等。
-kt: 11802
-doc-type: tutorial
+jira: KT-11802
+doc-type: Tutorial
 duration: 442
-audience: all
-last-substantial-update: 2023-8-27
+last-substantial-update: 2023-08-27T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 16%
+source-wordcount: '253'
+ht-degree: 6%
 
 ---
 
@@ -29,11 +25,11 @@ ht-degree: 16%
 
 API Mesh結合多個資料來源以取得單一回應，供您的應用程式使用。
 
-[檢視完整的API Mesh檔案](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[檢視完整的API Mesh檔案](https://developer.adobe.com/graphql-mesh-gateway/gateway/){target="_blank"}
 
 ## 這部影片是給誰看的？
 
-* 任何剛開始使用API Mesh或[!DNL Adobe Commerce]且使用[Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}和API Mesh經驗有限的開發人員。
+* 任何剛開始使用API Mesh或[!DNL Adobe Commerce]且使用[Adobe I/O Runtime](https://developer.adobe.com/app-builder/docs/intro_and_overview/what-is-app-builder){target="_blank"}和API Mesh經驗有限的開發人員。
 
 ## 視訊內容
 
