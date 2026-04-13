@@ -1,17 +1,16 @@
 ---
 title: 管理共用目錄
 description: 瞭解如何使用B2B共用目錄，以不同公司的自訂定價來維護閘道目錄。
-doc-type: feature video
+doc-type: Feature Video
 duration: 456
-audience: all
-activity: use
-last-substantial-update: 2023-5-10
+jira: KT-10682
+last-substantial-update: 2023-05-10T00:00:00Z
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 1e8f867de0a8c95fec285f99624c9079f0bdf9b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -37,5 +36,5 @@ Adobe Commerce的B2B可讓您使用不同公司的自訂價格，維護閘道共
 
 ## 其他資源
 
-* [使用共用目錄](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=zh-Hant){target="_blank"}
-* [建立共用目錄](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=zh-Hant){target="_blank"}
+* [使用共用目錄](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+* [建立共用目錄](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
