@@ -48,7 +48,7 @@ Learn about the cloud usage of Fastly for Adobe Commerce.
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432807?captions=chi_hant&learn=on)
 
 ## Experience League documentation and Fastly Adobe Commerce checker mentioned in the video
 

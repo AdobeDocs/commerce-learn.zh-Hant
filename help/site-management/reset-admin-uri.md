@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Learn how to reset the admin URI using the Adobe Commerce Cloud cli command. This is useful if the admin URL was changed from the admin but a mistake was made and you are no longer able to access the admin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439703?captions=chi_hant&learn=on)
 
 ## 教學課程中使用的一些命令
 

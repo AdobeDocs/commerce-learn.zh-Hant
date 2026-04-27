@@ -58,4 +58,4 @@ Learn about the architecture and key features of Adobe Commerce as a cloud servi
 * Comprehensive API Coverage: The platform supports extensive API coverage using GraphQL and REST APIs, enabling seamless integration with third-party systems.
 * Headless Architecture: Fully decoupled architecture allows developers to use various front-end frameworks, offering flexibility and performance.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443278?captions=chi_hant&learn=on)

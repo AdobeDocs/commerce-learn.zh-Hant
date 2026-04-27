@@ -54,4 +54,4 @@ Adobe Commerce’s roadmap for 2026 outlines a comprehensive strategy to enhance
 * Merchant Center &amp; Admin Experience
 * Developer Experience &amp; Observability Improvements
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475717?captions=chi_hant&learn=on)
