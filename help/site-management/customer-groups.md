@@ -50,5 +50,5 @@ Customer groups determine which discounts are available and the tax class that i
 
 ## 其他資源
 
-* [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=zh-Hant)
 * [Customer group limitations by websites - [!DNL Commerce] Customer Management Guide](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

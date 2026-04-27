@@ -59,7 +59,7 @@ Adobe Commerce的[!DNL Live Search]可免費為Adobe Commerce提供快速、超�
 
 ## 其他資源
 
-* [&#x200B; [!DNL Live Search]簡介](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-* [[!DNL Live Search] 概覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-* [Commerce服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-* [產品Recommendations簡介](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [&#x200B; [!DNL Live Search]簡介](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=zh-Hant)
+* [[!DNL Live Search] 概覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=zh-Hant)
+* [Commerce服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hant)
+* [產品Recommendations簡介](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=zh-Hant)

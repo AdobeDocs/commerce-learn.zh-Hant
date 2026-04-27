@@ -51,5 +51,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [Adobe Commerce的觀察 — 支援文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html？)
-* [對Adobe Commerce使用觀察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+* [Adobe Commerce的觀察 — 支援文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=zh-Hant？)
+* [對Adobe Commerce使用觀察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=zh-Hant)

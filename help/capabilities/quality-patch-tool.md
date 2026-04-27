@@ -89,8 +89,8 @@ While the Quality Patches Tool offers benefits, there are a few considerations
 
 ## 相關文章和影片
 
-* [品質修補工具搜尋](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [發行說明](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [品質修補工具搜尋](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hant)
+* [發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [修補程式的Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [使用品質修補工具](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [QPT技術影片](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [使用品質修補工具](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [QPT技術影片](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/tools/quality-patch-tool)

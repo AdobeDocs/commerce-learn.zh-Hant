@@ -43,7 +43,7 @@ Adobe Commerce Intelligence SQL Report Builder lets you query your data warehous
 
 >[!TIP]
 >
-> If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence user guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} explains how to aggregate, analyze, and visualize data for stronger business insights.
+> If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence user guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant){target="_blank"} explains how to aggregate, analyze, and visualize data for stronger business insights.
 
 ## 這部影片是給誰看的？
 
@@ -60,5 +60,5 @@ Adobe Commerce Intelligence SQL Report Builder lets you query your data warehous
 
 ## 有用的資源
 
-* [Using the SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} (Commerce Intelligence user guide)
-* [Creating visualizations from SQL queries](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"} (Commerce Intelligence user guide)
+* [Using the SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=zh-Hant){target="_blank"} (Commerce Intelligence user guide)
+* [Creating visualizations from SQL queries](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=zh-Hant){target="_blank"} (Commerce Intelligence user guide)

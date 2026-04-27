@@ -51,6 +51,6 @@ ht-degree: 0%
 
 ## 相關內容和檔案
 
-* [管理使用者存取](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [安全連線到遠端環境](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [雲端基礎結構專案](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [管理使用者存取](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/project/user-access)
+* [安全連線到遠端環境](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [雲端基礎結構專案](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/project/overview)

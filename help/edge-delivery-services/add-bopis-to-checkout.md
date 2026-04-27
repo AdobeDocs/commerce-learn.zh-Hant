@@ -51,4 +51,4 @@ ht-degree: 0%
 
 ## 其他檔案
 
-* [在商店中購買線上取貨](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [在商店中購買線上取貨](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=zh-Hant)

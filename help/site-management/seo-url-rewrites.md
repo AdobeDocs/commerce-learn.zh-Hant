@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
+badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
 TQID: https://experienceleague.adobe.com/rMtOFlHuXwFeZzdDdeYfANHlZM6mQYPr-Z7oTkyjaQ8
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -51,5 +51,5 @@ The URL Rewrite tool lets you change any URL that is associated with a product, 
 
 ## 其他資源
 
-* [URL Rewrites - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-* [General > Web - [!DNL Commerce] Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+* [URL Rewrites - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=zh-Hant)
+* [General > Web - [!DNL Commerce] Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=zh-Hant)

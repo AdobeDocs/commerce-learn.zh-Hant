@@ -52,5 +52,5 @@ For B2B merchants, the _[!UICONTROL Companies]_&#x200B;page lists all current co
 
 ## 其他資源
 
-* [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-* [管理公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+* [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=zh-Hant){target="_blank"}
+* [管理公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=zh-Hant){target="_blank"}

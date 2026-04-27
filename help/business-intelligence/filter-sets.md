@@ -53,7 +53,7 @@ Do you want to analyze only certain pieces of your business data? Tired of doing
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
+>如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant){target="_blank"}會提供完整概觀，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
 ## 這部影片是給誰看的？
 
@@ -66,6 +66,6 @@ Do you want to analyze only certain pieces of your business data? Tired of doing
 
 ## 有用的資源
 
-[Create filter sets - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Create filter sets - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=zh-Hant)
 
-[Recommended Data Dimensions for Segmentation and Filtering - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Recommended Data Dimensions for Segmentation and Filtering - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=zh-Hant)
