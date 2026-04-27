@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+source-git-commit: 2b41adb47f7e6dd482a9bf071f1b48b1456c8214
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '932'
 ht-degree: 3%
 
 ---
@@ -148,9 +148,11 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
       + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
-      + [建立分割付款POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-      + [建立分割付款POC：App Builder完整示範](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
+      + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
+         + [建立分割付款POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+         + [建立分割付款POC：App Builder完整示範](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+
       + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
          + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)

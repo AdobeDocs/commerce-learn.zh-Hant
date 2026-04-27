@@ -8,17 +8,17 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1029'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
 # 建立分割付款POC：App Builder完整示範
 
-這是以Adobe Commerce和Adobe App Builder為基礎的分割付款概念驗證的端對端逐步解說。 此示範假設您已使用AI工具和提示來產生程式中Commerce擴充功能和App Builder應用程式；影片會說明該程式碼合併、在雲端(Luma)中部署到Commerce且App Builder專案上線後的情形。
+這是以Adobe Commerce和Adobe App Builder為基礎的分割付款概念驗證的端對端逐步解說。 此示範會假設您已使用AI工具和提示來產生程式中Commerce擴充功能和App Builder應用程式；影片會說明合併程式碼、使用原生Luma主題部署至Adobe Commerce Cloud網站，且App Builder專案已上線後會發生什麼事。
 
 購物者支付部分現金和部分&#x200B;**[!UICONTROL Store Credit]**。 Commerce擁有同步結帳以及店面需求的API；App Builder可處理協調流程、操作員工作流程和I/O事件消費者。 參考實作使用Commerce (PaaS)專案和Luma原生結帳，而非Edge Delivery Services店面，這是許多商家的常見方式。 如果您在其他拓撲中使用&#x200B;**Adobe Commerce as a Cloud Service**，App Builder程式碼會維持類似，但店面和程式中的工作會有所不同。 針對在Luma上雲端中的內部部署、自行託管和Commerce，本影片說明處理程式內程式碼與App Builder之間用於新功能的實用劃分。
 
