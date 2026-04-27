@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
       + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
       + [建立分割付款POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+      + [建立分割付款POC：App Builder完整示範](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
       + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
          + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
@@ -172,58 +173,58 @@ ht-degree: 3%
          + [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
          + [建立App Builder專案](../io-events/create-app-builder-project.md)
          + [設定Adobe Commerce](../io-events/configure-commerce.md)
-         + [Adobe Commerce module development](../io-events/commerce-module-development.md)
+         + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
          + [Adobe Commerce條件事件](../io-events/conditional-events.md)
-   + API Mesh {#api-mesh}
-      + [API Mesh starter kit using GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
-      + [API Mesh starter kit workflows](../api-mesh/starter-kit-workflows.md)
-      + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
-      + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
-      + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
+   + API網格 {#api-mesh}
+      + [使用GitHub程式碼空間的API Mesh入門套件](../api-mesh/starter-kit-github-codespaces.md)
+      + [API Mesh入門套件工作流程](../api-mesh/starter-kit-workflows.md)
+      + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
+      + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
+      + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
+      + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
+      + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 
 + 可觀察性 {#observability}
-   + [Observability overview](../observability/overview.md)
-   + [Open Telemetry](../observability/open-telemetry.md)
-   + [Demo setup and configuration](../observability/demo-setup-configuration.md)
-   + [Demo](../observability/demo.md)
-+ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
+   + [可觀察性概觀](../observability/overview.md)
+   + [開啟遙測](../observability/open-telemetry.md)
+   + [示範設定和設定](../observability/demo-setup-configuration.md)
+   + [示範](../observability/demo.md)
++ 全球參考架構 {#global-reference-architecture-implementation-techniques}
    + [概觀](../global-reference-architecture/overview.md)
-   + [Split Git](../global-reference-architecture/split-git.md)
-   + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-   + [Separate packages](../global-reference-architecture/separate-packages.md)
+   + [分割Git](../global-reference-architecture/split-git.md)
+   + [大量套件](../global-reference-architecture/bulk-packages.md)
+   + [獨立的套件](../global-reference-architecture/separate-packages.md)
    + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Help and support {#help-and-support}
-   + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
-   + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
-   + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ 說明與支援 {#help-and-support}
+   + [建立支援票證](../help-and-support/create-a-support-ticket.md)
+   + [搜尋、追蹤、評論及提升支援票證](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [新增和移除監看員，關閉及重新開啟票證](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Store Administration {#admin}
-   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
-   + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
-   + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
-   + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
-   + [Change a Store URL](../site-management/change-store-url.md)
-   + [Reset the admin URI](../site-management/reset-admin-uri.md)
-   + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
-   + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
++ 存放區管理 {#admin}
+   + [管理使用者角色和許可權](../site-management/users-roles-permissions.md)
+   + [雙因素驗證](../site-management/two-factor-authentication.md)
+   + [管理幣別與稅捐規則](../site-management/currency-tax-rules.md)
+   + [新增網站、商店和商店檢視](../site-management/add-websites-stores-views.md)
+   + [變更商店URL](../site-management/change-store-url.md)
+   + [重設管理員URI](../site-management/reset-admin-uri.md)
+   + [送貨與交貨方式](../site-management/shipping-delivery.md)
+   + [管理網格和篩選器](../site-management/admin-grids-and-filters.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-   + Adobe Commerce Services {#adobe-commerce-services}
-      + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
-      + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
-      + [Use Payment Services](../site-management/payment-services.md)
-+ Customer Management {#customers}
-   + [Create Customer Segments](../site-management/customer-segments.md)
-   + [Create Customer Groups](../site-management/customer-groups.md)
-   + [Create Customer Attributes](../site-management/customer-attributes.md)
-   + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
-+ Catalog Management {#catalog}
-   + [Create a Category](../site-management/category-create.md)
-   + [Manage Products in a Category](../site-management/category-products.md)
-   + [Inventory Management](../site-management/inventory-management.md)
-   + [Create Product Attributes](../site-management/product-attributes-create.md)
-   + [Use Product Attributes with PWA Studio](../site-management/product-attributes-pwa.md)
+   + Adobe Commerce服務 {#adobe-commerce-services}
+      + [設定Commerce服務聯結器](../site-management/configure-adobe-commerce-services-connector.md)
+      + [設定付款服務](../site-management/configure-adobe-payment-services.md)
+      + [使用付款服務](../site-management/payment-services.md)
++ 客戶管理 {#customers}
+   + [建立客戶區段](../site-management/customer-segments.md)
+   + [建立客戶群組](../site-management/customer-groups.md)
+   + [建立客戶屬性](../site-management/customer-attributes.md)
+   + [賣家輔助購物](../site-management/seller-assisted-shopping.md)
++ 目錄管理 {#catalog}
+   + [建立類別](../site-management/category-create.md)
+   + [管理類別中的產品](../site-management/category-products.md)
+   + [Inventory management](../site-management/inventory-management.md)
+   + [建立產品屬性](../site-management/product-attributes-create.md)
+   + [搭配使用產品屬性與PWA Studio](../site-management/product-attributes-pwa.md)
    + [管理SEO中繼資料](../site-management/seo-metadata.md)
    + [管理SEO的URL重寫](../site-management/seo-url-rewrites.md)
    + [AR檢視器](../site-management/augmented-reality.md)
@@ -276,6 +277,4 @@ ht-degree: 3%
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [未來的準備](../business-intelligence/prepare-for-future.md)
-
-
 
