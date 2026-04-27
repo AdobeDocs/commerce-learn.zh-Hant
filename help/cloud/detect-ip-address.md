@@ -7,12 +7,25 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 624
-last-substantial-update: 2025-04-07T00:00:00Z
+last-substantial-update: 2025-04-07T00:00:00.000Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: 1127
 ht-degree: 0%
 
 ---
@@ -73,13 +86,13 @@ UNIX®Linux®中的`xargs`命令用於從標準輸入建立和執行命令列。
 
 `dig`命令（Domain Information Groper的簡稱）是用來查詢DNS （網域名稱系統）伺服器的網路管理工具。 它有助於擷取有關DNS記錄的資訊，例如A、AAAA、MX和CNAME記錄。 命令`dig`通常用於疑難排解DNS問題、驗證DNS設定，以及收集有關網域名稱及其相關IP位址的詳細資訊。 透過使用各種選項和旗標，使用者可以自訂輸出以顯示特定的詳細資訊或簡明的摘要。
 
-搭配`xargs`使用`dig`會使其變得複雜，但這是必要的。 目標是要取用清理過的URL並加以儲存。  將URL儲存為變數後，就會將它插入`dig`命令中。
+搭配`dig`使用`xargs`會使其變得複雜，但這是必要的。 目標是要取用清理過的URL並加以儲存。  將URL儲存為變數後，就會將它插入`dig`命令中。
 
 已建立命令`dig`來收集DNS資訊。 若要減少傳回的資料量，請使用引數`+short`。 使用`dig`結合`+short`後，會傳回IP位址，有時還會傳回字串。
 
 在該命令部分，`xargs`將儲存該URL `abcikdxbg789.ent.magento.cloud`並將其插入下一個命令`dig`中。 儲存URL與反複專案結合的技術，可讓您更輕鬆地搭配`dig`命令使用。 請記住，我的程式碼範例是實現目標的方式之一，您可以隨時修改內容以符合您的需求和期望。
 
-此時，URL已準備就緒。 接下來，讓我們看看如何檢查叢集中的每個伺服器。 若為Adobe Commerce Cloud，叢集中的每個伺服器都會有一個數字。 伺服器識別碼是剛清除並準備就緒可供使用的URL的前置詞。 使用`{1..3}`可快速且輕鬆地取出伺服器。 使用通知`{1..3}`命令執行3次的`dig`。 以下表示如果您要即時觀看執行，會發生什麼情況。
+此時，URL已準備就緒。 接下來，讓我們看看如何檢查叢集中的每個伺服器。 若為Adobe Commerce Cloud，叢集中的每個伺服器都會有一個數字。 伺服器識別碼是剛清除並準備就緒可供使用的URL的前置詞。 使用`{1..3}`可快速且輕鬆地取出伺服器。 使用通知`dig`命令執行3次的`{1..3}`。 以下表示如果您要即時觀看執行，會發生什麼情況。
 
 ```bash
 dig +short 1.<projectid>.ent.magento.cloud

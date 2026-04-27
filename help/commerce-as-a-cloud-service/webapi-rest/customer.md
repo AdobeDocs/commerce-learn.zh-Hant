@@ -7,12 +7,28 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00Z
+last-substantial-update: 2026-01-27T00:00:00.000Z
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
-source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
+TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: 505
 ht-degree: 0%
 
 ---
@@ -134,7 +150,7 @@ curl -X POST \
 >
 > 此範例提供的URL無效。 使用您的REST基底url。 將「&lt;rest_endpoint>」與您的URL交換。 它看起來類似於此`https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`。
 
-下列範例中的數字`5`是先前使用POST `"id": 5,`建立之客戶的ID。 請務必將`5`變更為您的請求中傳回的任何識別碼。
+The number `5` in the following example is the ID from the previously created customer using POST `"id": 5,`. Be sure to change`5` to whatever id was returned in your request.
 
 **端點：** `PUT /V1/customers/{customerId}`
 
@@ -171,11 +187,11 @@ curl -X PUT \
 }
 ```
 
-## 完整指令碼（多合一）
+## Complete script (all-in-one)
 
 >[!IMPORTANT]
 >
-> 此範例中所示的變數無效。 使用您專案認證的使用者端ID和使用者端密碼。 使用您的REST基底url。 從experience.adobe.com將&#39;&lt;rest_endpoint>&#39;與您的REST端點URL交換。 它看起來類似於此`https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`。
+> 此範例中所示的變數無效。 Use the client ID and client secret from your project credentials. 使用您的REST基底url。 Exchange &#39;&lt;rest_endpoint>&#39; with your REST endpoint URL from experience.adobe.com. It looks similar to this  `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
 
 ```bash
 #!/bin/bash
@@ -235,15 +251,15 @@ curl -s -X PUT \
   }" | jq .
 ```
 
-## 本教學課程的重要注意事項
+## Important notes about this tutorial
 
-1. **URL路徑**：使用`https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
-1. **驗證**：此教學課程使用伺服器對伺服器（`client_credentials`授與型別）
-1. **必要的範圍**： `commerce.accs`
-1. **權杖到期日**： 86400秒（24小時）
+1. **URL Path**: Use `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
+1. **Authentication**: This tutorial used Server-to-Server (`client_credentials` grant type)
+1. **Required Scope**: `commerce.accs`
+1. **Token Expiry**: 86400 seconds (24 hours)
 
-## 引用
+## References
 
-* [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes)
-* [SaaS REST API參考](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-* [使用者驗證指南](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+* [Adobe Commerce as a Cloud Service Release Notes](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes)
+* [SaaS REST API Reference](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
+* [User Authentication Guide](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

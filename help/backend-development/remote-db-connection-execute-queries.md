@@ -7,12 +7,22 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 1024
-last-substantial-update: 2024-06-25T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00.000Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
+TQID: https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1010'
+source-wordcount: 1099
 ht-degree: 0%
 
 ---
@@ -260,7 +270,7 @@ SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 
 ![Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
 
-以下是範例： `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
+以下是其中一個範例： `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 SSH主機名稱是@符號後面的所有專案：此範例中的`ssh.us-4.magento.cloud`。
 SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-ecpefky--mymagento`
 
@@ -274,7 +284,7 @@ SSH使用者名稱是@符號之前的所有專案： `abasrpikfw4123-remote-db-e
    magento-cloud ssh
    ```
 
-2. 從`database`$MAGENTO_CLOUD_RELATIONSHIPS`type`變數中的[和](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hant#relationships)屬性擷取MySQL登入認證。
+2. 從[$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hant#relationships)變數中的`database`和`type`屬性擷取MySQL登入認證。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp

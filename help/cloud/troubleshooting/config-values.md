@@ -1,6 +1,6 @@
 ---
-title: 設定值
-description: 瞭解如何使用core_config_data、XML檔案和管理員設定，在Adobe Commerce中尋找、驗證和管理設定值。
+title: Configuration values
+description: Learn how to locate, validate, and manage configuration values in Adobe Commerce using core_config_data, XML files, and admin settings.
 feature: Cloud, Configuration, System, Variables
 topic: Commerce, Development
 old-role: Architect, Developer
@@ -8,39 +8,50 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 709
-last-substantial-update: 2024-11-08T00:00:00Z
+last-substantial-update: 2024-11-08T00:00:00.000Z
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: 309
 ht-degree: 0%
 
 ---
 
-# 設定值
+# Configuration values
 
-本指南提供在Adobe Commerce中尋找、驗證和管理設定值的全面概觀。 它涵蓋了查詢core_config_data表格和使用CLI命令等基本方法，以及涉及XML檔案和環境特定配置的進階技術。 瞭解在不同環境中維持一致性的最佳實務，以及如何使用Adobe Commerce Cloud管理員UI和.magento.app.yaml等工具來設定環境變數。
+This guide provides a comprehensive overview of how to locate, validate, and manage configuration values in Adobe Commerce. It covers basic methods like querying the core_config_data table and using CLI commands, as well as advanced techniques involving XML files and environment-specific configurations. Learn best practices for maintaining consistency across different environments and how to use tools like the Adobe Commerce Cloud admin UI and .magento.app.yaml for setting environment variables.
 
 ## 此影片給誰看
 
-* 使用Adobe Commerce和Adobe Commerce Cloud的開發人員
-* 可能要求系統管理員或技術支援人員提供伺服器層級的協助
+* Developers using the Adobe Commerce and Adobe Commerce Cloud
+* System administrators or technical support staff who may be asked to help at a server level
 
 ## 視訊內容
 
-* 瞭解如何使用core_config_data表格、XML檔案和CLI命令在Adobe Commerce中尋找設定值。
-* 瞭解如何透過管理面板、程式碼存放庫和環境特定檔案，編輯和覆寫設定值。
-* 探索使用app:config:dump和Adobe Commerce Cloud管理UI等工具，在不同環境中維持一致組態設定的最佳做法。
+* Learn how to find configuration values in Adobe Commerce using the core_config_data table, XML files, and CLI commands.
+* Understand how to edit and override configuration values through the admin panel, code repository, and environment-specific files.
+* Discover best practices for maintaining consistent configuration settings across different environments using tools like app:config:dump and Adobe Commerce Cloud&#39;s admin UI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
 
-## 相關Experience League檔案
+## Related Experience League documentation
 
-* [匯出設定](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-* [覆寫組態設定](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-* [設定組態值](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-* [設定參考config.php](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-* [設定指南技術詳細資料](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/deployment/technical-details)
+* [Export Configuration](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+* [Override Config Settings](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+* [Set configuration values](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+* [Config reference config.php](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+* [Config guide technical details](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/deployment/technical-details)
 * [鎖定的設定值](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
 * [在env.php](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)上儲存的值

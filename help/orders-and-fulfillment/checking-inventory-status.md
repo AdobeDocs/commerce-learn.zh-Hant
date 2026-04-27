@@ -8,12 +8,31 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Tutorial
 duration: 498
-last-substantial-update: 2024-05-09T00:00:00Z
+last-substantial-update: 2024-05-09T00:00:00.000Z
 jira: KT-15462
 exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1932'
+source-wordcount: 1982
 ht-degree: 0%
 
 ---
@@ -42,39 +61,39 @@ ht-degree: 0%
 
 * 外部系統能否接受REST或GraphQL要求
 * 端點是否有任何限制，例如每分鐘的X個請求數，可能與網站流量不一致
-* 載入時的回應時間有何變化
-* 如果回應時間很長，會發生什麼情況？您會自動終止此專案，並使用備援選項，例如原生詳細目錄。
-* 哪一種監控型別可用，以確保API請求在容許度限制內
+* What happens to the response time under load
+* What happens when the response times are long, do you terminate this automatically and use a fallback option such as the native inventory.
+* What type of monitoring is available to ensure that API requests are within the tolerance limits
 
-## 考慮非原生庫存管理時的注意事項
+## Considerations when considering non-native inventory management
 
-儘可能保持自訂內容不複雜。
-存貨組織是否平坦，是否只有1個SKU和可用存貨的總量，或者還有其他屬性需要考慮。
+Keep the customizations as non-complex as possible.
+How flat can the organization of the inventory be, is it just 1 sku and the total amount of available stock OR are there other attributes that need to be considered.
 
-如果存貨資訊相當穩定（例如sku和總可用數量），則會展開近乎即時的選項。 「近乎即時」的概念表示背景作業會從來源收集詳細目錄，然後填入儲存引擎，以用於回應請求。 為此，您可以使用Redis、Mongo或其他非關聯式資料庫。 這些選項很好，因為它們非常快速，非常適用於索引鍵/值配對。 如果資料較為複雜，則可能需要在商務應用程式內部或外部使用關係資料庫。 透過從商務資料庫解除安裝此專案，您可以將核心商務應用程式與這些交易隔離。 另一組優點是，可讓商務應用程式、CPU、RAM和其他應用程式的I/O停止使用。 您不必透過Adobe Commerce應用程式伺服器使用資源，而是運用新的API從站外儲存空間提取資料。  這可能需要中介軟體來協助轉換任何資料。 然後確定呼叫的應用程式可以如預期取得結果。 藉由使用Adobe App Builder和API網格，資料可以轉換並傳回格式正確的資料。
+If the inventory information is fairly flat, for example a sku and the total available quantity, the options for near-real-time are expanded. The concept of near real-time means that there is a background operation that gathers the inventory from the source, and then populates a storage engine to be used to respond to the request. For this you can use things such as Redis, Mongo, or other non-relational databases. These options are nice because they are very fast and work great for key/value pairs. If the data is a bit more complex, then using a relation database, either inside or outside the commerce application, is likely to be required. By offloading this from the commerce database, you keep the core commerce application isolated from these transactions. Another set of benefits are saving the I/O from the commerce application, CPU, RAM and others from use. Instead of using the resources from the Adobe Commerce application servers take advantage of the new APIs to pull the data from the off site storage.  This will likely need a middleware to help transform any data. Then ensure that the calling application can get the result as expected. By using Adobe App Builder with API mesh the data can be transformed and returned properly formatted.
 
-如果有多個詳細目錄來源，搭配API網狀使用Adobe App Builder也是很好的選擇。
+Using Adobe App Builder with API mesh is also a great option when there are multiple sources of inventory.
 
 
-## 將執行邏輯移至程式外位置
+## Moving the execution logic to an out-of-process location
 
-Adobe Developer App Builder提供統一的第三方擴充性架構，用於整合及建立自訂體驗，以擴充Adobe解決方案。 Adobe Commerce可以使用Adobe Developer App Builder。 這將是一個絕佳的使用案例，可用來擴充核心應用程式中通常會發生的部分功能，並將其移離現場。 從Commerce應用程式中移除功能，可減少Commerce應用程式的模組數量和複雜性。 數量較少的程式內自訂又可降低升級和維護的複雜性。
+Adobe Developer App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe solutions. Adobe Commerce can use Adobe Developer App Builder. This would be an excellent use case for extending some functionality that normally occurs in the core application and moves it off-site. By removing functionality from the Commerce application this reduces the number of modules and complexity to the Commerce application. In turn, lower numbers of in-process customizations reduce the complexity for upgrading and maintenance.
 
-若想獲得成功的靈感，Adobe的團隊已建立一些檔案，這些檔案可以成為靈感的絕佳來源，並提供工作程式碼範例。 當購物者新增產品至購物車時，協力廠商庫存管理系統會檢查該專案是否有庫存。 如果是，則允許新增產品。 否則，顯示錯誤訊息。  如需程式碼範例和進一步資訊，請前往[Webhook使用案例](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart)。
+For inspiration for how this might be accomplished, the team at Adobe has created some documentation that can be a great source of inspiration and provide working code samples. When a shopper adds a product to the cart, a third-party inventory management system checks whether the item is in stock. If it is, allow the product to be added. Otherwise, display an error message.  For code samples and further information go to [Webhook Use Cases](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart).
 
-## 何時進行詳細目錄檢查
+## When to do inventory checks
 
-何時檢查存貨是否仍然可用，最終將取決於業務利害關係人、軟體架構師，以及來自其他主要利害關係人的一些輸入。 將專案新增至購物車及進入結帳工作流程時，可能會有數個適當的時間。 任何其他事件都只會在不需要時將載入新增到後端系統。 請記住，目標是只有在清查問題最為重要時才能發現問題。 可能有其他檢查可能很好，但如果這些檢查會影響詳細目錄狀態檢查的整體目標，則只有在業務利害關係人或其他人知道後端系統可能會有額外負載的風險時，才應謹慎考慮並允許。
+When to check if inventory is still available will eventually be up to the business stake holder, the software architect with some input from other key stakeholders. A few appropriate times would include when adding an item to the cart and when entering the checkout workflow. Any other events will simply add load to the backend systems when it may not be necessary. Keep in mind that the goal is to catch an inventory issue only when it is paramount. Other checks may be nice to have but if they may impact the overall goal for inventory status checks, they should be carefully considered and only allowed if the business stakeholders or others are aware of the potential risk for extra load on the backend systems.
 
-## 研究存貨來源如何
+## Research how the inventory source
 
-需要全面調查外部存貨來源。 應該評估的專案包括API選項、GraphQL支援和預期的回應時間。 如果詳細目錄來源的連線頻寬有限或從未打算用於即時請求，則排除使用的能力，架構師需要考慮改為近乎即時。  如果API要求次數超過定義的引數，它也會將此排除在可行選項之外。  例如，API回應是針對一次請求的200MS®，但在中等負載下會升至500至900MS®。  隨著更多負載並排除可用的即時詳細目錄呼叫，情況可能會變得更糟。
+Comprehensive investigation of the external inventory source is required. Items that should be evaluated are available API options, support for GraphQL, and expected response times. If the inventory source has a limited connection bandwidth or was never intended to be used in a real time request, the ability for use is excluded and the architect needs to consider near-real-time instead.  If the API request times exceed the defined parameters it will also exclude this from being a viable option.  An example of this would be api responses are 200MS® for one a time requests, but rise to 500 to 900MS® under moderate load.  This would likely just get worse with more load and rules out live inventory calls from being available.
 
-請務必使用簡單請求以及與已上線網站預期流量類似的高流量來測試API回應時間。 記得同時測試商務中的所有區域以模擬真實世界的情境。 如果期望是即時詳細目錄呼叫應該發生在產品頁面上，當檢視和編輯購物車以及在結帳期間，載入測試需要同時模擬所有這些內容，以模擬真實的客戶行為和商店的期望。
+Be sure to test the api response times with simple requests as well as with a high volume similar to the expected traffic on the live website. Remember to test all areas from commerce at the same time to simulate real world scenarios. If the expectation is a live inventory call should occur on product pages, when viewing and editing a cart and during checkout, the load testing needs to simulate all of these at the same time to mimic real customer behavior and the expectation for a store.
 
-## 遞補選項
+## Fallback options
 
-如果清查來源關閉且監控可用，建議使用Adobe Commerce的原生功能。 不過，只要適當地監控，客戶體驗可以動態變更，以反映即時存貨檢查的遺失。 這可能表示為了避免過度銷售，銷售或活動會提早取消或移除顯示畫面。 當存貨來源因任何原因停止運作時，預期要採取的行動需要與店舖負責人進行考量及討論，讓每個人都能知道在這種不幸的情況下會接管任何自動程式。
+IF the inventory source is down and monitoring is available, using the native capability of Adobe Commerce is recommended. However, with proper monitoring the customer experience can dynamically change to reflect the loss of real time inventory checks. This may mean that a sale or event is canceled early or removed from display to avoid overselling. The expectation for what to do when the inventory source is down for any reason needs to be considered and discussed with the store owner so everyone is aware of any automatic process that takes over in that unfortunate circumstance.
 
 ## 結論
 

@@ -12,9 +12,24 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-JG7blrxImSXjA2DP9soZfsicISW0hkP2zJeWdMpVBU
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: 898
 ht-degree: 0%
 
 ---
@@ -74,40 +89,40 @@ ht-degree: 0%
 [大量端點檔案](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
 優點：
-匯入不是CSV格式的大型資料集的功能。
+The ability to import large data sets that are not in CSV format.
 
 缺點：
 
 * 關聯的影像和視訊必須個別上傳
-* 可受限於託管提供者的頻寬限制
+* Can be limited by bandwidth constraints on the hosting provider
 
 ### 何時考量此方法
 
-* 目錄為任意大小
-* 更新頻繁，每天超過1倍是可接受的
-* 匯入時間很重要但並不重要，處理匯入資料的短暫延遲是可接受的
-* 資料並非以CSV格式結構，且您無法使用自動化將其轉換
+* Catalog is any size
+* Updates are frequent, more than 1x a day is acceptable
+* Time to import is important but not critical and a short delay in processing the import data is acceptable
+* The data is not structured in CSV format and you are not capable of transforming it using automation
 
->[!TAB 非同步REST API]
+>[!TAB ASYNC REST API]
 
-## 非同步REST API {#async-rest-api}
+## ASYNC REST API {#async-rest-api}
 
-非同步Web端點會攔截訊息至Web API，並將其寫入訊息佇列。 每次系統接受這類API請求時，都會產生UUID識別碼。 Adobe Commerce將訊息新增至佇列時，會包含此UUID。 然後，消費者會從佇列中讀取訊息，並逐一執行這些訊息。
-[非同步Web端點檔案](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
+An asynchronous web endpoint intercepts messages to a Web API and writes them to the message queue. Each time the system accepts such an API request, it generates a UUID identifier. Adobe Commerce includes this UUID when it adds the message to the queue. Then, a consumer reads the messages from the queue and executes them one-by-one.
+[Asynchronous web endpoints documentation](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
 
 優點：
 
-* 快速匯入資料
-* 支援存放區範圍，或者您可以指定`all`在所有現有存放區上執行作業
+* Fast to import data
+* Store scope is supported or you can specify `all` to perform operation on all existing stores
 
 缺點：
 
-* 不支援GET請求
+* GET request are not supported
 
 ### 何時考量此方法
 
-* 經常匯入
-* 從透過API提交並從訊息佇列處理的時間來看，沒有細微的延遲問題。
+* Imports are frequent
+* No issue with a small delay from the time they are submitted via API and then processed from the message queue.
 
 
 >[!TAB CSV REST API]
@@ -141,5 +156,5 @@ ht-degree: 0%
 
 * [使用新的REST CSV匯入資料](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 * [匯入資料主要檔案](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=zh-Hant){target="_blank"}
-* [Adobe Commerce 2.4.6版的發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=zh-Hant){target="_blank"}
+* [Adobe Commerce 2.4.6版發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=zh-Hant){target="_blank"}
 * [使用者、角色和許可權](../site-management/users-roles-permissions.md){target="_blank"}

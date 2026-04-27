@@ -1,46 +1,57 @@
 ---
-title: 建立您的第一個App Builder應用程式
-description: 瞭解如何使用Adobe Developer App Builder並建立您的第一個應用程式。
+title: Create your first App Builder app
+description: Learn about Adobe Developer App Builder using Adobe Commerce and create your first app.
 jira: KT-12421
 doc-type: Tutorial
 duration: 197
-last-substantial-update: 2023-03-13T00:00:00Z
+last-substantial-update: 2023-03-13T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+TQID: https://experienceleague.adobe.com/vaWPlxMkONIlEhq4-WEjw8wKWBaBb1iYmeOPSjsnnjk
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: 323
 ht-degree: 0%
 
 ---
 
 # 概觀 {#overview}
 
-本教學課程具備下列必要條件：
+This tutorial has the following prerequisites:
 
-* Adobe Developer Console存取完成
-* 已授予App Builder的完整存取權或試用存取權
-* [已建立Adobe Developer App Builder應用程式](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [已建立Adobe Developer App Builder專案](https://developer.adobe.com/console){target="_blank"}
-* [已建立Adobe Developer App Builder工作區 — 步驟2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
-* [已執行初始化專案並執行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
+* Adobe Developer Console access is complete
+* Full access or trial access to App Builder has been granted
+* [The Adobe Developer App Builder application has been created](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
+* [The Adobe Developer App Builder project has been created](https://developer.adobe.com/console){target="_blank"}
+* [The Adobe Developer App Builder workspaces have been created - Step 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [The AIO CLI commands to initialize the project and run have been executed](https://developer.adobe.com/runtime){target="_blank"}
 
-如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
+For more information on building your first App Builder application, you can view the following blog post to help with this initial setup and configuration [How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
-## 閱讀本教學課程有何期望
+## What to expect from reading this tutorial
 
-完成本教學課程後，您應該已有一個簡單的單頁應用程式，可與Adobe Commerce通訊，以提取訂單歷史記錄和產品。 這些主題涵蓋包含程式碼範例和指示的App Builder功能。 但願在觀看了這些影片後，這能節省一些開發時間，並激發其他想法，並鼓勵您採用程式外開發。
+When you are complete this tutorial, you should have a simple single-page application that communicates with Adobe Commerce to pull order history and products. These topics cover App Builder functionality with code samples and instructions. Hopefully, after watching these videos this saves you some development time and inspires other ideas and encourages the adoption of out-of-process development.
 
-## 我應如何依照本教學課程操作
+## How should I follow this tutorial
 
-本教學課程的設計是要讓您依照左側導覽中的頁面順序進行。 但這並非必要條件。 由於每個頁面都討論建立初始Adobe Developer App Builder應用程式的一般概念，因此可個別檢視。
+This tutorial was designed for you to follow the order of pages in the left navigation. However, this is not a requirement. Each page can be viewed individually since they discuss the general concept of building an initial Adobe Developer App Builder app.
 
 ## 這部影片是給誰看的？
 
-* 剛開始接觸Adobe Commerce的開發人員，使用Adobe App Builder的經驗有限。
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder.
 
 ## 視訊內容
 

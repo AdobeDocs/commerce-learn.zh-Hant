@@ -6,15 +6,29 @@ doc-type: video
 duration: 946
 audience: all
 activity: use
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2023-11-16T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: 631
 ht-degree: 0%
 
 ---
@@ -45,7 +59,7 @@ ht-degree: 0%
 
 若要設定網域，請連線到伺服器： `bin/magento downloadable:domains:add www.example.com`
 
-完成之後，就會在`env.php`downloadable_domains _陣列中修改_。
+完成之後，就會在&#x200B;_downloadable_ domains_陣列中修改`env.php`。
 
 ```php
     'downloadable_domains' => [
@@ -60,7 +74,7 @@ ht-degree: 0%
 >[!IMPORTANT]
 >在某些版本的Adobe Commerce上，當您在Adobe Commerce管理員中編輯產品時，可能會收到以下錯誤。 產品是使用REST API建立，但連結的下載專案價格為`null`。
 
-`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`。
+`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
 若要修正此錯誤，請使用更新連結API： `POST V1/products/{sku}/downloadable-links.`
 
@@ -182,7 +196,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## 使用Postman更新產品 {#update-downloadable-links}
 
-使用端點`rest/all/V1/products/{sku}/downloadable-links`
+使用端點 `rest/all/V1/products/{sku}/downloadable-links`
 `SKU`是在建立產品時產生的產品ID。 舉例來說，在下列程式碼範例中，數字為39，但請確定數字已更新，可使用您網站的ID。 這會更新可下載產品的連結。
 
 ```json
@@ -239,5 +253,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 * [可下載的產品型別](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=zh-Hant){target="_blank"}
 * [可下載的網域設定指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hant#downloadable_domains){target="_blank"}
-* [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

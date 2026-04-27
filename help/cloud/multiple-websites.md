@@ -1,36 +1,49 @@
 ---
-title: 多站台管理 
-description: 透過Adobe Commerce強大的多網站功能及集中式後端介面，輕鬆管理多個商店、品牌或網站。
+title: Multisite management 
+description: Manage multiple stores, brands, or websites effortlessly with Adobe Commerce's robust multi-site capabilities and centralized backend interface.
 feature: Admin Workspace, Configuration, Site Management
 topic: Administration, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 390
-last-substantial-update: 2024-09-12T00:00:00Z
+last-substantial-update: 2024-09-12T00:00:00.000Z
 jira: KT-16199
 exl-id: c041bd9a-9955-4053-a147-570ae1d88692
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/M2GVjaK07ANWXhNB5laKmS0N-FdVtpnPj751G1AywnM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: 167
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce多網站管理
+# Adobe Commerce Multiple Website Management
 
-Adobe Commerce可讓企業透過單一後端介面管理多個商店、品牌或網站，而不需要技術技能。 它可讓您建立多個網站，每個網站都有自己的網域、產品、定價和客戶群。 在一個網站中，可以建立多個商店，每個商店都有自己的目錄和定價，而在一個商店中，可以針對不同的語言或版本設定多個商店檢視。 這種彈性可確保有效率地管理產品供應和定價策略，非常適合想要擴充和擴充電子商務營運的企業。
+Adobe Commerce empowers businesses to manage multiple stores, brands, or websites from a single backend interface without requiring technical skills. It allows the creation of multiple websites, each with its own domain, products, pricing, and customer base. Within a website, multiple stores can be created, each with its own catalog and pricing, and within a store, multiple store views can be set up for different languages or versions. This flexibility ensures efficient management of product offerings and pricing strategies, making it ideal for businesses looking to expand and scale their e-commerce operations.
 
 ## 此影片給誰看
 
-* 想要跨越多個地區、品牌或產品線擴展其電子商務業務的企業。
-* 商店經理、電子商務主管和行銷團隊。
-* 具有下列需求的公司：想要線上上線上提供擴充能力與彈性。
+* Businesses looking to expand their e-commerce operations across multiple regions, brands, or product lines.
+* Store managers, e-commerce directors, and marketing teams.
+* Companies aiming for scalability and flexibility in their online presence.
 
 ## 視訊內容
 
-* 多網站管理
-* 本地化和自訂
-* 擴充性與彈性
+* Multi-Site Management
+* Localization and Customization
+* Scalability and Flexibility
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434038?captions=chi_hant&learn=on)

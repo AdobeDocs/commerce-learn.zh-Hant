@@ -7,19 +7,40 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 1345
-last-substantial-update: 2024-09-09T00:00:00Z
+last-substantial-update: 2024-09-09T00:00:00.000Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: e91a50b1-0b31-436e-9033-00e4776e94cb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: 489
 ht-degree: 0%
 
 ---
 
 # 體驗銷售機會資料和促銷活動  
 
-瞭解Adobe Commerce的進階搜尋功能（由Adobe AI提供技術支援）及其強大的目錄管理功能。 瞭解AI驅動搜尋最佳化、多面向和銷售工具增強使用者體驗的部分重點內容&#x200B;。 此外，您還可以瞭解產品捆綁、促銷活動管理，以及與第三方系統的無縫整合，針對B2B和B2C電子商務需求提供全面的解決方案。
+瞭解Adobe Commerce的進階搜尋功能（由Adobe AI提供技術支援）及其強大的目錄管理功能。 瞭解AI驅動搜尋最佳化、多面向和銷售工具增強使用者體驗的部分重點內容。 此外&#x200B;，您還可以瞭解產品捆綁、促銷活動管理，以及與第三方系統的無縫整合，針對B2B和B2C電子商務需求提供全面的解決方案。
 
 ## 這些影片是給誰看的？
 
@@ -30,7 +51,7 @@ ht-degree: 0%
 
 ## 目錄管理
 
-探索Adobe Commerce專為電子商務管理員和開發人員設計的強大目錄管理工具&#x200B;。 利用直覺式的排程和自動化功能，輕鬆管理產品清單、庫存、定價和促銷活動。 與協力廠商系統緊密整合，並運用即時搜尋和產品推薦等進階服務&#x200B;。 透過API和即時同步從強大的資料擷取中獲益，同時利用Adobe Experience Manager的AI產生內容來增強您的店面&#x200B;。 透過Adobe Commerce提升您的電子商務體驗，並在動態市場中保持敏捷。  
+探索Adobe Commerce專為電子商務管理員和開發人員設計的強大目錄管理工具。 使用直覺式排程和自動化功能，輕鬆&#x200B;管理產品清單、庫存、定價和促銷活動。 與協力廠商系統緊密整合，並運用即時搜尋和產品推薦等進階服務。 透過API和即時同步從強大的資料擷取中獲益，&#x200B;同時利用Adobe Experience Manager的AI產生內容來增強您的店面。 透過Adobe Commerce提&#x200B;升您的電子商務體驗，並在動態市場中保持敏捷。  
 
 ## 目錄管理影片內容
 
@@ -42,7 +63,7 @@ ht-degree: 0%
 
 ## 即時搜尋
 
-探索由Adobe AI提供技術支援的Adobe Commerce Live Search進階搜尋功能&#x200B;。 這個強大的SaaS解決方案可快速有效率地提供高度相關的搜尋結果，進而改善電子商務體驗&#x200B;。 銷售人員和行銷人員可使用進階搜尋規則、同義字和Facet等工具，最佳化網站搜尋結果。 即時搜尋提供即時建議、智慧型排名和可自訂的搜尋體驗，確保客戶找到他們需要的內容&#x200B;。 它還支援具有共用目錄和特定定價的B2B模型，使其成為滿足所有業務需求的通用解決方案。
+探索由Adobe AI提供技術支援的Adobe Commerce Live Search進階搜尋功能。 此&#x200B;強大的SaaS解決方案可快速有效率地提供高度相關的搜尋結果，進而改善電子商務體驗。 銷售&#x200B;人員和行銷人員可使用進階搜尋規則、同義字和Facet等工具，將網站搜尋結果最佳化。 即時搜尋提供即時建議、智慧型排名和可自訂的搜尋體驗，確保客戶找到他們需要的內容。 此外，&#x200B;B2B模式也支援共用目錄和特定定價，因此是滿足所有業務需求的多功能解決方案。
 
 ## 即時搜尋視訊內容
 

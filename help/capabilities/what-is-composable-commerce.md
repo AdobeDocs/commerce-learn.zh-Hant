@@ -10,16 +10,36 @@ duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1257'
+source-wordcount: 1305
 ht-degree: 0%
 
 ---
 
 # 可撰寫的商務
 
-可組合商務是電子商務的架構方法，涉及將前端展示層與後端商務功能分離&#x200B;。 它可讓企業選擇並組合最佳的元件或模組，以建立自訂的解決方案。 此方法包括將傳統整體電子商務平台分解為更小、更獨立的服務或微服務，以便共同組成。 可組合商務具備彈性、擴充性、自訂性、靈活性等優勢，並可更輕鬆地與其他系統和技術整合。
+可組合商務是電子商務的架構方法，涉及將前端展示層與後端商務功能分離。 它可讓&#x200B;企業選擇並組合最佳的元件或模組，以建立自訂的解決方案。 此方法包括將傳統整體電子商務平台分解為更小、更獨立的服務或微服務，以便共同組成。 可組合商務具備彈性、擴充性、自訂性、靈活性等優勢，並可更輕鬆地與其他系統和技術整合。
 
 Adobe Commerce提供許多功能和工具，可支援商家採用和實施可組合商務。 Adobe Commerce提供可撰寫的商務方法以及混合式Headless和非Headless前端體驗。 Adobe秉持程式外擴充性的理念，提供API Mesh整合多項服務，以及Adobe App Builder建立自訂微服務。
 
@@ -37,29 +57,29 @@ Adobe Commerce提供許多功能和工具，可支援商家採用和實施可組
 
 **彈性與自訂：**&#x200B;可撰寫商務可讓公司選取並結合最佳的元件或微服務，以建立符合其特定需求的自訂電子商務解決方案。 它可讓企業量身打造平台，提供獨特的客戶體驗、實作專業化功能，並在市場上脫穎而出。
 
-**擴充性與敏捷性：**&#x200B;透過可撰寫的架構，公司可以獨立擴充電子商務平台的不同元件。 也就是說，他們可以根據需求配置資源並擴充特定功能，確保最佳效能與成本效益。 Composable Commerce還能啟用敏捷開發做法，允許團隊同時處理不同的元件和獨立部署變更，從而加快上市時間。
+**擴充性與敏捷性：**&#x200B;透過可撰寫的架構，公司可以獨立擴充電子商務平台的不同元件。 This means they can allocate resources and scale specific functionalities based on demand, ensuring optimal performance and cost-efficiency. Composable commerce also enables agile development practices, allowing teams to work on different components simultaneously and deploy changes independently, resulting in faster time-to-market.
 
-**整合功能：**&#x200B;可撰寫商務可促進與協力廠商系統、服務及技術的緊密整合。 企業可以輕鬆地將電子商務平台與各種工具連線，例如支付閘道、ERP系統、CRM系統、行銷自動化平台等。 這項整合功能可讓企業運用同類最佳解決方案，建立統一的生態系統，進而提升營運效率及客戶體驗。
+**Integration Capabilities:** Composable commerce facilitates seamless integration with third-party systems, services, and technologies. Companies can easily connect their e-commerce platform with various tools such as payment gateways, ERP systems, CRM systems, marketing automation platforms, and more. This integration capability enables businesses to leverage the best-of-breed solutions and create a unified ecosystem that enhances operational efficiency and customer experience.
 
-**未來防護：**&#x200B;可撰寫商務可讓公司隨著技術和市場趨勢變化，靈活地調整和發展電子商務平台。 它可讓企業輕鬆新增或更換元件、整合新技術，並在競爭中保持領先地位。 這項符合未來需求的功能可確保企業持續創新，滿足不斷演變的客戶期望。
+**Future-Proofing:** Composable commerce provides companies with the flexibility to adapt and evolve their e-commerce platform as technology and market trends change. It allows businesses to easily add or replace components, integrate new technologies, and stay ahead of the competition. This future-proofing capability ensures that companies can continuously innovate and meet evolving customer expectations.
 
-**開發人員賦權：**&#x200B;可撰寫商務讓開發人員能夠靈活地使用不同的技術、語言和架構。 它可讓開發人員專注於特定元件或微服務，實現專業化與專業知識。 這項增強功能可提升開發人員生產力、加快開發週期，並讓您善用最新工具和技術。
+**Developer Empowerment:** Composable commerce empowers developers by providing them with the flexibility to work with different technologies, languages, and frameworks. It allows developers to focus on specific components or microservices, enabling specialization and expertise. This empowerment leads to increased developer productivity, faster development cycles, and the ability to leverage the latest tools and technologies.
 
-整體而言，可組合的商務可讓公司建立高度彈性、可擴充且可自訂的電子商務平台，以因應不斷變化的業務需求、提供卓越的客戶體驗，並帶動數位市場的成長與成功。
+Overall, composable commerce enables companies to create a highly flexible, scalable, and customizable e-commerce platform that can adapt to changing business needs, deliver exceptional customer experiences, and drive growth and success in the digital marketplace.
 
-## Adobe Commerce對可撰寫的商務有哪些功能
+## What capabilities does Adobe Commerce have for composable commerce
 
-Adobe Commerce提供數種功能，可支援商家採用及實作可組合商務：
+Adobe Commerce provides several capabilities to support merchants in adopting and implementing composable commerce:
 
-**可撰寫的Commerce方法：** Adobe Commerce提供可撰寫的商務方法，可引導商戶瞭解及實作可撰寫的架構原則。 此方法可協助企業運用彈性、擴充性和自訂的優點，同時考量複雜性、技術成熟度和專案規模等因素。
+**Composable Commerce Methodology:** Adobe Commerce offers a composable commerce methodology that guides merchants in understanding and implementing the principles of composable architecture. This methodology helps businesses leverage the benefits of flexibility, scalability, and customization while considering factors like complexity, technical maturity, and project size.
 
-**功能豐富的功能：** Adobe Commerce提供可透過其GraphQLAPI存取的完整功能集。 此功能豐富可讓商家將商務棧疊中所需的廠商數量降至最低，縮短上市時間。 如此一來，企業便可更快速地展開業務，同時維持靈活性，可隨著商業棧疊的發展來撰寫及整合其他協力廠商服務或功能。
+**Feature-Rich Functionality:** Adobe Commerce provides a comprehensive set of features accessible through its GraphQLAPI. This feature-rich functionality allows merchants to minimize the number of vendors required in their commerce stack, reducing time-to-market challenges. It enables businesses to launch faster while maintaining the flexibility to compose and integrate additional third-party services or capabilities as their commerce stack evolves.
 
-**混合前端體驗：** Adobe Commerce在相同的生態系統中同時支援Headless和non-headless前端體驗。 這種靈活性可讓商家針對每個特定的前端使用案例，選擇最適合的架構方法。 它可讓您逐步轉換至無周邊且可組合的架構，而不需同時移轉整個系統。
+**Hybrid Front-End Experiences:** Adobe Commerce supports both headless and non-headless front-end experiences within the same ecosystem. This flexibility allows merchants to choose the most suitable architectural approach for each specific front-end use case. It enables a gradual transition to a headless and composable architecture without the need for a simultaneous migration of the entire system.
 
-**API網格：** Adobe Commerce的API網格簡化了前端開發人員將多個微服務、協力廠商工具和應用程式整合到統一的API端點中的過程。 它可讓開發人員將多個資料來源合併為單一GraphQL端點，降低複雜度並簡化新功能和體驗的開發和維護。
+**API Mesh:** Adobe Commerce&#39;s API Mesh simplifies the integration of multiple microservices, third-party tools, and applications into a unified API endpoint for front-end developers. It allows developers to combine multiple data sources into a single GraphQL endpoint, reducing complexity and streamlining the development and maintenance of new features and experiences.
 
-**Adobe App Builder：** Adobe App Builder是一個無伺服器擴充平台，可讓商家建立自訂微服務、建立自訂體驗，以及擴充Adobe解決方案。 透過App Builder，商家可以建立安全且可擴充的應用程式，擴充Adobe Commerce的原生功能並與協力廠商解決方案整合。 如此一來，商家就不需要建置和維護自訂與微服務的基礎架構，進而降低複雜度並降低總體擁有成本。
+**Adobe App Builder:** Adobe App Builder is a serverless extensibility platform that allows merchants to create custom microservices, build custom experiences, and extend Adobe solutions. 透過App Builder，商家可以建立安全且可擴充的應用程式，擴充Adobe Commerce的原生功能並與協力廠商解決方案整合。 如此一來，商家就不需要建置和維護自訂與微服務的基礎架構，進而降低複雜度並降低總體擁有成本。
 
 Adobe Commerce提供的這些功能簡化了可組合商務的採用和實作，讓商家能夠運用彈性、擴充性、自訂和整合功能的好處，同時降低複雜性和開發工作。
 
