@@ -1,25 +1,30 @@
 ---
-title: 內容製作
-description: 讓行銷人員能夠使用視覺化編輯器和檔案作者等Adobe Commerce工具，以快速、AI驅動的內容建立。
+title: Content Authoring
+description: Empower marketers with Adobe Commerce tools like Visual Editor and Document Author for fast, AI-driven content creation.
 feature: Page Builder, CMS, Media
 topic: Content Management, Artificial Intelligence
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 442
-last-substantial-update: 2026-01-12T00:00:00Z
+last-substantial-update: 2026-01-12T00:00:00.000Z
 jira: KT-20085
 exl-id: a0907b98-f0c2-4256-8e33-d16e0694ae74
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/h2MI1foRNtgkw4GaNrCrx07mdWm7bZf-FHcAgpIMVOc
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 96
 ht-degree: 0%
 
 ---
 
-# 內容製作
+# Content authoring
 
-瞭解Adobe Commerce如何讓行銷人員使用視覺化編輯器和檔案作者等工具獨立管理內容。 探索AI驅動功能如何簡化內容最佳化和行銷活動執行。
+Learn how Adobe Commerce enables marketers to manage content independently with tools like Visual Editor and Document Author. Discover how AI-driven features streamline content optimization and campaign execution.
 
 ## 這部影片是給誰看的？
 
@@ -29,8 +34,8 @@ ht-degree: 0%
 
 ## 視訊內容
 
-* 瞭解行銷人員如何使用視覺化編輯工具來建立和更新網站內容，而不需要開發人員的支援。
-* 探索AI支援的變異和A/B測試如何改善內容品質和參與。
+* Learn how marketers can create and update site content without developer support using visual editing tools.
+* Discover how AI-powered variations and A/B testing improve content quality and engagement.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478791?learn=on)

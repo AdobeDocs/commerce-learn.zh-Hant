@@ -1,42 +1,47 @@
 ---
-title: 建立有效的支援請求
-description: 瞭解建立支援票證的方法，以最大化請求的效率。
+title: Create an effective support request
+description: Learn about ways to create a support ticket to maximize the efficiency of the request.
 feature: Best Practices, Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 126
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/Si-izuH329pVtctIZ71FLXHfo48YaFtOGXGtAisu-tw
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: 519
 ht-degree: 0%
 
 ---
 
-# 有效的支援要求
+# Effective Support Requests
 
-建立支援票證時，請務必透過適當的管道提交票證、提供有關問題的準確詳細資訊、選取正確的組織和聯絡原因、選擇適當的產品和版本、檢閱建議的文章以尋找可能的解決方案、在提交之前仔細檢查所有資訊、追蹤票證進度並與支援團隊進行對話、在問題解決時將票證標籤為已解決，以及開啟後續票證（如果需要進一步的協助），這些都非常重要&#x200B;。 請記得透過適當的管道提交票證、提供正確且詳細的資訊、選取正確的組織和聯絡原因、選擇適當的產品和版本、檢閱建議的文章、在提交之前仔細檢查所有資訊、追蹤票證進度、與支援團隊進行對話、在問題解決時將票證標示為已解決，以及視需要開啟後續票證&#x200B;。
+When creating a support ticket, it is important to submit it through the appropriate channels, provide accurate and detailed information about the issue, select the correct organization and contact reason, choose the appropriate product and version, review suggested articles for potential solutions, double-check all the information before submitting, track the ticket&#39;s progress and engage in a conversation with the support team, mark the ticket as solved when the issue is resolved, and open a follow-up ticket if further assistance is needed. &#x200B; Remember to submit the ticket through the appropriate channels, provide accurate and detailed information, select the correct organization and contact reason, choose the appropriate product and version, review suggested articles, double-check all information before submitting, track the ticket&#39;s progress, engage in conversation with the support team, mark the ticket as solved when the issue is resolved, and open a follow-up ticket if needed. &#x200B;
 
-## 包含紀錄或熒幕擷取畫面
+## Include logs or screenshots
 
-根據目前的問題，有數個記錄可提供協助。 如果可能的話，請尋找記錄檔的某個區段，並將其加入支援請求中。 此記錄片段可協助工程師瞭解顯示的錯誤，並加快分類程式。 請記住，每個應用程式伺服器都有個別記錄，而這些記錄會作為彙總提供給New Relic。  這表示您可以在同一個位置搜尋所有錯誤，而非讀取每個應用程式伺服器的個別記錄檔。 最後一個選項是，如果在New Relic中找到專案，熒幕擷取畫面也可用來作為其他資訊，以協助加快處理作業，但您偏好使用NRQL敘述句。
+There are several logs that are helpful depending on the issue at hand. If possible, find a section of the log and include it as part of the support request. This snippet of the log helps the engineers understand the errors being shown and will expedite the triage process. Remember, every app server has individual logs, and those logs are fed into New Relic as an aggregate.  This means that you can search in one location for all errors instead of reading each application server&#39;s individual log files. As a final option, if there is an entry found in New Relic, a screenshot can also be used as additional information and help expedite the process, but having an NRQL statement is preferred.
 
-## 確保參考時區
+## Ensure that the time zone is referenced
 
-確保當人員協助提出支援問題時，在提及事件時提醒他們釐清時區。 參考時區可確保當支援工程團隊研究紀錄和事件時，能夠專注於實際相關的時間範圍。 請記住，某人可能領先或落後伺服器記錄時間許多小時。
+Ensuring that when people contribute to a support issue, remind them to clarify their time zone when referring to an incident. Referencing a timezone ensures that when the support engineering team is researching the logs and events, they are able to focus on the time frames that are actually relevant. Remember that someone can be many hours ahead or behind the server log times.
 
-## 說明採取的初始分類及結果
+## Describe initial triage taken and findings
 
-透過討論並記錄目前採取的所有分類步驟，可協助支援工程師驗證早期假設。 如果提供支援的分類步驟與搜尋結果，則可以加快整體處理。 這也將有助於減少重複工作，並最終提供一種以一定程度的驗證來記錄發現結果的方法。
+By discussing and documenting all triage steps taken so far helps the support engineers validate early assumptions. If the supporting triage steps and findings are provided it can expedite the overall process. This will also help reduce duplication of efforts and eventually provide a way to document the findings with a level of validation.
 
-## New Relic報表或提供NRQL宣告的連結
+## Links to New Relic reports or provide NRQL statement
 
-Adobe Commerce的許多問題都可以透過New Relic追蹤。 檢視New Relic儀表板或自訂NRQL陳述式，可讓您深入瞭解某些問題的起源。 這些相同的儀表板和自訂New Relic查詢是可共用的。 藉由在支援票證中提供這些連結，工程師將能夠準確地看到報告者的內容。
+Many of the issues for Adobe Commerce are traceable through New Relic. By looking at the New Relic dashboards or custom NRQL statements give you insights to where some issues are originating. Those same dashboards and custom New Relic queries are shareable. 藉由在支援票證中提供這些連結，工程師將能夠準確地看到報告者的內容。
 
 >[!MORELIKETHIS]
 > 
-> * [Adobe Commerce說明使用手冊](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Adobe Commerce說明使用手冊](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

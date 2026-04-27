@@ -12,9 +12,15 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c18ed297-2187-4aec-affb-9d9654eca6fcid: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: 673
 ht-degree: 0%
 
 ---
@@ -62,7 +68,7 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3454515?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## 使用REST建立產品
 
@@ -431,6 +437,6 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 ## 其他資源
 
 * [建立套件組合產品教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [套件組合產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=zh-Hant){target="_blank"}
-* [Adobe Developer REST教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [套裝產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+* [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

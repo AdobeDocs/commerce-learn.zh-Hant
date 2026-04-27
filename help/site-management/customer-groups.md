@@ -1,27 +1,33 @@
 ---
-title: 建立客戶群組
-description: 瞭解如何建立客戶群組，以及如何將客戶指派至特定群組，以決定可用的折扣及相關稅捐類別。
+title: Create Customer Groups
+description: Learn how to create a customer group and how to assign customers to specific groups, which determine the discounts that are available and the associated tax class.
 kt: 10546
 doc-type: feature video
 duration: 141
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00Z
+last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Personalization, Taxes, Price Rules
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/Bh-sCZxbjIFMqXP6rQmPOYYoBT18aKZ8oy0YjzLFmJk
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: 129
 ht-degree: 0%
 
 ---
 
-# 建立客戶群組
+# Create Customer Groups
 
-客戶群組決定可用的折扣，以及與群組相關聯的稅捐類別。 預設客戶群組為&#x200B;_一般_、_未登入_&#x200B;和&#x200B;_批發_。 在本影片中，您將會瞭解如何建立客戶群組，以及如何將客戶指派至特定群組。
+Customer groups determine which discounts are available and the tax class that is associated with the group. The default customer groups are _General_, _Not Logged In_, and _Wholesale_. In this video, you learn how to create a customer group and how to assign customers to specific groups.
 
 ## 這部影片是給誰看的？
 
@@ -34,5 +40,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=zh-Hant)
-* [網站的客戶群組限制 —  [!DNL Commerce] 客戶管理指南](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+* [Customer Groups - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [Customer group limitations by websites - [!DNL Commerce] Customer Management Guide](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

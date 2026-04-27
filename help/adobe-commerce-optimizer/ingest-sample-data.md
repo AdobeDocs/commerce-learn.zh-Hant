@@ -7,12 +7,16 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 446
-last-substantial-update: 2025-08-05T00:00:00Z
+last-substantial-update: 2025-08-05T00:00:00.000Z
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+TQID: https://experienceleague.adobe.com/KeK3RtTA95vbPO1dlH-GLkqXt2j-h4hJ85Q46-mvZ5k
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 145
 ht-degree: 0%
 
 ---
@@ -33,11 +37,11 @@ ht-degree: 0%
 * 建立原則。
 * 建立目錄檢視。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470485?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on)
 
 ## 相關內容
 
 * [GitHub存放庫範例資料](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [管理員使用案例](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [開始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [管理員使用案例](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [開始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

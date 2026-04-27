@@ -13,9 +13,15 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '2101'
+source-wordcount: 2132
 ht-degree: 0%
 
 ---
@@ -116,7 +122,7 @@ git push -u origin main
 
 如此一來，您便可確保每個存放區都包含相同的基礎套件集。
 
-您可以用類似方式定義定義存放區x的中繼包。它需要基礎中繼資料，需要完整的GRA基礎以及本機模組：
+您可以用類似方式定義定義存放區x的中繼包。 它需要基礎中繼資料，需要完整的GRA基礎以及本機模組：
 
 ```json
 {
@@ -195,19 +201,19 @@ composer install --prefer-source
 使用中繼套件，有3個步驟可傳送程式碼。
 
 1. 將變更合併到封裝中，並將變更的封裝版本化。
-2. （選擇性，只有在新增新套件時才會出現）需要中繼套件中的新套件和版本中繼套件。
-3. （選用，僅在新增新套件時）需要在Adobe Commerce中新的中繼資料並部署。
+2. (Optional, only if new packages are added) Require the new packages in metapackages and version the metapackages.
+3. (Optional, only if new packages are added) Require the new metapackages in Adobe Commerce and deploy.
 
-使用套件版本控制部署範圍。 建立穩定版本的套件表示此套件已準備好進行生產部署。
+Deployment scope is controlled with package versions. Creation of a stable version of a package means that this package is ready for production deployment.
 
-若要建置新版本，請在包含完整商店安裝的主要Composer專案中執行composer更新。 已安裝所有最新版本的套件。
+To build a new release, run composer update in the main Composer project, which contains the full store installation. All latest versions of packages are installed.
 
-## 版本設定
+## Versioning
 
-個別套件GRA中的版本設定是Git中標籤模組的同義詞。 Git標籤會建立Composer所安裝的套件編號版本。
-正確的版本設定方法可讓您的套件自動流動，同時保持安全。
+Versioning in a Separate Packages GRA is a synonym to tagging modules in Git. Git tags create numbered versions of your packages that Composer installs.
+The right versioning approach lets your packages flow automatically, while also remaining safe.
 
-兩個範例：
+Two examples:
 
 ```json
 {
@@ -221,7 +227,7 @@ composer install --prefer-source
 }
 ```
 
-此範例顯示相依性的嚴格定義。 精確版本中需要3個套件。 在您的安裝中使用這個中繼資料更新Composer不會起任何作用。 即使有較新版本可用，此版本也會一律將這3個套件安裝在這些精確版本中。
+This example shows a strict definition of dependencies. 3 packages are required in exact versions. Composer update with this metapackage in your installation does nothing. It always installs these 3 packages in these exact versions, even if a newer version is available.
 
 ```json
 {
@@ -235,13 +241,13 @@ composer install --prefer-source
 }
 ```
 
-此範例顯示相依性的鬆散定義。 透過`~1.0`，如果任何版本的這些套件大於或等於`1.0.0`且小於`2.0.0`，則可以安裝這些套件，且具有最高可用版本的偏好設定。 您可以在<https://getcomposer.org/doc/articles/versions.md>進一步瞭解如何定義版本相依性：
+This example shows a loose definition of dependencies. With `~1.0` any version of these packages can be installed if they are greater than or equal to `1.0.0` and lower than `2.0.0`, with a preference for the highest available version. You can learn more about how to define version dependencies at <https://getcomposer.org/doc/articles/versions.md>:
 
-> ~運運算元最好以範例說明： `~1.2`等於`>=1.2 <2.0.0`，而`~1.2.3`等於`>=1.2.3 <1.3.0`。
+> The ~ operator is best explained by example: `~1.2` is equivalent to `>=1.2 <2.0.0`, while `~1.2.3` is equivalent to `>=1.2.3 <1.3.0`.
 
-一旦您發行提及的任何套件的新版本，它就會自動隨Composer更新安裝。
+As soon as you release a new version of any of the packages mentioned, it is automatically installed with Composer update.
 
-套用語意版本設定。 您可以在<https://semver.org/>學習有關語意版本設定的一切。 尤其是，常見問題集是必須閱讀的。 透過語意版本設定，「1.0.0」中的數字稱為MAJOR.MINOR.PATCH。 封裝的次要和修補程式發行版本應該可以安全引進，而不會中斷應用程式。
+Apply semantic versioning. You can learn everything about semantic versioning at <https://semver.org/>. Especially, the FAQ is a must read. With semantic versioning, the numbers in &quot;1.0.0&quot; are called MAJOR.MINOR.PATCH. Minor and patch releases of a package should be safe to introduce without breaking the application.
 您可以自動包含修補程式，並手動選擇次要升級。 請注意，若要這麼做，請手動挑選每項次要變更，以節省額外的負荷：
 
 ```json

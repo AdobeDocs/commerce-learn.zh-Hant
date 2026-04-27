@@ -1,6 +1,6 @@
 ---
-title: 規劃現代Adobe Commerce實作
-description: 此網路研討會是關於現代商務系統（尤其是Adobe Commerce）的實作規劃，並包括探索階段、服務、全球參考架構、前端開發實務和最佳實務的討論。
+title: Planning the modern Adobe Commerce implementation
+description: This webinar is about planning the implementation of a modern commerce system, specifically Adobe Commerce, and includes discussions on the discovery phase, services, global reference architecture, front-end development practices, and best practices.
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -8,40 +8,47 @@ role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3624
-last-substantial-update: 2024-05-07T00:00:00Z
+last-substantial-update: 2024-05-07T00:00:00.000Z
 jira: KT-15465
 exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/QO48-EUvrWmkJHTmaboYTDtFKX9UjtBabUgkwGEZxJM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: d1e21356-0064-4f48-9089-16e3f0dbd2a6id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: 396
 ht-degree: 0%
 
 ---
 
-# 規劃現代Adobe Commerce實作
+# Planning the modern Adobe Commerce implementation
 
-此網路研討會提供與Adobe Commerce相關的各種主題的完整概觀，包括目錄服務、瞭解客戶架構和Edge Delivery Services。
-&#x200B;URL主題包括每項服務的新功能或現有功能與優點，例如Adobe Commerce Catalog as a Service中的即時搜尋和產品推薦、分析API和資料流程以瞭解客戶架構，以及Edge Delivery Services的高效能和低延遲。 此外，檔案還提到擁有標準檔案及與客戶互動時問題清單的重要性，以及全球參考架構(GRA)的概念，以有效建置專案。
+This webinar provides a comprehensive overview of various topics related to Adobe Commerce, including catalog service, understanding customer architecture, and Edge Delivery Services.
+&#x200B;Topics include new or existing features and benefits of each service, such as live search and product recommendations in the Adobe Commerce Catalog as a Service, analyzing APIs and data flow in understanding customer architecture, and the high performance and low latency of the Edge Delivery Services. Additionally, the document mentions the importance of having standard documents and a list of questions when interacting with customers, as well as the concept of Global Reference Architecture (GRA) for efficient project building.
 
 ## 客群
 
-* 開發團隊、經理、主要開發人員、技術架構師
-* 團隊以升級、移轉或新商務產品的形式實作Adobe Commerce
+* Development teams, managers, lead developers, technical architects
+* Teams implementing Adobe Commerce as an upgrade, migration or new commerce offering
 
 ## 視訊內容
 
-* 目錄服務（包括即時搜尋和產品推薦）包含在Adobe Commerce中，並提供Experience League上的指南。
-* 瞭解客戶架構包括分析API、資料流程、典型產品，以及將客戶需求對應至商業功能。
-* 建立一套標準檔案和問題清單，是瞭解客戶架構及確保順利實施專案的關鍵。
-自動分析工具可用於移轉專案，而手動檔案檢閱和調查問卷則用於其他情況。
-* Edge Delivery Services最近針對Adobe Commerce發行，提供高效能的店面解決方案，具備低延遲和簡化的撰寫體驗。
-* Edge Delivery Services會排定效能的優先順序，而且可以大幅改善Lighthouse分數、SEO和整體網站速度。
-Adobe Commerce概觀及其規劃、建置和維護現代化實作的四部分系列。
-* 全球參考架構(GRA)概念簡介，用於有效率地建置專案。
-* 討論在探索階段瞭解角色、關鍵檔案和專案元件的重要性。
-* 說明各種服務的好處和功能，包括定價和資料連線。
-* 強調需要可擴充的商務基礎，並使用服務來擴充應用程式，而不需自訂核心產品。
-* 正確規劃、組織和安排任務優先順序的重要性，包括從專案最困難的部分開始，並考慮將GRA用於可重複使用的元件。
+* Catalog service, including live search and product recommendations, is included with Adobe Commerce and has guides available on Experience League.
+* Understanding customer architecture involves analyzing APIs, data flow, typical products, and mapping customer requirements to commerce functionality.
+* Building a set of standard documents and a list of questions is essential for understanding customer architecture and ensuring a smooth project implementation.
+Automatic analysis tools can be used for migration projects, while manual documentation review and questionnaires are necessary for other cases.
+* Edge Delivery Services, released for Adobe Commerce recently, offers high-performance storefront solutions with low latency and simplified authoring experiences.
+* Edge Delivery Services prioritize performance and can significantly improve lighthouse scores, SEO, and overall website speed.
+Overview of Adobe Commerce and its four-part series on planning, building, and maintaining a modern implementation.
+* Introduction to the concept of Global Reference Architecture (GRA) for efficient project building.
+* Discussion on the importance of understanding roles, key documents, and project components during the discovery phase.
+* Explanation of the benefits and features of various services, including pricing and data connection.
+* Emphasis on the need for a scalable commerce foundation and the use of services to extend the application without customizing the core product.
+* Importance of proper planning, organization, and prioritization of tasks, including starting with the hardest parts of the project and considering the use of GRA for reusable components.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
 
