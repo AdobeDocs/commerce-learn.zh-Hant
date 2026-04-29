@@ -3,9 +3,9 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
+source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '1001'
 ht-degree: 3%
 
 ---
@@ -152,6 +152,15 @@ ht-degree: 3%
       + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
          + [建立分割付款POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [建立分割付款POC：App Builder完整示範](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+         + [分割付款POC：架構與設計決策](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
+         + [分割付款POC：先決條件與環境設定](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
+         + [分割付款POC：環境變數參考](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
+         + [分割付款POC：Commerce模組AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
+         + [分割付款POC：App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
+         + [分割付款POC：Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
+         + [分割付款POC：測試與驗證指南](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
+         + [分割付款POC：概念證明後的後續步驟](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
+         + [分割付款POC：作者的教學課程快速參考](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
       + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
          + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
