@@ -209,7 +209,7 @@ node commerce-backend-ui-1/scripts/simulate-split-payment.mjs decline <entity_id
 從步驟3.2開啟控制面板URL。 系統中有暫止的訂單：
 
 1. 確認訂單出現在擱置清單中
-2. 按一下[接受]****，並確認在Commerce中將訂單移至`processing`
+2. 按一下[接受]&#x200B;**&#x200B;**，並確認在Commerce中將訂單移至`processing`
 3. 下新訂單，返回儀表板，然後按一下&#x200B;**拒絕** — 確認取消
 
 ## 階段5 （選用） — 新增Experience Cloud UI擴充功能
