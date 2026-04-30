@@ -3,9 +3,10 @@ user-guide-title: 影片和教學課程
 user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
-source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
+author: Russell A.
+source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
@@ -97,7 +98,7 @@ ht-degree: 3%
 
 + 擴充性 {#extensibility}
    + 後端開發 {#backend-development}
-      + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+      + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [建立模組](../backend-development/create-module.md)
       + [新增產品屬性](../backend-development/add-product-attribute.md)
       + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -150,17 +151,18 @@ ht-degree: 3%
       + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
       + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
       + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
-         + [建立分割付款POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-         + [建立分割付款POC：App Builder完整示範](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-         + [分割付款POC：架構與設計決策](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
-         + [分割付款POC：先決條件與環境設定](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
-         + [分割付款POC：環境變數參考](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
-         + [分割付款POC：Commerce模組AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
-         + [分割付款POC：App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
-         + [分割付款POC：Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
-         + [分割付款POC：測試與驗證指南](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
-         + [分割付款POC：概念證明後的後續步驟](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
-         + [分割付款POC：作者的教學課程快速參考](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
+         + [App Builder和AI工具](../app-builder/split-payment-ai-tools/overview.md)
+         + [完整示範](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [逐步實作指南](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+         + [架構與設計決策](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+         + [先決條件和環境設定](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+         + [測試和驗證](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+         + [後續步驟](../app-builder/split-payment-ai-tools/next-steps.md)
+         + 參考資源 {#split-payment-resources}
+            + [環境變數參考](../app-builder/split-payment-ai-tools/env-reference.md)
+            + [Commerce模組AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+            + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+            + [Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
       + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
          + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
@@ -286,5 +288,5 @@ ht-degree: 3%
    + [篩選器集](../business-intelligence/filter-sets.md)
    + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [未來的準備](../business-intelligence/prepare-for-future.md)
+   + 未來的[準備](../business-intelligence/prepare-for-future.md)
 
