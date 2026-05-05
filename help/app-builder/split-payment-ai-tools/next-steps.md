@@ -1,6 +1,6 @@
 ---
 title: 分割付款POC：概念證明後的後續步驟
-description: 瞭解如何將分割付款POC移至生產環境：Experience Cloud UI、ERP鉤點、API Mesh、PHP範圍、App Builder工作流程以及部署檢查清單。
+description: 瞭解如何將分割付款POC移至生產環境。 Experience Cloud UI、ERP鉤點、API Mesh、PHP範圍、App Builder工作流程及部署檢查清單。
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 `demo-dashboard` Web動作會從Node.js函式內的字串提供HTML。 這很管用，但不是生產模式。
 
-適當的取代專案是`commerce-checkout-starter-kit`中的`commerce-backend-ui-1`擴充功能 — React應用程式，透過Adobe管理UI SDK內嵌於Commerce管理命令介面。 如需產生提示，請參閱[分割付款POC：Experience Cloud UI擴充功能AI提示](split-payment-poc-experience-cloud-ui-prompt.md)。
+適當的取代專案是`commerce-checkout-starter-kit`中的`commerce-backend-ui-1`擴充功能 — React應用程式，透過Adobe管理UI SDK內嵌於Commerce管理命令介面。 如需產生提示，請參閱[分割付款POC：Experience Cloud UI擴充功能AI提示](./experience-cloud-ui-prompt.md)。
 
 **哪些變更：**
 * 操作員透過Commerce管理員殼層登入（以IMS驗證而非共用密碼）
@@ -45,38 +45,38 @@ ht-degree: 0%
 
 **整合模式：**
 1. 您的ERP系統會使用`{ orderId: <entity_id> }`擷取現金並呼叫`POST /payment-accept` （App Builder網頁動作URL）
-2. App Builder validates the call (bearer token or API key — add auth middleware to `payment-accept`)
-3. App Builder calls Commerce REST `cash-received`
-4. Commerce invoices and ships the order
+2. App Builder驗證呼叫（持有人權杖或API金鑰 — 將驗證中介軟體新增至`payment-accept`）
+3. App Builder呼叫Commerce REST `cash-received`
+4. Commerce會開具發票並運送訂單
 
-No PHP changes required. The REST surface is already there. The App Builder action just needs a secure caller instead of a dashboard button.
+不需要變更PHP。 REST曲面已經存在。 App Builder動作只需要安全的呼叫者，而不是控制面板按鈕。
 
-**Authentication options for the ERP caller:**
-* Adobe I/O Runtime supports `require-adobe-auth: true` for IMS tokens (if your ERP can get an IMS token)
-* For non-Adobe systems: add a simple API key check in the `payment-accept` action (check a header against a secret stored in the action&#39;s env)
-
-
-## Step 3 — Add API Mesh as a Broker Layer
-
-Currently, App Builder calls Commerce REST directly with OAuth 1.0a credentials. For larger deployments, Adobe API Mesh provides a managed gateway layer between App Builder and Commerce.
-
-**Benefits:**
-* Centralized credential management — API Mesh holds the Commerce credentials; App Builder calls API Mesh
-* Request transformation — map App Builder payloads to Commerce REST shapes without changing the App Builder action
-* Rate limiting and caching — protect Commerce from high-volume event traffic
-
-**The pattern:**
-* Replace `createCommerceClient(params, logger)` calls with calls to your API Mesh endpoint
-* API Mesh handles OAuth signing toward Commerce
+ERP呼叫者的&#x200B;**驗證選項：**
+* Adobe I/O Runtime支援IMS權杖的`require-adobe-auth: true` （如果您的ERP可以取得IMS權杖）
+* 對於非Adobe系統：在`payment-accept`動作中新增簡單的API金鑰檢查（對照儲存在動作環境中的密碼檢查標題）
 
 
-## Step 4 — Reduce the PHP Footprint
+## 步驟3 — 將API網格新增為中介層
 
-The current PHP module handles five things that must stay in-process (see [Split payment POC: architecture and design decisions](split-payment-poc-architecture-and-decisions.md)). As Adobe Commerce&#39;s API surface matures, some of these may become movable:
+目前，App Builder直接使用OAuth 1.0a憑證呼叫Commerce REST。 對於大型部署，Adobe API Mesh在App Builder和Commerce之間提供受管理的閘道層。
 
-**Potentially movable in the future:**
-* The store credit REST API is evolving — future versions may support applying credit post-order or to inactive carts
-* As more Commerce operations become async-safe, the threshold guard may be movable to a pre-order API Mesh resolver
+**優點：**
+* 集中式認證管理 — API Mesh可儲存Commerce認證；App Builder會呼叫API Mesh
+* 請求轉換 — 在不變更App Builder動作的情況下，將App Builder裝載對應至Commerce REST圖形
+* 速率限制和快取 — 保護Commerce不受高流量事件流量的影響
+
+**模式：**
+* 以呼叫您的API Mesh端點取代`createCommerceClient(params, logger)`呼叫
+* API Mesh處理Commerce的OAuth簽署
+
+
+## 步驟4 — 減少PHP佔用的空間
+
+目前的PHP模組處理必須保持處理中的五個專案（請參閱[分割付款POC：架構和設計決策](./architecture-and-decisions.md)）。 隨著Adobe Commerce的API表面日漸成熟，其中有些可能會變成可移動的：
+
+**未來可能可以移動：**
+* 商店信用額REST API在不斷發展 — 未來版本可能支援在訂單後套用信用額或套用至非使用中購物車
+* 隨著更多Commerce作業變得非同步安全，臨界值保護可以移至預先訂購的API Mesh解析器
 
 **不可移動（架構限制）：**
 * 除非Commerce透過API優先擴充點公開乾淨的勾點，否則`placeOrder()`之前的引號操作一律需要處理中的程式碼

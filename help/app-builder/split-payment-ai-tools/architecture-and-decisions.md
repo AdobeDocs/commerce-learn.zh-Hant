@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%
@@ -145,42 +145,42 @@ App Builder `payment-orchestrator` reads the split amounts
 
 **延伸屬性** （在`CartInterface`、`OrderInterface`和`OrderPaymentInterface`）
 
-* `split_store_credit_amount` (float)
-* `split_cash_amount` (float)
-* `split_cash_status` (string)
+* `split_store_credit_amount` （浮點數）
+* `split_cash_amount` （浮點數）
+* `split_cash_status` （字串）
 
-## I/O event payload fields
+## I/O事件裝載欄位
 
-`observer.sales_order_place_before` is configured in `io_events.xml` to include the following in the event:
+在`io_events.xml`中將`observer.sales_order_place_before`設定為包含事件中的下列專案：
 
 ```xml
 entity_id, quote_id, increment_id, subtotal,
 split_store_credit_amount, split_cash_amount, split_cash_status
 ```
 
-App Builder uses `entity_id` as the order ID and `split_store_credit_amount` and `split_cash_amount` for threshold validation.
+App Builder使用`entity_id`作為訂單ID，並使用`split_store_credit_amount`和`split_cash_amount`進行臨界值驗證。
 
-## The five edge cases the proof of concept covers
+## 概念證明涵蓋的五個邊緣案例
 
 ### 1. `CapCustomerBalanceCollectPlugin`
 
-Commerce’s native **[!UICONTROL Customer balance]** total collector can over-apply (it can see the full available balance, not the session-declared split amount). This plugin caps the amount to the value declared in the session.
+Commerce的原生&#x200B;**[!UICONTROL Customer balance]**&#x200B;總計收集器可以超額套用（它可以看到完整的可用餘額，而不是工作階段宣告的分割量）。 此外掛程式會將數量限製為作業階段中宣告的值。
 
 ### 2. `FixSplitPaymentGrandTotalPlugin`
 
-After store credit is applied, the quote **[!UICONTROL Grand Total]** can drop to the cash-only amount. The checkout JavaScript must compute the order total for split validation *before* that change. The plugin runs after totals collection and corrects the display, while the JavaScript does not trust `grand_total` alone and reconstructs the value from subtotal segments.
+在套用商店點數後，報價單&#x200B;**[!UICONTROL Grand Total]**&#x200B;可以放入僅限現金的金額。 簽出JavaScript必須計算變更前&#x200B;*分割驗證*&#x200B;的訂單總計。 外掛程式會在總計集合之後執行，並修正顯示，而JavaScript不只信任`grand_total`，而且會從小計區段重新建構值。
 
 ### 3. `FixInvoiceCustomerBalanceAfterTotalsPlugin`
 
-When invoice totals are recollected, store credit can be applied twice. This plugin corrects `customer_balance_amount` on invoices.
+在收回商業發票總計時，可以套用兩次商店點數。 此外掛程式更正發票上的`customer_balance_amount`。
 
 ### 4. `SplitPaymentZeroTotalPlugin`
 
-After store credit is applied, the cart **[!UICONTROL Grand Total]** can be $0 (full store credit order). Commerce’s **[!UICONTROL Zero subtotal checkout]** check can block COD in that case. This plugin allows COD when the session cash amount is greater than 0.
+套用商店點數後，購物車&#x200B;**[!UICONTROL Grand Total]**&#x200B;可以是$0 （完整商店點數訂單）。 在這種情況下，Commerce的&#x200B;**[!UICONTROL Zero subtotal checkout]**&#x200B;檢查可以封鎖COD。 當工作階段現金金額大於0時，此外掛程式可允許進行COD。
 
-### 5. Quote recollection before `BalanceManagementInterface::apply()`
+### &#x200B;5. `BalanceManagementInterface::apply()`之前的引號回收
 
-`apply()` checks the amount against the current **[!UICONTROL Grand Total]**. If the total is already the cash portion only, `apply()` can fail or cap. `PlaceOrderPlugin` temporarily suspends the grand-total fix while balance is applied, using a session flag (`beginBalanceApply` / `endBalanceApply`).
+`apply()`對照目前的&#x200B;**[!UICONTROL Grand Total]**&#x200B;檢查金額。 如果總計已經是僅現金部分，`apply()`可能會失敗或達到上限。 `PlaceOrderPlugin`使用工作階段旗標(`beginBalanceApply` / `endBalanceApply`)，在套用餘額時暫時暫停總計修正。
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

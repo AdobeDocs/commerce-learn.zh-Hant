@@ -1,6 +1,6 @@
 ---
-title: 'Split payment POC: environment variables reference'
-description: Learn how to map Commerce OAuth, base URL, payment threshold, and optional demo settings to the orchestrator, UI extension, and simulation environment files.
+title: 分割付款POC：環境變數參考
+description: 瞭解如何將Commerce OAuth、基本URL、付款臨界值和選用的示範設定對應到Orchestrator、UI擴充功能和模擬環境檔案。
 feature: App Builder, Configuration, Extensibility, Paas, REST, Security
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,32 +9,32 @@ doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
-# Split payment POC: environment variables reference
+# 分割付款POC：環境變數參考
 
-The same four Commerce OAuth credentials are used in every component. In **[!UICONTROL Commerce Admin]**, create one **[!UICONTROL Integration]**, then reuse the four values in every `.env` file below. (See [Split payment POC: prerequisites and environment setup](split-payment-poc-prerequisites-and-setup.md) for the activation steps.)
+每個元件都會使用相同的四個Commerce OAuth憑證。 在&#x200B;**[!UICONTROL Commerce Admin]**&#x200B;中建立一個&#x200B;**[!UICONTROL Integration]**，然後重複使用下面每個`.env`檔案中的四個值。 （如需啟用步驟，請參閱[分割付款POC：必要條件和環境設定](./prerequisites-and-setup.md)。）
 
-## The four OAuth credentials (used everywhere)
+## 四個OAuth認證（適用於所有地方）
 
-| Variable | Where to get it |
+| 變數 | 從何處取得 |
 | --- | --- |
-| `COMMERCE_CONSUMER_KEY` | **[!UICONTROL Commerce Admin]** > **[!UICONTROL System]** > **[!UICONTROL Integrations]** > *[your integration]* |
-| `COMMERCE_CONSUMER_SECRET` | Same as above — values are only shown at activation |
-| `COMMERCE_ACCESS_TOKEN` | Same as above |
-| `COMMERCE_ACCESS_TOKEN_SECRET` | Same as above |
+| `COMMERCE_CONSUMER_KEY` | **[!UICONTROL Commerce Admin]** > **[!UICONTROL System]** > **[!UICONTROL Integrations]** > *[您的整合]* |
+| `COMMERCE_CONSUMER_SECRET` | 與上述相同 — 值僅在啟動時顯示 |
+| `COMMERCE_ACCESS_TOKEN` | 與上述相同 |
+| `COMMERCE_ACCESS_TOKEN_SECRET` | 與上述相同 |
 
 
 ## App Builder orchestrator
 
 ### `split-payment-orchestrator/.env`
 
-Copy from `.env.example` in the orchestrator directory. Do not commit this file.
+從orchestrator目錄中的`.env.example`複製。 請勿認可此檔案。
 
 ```dotenv
 # Commerce REST base URL — no trailing slash
@@ -61,11 +61,11 @@ DEMO_UI_BASE_URL=
 ```
 
 
-## Experience Cloud UI extension (commerce-checkout-starter-kit)
+## Experience Cloud UI擴充功能(commerce-checkout-starter-kit)
 
 ### `commerce-checkout-starter-kit/.env`
 
-This component uses two credential sets: IMS for order listing with the **[!UICONTROL Admin]** UI SDK, and OAuth 1.0a for accept and decline actions.
+此元件使用兩個認證集：IMS用於使用&#x200B;**[!UICONTROL Admin]** UI SDK的訂單清單，而OAuth 1.0a用於接受和拒絕動作。
 
 ```dotenv
 # IMS — used by CustomMenu/commerce-rest-api to list orders
@@ -88,11 +88,11 @@ COMMERCE_INTEGRATION_ACCESS_TOKEN_SECRET=
 ```
 
 
-## Simulation script
+## 模擬指令碼
 
 ### `commerce-backend-ui-1/.env.simulation`
 
-Copy from `.env.simulation.example` in the same directory.
+從相同目錄中的`.env.simulation.example`複製。
 
 ```dotenv
 COMMERCE_BASE_URL=https://your-store.example.com
@@ -105,9 +105,9 @@ COMMERCE_ACCESS_TOKEN_SECRET=
 
 ## 附註
 
-**`PAYMENT_THRESHOLD`** — Must match `split_payment/general/threshold` in **[!UICONTROL Commerce]** system configuration. Both sides default to `100` if the value is missing, not numeric, or less than or equal to `0`. If you change the threshold in **[!UICONTROL Commerce]**, update the App Builder `.env` to match.
+**`PAYMENT_THRESHOLD`** — 必須符合&#x200B;**[!UICONTROL Commerce]**&#x200B;系統組態中的`split_payment/general/threshold`。 如果值遺失、非數值或小於或等於`0`，則兩側預設為`100`。 如果您在&#x200B;**[!UICONTROL Commerce]**&#x200B;中變更臨界值，請更新App Builder `.env`以符合。
 
-**`DEMO_UI_SECRET`** — Optional but recommended for any deployment that is not localhost. 擁有儀表板URL的任何人都可以列出訂單，並在空白時執行「接受」和「拒絕」。 若是實際的測試環境，請設定共用機密。
+**`DEMO_UI_SECRET`** — 選擇性，但建議用於任何非localhost的部署。 擁有儀表板URL的任何人都可以列出訂單，並在空白時執行「接受」和「拒絕」。 若是實際的測試環境，請設定共用機密。
 
 **`COMMERCE_BASE_URL`** — 絕對不要在結尾加上斜線。 Commerce REST使用者端會自動附加`/rest/V1/`。
 

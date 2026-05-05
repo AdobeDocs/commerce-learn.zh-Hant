@@ -1,6 +1,6 @@
 ---
 title: 分割付款POC：教學課程快速參考
-description: 瞭解分割付款POC檔案對應：哪個Experience League頁面與Luma結帳的每個AI提示、建議的區段順序和作者附註相符。
+description: 瞭解分割付款POC檔案對應。 哪個Experience League頁面與Luma結帳的每個AI提示、建議的區段順序和作者附註相符。
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1444'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 ## 逐檔案參考
 
-### [建立分割付款POC：App Builder和AI工具](create-a-split-payment-poc-app-builder-and-ai-tools.md)
-
-**Source標籤：** `00_TUTORIAL_OVERVIEW.md` （概念概觀；發佈的系列會在此頁面開啟。）
+### [建立分割付款POC：App Builder和AI工具](./overview.md)
 
 **目的：**&#x200B;教學課程的簡介和方向。
 
@@ -34,7 +32,7 @@ ht-degree: 0%
 **教學課程使用：**&#x200B;開啟節。 在任何技術步驟之前設定內容。
 
 
-### [分割付款POC：架構與設計決策](split-payment-poc-architecture-and-decisions.md)
+### [分割付款POC：架構與設計決策](./architecture-and-decisions.md)
 
 
 **用途：**&#x200B;深入說明PoC中的每個架構決定。
@@ -52,7 +50,7 @@ ht-degree: 0%
 **教學課程使用：**「架構」或「運作方式」區段。 經驗豐富的Commerce開發人員可略過，但對於App Builder的新手而言至關重要。
 
 
-### [分割付款POC：必要條件和環境設定](split-payment-poc-prerequisites-and-setup.md)
+### [分割付款POC：必要條件和環境設定](./prerequisites-and-setup.md)
 
 
 **用途：**&#x200B;在寫入任何程式碼或執行提示前，先完成預檢檢查清單。
@@ -68,7 +66,7 @@ ht-degree: 0%
 **教學課程使用：**「先決條件」或「快速入門」區段。 應該以互動方式完成 — 而不僅僅是閱讀。
 
 
-### [分割付款POC：環境變數參考](split-payment-poc-env-reference.md)
+### [分割付款POC：環境變數參考](./env-reference.md)
 
 
 **用途：**&#x200B;所有三個元件的所有環境變數都集中在一處。
@@ -84,7 +82,7 @@ ht-degree: 0%
 **教學課程使用：**&#x200B;參考側邊欄或「設定」區段。 也可用來輔助建置提示。
 
 
-### [分割付款POC： Commerce模組AI提示](split-payment-poc-commerce-module-prompt.md)
+### [分割付款POC： Commerce模組AI提示](./commerce-module-prompt.md)
 
 
 **用途：**&#x200B;完整、獨立的AI提示，以產生整個`Client_SplitPayment` PHP模組。
@@ -103,7 +101,7 @@ ht-degree: 0%
 **教學課程使用：**「建置Commerce模組」區段。 提示本身就是成品 — 開發人員將其複製至其AI工具中並加以執行。
 
 
-### [分割付款POC： App Builder orchestrator AI提示](split-payment-poc-app-builder-orchestrator-prompt.md)
+### [分割付款POC： App Builder orchestrator AI提示](./orchestrator-prompt.md)
 
 
 **用途：**&#x200B;完整、獨立的AI提示，可產生`split-payment-orchestrator` App Builder應用程式。
@@ -122,7 +120,7 @@ ht-degree: 0%
 **教學課程使用：**「建置App Builder應用程式」區段。 Commerce模組提示隨附。
 
 
-### [分割付款POC： Experience Cloud UI延伸模組AI提示](split-payment-poc-experience-cloud-ui-prompt.md)
+### [分割付款POC： Experience Cloud UI延伸模組AI提示](./experience-cloud-ui-prompt.md)
 
 
 **用途：** AI提示以產生選用的Experience Cloud Admin UI SDK擴充功能。
@@ -139,7 +137,7 @@ ht-degree: 0%
 **教學課程使用：**&#x200B;選用的「更進一步」或「生產路徑」區段。 如果教學課程僅聚焦於PoC，則可略過。
 
 
-### [分割付款POC：測試與驗證指南](split-payment-poc-testing-and-verification.md)
+### [分割付款POC：測試與驗證指南](./testing-and-verification.md)
 
 
 **用途：**&#x200B;逐步測試指南涵蓋正確驗證順序的每個元件。
@@ -162,7 +160,7 @@ ht-degree: 0%
 **教學課程使用：** 「測試」或「驗證」區段。 也可用作疑難排解參考。
 
 
-### [分割付款POC：概念證明後的後續步驟](split-payment-poc-next-steps.md)
+### [分割付款POC：概念證明後的後續步驟](./next-steps.md)
 
 
 **用途：**&#x200B;將PoC發展成生產就緒型態的藍圖。
@@ -186,27 +184,27 @@ ht-degree: 0%
 
 | 教學課程區段 | Experience League頁面 |
 | --- | --- |
-| 簡介和學習目標 | [建立分割付款POC：App Builder和AI工具](create-a-split-payment-poc-app-builder-and-ai-tools.md) |
-| 端對端示範（影片） | [建立分割付款POC： App Builder完整示範](create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md) |
-| 架構：哪些地方適用 | [分割付款POC：架構與設計決策](split-payment-poc-architecture-and-decisions.md) |
-| Prerequisites and setup | [分割付款POC：必要條件和環境設定](split-payment-poc-prerequisites-and-setup.md) |
-| Environment variables | [分割付款POC：環境變數參考](split-payment-poc-env-reference.md) |
-| Step 1: Build the Commerce module | [分割付款POC： Commerce模組AI提示](split-payment-poc-commerce-module-prompt.md) |
-| Step 2: Build the App Builder orchestrator | [分割付款POC： App Builder orchestrator AI提示](split-payment-poc-app-builder-orchestrator-prompt.md) |
-| Step 3: Test the end-to-end flow | [分割付款POC：測試與驗證指南](split-payment-poc-testing-and-verification.md) |
-| Step 4 (optional): Admin UI extension | [分割付款POC： Experience Cloud UI延伸模組AI提示](split-payment-poc-experience-cloud-ui-prompt.md) |
-| Next steps and production path | [分割付款POC：概念證明後的後續步驟](split-payment-poc-next-steps.md) |
+| 簡介和學習目標 | [建立分割付款POC：App Builder和AI工具](./overview.md) |
+| 端對端示範（影片） | [建立分割付款POC： App Builder完整示範](./full-demo.md) |
+| 架構：哪些地方適用 | [分割付款POC：架構與設計決策](./architecture-and-decisions.md) |
+| 必要條件和設定 | [分割付款POC：必要條件和環境設定](./prerequisites-and-setup.md) |
+| 環境變數 | [分割付款POC：環境變數參考](./env-reference.md) |
+| 步驟1：建立Commerce模組 | [分割付款POC： Commerce模組AI提示](./commerce-module-prompt.md) |
+| 步驟2：建立App Builder orchestrator | [分割付款POC： App Builder orchestrator AI提示](./orchestrator-prompt.md) |
+| 步驟3：測試端對端流程 | [分割付款POC：測試與驗證指南](./testing-and-verification.md) |
+| 步驟4 （選用）：管理員UI擴充功能 | [分割付款POC： Experience Cloud UI延伸模組AI提示](./experience-cloud-ui-prompt.md) |
+| 後續步驟和生產路徑 | [分割付款POC：概念證明後的後續步驟](./next-steps.md) |
 
 
-## Important notes for tutorial authors
+## 教學課程作者的重要注意事項
 
-**On the Luma theme assumption:** Every build prompt generates code for a clean Luma installation. The tutorial should clearly state this at the top — developers with custom checkouts will need to adapt the `LayoutProcessorPlugin` injection paths and possibly the RequireJS configuration. The series introduction and build prompts include customization callouts for this.
+**在Luma佈景主題假設上：**&#x200B;每個組建提示都會產生用於清潔Luma安裝的程式碼。 教學課程應在頂端清楚說明此問題 — 具有自訂結帳的開發人員需要調整`LayoutProcessorPlugin`插入路徑，可能還有RequireJS設定。 系列簡介和建置提示包括此專案的自訂圖說文字。
 
-**On the PHP module:** The tutorial explicitly does not provide the PHP code as a copy-paste download. The AI prompt *generates* it. This is intentional — it teaches the pattern of using AI to create Commerce extensions, not just copy-paste boilerplate. However, the generated code when prompted on a clean environment should match the working code in `app/code/Client/SplitPayment/` exactly.
+**在PHP模組：**&#x200B;教學課程明確未提供PHP程式碼作為複製貼上下載。 AI提示&#x200B;*產生*&#x200B;它。 這是刻意的 — 它會教導使用AI來建立Commerce擴充功能的模式，而不僅僅是複製貼上範本。 不過，在乾淨環境中出現提示時，產生的程式碼應該與`app/code/Client/SplitPayment/`中的工作程式碼完全相符。
 
-**On the $100 threshold:** This is a hard-coded PoC value. The tutorial should note that real stores will want to configure this via Commerce Admin configuration rather than a compile-time constant.
+**在$100臨界值上：**&#x200B;這是硬式編碼的PoC值。 教學課程應注意，實體商店會想要透過Commerce管理設定（而非編譯時常數）來設定此專案。
 
-**On store credit dependency:** The split payment flow as built requires `Magento_CustomerBalance` (the native store credit module).
+**商店信用相依性：**&#x200B;建立的分割付款流程需要`Magento_CustomerBalance` （原始商店信用模組）。
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

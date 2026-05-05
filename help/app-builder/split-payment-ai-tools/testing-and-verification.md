@@ -1,6 +1,6 @@
 ---
 title: 分割付款POC：測試與驗證指南
-description: 瞭解如何驗證分割付款POC：Commerce安裝、REST、結帳、臨界值、模擬接受和拒絕、示範儀表板和App Builder記錄。
+description: 瞭解如何驗證分割付款POC。 Commerce安裝、REST、結帳、臨界值、模擬接受和拒絕、示範儀表板，以及App Builder記錄。
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -105,12 +105,12 @@ curl -X POST https://your-store.example.com/rest/V1/split-payment/set \
    2. `"Split payment orchestration completed. Order awaiting cash confirmation."` （來自App Builder）
 * 分割付款金額會顯示在訂單付款區塊中
 
-> **如果未出現App Builder註解：**&#x200B;請檢查App Builder動作記錄檔與`aio app logs`。 The event may not have fired or the action may have an error.
+> **如果未出現App Builder註解：**&#x200B;請檢查App Builder動作記錄檔與`aio app logs`。 事件可能尚未引發，或動作可能有錯誤。
 
 
-## Step 7 — Test Accept via Simulation Script
+## 步驟7 — 透過模擬指令碼測試接受
 
-The simulation script is the fastest way to test the accept/decline flow without the full operator UI.
+模擬指令碼是在沒有完整運運算元UI的情況下測試接受/拒絕流程的最快方式。
 
 ```bash
 cd commerce-checkout-starter-kit
@@ -127,52 +127,52 @@ node commerce-backend-ui-1/scripts/simulate-split-payment.mjs show 42
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs accept 42
 ```
 
-After accept, verify in Commerce Admin order view:
-* Order status is `processing`
-* History comment: `"Cash payment of $X.XX received."`
-* Cash invoice created (visible in Invoices tab)
-* Shipment created (visible in Shipments tab, if applicable)
-* History comment: `"Split payment: cash portion invoiced #XXXXXXXX."`
-* History comment: `"Split payment: shipment created after cash was accepted (App Builder / API)."`
+接受後，在Commerce管理員訂單檢視中確認：
+* 訂單狀態為`processing`
+* 歷程記錄註解： `"Cash payment of $X.XX received."`
+* 已建立現金商業發票（顯示在「商業發票」頁標中）
+* 已建立出貨（若適用，顯示在「出貨」頁標中）
+* 歷程記錄註解： `"Split payment: cash portion invoiced #XXXXXXXX."`
+* 歷程記錄註解： `"Split payment: shipment created after cash was accepted (App Builder / API)."`
 
 
-## Step 8 — Test Decline via Simulation Script
+## 步驟8 — 透過模擬指令碼測試拒絕
 
-Place another test order (same setup as Step 6), then:
+下另一個測試訂單（與步驟6的設定相同），然後：
 
 ```bash
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs decline <orderId>
 ```
 
-After decline, verify in Commerce Admin:
-* Order status is `canceled`
-* History comment: `"Cash payment declined (simulated fraud check)."`
+拒絕後，請在Commerce管理員中確認：
+* 訂單狀態為`canceled`
+* 歷程記錄註解： `"Cash payment declined (simulated fraud check)."`
 * `split_cash_status` = `declined`
 
 
-## Step 9 — Test the Demo Dashboard
+## 步驟9 — 測試示範控制面板
 
-After deploying the `split-payment-orchestrator`, `aio app deploy` prints the action URLs.
+部署`split-payment-orchestrator`後，`aio app deploy`會列印動作URL。
 
-Open the `demo-dashboard` URL in a browser:
+在瀏覽器中開啟`demo-dashboard` URL：
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard
 ```
 
-If `DEMO_UI_SECRET` is set:
+若已設定`DEMO_UI_SECRET`：
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard?secret=<your-secret>
 ```
 
-With a pending order:
-1. The dashboard should show the order in the pending list
-2. Click **Accept** → order should move to `processing` in Commerce
-3. Place another order; click **Decline** → order should be `canceled` in Commerce
+含待定訂單：
+1. 儀表板應該顯示擱置清單中的順序
+2. 按一下[接受]&#x200B;**&#x200B;**→順序應移至Commerce中的`processing`
+3. 下其他訂單；按一下Commerce中的&#x200B;**拒絕**→訂單應為`canceled`
 
 
-## Step 10 — Test App Builder Action Logs
+## 步驟10 — 測試App Builder動作記錄
 
 ```bash
 # Follow logs in real-time
@@ -183,7 +183,7 @@ aio runtime activation list --limit 10
 aio runtime activation logs <activation-id>
 ```
 
-For the `payment-orchestrator`, look for:
+若為`payment-orchestrator`，請尋找：
 
 ```
 [INFO] Split payment orchestration finished { orderId: '42' }
@@ -231,32 +231,32 @@ For the `payment-orchestrator`, look for:
 **原因：** `io_events.xml`欄位清單不包含`entity_id`，或事件裝載圖形已變更。
 
 **修正：**
-* Confirm `io_events.xml` includes `entity_id` in the field list
-* In the action, log `JSON.stringify(params)` temporarily to see the full payload shape
-* Check that the `extractValue()` function is finding the right nesting level
+* 確認`io_events.xml`在欄位清單中包含`entity_id`
+* 在動作中，暫時記錄`JSON.stringify(params)`以檢視完整的裝載圖形
+* 檢查`extractValue()`函式是否找到正確的巢狀層級
 
-### Orders don&#39;t show in demo dashboard
+### 訂單未顯示在示範儀表板中
 
-**Cause:** Commerce REST `orders` search criteria not returning orders, or `split_cash_status` field not in the REST response.
+**原因：** Commerce REST `orders`搜尋條件未傳回訂單，或`split_cash_status`欄位不在REST回應中。
 
 **修正：**
-* Confirm `OrderRepositoryPlugin` is loading extension attributes correctly
-* Test directly: `GET /rest/V1/orders?searchCriteria[pageSize]=5` and check if `extension_attributes.split_cash_status` appears in the response
-* Check that `extension_attributes.xml` is correctly declaring the `split_cash_status` attribute on `OrderInterface`
+* 確認`OrderRepositoryPlugin`是否正確載入擴充功能屬性
+* 直接測試： `GET /rest/V1/orders?searchCriteria[pageSize]=5`並檢查回應中是否顯示`extension_attributes.split_cash_status`
+* 檢查`extension_attributes.xml`是否正確宣告`OrderInterface`上的`split_cash_status`屬性
 
 
-## Verification Checklist
+## 驗證檢查清單
 
-* [ ] `split_*` columns visible in `sales_order` table
-* [ ] REST endpoints return 401 (not 404) when called without auth
-* [ ] Split payment UI renders at checkout when Cash is selected
-* [ ] Validation messages work (overpayment, insufficient credit)
-* [ ] Threshold guard blocks orders > $100
-* [ ] Placed order has `pending_payment` status and App Builder comments
-* [ ] `simulate-split-payment.mjs list` shows the test order with split amounts
-* [ ] `simulate-split-payment.mjs accept <id>` moves order to `processing` with invoice and shipment
-* [ ] `simulate-split-payment.mjs decline <id>` cancels the order
-* [ ] Demo dashboard lists pending orders and accept/decline work from the UI
+* [ ] `split_*`欄顯示在`sales_order`資料表中
+* [ 在沒有驗證的情況下呼叫時，]個REST端點會傳回401 （非404）
+* [ 選取「現金」時，]分割付款UI會在結帳時轉譯
+* [ ]驗證訊息有效（超額付款、信用額度不足）
+* [ ]臨界值防護封鎖訂單> $100
+* [ ]已下訂單有`pending_payment`個狀態和App Builder註解
+* [ ] `simulate-split-payment.mjs list`顯示含有分割金額的測試訂單
+* [ ] `simulate-split-payment.mjs accept <id>`將訂單移至`processing`，並附上發票與出貨
+* [ ] `simulate-split-payment.mjs decline <id>`取消訂單
+* [ ]示範儀表板會列出擱置的訂單，並接受/拒絕來自UI的工作
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

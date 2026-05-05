@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -197,7 +197,7 @@ App Builder動作會透過REST (`/rest/V1/split-payment/orders/...`)呼叫Commer
 * [ ] App Builder專案已設定I/O事件服務和Commerce事件提供者
 * [ ] `aio login`已完成，且已透過`aio app use`選取正確的工作區
 * [ 已安裝] Node.js 18或更新版本，且已安裝`aio` CLI
-* [ ] `.env`檔案是根據[分割付款POC：環境變數參考](split-payment-poc-env-reference.md) （以及您的來源封裝，如果您使用一個）
+* [ ] `.env`檔案是根據[分割付款POC：環境變數參考](./env-reference.md) （以及您的來源封裝，如果您使用一個）
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

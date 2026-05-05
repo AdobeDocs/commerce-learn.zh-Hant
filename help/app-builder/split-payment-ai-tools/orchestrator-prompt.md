@@ -1,6 +1,6 @@
 ---
 title: 分割付款POC：App Builder orchestrator AI提示
-description: 瞭解如何使用此提示來建置分割付款 — orchestrator應用程式：I/O事件、付款 — orchestrator、網頁動作、示範儀表板和aio應用程式部署。
+description: 瞭解如何使用此提示來建置分割付款協調器應用程式。 I/O事件、支付協調器、網頁動作、示範儀表板，以及aio應用程式部署。
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 421
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '927'
 ht-degree: 0%
@@ -26,8 +26,8 @@ ht-degree: 0%
 
 ## 執行之前
 
-* 完成[分割付款POC：必要條件和環境設定](split-payment-poc-prerequisites-and-setup.md)。
-* 在專案中準備好您的[分割付款POC：環境變數參考](split-payment-poc-env-reference.md)和`.env`檔案。
+* 完成[分割付款POC：必要條件和環境設定](./prerequisites-and-setup.md)。
+* 在專案中準備好您的[分割付款POC：環境變數參考](./env-reference.md)和`.env`檔案。
 
 
 ## 提示

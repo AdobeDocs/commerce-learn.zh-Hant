@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 分割付款POC：Experience Cloud UI擴充功能AI提示
 
-此選擇性步驟使用`commerce-checkout-starter-kit`和`commerce-backend-ui-1`模式，在&#x200B;**[!UICONTROL Adobe Commerce]**&#x200B;管理殼層(Experience Cloud)中嵌入分割付款訂單面板。 App Builder Orchestrator的獨立[示範儀表板](split-payment-poc-app-builder-orchestrator-prompt.md)涵蓋相同的接受和拒絕流程，而不需要管理員殼層整合。
+此選擇性步驟使用`commerce-checkout-starter-kit`和`commerce-backend-ui-1`模式，在&#x200B;**[!UICONTROL Adobe Commerce]**&#x200B;管理殼層(Experience Cloud)中嵌入分割付款訂單面板。 App Builder Orchestrator的獨立[示範儀表板](./orchestrator-prompt.md)涵蓋相同的接受和拒絕流程，而不需要管理員殼層整合。
 
 ## 如何使用這個提示
 
@@ -26,8 +26,8 @@ ht-degree: 0%
 
 ## 執行之前
 
-* 此路徑除了OAuth值還需要&#x200B;**IMS**&#x200B;認證（請參閱`commerce-checkout-starter-kit`變數的[分割付款POC：環境變數參考](split-payment-poc-env-reference.md)）。
-* 完成[分割付款POC：如果您想要比較相同的`payment-accept`和`payment-decline`行為，請先完成App Builder orchestrator AI提示](split-payment-poc-app-builder-orchestrator-prompt.md)；UI擴充功能會以`COMMERCE_INTEGRATION_*`環境名稱重複使用該邏輯。
+* 此路徑除了OAuth值還需要&#x200B;**IMS**&#x200B;認證（請參閱`commerce-checkout-starter-kit`變數的[分割付款POC：環境變數參考](./env-reference.md)）。
+* 完成[分割付款POC：如果您想要比較相同的`payment-accept`和`payment-decline`行為，請先完成App Builder orchestrator AI提示](./orchestrator-prompt.md)；UI擴充功能會以`COMMERCE_INTEGRATION_*`環境名稱重複使用該邏輯。
 
 
 ## 提示
