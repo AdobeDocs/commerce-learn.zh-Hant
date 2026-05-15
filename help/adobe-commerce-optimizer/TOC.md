@@ -2,10 +2,10 @@
 user-guide-title: Adobe Commerce Optimizer影片和教學課程
 user-guide-description: 透過影片和教學課程瞭解Adobe Commerce Optimizer。
 breadcrumb-title: Adobe Commerce Optimizer
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: 57aa5e9ed4a83c66eeb7f3226c3c30dc92f82ab1
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '74'
+ht-degree: 5%
 
 ---
 
@@ -23,3 +23,6 @@ ht-degree: 6%
    + [安裝SFCC卡匣](./sfcc-starter-kit/installation-sfcc-cartridge.md)
    + [應用程式建立工具入門套件](./sfcc-starter-kit/app-builder-starter-kit.md)
    + [端對端示範](./sfcc-starter-kit/end-to-end-demo.md)
++ 可撰寫的目錄資料模型 {#composable-catalog-data-model}
+   + [為什麼CCDM存在](./composable-catalog-data-model/why-ccdm-exists.md)
+   + [瞭解目錄檢視](./composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
