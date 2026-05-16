@@ -53,14 +53,14 @@ CCDM存在，因此產品資訊可以存放在其他系統擴充的&#x200B;**一
 
 ## 目錄檢視作為店面鏡頭
 
-如[銷售服務的目錄檢視](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}中所述，目錄檢視的行為類似於&#x200B;**鏡頭**：購物者只會看到檢視允許的產品、價格和規則，而&#x200B;**基本目錄**&#x200B;仍然是共用的記錄系統。 此模型直接與&#x200B;**銷售服務**&#x200B;配對，因此API使用者端會傳遞正確的檢視（及相關標題），並針對每個體驗接收一致的原則導向回應。
+如[銷售服務的目錄檢視](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/setup/catalog-view){target="_blank"}中所述，目錄檢視的行為類似於&#x200B;**鏡頭**：購物者只會看到檢視允許的產品、價格和規則，而&#x200B;**基本目錄**&#x200B;仍然是共用的記錄系統。 此模型直接與&#x200B;**銷售服務**&#x200B;配對，因此API使用者端會傳遞正確的檢視（及相關標題），並針對每個體驗接收一致的原則導向回應。
 
 若要更深入瞭解這些元件如何配合端對端流程，請參閱開發人員逐步解說[為您的店面建立可撰寫的目錄](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}。
 
 ## 相關內容
 
 * [瞭解目錄檢視](./learn-about-the-ccdm-feature-catalog-views.md)
-* [銷售服務的目錄檢視](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [銷售服務的目錄檢視](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [為您的店面建立可撰寫的目錄](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
 * [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
