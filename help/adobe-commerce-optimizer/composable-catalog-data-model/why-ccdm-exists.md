@@ -31,7 +31,7 @@ ht-degree: 0%
 * 目錄檢視如何成為共用基本目錄與特定店面或對象之間的「鏡頭」
 * Merchandising Services API會如何取用這些檢視，以便Headless體驗與設定的目錄保持一致
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491296?captions=chi_hant&learn=on)
 
 ## 孤立目錄的挑戰
 
