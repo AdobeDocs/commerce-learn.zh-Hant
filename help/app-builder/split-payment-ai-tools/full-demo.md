@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 影片
 
->[!VIDEO](https://video.tv.adobe.com/v/3484110?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
 
 ## 這部影片是給誰看的？
 
