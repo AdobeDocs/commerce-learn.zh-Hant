@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,6 @@ ht-degree: 0%
 * 在不重建目錄的情況下更新日常作業中的原則
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## 案例：Carvelo Automotor與Celport
-
-**Carvelo Automous**&#x200B;是虛擬的汽車零件公司，用於Adobe Commerce展示。 Carvelo透過包括&#x200B;**Celport**&#x200B;在內的經銷商，銷售跨三種品牌（**Aurora**、**Bolt**&#x200B;和&#x200B;**Cruz**）的零件。
-
-在[Celport目錄檢視](./learn-about-the-ccdm-feature-catalog-views.md)中，有兩個原則共同運作：
-
-1. **品牌篩選器** — 僅允許&#x200B;**Bolt**&#x200B;和&#x200B;**Cruz**&#x200B;品牌。 Aurora產品不會通過此篩選。
-2. **類別篩選器** — 將可見產品限制在僅&#x200B;**個剎車**&#x200B;和&#x200B;**暫停**&#x200B;之外。
-
-產品必須滿足&#x200B;**每個使用中的原則**&#x200B;才能顯示。 所有其他資料都會被篩選掉。
-
-原則會評估產品屬性，例如&#x200B;**品牌**、**車輛模型**&#x200B;或&#x200B;**零件類別**，並定義允許哪些產品通過該目錄檢視。
-
-## 什麼是原則？
 
 **原則**&#x200B;是&#x200B;**資料存取篩選器**。 它會檢查產品屬性並套用規則，以決定目錄檢視可公開哪些產品。 原則位於共用可撰寫目錄的頂端，不會複製目錄資料。
 
@@ -94,6 +79,6 @@ ht-degree: 0%
 
 * [可撰寫目錄資料模型存在的原因](./why-ccdm-exists.md)
 * [瞭解目錄檢視](./learn-about-the-ccdm-feature-catalog-views.md)
-* [銷售服務的目錄檢視](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [銷售服務的目錄檢視](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
