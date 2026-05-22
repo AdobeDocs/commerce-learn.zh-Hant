@@ -32,7 +32,7 @@ ht-degree: 0%
 * 由API要求標頭啟用的觸發原則（例如`AC-Policy-Brand`）
 * 在不重建目錄的情況下更新日常作業中的原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491435?captions=chi_hant&learn=on)
 
 **原則**&#x200B;是&#x200B;**資料存取篩選器**。 它會檢查產品屬性並套用規則，以決定目錄檢視可公開哪些產品。 原則位於共用可撰寫目錄的頂端，不會複製目錄資料。
 
