@@ -7,14 +7,16 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21575
 duration: 225
-source-git-commit: cb1adeac1e57f4a0d43827a72f8762fff17bc727
+source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # Agentic Development
+
+[!BADGE Beta]{type=Informative tooltip="此功能目前仍在測試階段，可能會有變動。"}
 
 建立商業自訂傳統上需要多個團隊、工具，以及橫跨分析、設計、開發和部署的多天工作量。 Adobe Commerce中的代理程式開發會將它摺疊為單一智慧型回圈。 AI代理程式不僅瞭解程式碼的作用，還瞭解它的用途，可產生藍圖、寫入生產就緒的程式碼、在建置時驗證，以及協調部署而不會進行移交或遺失內容。
 

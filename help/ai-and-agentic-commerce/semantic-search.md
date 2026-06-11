@@ -7,14 +7,16 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: cb1adeac1e57f4a0d43827a72f8762fff17bc727
+source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 # 語意搜尋
+
+[!BADGE Beta]{type=Informative tooltip="此功能目前仍在測試階段，可能會有變動。"}
 
 傳統關鍵字搜尋會比對到精確的單字，但購物者很少知道正確的單字。 Adobe Commerce中的語意搜尋會使用AI來瞭解查詢背後的意圖，根據含義而非文字來比對購物者和產品。 這可以改善產品探索、提升參與度，並透過傳回可反映購物者需求的結果來推動更高轉換。
 
@@ -35,4 +37,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[[!DNL Live Search] 概覽](https://experienceleague.adobe.com/zh-hant/docs/commerce/live-search/overview){target="_blank"}
+[[!DNL Live Search] 概覽](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
