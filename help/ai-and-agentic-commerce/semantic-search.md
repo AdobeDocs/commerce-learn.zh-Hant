@@ -37,4 +37,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[[!DNL Live Search] 概覽](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+[[!DNL Live Search] 概覽](https://experienceleague.adobe.com/zh-hant/docs/commerce/live-search/overview){target="_blank"}
