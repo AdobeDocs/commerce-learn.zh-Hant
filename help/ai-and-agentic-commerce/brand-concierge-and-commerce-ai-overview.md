@@ -38,4 +38,4 @@ Brand Concierge為Adobe Commerce提供對話式購物，讓購物者以淺顯的
 
 ## 其他資源
 
-[[!DNL Brand Concierge]檔案](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge]檔案](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/home){target="_blank"}
