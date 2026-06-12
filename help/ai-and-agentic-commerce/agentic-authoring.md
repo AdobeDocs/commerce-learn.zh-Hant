@@ -34,7 +34,7 @@ Experience Workspace是代理式撰寫環境，可讓行銷人員和開發人員
 * 查詢目錄和產生完整行銷活動頁面的自然語言提示
 * 區塊層級編輯和發佈前的即時邊緣演算預覽
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492305?captions=chi_hant)
 
 <!-- ## Additional resources -->
 

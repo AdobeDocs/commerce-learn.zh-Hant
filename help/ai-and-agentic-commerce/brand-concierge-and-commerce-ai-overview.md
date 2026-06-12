@@ -34,7 +34,7 @@ Brand Concierge為Adobe Commerce提供對話式購物，讓購物者以淺顯的
 * 結帳已在交談中完成，未導覽到其他位置
 * 特定購買產品的購買後內容指引
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492323?captions=chi_hant)
 
 ## 其他資源
 
