@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE 即將推出]{type=Informative tooltip="此功能即將推出，且可能會有變動。"}
 
-即使是最豐富的產品目錄也只能部分顯示大型語言模型(LLM)。 豐富屬性（如產品變體、研磨型別、口味注意事項和包裝）通常隱藏在可摺疊面板和快顯視窗中，AI爬蟲無法讀取。 Brand Concierge的目錄代理程式會自動識別這些可見度差距並加以解決，而不會變更面向購物者的店面。
+即使是最豐富的產品目錄也只能部分顯示大型語言模型(LLM)。 豐富屬性（如產品變體、研磨型別、口味注意事項和包裝）通常隱藏在可摺疊面板和快顯視窗中，AI爬蟲無法讀取。 商務目錄代理程式會自動識別這些可見度差距並加以解決，而不會變更面向購物者的店面。
 
 ## 這部影片是給誰看的？
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[[!DNL Brand Concierge]檔案](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge]檔案](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}

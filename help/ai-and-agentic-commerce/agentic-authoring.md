@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21574
 duration: 376
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: cac02a33a2fcbfb83989178b6b2b41f364da1d43
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE 即將推出]{type=Informative tooltip="此功能即將推出，且可能會有變動。"}
 
-Experience Workspace是內建在Adobe Commerce店面中的代理式製作環境。 它為行銷人員和開發人員提供統一的介面 — 檔案結構、頁面內容、中繼資料和即時預覽 — 全都在一個位置。 其AI編寫助理會在MCP上執行。 它直接連線到您的產品目錄和品牌內容，因此您可以說明要建置的內容並觀看其出現，而無需切換標籤、複製貼上或歸檔票證。
+Experience Workspace是代理式撰寫環境，可讓行銷人員和開發人員擁有統一的介面（檔案結構、頁面內容、中繼資料和即時預覽），而且全都在一處。 其AI編寫助理會在MCP上執行。 它直接連線到您的產品目錄和品牌內容，因此您可以說明要建置的內容並觀看其出現，而無需切換標籤、複製貼上或歸檔票證。
 
 ## 這部影片是給誰看的？
 
