@@ -34,7 +34,7 @@ ht-degree: 0%
 * 整個系統檢視的並行驗證和最佳化
 * 持續部署流程，不會發生移交或內容遺失
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492296?captions=chi_hant)
 
 <!-- ## Additional resources -->
 
