@@ -1,18 +1,18 @@
 ---
 title: Salesforce Commerce Cloud Connector的端對端示範
-description: 觀看使用Adobe Commerce Optimizer的Salesforce Commerce Cloud端對端示範。
+description: 瞭解如何在Salesforce Commerce Cloud和Adobe Commerce Optimizer之間執行完整和差異同步，然後在現場店面驗證結果。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 429
+duration: 430
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---

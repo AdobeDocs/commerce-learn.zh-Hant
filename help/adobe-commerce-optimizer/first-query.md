@@ -1,13 +1,13 @@
 ---
-title: How to query data
-description: Learn how to query data for an Adobe Commerce Optimizer instance.
+title: 如何查詢資料
+description: 瞭解如何使用GraphQL查詢Adobe Commerce Optimizer產品資料，包括如何使用jq和結構搜尋查詢變數來格式化JSON回應。
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 243
-last-substantial-update: 2025-08-13T00:00:00.000Z
+duration: 204
+last-substantial-update: 2025-08-13
 jira: KT-18548
 exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
 TQID: https://experienceleague.adobe.com/IxrS6rwleWgU0-jtwu4hUavQuZesbQ6h5z7zVZR2xCo
@@ -17,33 +17,33 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 114
+source-wordcount: 127
 ht-degree: 0%
 
 ---
 
-# Query data Adobe Commerce Optimizer
+# 查詢資料Adobe Commerce Optimizer
 
-Learn how to query data using GraphQL on an Adobe Commerce Optimizer instance.
+瞭解如何在Adobe Commerce Optimizer執行個體上使用GraphQL查詢資料。
 
 ## 這部影片是給誰看的？
 
-* Commerce Solution Architect and developers
+* Commerce解決方案架構師與開發人員
 
 ## 視訊內容
 
-* Query data using GraphQL
-* Using jq to make json easier to read
+* 使用GraphQL查詢資料
+* 使用jq讓json更易於閱讀
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470811?captions=chi_hant&learn=on)
 
 ## 程式碼範例
 
-Be sure to exchange values like `{{insert-your-graphql-endpoint-url}}`, `{{insert-your-ac-view-id}}` and `{{your-search-query-string}}` with the values needed on your query.
+請確定將`{{insert-your-graphql-endpoint-url}}`、`{{insert-your-ac-view-id}}`和`{{your-search-query-string}}`等值與查詢所需的值交換。
 
-Basic sample query
+基本範例查詢
 
 ```bash
 curl '{{insert-your-graphql-endpoint-url}}' \
@@ -52,7 +52,7 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 -d '{"query": "query ProductSearch($search: String!) { productSearch( phrase: $search, page_size: 10, current_page: 2) { items { productView { sku name description shortDescription images { url } ... on SimpleProductView { attributes { label name value } price { regular { amount { value currency } } roles } } } } } }", "variables": { "search": "{{your-search-query-string}}"}}'
 ```
 
-Basic sample query using `jq` to pretty-print the output
+使用`jq`以美化列印輸出的基本範例查詢
 
 ```bash
 curl '{{insert-your-graphql-endpoint-url}}' \
@@ -63,5 +63,5 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 
 ## 相關內容
 
-* [Getting started with Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}

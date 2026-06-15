@@ -1,13 +1,13 @@
 ---
 title: Adobe Commerce Optimizer概觀
-description: 瞭解Adobe Commerce Optimizer如何透過高效能、增加流量及緊密整合，來增強您的店面。
+description: 瞭解Adobe Commerce Optimizer如何提升店面效能、增加自然流量，以及與現有ERP、CRM和OMS系統無縫整合。
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Feature Video
+doc-type: Technical Video
 duration: 242
-last-substantial-update: 2025-03-06T00:00:00.000Z
+last-substantial-update: 2025-03-06
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 TQID: https://experienceleague.adobe.com/ZroynB-ry1AKa3-CXN6x-596dmIbZqTWDz-q0WK55Ag
@@ -21,9 +21,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: 163
 ht-degree: 0%
 
 ---
