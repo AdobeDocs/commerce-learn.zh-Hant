@@ -33,4 +33,4 @@ ht-degree: 0%
 * 複製App Builder Starter Kit，並使用Adobe IO CLI設定環境檔案。
 * 部署應用程式，並確認成功註冊工作區中的動作和事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476093?captions=chi_hant&learn=on)
