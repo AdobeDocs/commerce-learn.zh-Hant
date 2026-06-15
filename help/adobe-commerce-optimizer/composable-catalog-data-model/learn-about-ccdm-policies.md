@@ -1,17 +1,17 @@
 ---
 title: 瞭解可撰寫目錄資料模型中的CCDM原則
-description: 瞭解Adobe可撰寫目錄資料模型中的原則如何在每個目錄檢視上，以靜態規則和TRIGGER標題篩選產品。
+description: 瞭解Adobe可撰寫目錄資料模型中的STATIC和TRIGGER原則如何控制跨目錄檢視的產品可見性，而不需要重建目錄。
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 由API要求標頭啟用的觸發原則（例如`AC-Policy-Brand`）
 * 在不重建目錄的情況下更新日常作業中的原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3491435?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 **原則**&#x200B;是&#x200B;**資料存取篩選器**。 它會檢查產品屬性並套用規則，以決定目錄檢視可公開哪些產品。 原則位於共用可撰寫目錄的頂端，不會複製目錄資料。
 
@@ -79,6 +79,6 @@ ht-degree: 0%
 
 * [可撰寫目錄資料模型存在的原因](./why-ccdm-exists.md)
 * [瞭解目錄檢視](./learn-about-the-ccdm-feature-catalog-views.md)
-* [銷售服務的目錄檢視](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
-* [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [銷售服務的目錄檢視](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
