@@ -1,20 +1,20 @@
 ---
-title: Brand Concierge和Commerce AI產品探索
-description: 瞭解Brand Concierge如何使用目錄代理程式來填補AI可見度差距，進而豐富Commerce產品資料，讓LLM能夠探索並推薦您的產品。
+title: Commerce AI產品探索
+description: 瞭解Commerce目錄代理程式如何填補AI可見度差距，讓Commerce產品資料更加豐富，以便LLM能夠探索並推薦您的產品。
 role: User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Brand Concierge和Commerce AI產品探索
+# Commerce AI產品探索
 
 [!BADGE 即將推出]{type=Informative tooltip="此功能即將推出，且可能會有變動。"}
 
@@ -35,8 +35,4 @@ ht-degree: 0%
 * 使用AI內容可見度檢查器驗證改進
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492332?captions=chi_hant)
-
-## 其他資源
-
-[[!DNL Brand Concierge]檔案](https://experienceleague.adobe.com/zh-hant/docs/brand-concierge/content/home){target="_blank"}
 
