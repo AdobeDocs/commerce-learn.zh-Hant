@@ -34,5 +34,5 @@ ht-degree: 0%
 * 目錄擴充產生AI最佳化的產品名稱和說明
 * 使用AI內容可見度檢查器驗證改進
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492332?captions=chi_hant)
 
