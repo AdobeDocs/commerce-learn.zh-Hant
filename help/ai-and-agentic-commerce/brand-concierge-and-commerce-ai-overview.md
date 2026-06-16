@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
+source-git-commit: 34d8e5a85419be1b8b219f1deafb9d714bd075a1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE 即將推出]{type=Informative tooltip="此功能即將推出，且可能會有變動。"}
 
-Brand Concierge為Adobe Commerce提供對話式購物，讓購物者以淺顯的語言描述他們想要的東西，並從即時目錄獲得相符的產品 — 無篩選器，不需要搜尋列。 相同的交談會處理購物車更新、結帳和購買後指導，在整個工作階段中保留完整內容。
+Brand Concierge與Adobe Commerce整合，透過可瞭解購物者意圖的AI助理將交談轉換為轉換。 透過這項整合，您可以提供由即時目錄、定價和庫存資料支援的準確即時產品建議，讓客戶可以放心地做出購買決定。
 
 ## 這部影片是給誰看的？
 
