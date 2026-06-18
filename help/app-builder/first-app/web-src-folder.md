@@ -1,7 +1,7 @@
 ---
 title: web-src資料夾
-description: 瞭解web-src資料夾中的檔案型別，以及此範例應用程式的巢狀檔案和資料夾。
-jira: KT-12425
+description: 瞭解web-src資料夾結構、其JavaScript檔案和巢狀資料夾，以及此資料夾如何支援App Builder範例應用程式中的使用者介面。
+jira: KT-21683
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,25 +11,20 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 TQID: https://experienceleague.adobe.com/SavAwkQQnKIE64PlRHPKPU9RBT37dWsLm8W7FXYm9Mc
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 179
 ht-degree: 0%
 
 ---
 
 # 探索web-src資料夾的用途 {#web-src-folder}
 
-此範例應用程式的web-src資料夾包含許多JavaScript檔案和資料夾。 此資料夾用於具有使用者介面的應用程式。 並非所有應用程式都使用此功能。 例如，Commerce與外部清查管理系統的整合可能不需要前端介面和程式碼。
+此範例應用程式的web-src資料夾包含許多JavaScript檔案和資料夾。 此資料夾用於具有使用者介面的應用程式。 並非所有應用程式都使用此功能。 例如，Commerce與外部庫存管理系統的整合不需要前端介面和程式碼。
 
 ## 這部影片是給誰看的？
 

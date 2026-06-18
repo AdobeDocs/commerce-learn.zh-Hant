@@ -1,15 +1,15 @@
 ---
-title: 分割付款POC：Experience Cloud UI擴充功能AI提示
-description: 瞭解如何使用此選用提示在Commerce管理員中內嵌分割付款：管理員UI SDK、IMS、OAuth、接受和拒絕以及模擬指令碼。
+title: 分割付款POC — Experience Cloud UI擴充功能AI提示
+description: 瞭解如何使用此選用提示在Commerce管理員（管理UI SDK、IMS、OAuth、接受和拒絕）和模擬指令碼中內嵌分割付款。
 feature: App Builder, Admin Workspace, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 分割付款POC：Experience Cloud UI擴充功能AI提示
 
-此選擇性步驟使用`commerce-checkout-starter-kit`和`commerce-backend-ui-1`模式，在&#x200B;**[!UICONTROL Adobe Commerce]**&#x200B;管理殼層(Experience Cloud)中嵌入分割付款訂單面板。 App Builder Orchestrator的獨立[示範儀表板](./orchestrator-prompt.md)涵蓋相同的接受和拒絕流程，而不需要管理員殼層整合。
+此選擇性步驟使用`commerce-checkout-starter-kit`和`commerce-backend-ui-1`模式，在&#x200B;**[!UICONTROL Adobe Commerce]**&#x200B;管理員殼層(Experience Cloud)中嵌入分割付款訂單面板。 App Builder Orchestrator的獨立[示範儀表板](./orchestrator-prompt.md)涵蓋相同的接受和拒絕流程，而不需要管理員殼層整合。
 
 ## 如何使用這個提示
 

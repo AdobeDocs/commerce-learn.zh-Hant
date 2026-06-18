@@ -1,15 +1,15 @@
 ---
-title: 分割付款POC：環境變數參考
+title: 分割付款POC — 環境變數參考
 description: 瞭解如何將Commerce OAuth、基本URL、付款臨界值和選用的示範設定對應到Orchestrator、UI擴充功能和模擬環境檔案。
 feature: App Builder, Configuration, Extensibility, Paas, REST, Security
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%

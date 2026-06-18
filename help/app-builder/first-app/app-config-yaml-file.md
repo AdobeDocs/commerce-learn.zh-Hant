@@ -1,6 +1,6 @@
 ---
-title: The app.config.yaml file
-description: Learn about the types of files in the app.config.yaml file for this sample application.
+title: app.config.yaml檔案
+description: 瞭解app.config.yaml檔案如何決定應用程式設定，以及其定義如何連結至Adobe Developer App Builder範例應用程式中的JavaScript檔案。
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -11,38 +11,33 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
 TQID: https://experienceleague.adobe.com/iK4PPaI2-vxQK32DMfkMRZMgNYpLExMbNge2lXIJzLg
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: 96
 ht-degree: 0%
 
 ---
 
-# Description and usage of the app.config.yaml file {#app-config-yaml}
+# app.config.yaml檔案的說明和使用方式 {#app-config-yaml}
 
-This file determines the configuration for the application.
+此檔案決定應用程式的設定。
 
 ## 這部影片是給誰看的？
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the `app.config.yaml` in the sample application.
+* 剛開始接觸Adobe Commerce、但對Adobe App Builder經驗有限的開發人員，正在範例應用程式中瞭解`app.config.yaml`。
 
 ## 視訊內容
 
-* The `app.config.yaml` file discussed
-* How are definitions link to other `.js` files
+* 討論的`app.config.yaml`檔案
+* 定義如何連結到其他`.js`個檔案
 
->[!VIDEO](https://video.tv.adobe.com/v/3430842?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
-## Code Sample
+## 程式碼範例
 
 ```bash
 # Specify your secrets here
@@ -62,7 +57,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-You can see these static values being used in the sample module in file `actions/commerce.index.js`
+您可以在檔案`actions/commerce.index.js`中看到這些靜態值正用於範例模組
 
 ```javascript
         const oauth = getCommerceOauthClient(
