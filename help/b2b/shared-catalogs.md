@@ -53,5 +53,5 @@ Adobe Commerce的B2B可讓您使用不同公司的自訂價格，維護閘道共
 
 ## 其他資源
 
-* [使用共用目錄](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
-* [建立共用目錄](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
+* [使用共用目錄](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [建立共用目錄](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}

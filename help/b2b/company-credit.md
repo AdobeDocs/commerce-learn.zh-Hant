@@ -57,5 +57,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [設定分期付款](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [管理公司評價](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
+* [設定分期付款](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [管理公司評價](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/credit-company)
