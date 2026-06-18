@@ -1,6 +1,6 @@
 ---
 title: 使用工作流程的API Mesh入門套件
-description: 開始使用Adobe Commerce API Mesh，使用工作流程來部署Mesh和載入測試。
+description: 瞭解如何使用API Mesh入門套件中的GitHub工作流程，自動部署您的網狀架構並對其執行K6載入測試。
 jira: KT-18388
 doc-type: Tutorial
 duration: 351
@@ -19,9 +19,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 138
 ht-degree: 0%
 
 ---
