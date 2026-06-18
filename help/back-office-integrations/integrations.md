@@ -1,17 +1,14 @@
 ---
-title: 瞭解Adobe Commerce整合入門套件最佳實務和入門流程。
-description: 使用Commerce Starter Kit學習最佳實務和入門秘訣，以掌握Adobe整合。
-landing-page-description: 瞭解如何提供使用入門套件相關設定、設定和部署流程的實用深入分析。
-kt: 15867
-doc-type: video
+title: Commerce整合入門套件最佳作法
+description: 瞭解使用入門套件的Adobe Commerce整合最佳實務，包括GitHub設定和上線、部署、驗證和上線等。
+doc-type: Technical Video
 duration: 602
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15867
 exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
 TQID: https://experienceleague.adobe.com/Vdd-DzzdFA8aFlqceP2AWwbM8lqRsz029nsWtWUkpVo
 product_v2:
@@ -26,9 +23,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: 175
 ht-degree: 0%
 
 ---
@@ -41,14 +38,14 @@ ht-degree: 0%
 
 * 想要瞭解商務整合（從複製到即時部署）最佳實務的開發人員。
 * 任何想要瞭解入門和成功部署驗證的人。
-* 想要insight設定事件提供者、訂閱及系統間同步化的軟體工程師和程式設計師。
+* 需要設定事件提供者、訂閱及系統間同步化相關資訊的軟體工程師和開發人員。
 
 ## 視訊內容
 
 * 商務整合從複製到即時部署的最佳實務。
 * 入門所需的步驟，包括驗證成功的部署。
-* 設定檔案自訂上線流程。
-* 執行指令碼以建立和設定事件提供者和訂閱。
+* 設定檔案可用於自訂上線流程。
+* 若要建立及設定事件提供者與訂閱，請執行指令碼。
 * 更新Commerce和App Builder中的事件以進行同步。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452788?captions=chi_hant&learn=on)
