@@ -48,7 +48,7 @@ ht-degree: 0%
 * 若要建立及設定事件提供者與訂閱，請執行指令碼。
 * 更新Commerce和App Builder中的事件以進行同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452788?captions=chi_hant&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
