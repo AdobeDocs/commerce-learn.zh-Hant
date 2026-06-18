@@ -1,14 +1,14 @@
 ---
-title: Using Adobe Commerce to show a line item discount for a quote
-description: Learn about line item discounts on a B2B quote in Adobe Commerce
-doc-type: Feature Video
-duration: 231
-jira: KT-13797
-last-substantial-update: 2023-06-13T00:00:00.000Z
+title: Adobe Commerce中B2B報價的明細專案折扣
+description: 瞭解如何使用Adobe Commerce管理員來套用及檢視B2B報價的明細專案折扣，包括折扣值如何出現在面向買家的摘要中。
+doc-type: Technical Video
+duration: 214
+jira: KT-13798
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
 TQID: https://experienceleague.adobe.com/xTeO2Z72A3pQC9d9f13CdV-zZUOUZFM50LZxO9OXz9M
 product_v2:
@@ -23,16 +23,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
-# B2B Sales quote line item discount
+# B2B銷售報價單明細專案折扣
 
-Learn how to use the line item discount and see the values using the Adobe Commerce admin.
+瞭解如何使用條列專案折扣，並使用Adobe Commerce管理員檢視值。
 
 {{b2b-feature}}
 

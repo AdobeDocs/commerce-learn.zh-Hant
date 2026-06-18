@@ -1,14 +1,14 @@
 ---
 title: 管理公司帳戶
-description: Learn how to manage your B2B company accounts, including any pending requests for approval.
-doc-type: Feature Video
+description: 瞭解如何在Adobe Commerce中管理B2B公司帳戶 — 檢閱擱置核准、篩選帳戶清單、調整欄版面配置和匯出資料。
+doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 TQID: https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg
 product_v2:
@@ -27,24 +27,24 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 124
 ht-degree: 0%
 
 ---
 
 # 管理公司帳戶
 
-For B2B merchants, the _[!UICONTROL Companies]_&#x200B;page lists all current company accounts and their status. You can manage your company accounts here and any pending requests for approval appear at the top of the list. The standard workplace controls can be used to filter the list, change the column layout, save views, and export data.
+針對B2B商家，_[!UICONTROL Companies]_&#x200B;頁面會列出所有目前的公司帳戶及其狀態。 您可以在此處管理您的公司帳戶，任何待核准的請求都會顯示在清單頂端。 標準工作區控制項可用於篩選清單、變更欄配置、儲存檢視及匯出資料。
 
 {{b2b-feature}}
 
 ## 這部影片是給誰看的？
 
 * 網站管理員
-* Sales Representatives
-* Customer Service Representatives
+* 銷售代表
+* 客戶服務代表
 
 ## 視訊內容
 
@@ -52,5 +52,5 @@ For B2B merchants, the _[!UICONTROL Companies]_&#x200B;page lists all current co
 
 ## 其他資源
 
-* [Company Accounts](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=zh-Hant){target="_blank"}
-* [管理公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=zh-Hant){target="_blank"}
+* [公司帳戶](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [管理公司帳戶](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

@@ -1,14 +1,14 @@
 ---
 title: 銷售代表啟動報價單
-description: 瞭解銷售代表如何向Adobe Commerce管理員啟動報價單
-doc-type: Feature Video
-duration: 283
+description: 瞭解銷售代表如何從Adobe Commerce管理面板起始B2B報價單、依使用者和網站篩選、建立草稿以及控制報價單可見性。
+doc-type: Technical Video
+duration: 264
 jira: KT-13794
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
 TQID: https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4
 product_v2:
@@ -25,9 +25,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 61
+source-wordcount: 72
 ht-degree: 0%
 
 ---

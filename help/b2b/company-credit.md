@@ -1,14 +1,14 @@
 ---
 title: 管理公司評價
-description: 瞭解如何使用B2B公司帳戶使用者在其帳戶中進行購買，以符合授與的信用額度。
-doc-type: Feature Video
+description: 瞭解B2B公司帳戶使用者如何在信用額度以內的帳戶中進行購買，以及管理員如何設定信用貨幣、限額和核准設定。
+doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 TQID: https://experienceleague.adobe.com/XJ1zsz-XBkOoy6C3lWC-hRiXPX4Q3fe4AvMptfwhC0E
 product_v2:
@@ -25,16 +25,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 141
 ht-degree: 0%
 
 ---
 
 # 管理公司評價
 
-對於已啟用&#x200B;_[!UICONTROL Payment on Account]_&#x200B;且有可用公司信貸的公司，他們可以在帳戶中進行購買，最多可達授與的信貸限額。 透過此功能，客戶可以從其帳戶儀表板檢查其公司業績的狀態。
+已啟用&#x200B;_[!UICONTROL Payment on Account]_&#x200B;且有可用公司信用額度的公司可在帳戶上進行購買，但最多可達到授與的信用額度。 透過此功能，客戶可以從其帳戶儀表板檢查其公司業績的狀態。
 
 您可以為每個公司設定檔設定下列信用相關引數：
 
@@ -57,5 +57,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [設定分期付款](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=zh-Hant#configure-payment-on-account)
-* [管理公司評價](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=zh-Hant)
+* [設定分期付款](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [管理公司評價](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/credit-company)
