@@ -1,7 +1,7 @@
 ---
 title: 測試資料夾
-description: 瞭解此範例應用程式測試資料夾中的檔案型別。
-jira: KT-12424
+description: 瞭解App Builder測試資料夾中的JavaScript單元測試檔案，以及如何將其展開以全面測試Adobe Commerce範例應用程式。
+jira: KT-21682
 doc-type: Tutorial
 duration: 233
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,9 +18,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: 122
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 此範例應用程式的`test`資料夾包含單一JavaScript檔案，用於在該應用程式上執行單元測試。
 
-此為簡單範例，可展開以針對特定應用程式建立全面的測試。
+此起點可進一步擴展，以針對您的特定應用程式建立全面的測試。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Adobe Commerce但使用Adobe App Builder經驗有限的開發人員，想要瞭解`test`資料夾。
+* 剛開始使用Adobe Commerce、但使用Adobe App Builder經驗有限的開發人員，想要瞭解`test`資料夾。
 
 ## 視訊內容
 

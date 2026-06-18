@@ -1,15 +1,15 @@
 ---
-title: 分割付款POC：概念證明後的後續步驟
+title: 分割付款POC — 概念證明後的後續步驟
 description: 瞭解如何將分割付款POC移至生產環境。 Experience Cloud UI、ERP鉤點、API Mesh、PHP範圍、App Builder工作流程及部署檢查清單。
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%

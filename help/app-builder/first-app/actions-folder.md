@@ -1,7 +1,7 @@
 ---
-title: The actions folder
-description: Learn about the types of files in the actions folder for this sample application.
-jira: KT-12422
+title: 動作資料夾
+description: 瞭解App Builder動作資料夾中的JavaScript檔案和資料夾，包括範例應用程式的OAuth驗證和Commerce連線模式。
+jira: KT-21680
 doc-type: Tutorial
 duration: 465
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -20,29 +20,29 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 189
+source-wordcount: 199
 ht-degree: 0%
 
 ---
 
 # 瞭解動作資料夾 {#actions-folder}
 
-The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This folder can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST.
+這個範例應用程式的`actions`資料夾包含一些JavaScript檔案和一個名為`commerce`的資料夾。 顯示的JavaScript是實用的範例檔案，可在與工作相關時重複使用。 使用OAuth和REST連線至Adobe Commerce應用程式時，此資料夾可為您節省開發時間。
 
-The actual names of folders in this example are arbitrary, but knowing their names can help you interpret the sample code. By using a meaningful naming convention, you can avoid confusion if the application grows more complex.
+此範例中，資料夾的實際名稱是任意的，但知道其名稱可協助您解譯範常式式碼。 透過使用有意義的命名慣例，可以避免在應用程式變得較為複雜時造成混淆。
 
 ## 這部影片是給誰看的？
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the actions folder in the sample application.
+* 剛開始接觸Adobe Commerce、但對Adobe App Builder經驗有限的開發人員，現在瞭解範例應用程式中的動作資料夾。
 
 ## 視訊內容
 
-* Introduction to App Builder and the sample module focusing on the `actions` folder
-* How to use the &quot;actions&quot; folder
-* The purpose of the JavaScript file found in the `actions` and `commerce` folders
-* A quick overview of the OAuth authentication files
+* 介紹App Builder和專注於`actions`資料夾的範例模組
+* 如何使用「actions」資料夾
+* 在`actions`和`commerce`資料夾中找到的JavaScript檔案用途
+* OAuth驗證檔案的快速總覽
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 

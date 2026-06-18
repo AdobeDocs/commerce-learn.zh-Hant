@@ -1,7 +1,7 @@
 ---
 title: .env檔案
-description: 瞭解此範例應用程式的.env檔案中的檔案型別
-jira: KT-12423
+description: 瞭解如何為您的Adobe Developer App Builder應用程式產生和設定.env檔案，包括管理密碼和防止意外提交至原始檔控制。
+jira: KT-21681
 doc-type: Tutorial
 duration: 177
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -22,9 +22,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 147
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 * .env檔案的簡介及其用途
 * 如何產生.env檔案
-* 如何附加檔案以新增密碼
+* 若要新增密碼，請附加檔案
 * 避擴音交此檔案，因為它包含敏感資訊
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)

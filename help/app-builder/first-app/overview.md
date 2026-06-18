@@ -1,7 +1,7 @@
 ---
-title: Create your first App Builder app
-description: Learn about Adobe Developer App Builder using Adobe Commerce and create your first app.
-jira: KT-12421
+title: 建立您的第一個App Builder應用程式
+description: 瞭解使用Adobe Commerce的Adobe Developer App Builder，包括建立第一個程式外應用程式的先決條件、期望和可重複使用的模式。
+jira: KT-21679
 doc-type: Tutorial
 duration: 197
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -21,44 +21,44 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 323
+source-wordcount: 332
 ht-degree: 0%
 
 ---
 
 # 概觀 {#overview}
 
-This tutorial has the following prerequisites:
+本教學課程具備下列必要條件：
 
-* Adobe Developer Console access is complete
-* Full access or trial access to App Builder has been granted
-* [The Adobe Developer App Builder application has been created](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [The Adobe Developer App Builder project has been created](https://developer.adobe.com/console){target="_blank"}
-* [The Adobe Developer App Builder workspaces have been created - Step 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
-* [The AIO CLI commands to initialize the project and run have been executed](https://developer.adobe.com/runtime){target="_blank"}
+* Adobe Developer Console存取完成
+* 已授予App Builder的完整存取權或試用存取權
+* [Adobe Developer App Builder應用程式已建立](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}
+* [已建立Adobe Developer App Builder專案](https://developer.adobe.com/console){target="_blank"}
+* [已建立Adobe Developer App Builder工作區 — 步驟2.6](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [已執行初始化專案及執行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
-For more information on building your first App Builder application, you can view the following blog post to help with this initial setup and configuration [How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
 
-## What to expect from reading this tutorial
+## 閱讀本教學課程有何期望
 
-When you are complete this tutorial, you should have a simple single-page application that communicates with Adobe Commerce to pull order history and products. These topics cover App Builder functionality with code samples and instructions. Hopefully, after watching these videos this saves you some development time and inspires other ideas and encourages the adoption of out-of-process development.
+完成本教學課程後，您應該已有一個簡單的單頁應用程式，可與Adobe Commerce通訊，以提取訂單歷史記錄和產品。 這些主題涵蓋包含程式碼範例和指示的App Builder功能。 觀看這些影片可以節省一些開發時間、激發其他創意，並鼓勵您採用程式外開發。
 
-## How should I follow this tutorial
+## 如何按照本教學課程操作
 
-This tutorial was designed for you to follow the order of pages in the left navigation. However, this is not a requirement. Each page can be viewed individually since they discuss the general concept of building an initial Adobe Developer App Builder app.
+本教學課程的設計是要讓您依照左側導覽中的頁面順序進行。 不過，此訂單並非必要專案。 由於每個頁面都討論建立初始Adobe Developer App Builder應用程式的一般概念，因此可個別檢視。
 
 ## 這部影片是給誰看的？
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder.
+* 剛開始接觸Adobe Commerce的開發人員，使用Adobe App Builder的經驗有限。
 
 ## 視訊內容
 
 * App Builder和範例模組簡介
 * 先決條件
 * 對使用範例模組的期望
-* 範例模組中可重複使用的部分
+* 範例模組可重複使用的部分
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 

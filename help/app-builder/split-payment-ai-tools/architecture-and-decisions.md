@@ -1,15 +1,15 @@
 ---
-title: 分割付款POC：架構與設計決策
+title: 分割付款POC — 架構與設計決策
 description: 瞭解分割付款POC如何將同步結帳對應至Commerce，以及如何將I/O導向步驟對應至App Builder，並搭配擴充功能屬性、REST和五個外掛程式邊緣案例。
 feature: App Builder, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%
