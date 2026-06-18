@@ -168,7 +168,7 @@ https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard?secr
 
 含待定訂單：
 1. 儀表板應該顯示擱置清單中的順序
-2. 按一下[接受]****→順序應移至Commerce中的`processing`
+2. 按一下[接受]&#x200B;**&#x200B;**→順序應移至Commerce中的`processing`
 3. 下其他訂單；按一下Commerce中的&#x200B;**拒絕**→訂單應為`canceled`
 
 
