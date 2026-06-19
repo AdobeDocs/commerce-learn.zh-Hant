@@ -7,16 +7,14 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # 語意搜尋
-
-[!BADGE 即將推出]{type=Informative tooltip="此功能即將推出，且可能會有變動。"}
 
 傳統關鍵字搜尋會比對到精確的單字，但購物者很少知道正確的單字。 Adobe Commerce中的語意搜尋會使用AI來瞭解查詢背後的意圖，根據含義而非文字來比對購物者和產品。 這可以改善產品探索、提升參與度，並透過傳回可反映購物者需求的結果來推動更高轉換。
 
@@ -33,8 +31,9 @@ ht-degree: 0%
 * 將產品資料轉換為語意訊號的自動目錄索引
 * 結果提升、相似度臨界值和模糊搜尋設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3492314?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## 其他資源
 
-[[!DNL Live Search] 概覽](https://experienceleague.adobe.com/zh-hant/docs/commerce/live-search/overview){target="_blank"}
+- 若要在雲端上的Adobe Commerce、Prem和Adobe Commerce as a Cloud Service上進行部署，請參閱&#x200B;_即時搜尋指南_&#x200B;中的[[!DNL Live Search] 語意搜尋](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
+- 若為使用Adobe Commerce Optimizer的部署，請參閱&#x200B;_Commerce Optimizer指南_&#x200B;中的[設定 — 進階搜尋](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"}。
