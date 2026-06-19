@@ -1,38 +1,30 @@
 ---
 title: 建立產品屬性
-description: 建立一個傳回json的頁面，並包含一個引數。
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+description: 瞭解如何在Adobe Commerce中以程式設計方式建立產品屬性，包括具有自訂後端、前端和來源模型的下拉式清單型別屬性。
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
 # 建立產品屬性
 
-新增產品屬性是[!DNL Commerce]中最常用的操作之一。 屬性是解決與產品相關的許多實際任務的強大方法。 將下拉式清單型別屬性新增至產品的程式相當簡單。
+新增產品屬性是[!DNL Commerce]中最常用的操作之一。 屬性是解決與產品相關的許多實際任務的有效方式。 將下拉式清單型別屬性新增至產品的程式相當簡單。
 
 在本影片中：
 
@@ -43,7 +35,7 @@ ht-degree: 0%
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用Commerce且需要瞭解如何以程式設計方式建立產品屬性的開發人員
+* 剛接觸[!DNL Commerce]且需要瞭解如何以程式設計方式建立產品屬性的開發人員
 
 ## 視訊內容
 
@@ -84,7 +76,7 @@ ComponentRegistrar::register(
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>
