@@ -1,16 +1,14 @@
 ---
-title: 瞭解mysql查詢快取的方式
-description: 有時mysql查詢會備份以等待鎖定。 本教學課程說明什麼是查詢快取，以及如果您遇到問題時的一些設定建議。
-kt: 13690
-doc-type: video
+title: 瞭解MySQL查詢快取的運作方式
+description: 瞭解MySQL查詢快取的運作方式、如何在緩慢的查詢記錄中找到「等待查詢快取鎖定」來偵測快取問題，以及設定提示。
+doc-type: Technical Video
 duration: 444
-activity: use
-last-substantial-update: 2023-7-27
+last-substantial-update: 2023-07-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-13690
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
 TQID: https://experienceleague.adobe.com/W91-fJGZtgfpp03ZtYmSh97oNqmCFpF8AvkTYDaOB-g
 product_v2:
@@ -21,18 +19,18 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 165
+source-wordcount: 155
 ht-degree: 0%
 
 ---
 
-# 瞭解mysql查詢快取
+# 瞭解MySQL查詢快取
 
-瞭解什麼是MySQL查詢快取，以及它如何運作的一些基本瞭解。 瞭解如何透過在mysql慢速查詢記錄檔中發現「正在等待查詢快取鎖定」出現在大量中，以偵測mysql查詢快取的問題。
+瞭解什麼是MySQL查詢快取，以及對其運作方式的一些基本瞭解。 瞭解如何在MySQL慢速查詢記錄檔中找到「等待查詢快取鎖定」，以偵測MySQL查詢快取問題。
 
-## 這部影片是給誰看的？
+## 目標對象
 
 * 架構師
 * 開發人員
@@ -41,7 +39,7 @@ ht-degree: 0%
 ## 視訊內容
 
 * 瞭解查詢快取
-* 如何透過發現「等待查詢快取鎖定」來偵測您的查詢快取設定是否可能是問題
+* 如何透過找到「等待查詢快取鎖定」來偵測您的查詢快取設定是否為問題
 * 瞭解SQL如何儲存並用於尋找相符的查詢快取
 * 組態設定的部分提示
 
@@ -49,5 +47,5 @@ ht-degree: 0%
 
 ## 有用的資源
 
-* [一般MySQL准則](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=zh-Hant){target="_blank"}
-* [galera復寫和緩慢查詢](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=zh-Hant){target="_blank"}
+* [一般MySQL准則](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [galera復寫和緩慢查詢](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
