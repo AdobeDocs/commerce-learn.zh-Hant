@@ -31,7 +31,7 @@ ht-degree: 0%
 * 將產品資料轉換為語意訊號的自動目錄索引
 * 結果提升、相似度臨界值和模糊搜尋設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492314?captions=chi_hant)
 
 ## 其他資源
 
