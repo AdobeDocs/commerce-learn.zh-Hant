@@ -47,4 +47,4 @@ ht-degree: 0%
 * 瞭解角色建立與管理
 * 瞭解使用者指派和存取層級。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433524?captions=chi_hant&learn=on)
