@@ -2,7 +2,7 @@
 user-guide-title: Adobe Commerce網路研討會與活動
 user-guide-description: 透過網路研討會和活動瞭解Adobe Commerce。
 breadcrumb-title: Adobe Commerce網路研討會與活動
-source-git-commit: 1a73be30f2ee55c9f767b7b10fd3c47172e4057d
+source-git-commit: f122612cb5aa90d827bb1648fed6da340ac0c442
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
