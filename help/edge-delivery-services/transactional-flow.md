@@ -1,6 +1,6 @@
 ---
 title: Edge Delivery Services交易流程
-description: 瞭解Adobe Edge Delivery Services以及如何變更交易流程。
+description: 瞭解如何使用Edge Delivery Services購物車下拉式功能表，在Adobe Commerce結帳中調整交易流程，包括數量、折扣和A/B測試。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -20,9 +20,9 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: 228
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ ht-degree: 0%
 
 ## 您將瞭解的內容
 
-瞭解如何使用Adobe Commerce購物車並調整交易流程，透過變更幾行程式碼來向客戶顯示一組新功能。  同時瞭解如何將這些變更從Sharepoint轉換為受管理以進行AB測試。
+瞭解如何使用Adobe Commerce購物車下拉式清單，並調整交易流程，透過變更幾行程式碼來向客戶顯示一組新功能。 也瞭解如何從SharePoint轉換這些要管理的變更，以便進行A/B測試。
 
 ## 這部影片是給誰看的？
 
 * 開發人員和商店負責人需要變更一些購物車下拉式元素，才能瞭解Edge Delivery Services。
-* 對使用SharePoint管理功能和AB測試感興趣的行銷人員和其他人。
+* 對使用SharePoint管理功能和A/B測試感興趣的行銷人員和其他人。
 
 ## 視訊內容
 

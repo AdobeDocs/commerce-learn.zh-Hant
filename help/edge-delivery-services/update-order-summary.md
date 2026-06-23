@@ -1,6 +1,6 @@
 ---
 title: 結帳中的Edge Delivery Services訂單摘要
-description: 瞭解Adobe Edge Delivery Services，以及如何在結帳時更新Commerce下拉式清單的訂單摘要區段。
+description: 瞭解如何更新Adobe Commerce購物車下拉式訂單摘要，包括出貨預估、總節省額顯示和可摺疊區段配置。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -22,25 +22,25 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: 197
 ht-degree: 0%
 
 ---
 
 # 更新結帳中的購物車摘要
 
-瞭解如何變更Edge Delivery Services中Adobe Commerce購物車放置區的訂單摘要。  有幾個範例說明如何快速改善在結帳時提供給客戶的版面或資訊。
+瞭解如何變更Edge Delivery Services的Adobe Commerce購物車下拉式功能表的訂單摘要。 有幾個範例說明如何改善結帳時提供給客戶的版面配置或資訊。
 
 ## 您將瞭解的內容
 
-瞭解如何使用Adobe Commerce購物車並調整購物車體驗。  有數種方式可透過對程式碼進行一些細微的變更或更新來增強購物車。
+瞭解如何使用Adobe Commerce購物車下拉式功能表並調整購物車體驗。 有數種方式可透過對程式碼進行細微變更或更新來增強購物車。
 
 ## 這部影片是給誰看的？
 
 * 需要瞭解如何針對訂單摘要實施這些自訂功能的開發人員。
-* 銷售人員瞭解哪些選項可使用原生功能來增強客戶對訂單摘要的體驗。
+* 想要瞭解哪些選項可使用原生功能來增強訂單摘要客戶體驗的商品推銷商。
 
 ## 視訊內容
 

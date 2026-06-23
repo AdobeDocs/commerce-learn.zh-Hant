@@ -1,12 +1,12 @@
 ---
 title: Edge Delivery Services購物車專案
-description: 瞭解Adobe Edge Delivery Services，以及如何使用產品屬性來顯示購物車專案的新資訊。
+description: 瞭解如何使用Adobe Commerce Edge Delivery Services中的產品屬性和位置來顯示傳遞時間軸、銷售通知和購物車折扣。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 429
+duration: 430
 last-substantial-update: 2024-12-16T00:00:00.000Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
@@ -22,9 +22,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: 287
 ht-degree: 0%
 
 ---
@@ -35,18 +35,18 @@ ht-degree: 0%
 
 ## 您將瞭解的內容
 
-瞭解如何使用Adobe Commerce購物車放置並調整交易流程，透過變更幾行程式碼來向客戶顯示一組新功能。  同時瞭解如何將這些變更從Sharepoint轉換為受管理以進行AB測試。
+瞭解如何使用Adobe Commerce購物車放置並調整交易流程，透過變更幾行程式碼來向客戶顯示一組新功能。  同時瞭解如何將這些變更轉換為由Sharepoint進行管理，以進行A/B測試。
 
 ## 這部影片是給誰看的？
 
 * 想要透過遞送時間表、銷售資訊和折扣來提升購物車的電子商務企業。
 * 需要瞭解如何為購物車專案實施這些自訂功能的開發人員。
-* 商品推銷商，瞭解有哪些選項可使用原生功能來增強客戶體驗。
+* 想要瞭解可使用原生功能來增強客戶體驗之選項的採購商。
 
 ## 視訊內容
 
 * 自訂產品詳細資料並在購物車中顯示後方產品的自訂傳遞時間表。
-* 使用購物車專案現成功能的可退貨與最終銷售資訊範例。
+* 使用購物車專案標準功能的可退貨與最終銷售資訊範例。
 * 使用購物車規則和頁尾位置顯示的優惠券折扣，以有效顯示此資訊。
 * 使用產品屬性和插槽來擴充及自訂購物車功能，確保符合所有專案需求。
 
