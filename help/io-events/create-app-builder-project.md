@@ -1,8 +1,8 @@
 ---
-title: Learn how to create an App Builder project using Commerce Events
-description: Learn how to create an App Builder project for use with Commerce events
-landing-page-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
-short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
+title: 瞭解如何使用Commerce事件建立App Builder專案
+description: 瞭解如何建立App Builder專案以與Commerce事件搭配使用
+landing-page-description: 瞭解如何建立Adobe App Builder專案以使用Adobe Commerce事件
+short-description: 瞭解如何建立Adobe App Builder專案以使用Adobe Commerce事件
 kt: 11888
 doc-type: tutorial
 duration: 372
@@ -25,16 +25,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 137
 ht-degree: 0%
 
 ---
 
-# Create an App Builder project
+# 建立App Builder專案
 
-Learn how to create an Adobe Developer App Builder project to consume events from Adobe Commerce. 在[安裝適用於Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}找到其他檔案。
+瞭解如何建立Adobe Developer App Builder專案，以使用Adobe Commerce中的事件。 在[安裝適用於Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}找到其他檔案。
 
 ## 這部影片是給誰看的？
 
@@ -42,9 +42,9 @@ Learn how to create an Adobe Developer App Builder project to consume events fro
 
 ## 視訊內容 {#video-content}
 
-* Creating an App Builder project
-* Using Adobe Developer Console
-* Using Adobe I/O
+* 建立App Builder專案
+* 使用Adobe Developer Console
+* 使用Adobe I/O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430630?captions=chi_hant&learn=on)
 
@@ -61,3 +61,4 @@ aio app run
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
