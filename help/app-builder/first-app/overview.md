@@ -11,17 +11,11 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 TQID: https://experienceleague.adobe.com/vaWPlxMkONIlEhq4-WEjw8wKWBaBb1iYmeOPSjsnnjk
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 332
 ht-degree: 0%
@@ -39,7 +33,7 @@ ht-degree: 0%
 * [已建立Adobe Developer App Builder工作區 — 步驟2.6](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [已執行初始化專案及執行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
-如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
+如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
 
 ## 閱讀本教學課程有何期望
 
@@ -65,3 +59,4 @@ ht-degree: 0%
 {{avoid-400-error}}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+

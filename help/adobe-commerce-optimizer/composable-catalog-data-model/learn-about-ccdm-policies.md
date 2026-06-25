@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 由API要求標頭啟用的觸發原則（例如`AC-Policy-Brand`）
 * 在不重建目錄的情況下更新日常作業中的原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3491435?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 **原則**&#x200B;是&#x200B;**資料存取篩選器**。 它會檢查產品屬性並套用規則，以決定目錄檢視可公開哪些產品。 原則位於共用可撰寫目錄的頂端，不會複製目錄資料。
 
@@ -79,6 +79,7 @@ ht-degree: 0%
 
 * [可撰寫目錄資料模型存在的原因](./why-ccdm-exists.md)
 * [瞭解目錄檢視](./learn-about-the-ccdm-feature-catalog-views.md)
-* [銷售服務的目錄檢視](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [銷售服務的目錄檢視](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

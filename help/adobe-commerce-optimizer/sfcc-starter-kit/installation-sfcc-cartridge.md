@@ -10,7 +10,7 @@ duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -36,4 +36,5 @@ ht-degree: 0%
 * 匯入自訂物件和作業定義以支援追蹤和同步。
 * 測試自訂API端點，以確認安裝成功並準備目錄同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476081?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+

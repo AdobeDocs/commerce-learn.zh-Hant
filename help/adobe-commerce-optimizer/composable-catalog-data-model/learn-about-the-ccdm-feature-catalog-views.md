@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 208
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -30,9 +30,10 @@ ht-degree: 0%
 * 店面如何使用目錄檢視來篩選產品和定價（例如Celport）
 * 目錄檢視唯一ID和單一信任來源的商業價值
 
->[!VIDEO](https://video.tv.adobe.com/v/3491273?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
 
 ## 相關內容
 
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+
