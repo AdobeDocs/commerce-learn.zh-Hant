@@ -1,43 +1,34 @@
 ---
-title: Page Builder for developers - Theme customization
-description: Learn how to customize the Page Builder theme.
-kt: 5654
-doc-type: video
+title: 適用於開發人員的頁面產生器 — 佈景主題自訂
+description: 瞭解如何修改LESS變數、覆寫CSS並套用自訂樣式來建立唯一的店面體驗，進而自訂頁面產生器主題。
+jira: KT-5654
+doc-type: Technical Video
 duration: 523
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: e88e6056-a7c8-4b89-b992-777e74467135
-badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
+badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
 TQID: https://experienceleague.adobe.com/ZSNMuV1WFKlo3B-dyOp2g8eLfg4oa0Nh-KXzWMtYCoA
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: d1e21356-0064-4f48-9089-16e3f0dbd2a6id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: 142
 ht-degree: 0%
 
 ---
 
-# Page Builder for developers - Theme customization
+# 適用於開發人員的頁面產生器 — 佈景主題自訂
 
 {{only-for-on-prem-commerce-cloud}}
 
 在本影片中：
 
-* Customize the Page Builder theme
+* 自訂頁面產生器主題
 
 ## 這部影片是給誰看的？
 
@@ -48,12 +39,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。 如需更新版本的相關資訊，請參閱[Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=zh-Hant)。
+>本內容說明Adobe Commerce 2.3.1的Page Builder 1.0.0版本。 如需更新版本的相關資訊，請參閱[Page Builder發行說明](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/release-notes)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430981?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35713?learn=on)
 
 ## 有用的資源
 
 [Page Builder開發人員檔案](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[頁面產生器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=zh-Hant)
+[頁面產生器指南](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/introduction)
