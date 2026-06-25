@@ -30,7 +30,7 @@ ht-degree: 0%
 * 店面如何使用目錄檢視來篩選產品和定價（例如Celport）
 * 目錄檢視唯一ID和單一信任來源的商業價值
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491273?captions=chi_hant&learn=on)
 
 ## 相關內容
 
