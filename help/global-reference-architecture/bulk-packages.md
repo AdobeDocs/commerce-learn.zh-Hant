@@ -1,16 +1,14 @@
 ---
-title: 使用大量套件最佳化Adobe Commerce全球參考架構
-description: 瞭解如何使用大量套件全域參考架構來設定Adobe Commerce，以有效進行程式碼管理和版本控制。
+title: 大量套件全域參考架構模式
+description: 瞭解如何使用大量套件GRA模式來設定Adobe Commerce，以進行有效的程式碼管理、版本控制和可擴充的多執行個體部署。
 jira: KT-16726
-doc-type: tutorial
-duration: 391
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 296
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="由Adobe資深技術架構師Tony Evers撰寫" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰寫"
-old-role: Architect, Developer
-role: Developer, User, Leader
+badge: label="由Adobe資深技術架構師Tony Evers撰寫" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="托尼·埃弗斯撰寫"
+role: Developer
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
@@ -28,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
 source-wordcount: 1188
 ht-degree: 0%
@@ -53,7 +51,7 @@ ht-degree: 0%
 * 靈活地在不同執行個體上安裝不同歷史版本的GRA，以啟用分階段發行
 * 彈性支援並維護GRA的多個主要版本
 * 支援GRA的語意版本設定
-* 簡單明瞭，開發人員不需要比一般單一商店開發模式更多的技能
+* 簡單化；開發人員不需要比一般單一商店開發模式更多的技能
 * 不需要特殊的工具、複雜的基礎架構或特殊的分支策略
 * 發行版本中的套件組合一律會一起開發和測試
 

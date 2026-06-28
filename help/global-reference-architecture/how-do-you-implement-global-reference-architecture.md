@@ -1,17 +1,14 @@
 ---
 title: 如何實作全球參考架構
 description: 瞭解如何實作全球參考架構。 瞭解發佈網站的想法、成功要訣和確保全域參考架構專案走上正確軌道所需的角色。
-landing-page-description: 瞭解如何使用Adobe Commerce實作全球參考架構
-kt: 14042
-doc-type: video
-duration: 2289
-audience: all
-last-substantial-update: 2023-10-6
+jira: KT-14042
+doc-type: Value Video
+duration: 2273
+last-substantial-update: 2023-10-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
 TQID: https://experienceleague.adobe.com/gvluu4w1CEQOC6Ar77DspSSx9ED682P41DSEqG44cok
 product_v2:
@@ -29,16 +26,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: 157
 ht-degree: 0%
 
 ---
 
 # 實作全球參考架構
 
-瞭解如何實作全球參考架構或GRA （簡稱）。 瞭解有助於設定成功GRA的早期決策。 取得如何區隔網站的想法、成功的關鍵，以及以有條理方式開發功能的一些概念。
+瞭解如何實作全球參考架構(GRA)。 瞭解有助於設定成功GRA的早期決策。 取得如何區隔網站的想法、成功的關鍵，以及以有條理方式開發功能的一些概念。
 
 ## 客群
 

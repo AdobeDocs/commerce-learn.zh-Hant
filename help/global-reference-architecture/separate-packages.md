@@ -2,14 +2,12 @@
 title: 個別套件全球參考架構
 description: 使用獨立的套件GRA最佳化Adobe Commerce。 瞭解彈性的版本化套件管理的設定、好處和最佳實務。
 jira: KT-16727
-doc-type: tutorial
-duration: 594
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 340
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="由Adobe資深技術架構師Tony Evers撰寫" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰寫"
-old-role: Architect, Developer
+badge: label="由Adobe資深技術架構師Tony Evers撰寫" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="托尼·埃弗斯撰寫"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
@@ -30,9 +28,9 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 2132
+source-wordcount: 2099
 ht-degree: 0%
 
 ---
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 獨立套件GRA模式涉及每個共同套件的一個Git存放庫和每個Adobe Commerce執行個體的Git存放庫。 透過具有私人撰寫器存放庫的Composer公開常見套件。
 
-此全域參考架構模式完全以Composer為基礎，旨在從所有Composer功能中獲得最大利益。
+此全球參考架構模式以Composer為基礎，旨在從所有Composer功能中獲得最大利益。
 
 ![顯示程式碼儲存在獨立封裝GRA模式中的位置的圖表](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
 
@@ -62,7 +60,7 @@ ht-degree: 0%
 缺點：
 
 * 在這個GRA模式中的開發在開始時會稍微困難一些，會有小段學習曲線
-* 可能部署未以相同組態開發的套件組合，需要嚴格的測試程式
+* 可能部署未以相同組態開發的套件組合；需要嚴格的測試程式
 
 ## 使用個別套件GRA模式設定Adobe Commerce
 
@@ -127,7 +125,7 @@ git push -u origin main
 }
 ```
 
-上述程式碼片段是中繼資料的composer.json。 因為中繼資料只包含composer.json檔案，不含其他程式碼。 上述程式碼也是完整的中繼功能。 將其託管在Git存放庫中，您便擁有可安裝的中繼撰寫器存放庫。 它需要一個範例GRA模組和協力廠商模組，以及Adobe Commerce核心。 這同樣需要gra-component-foundation，將於下一章中說明。
+上述程式碼片段是中繼資料的composer.json。 中繼包只包含composer.json檔案，不含其他程式碼。 上述程式碼也是完整的中繼功能。 將其託管在Git存放庫中，您便擁有可安裝的中繼撰寫器存放庫。 它需要一個範例GRA模組和協力廠商模組，以及Adobe Commerce核心。 它也需要gra-component-foundation，下一章將對此進行說明。
 
 中繼封裝是一種在不建立封裝之間的相依性的情況下將封裝套裝成束的方法。 因此，即使套件之間沒有技術相依性，透過中繼套件，您可以使它們一起安裝。 如果您在專案中需要此中繼封裝，則會安裝該中繼封裝所需的任何封裝或中繼封裝。 因此，如果您建立空白撰寫器專案，而您只需要此套件，則Composer會安裝Adobe Commerce以及GRA和協力廠商模組。
 
@@ -146,7 +144,7 @@ git push -u origin main
 }
 ```
 
-Brand-X中繼是選用專案。 您也可以略過品牌中繼資料，並直接在存放區撰寫器專案中要求這些相依性。 建立本機模組的中繼資料的優點在於，您在存放區Git存放庫中（僅在套裝資料存放庫中）沒有任何功能分支和功能提取請求。 這是一項安全措施。 此外，您可以選擇在套裝程式存放庫上套用語意版本設定，並在您的主要專案上使用不同的Git標籤，例如追蹤已命名的版本。 由您決定。
+Brand-X中繼是選用專案。 略過品牌中繼資料，並直接在您的商店撰寫器專案中要求這些相依性。 建立本機模組的中繼資料的優點在於，您在存放區Git存放庫中（僅在套裝資料存放庫中）沒有任何功能分支和功能提取請求。 這是一項安全措施。 此外，您可以選擇在套裝程式存放庫上套用語意版本設定，並在您的主要專案上使用不同的Git標籤，例如追蹤已命名的版本。 由您決定。
 
 ### 廠商目錄之外的GRA foundation檔案
 
@@ -176,18 +174,18 @@ Brand-X中繼是選用專案。 您也可以略過品牌中繼資料，並直接
 
 ### 開發GRA基礎模組
 
-開發會在廠商目錄中進行。 請要求Composer從來源安裝您的Foundation套件。 如此一來，會從Git簽出套件，而不是從下載的封存安裝它們。
+開發會在廠商目錄中進行。 請要求Composer從來源安裝您的Foundation套件。 這樣做會從Git簽出套件，而不是從下載的封存安裝它們。
 
 ```bash
 rm -r vendor/antonevers/*
 composer install --prefer-source
 ```
 
-透過此命令，Antonevers名稱空間中的套件已使用Git簽出。 當您輸入vendor/antonevers/module-gra目錄時，也會輸入module-gra Git存放庫。 您現在可以直接從廠商目錄建立、簽出和合併分支，並透過這種方式進行開發。
+透過此命令，Antonevers名稱空間中的套件已使用Git簽出。 當您輸入vendor/antonevers/module-gra目錄時，也會輸入module-gra Git存放庫。 您現在可以從廠商目錄中就地建立、簽出及合併分支，並透過此方式進行開發。
 
-### 將協力廠商模組納入GRA基礎
+### 在GRA基礎中包含協力廠商模組
 
-將協力廠商套件新增至GRA中繼套件。 如果無法從撰寫器存放庫安裝協力廠商程式碼，請為其建立套件。 建立Git存放庫、新增套件內容（應用程式/程式碼/廠商/套件中的所有內容），並確保在存放庫的根目錄下有有效的composer.json檔案。 您現在可以透過Composer安裝此套件。
+將協力廠商套件新增至GRA中繼套件。 如果無法從撰寫器存放庫安裝協力廠商程式碼，請為其建立套件。 建立Git存放庫、新增套件內容（應用程式/程式碼/廠商/套件中的所有內容）並確保在存放庫的根目錄下有有效的composer.json檔案。 您現在可以透過Composer安裝此套件。
 
 ## 設定私人撰寫器存放庫
 
@@ -195,7 +193,7 @@ composer install --prefer-source
 
 此外，有些私人存放庫會提供額外功能，例如當其中一個存放庫在其其中一個相依性中包含安全性弱點時，提供電子郵件通知。
 
-當您在composer.json中有多個VCS存放庫時，就會發生速度緩慢問題。 進行升級時，需要讀取每個Composer存放庫，而且對於50個套件有50個存放庫，其製造費用至少是單一Composer存放庫的50倍。
+當您在composer.json中有多個VCS存放庫時，就會發生速度緩慢問題。 進行升級時，需要讀取每個Composer存放庫，而且對於50個套件有50個存放庫，其管理費用是單一Composer存放庫的50倍。
 
 ![圖表顯示當缺少撰寫器存放庫時緩慢的發生位置](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
 
@@ -203,7 +201,7 @@ composer install --prefer-source
 
 透過Git同步處理，私用Composer存放庫會自動偵測您Git存放庫中的新套裝軟體，以及現有套裝軟體的新版本。
 
-您可以使用Satis來託管您自己的私人存放庫： <https://composer.github.io/satis/>。 檢視位於<https://antonevers.github.io/gra-composer-repository/>的公用存放庫範例。 此存放庫會作為程式碼範例中的撰寫器存放庫。 若要將Satis存放庫設為私用，必須採取其他措施。
+您可以使用Satis來託管您自己的私人存放庫： <https://composer.github.io/satis/>。 檢視位於<https://antonevers.github.io/gra-composer-repository/>的公用存放庫範例。 此存放庫在程式碼範例中作為撰寫器存放庫使用。 若要將Satis存放庫設為私用，必須採取其他措施。
 
 您可以設定並忘記以下解決方案：私人封裝程式<https://packagist.com/>，是由撰寫Composer或JFrog Artifactory <https://jfrog.com/artifactory/>的同一人所製作。
 
@@ -212,19 +210,18 @@ composer install --prefer-source
 使用中繼套件，有3個步驟可傳送程式碼。
 
 1. 將變更合併到封裝中，並將變更的封裝版本化。
-2. (Optional, only if new packages are added) Require the new packages in metapackages and version the metapackages.
-3. (Optional, only if new packages are added) Require the new metapackages in Adobe Commerce and deploy.
+2. （選擇性，只有在新增新套件時才會出現）需要中繼套件中的新套件和版本中繼套件。
+3. （選用，僅在新增新套件時）需要在Adobe Commerce中新的中繼資料並部署。
 
-Deployment scope is controlled with package versions. Creation of a stable version of a package means that this package is ready for production deployment.
+使用套件版本控制部署範圍。 建立穩定版本的套件表示此套件已準備好進行生產部署。
 
-To build a new release, run composer update in the main Composer project, which contains the full store installation. All latest versions of packages are installed.
+若要建置新版本，請在包含完整商店安裝的主要Composer專案中執行composer更新。 已安裝所有最新版本的套件。
 
-## Versioning
+## 版本設定
 
-Versioning in a Separate Packages GRA is a synonym to tagging modules in Git. Git tags create numbered versions of your packages that Composer installs.
-The right versioning approach lets your packages flow automatically, while also remaining safe.
+個別套件GRA中的版本設定是Git中標籤模組的同義詞。 Git標籤會建立Composer所安裝的套件編號版本。正確的版本設定方法可讓您的套件自動流動，同時保持安全。
 
-Two examples:
+兩個範例：
 
 ```json
 {
@@ -238,7 +235,7 @@ Two examples:
 }
 ```
 
-This example shows a strict definition of dependencies. 3 packages are required in exact versions. Composer update with this metapackage in your installation does nothing. It always installs these 3 packages in these exact versions, even if a newer version is available.
+此範例顯示相依性的嚴格定義。 精確版本中需要3個套件。 在您的安裝中使用這個中繼資料更新Composer不會起任何作用。 即使有較新版本可用，此版本也會一律將這3個套件安裝在這些精確版本中。
 
 ```json
 {
@@ -252,14 +249,13 @@ This example shows a strict definition of dependencies. 3 packages are required 
 }
 ```
 
-This example shows a loose definition of dependencies. With `~1.0` any version of these packages can be installed if they are greater than or equal to `1.0.0` and lower than `2.0.0`, with a preference for the highest available version. You can learn more about how to define version dependencies at <https://getcomposer.org/doc/articles/versions.md>:
+此範例顯示相依性的鬆散定義。 透過`~1.0`，如果任何版本的這些套件大於或等於`1.0.0`且小於`2.0.0`，則可以安裝這些套件，且具有最高可用版本的偏好設定。 您可以在<https://getcomposer.org/doc/articles/versions.md>進一步瞭解如何定義版本相依性：
 
-> The ~ operator is best explained by example: `~1.2` is equivalent to `>=1.2 <2.0.0`, while `~1.2.3` is equivalent to `>=1.2.3 <1.3.0`.
+> ~運運算元最好以範例說明： `~1.2`等於`>=1.2 <2.0.0`，而`~1.2.3`等於`>=1.2.3 <1.3.0`。
 
-As soon as you release a new version of any of the packages mentioned, it is automatically installed with Composer update.
+一旦您發行提及的任何套件的新版本，它就會自動隨Composer更新安裝。
 
-Apply semantic versioning. You can learn everything about semantic versioning at <https://semver.org/>. Especially, the FAQ is a must read. With semantic versioning, the numbers in &quot;1.0.0&quot; are called MAJOR.MINOR.PATCH. Minor and patch releases of a package should be safe to introduce without breaking the application.
-您可以自動包含修補程式，並手動選擇次要升級。 請注意，若要這麼做，請手動挑選每項次要變更，以節省額外的負荷：
+套用語意版本設定。 您可以在<https://semver.org/>學習有關語意版本設定的一切。 特別建議閱讀常見問題集。 透過語意版本設定，「1.0.0」中的數字稱為MAJOR.MINOR.PATCH。 封裝的次要和修補程式發行版本可安全引進，而不會中斷應用程式。您可以自動包含修補程式，並手動選擇次要升級。 請注意，若要這麼做，請手動挑選每項次要變更，以節省額外的負荷：
 
 ```json
 {
@@ -273,7 +269,7 @@ Apply semantic versioning. You can learn everything about semantic versioning at
 }
 ```
 
-當然，唯有您一律一致地套用語意版本化，這一切才有用。 不僅在中繼套件中，您一般套件的需求也應該寬鬆地定義相依性。 如果您的系統中具有一個嚴格相依性，則該套件受限於嚴格定義。
+當然，唯有您一律一致地套用語意版本化，這一切才有用。 不僅在中繼套件中，您一般套件的需求也會以寬鬆的方式定義相依性。 如果您的系統中具有一個嚴格相依性，則該套件受限於嚴格定義。
 
 鍵入composer dependents \&lt;package name\>以尋找這些嚴格的相依性。 如需詳細資訊，請參閱<https://getcomposer.org/doc/03-cli.md#depends-why>。
 
@@ -281,9 +277,9 @@ Apply semantic versioning. You can learn everything about semantic versioning at
 
 您可以使用各種分支策略來支援此全域參考策略模式，前提是主要分支是您設定套件版本的唯一分支。 如果您跨多個分支進行版本，則會帶來在版本之間隨機遺失功能的風險。 只會在主要分支上建立穩定版本。
 
-只會在您的套裝程式存放庫中建立功能分支。 不在您的存放區安裝存放庫上。 只要使用Composer，就能繼續為您的商店引進任何變更。 避免Git需要在部署存放庫中合併。
+只會在您的套裝程式存放庫中建立功能分支。 不在您的存放區安裝存放庫上。 繼續使用撰寫器為您的商店引進任何變更。 避免Git需要在部署存放庫中合併。
 
-分支策略和存放庫中具有常見的分支型別，這些分支應存在於以下位置：
+分支策略中常見的分支型別及其存在的存放庫：
 
 **功能分支**：位於您的封裝存放庫中，絕無其他。
 
@@ -291,8 +287,7 @@ Apply semantic versioning. You can learn everything about semantic versioning at
 
 **QA/Dev分支**：類似於發行分支。
 
-**主要分支**：必須存在於每個存放庫中，且應該永遠是代表生產或生產就緒狀態的分支。 主要分支是您標籤發行版本程式碼的位置。
-請務必選擇維護開銷很少的分支策略。 例如，在Hotfix版本之後將主要分支合併回QA、UAT、Release或Dev分支，是一項經常性維護任務。 套裝程式越多，儲存區域就越多，重複性的管理費用任務也越多。
+**主要分支**：存在於每個存放庫中，且永遠是代表生產或生產就緒狀態的分支。 主要分支是您標籤發行版本程式碼的位置。請務必選擇維護開銷很少的分支策略。 例如，在Hotfix版本之後將主要分支合併回QA、UAT、Release或Dev分支，是一項經常性維護任務。 套裝程式越多，儲存區域就越多，重複性的管理費用任務也越多。
 
 使用mixu/gr之類的工具，在批次中的多個Git存放庫上執行例行作業： <https://github.com/mixu/gr>
 
@@ -300,13 +295,13 @@ Apply semantic versioning. You can learn everything about semantic versioning at
 
 使用獨立套件GRA模式時，如果基礎中繼套件需要套件，則這些套件是GRA基礎的一部分。 從中繼封裝新增或移除封裝，以將它們移入和移出基礎。
 
-中繼套件可讓套件的安裝範圍更具有彈性。 套件名稱中不包含與封裝預期用途相關的任何字詞特別重要。 當您決定將該封裝移出GRA基礎時，名稱antonevers/module-gra-store-locator可能會變得混亂。 避免範圍(GRA、foundation、local)。 避免地區（歐洲、中東和非洲、西班牙、全球）。 絕對會避免使用建置套件的存放區名稱。 選擇僅與封裝中所新增的功能相關的名稱。 這樣一來，您就可以在任何地方重複使用它們，在無法預見的未來情況下也是如此。 名稱antonevers/module-store-locator會很棒。
+中繼套件可讓套件的安裝範圍更具有彈性。 套件名稱中不包含與封裝預期用途相關的任何字詞特別重要。 當您決定將該封裝移出GRA基礎時，名稱antonevers/module-gra-store-locator可能會變得混亂。 避免範圍(GRA、foundation、local)。 避免地區（歐洲、中東和非洲、西班牙、全球）。 絕對會避免使用建置套件的存放區名稱。 選擇僅與封裝中所新增的功能相關的名稱。 如此一來，您就可以在任何環境中重複使用它們，在無法預見的未來情況下也是如此。 名稱antonevers/module-store-locator會很棒。
 
 請確定相關套件一起顯示在概述中。 從一般到特定的建置名稱。 因此，Antonevers/module-b2b-tax-exempt而非antonevers/tax-exempt-module-b2b。
 
 ## 程式碼範例
 
-此部落格的程式碼範例已合併到一組Git存放庫中，可供您用來進行概念證明的遊戲。
+本文中的程式碼範例已合併到一組Git存放庫中，您可以用來探索概念證明。
 
 * 範例生產存放區： <https://github.com/AntonEvers/gra-separate-brand-x>
 * 基礎模組範例： <https://github.com/AntonEvers/module-example-gra>
