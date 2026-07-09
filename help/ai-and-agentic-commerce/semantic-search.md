@@ -33,7 +33,7 @@ ht-degree: 0%
 * 購物者意圖和改善搜尋相關性的真實世界範例
 * 主要優點：改善關聯性、減少零結果搜尋，並改善購物者體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492314?captions=chi_hant)
 
 ## 其他資源
 
