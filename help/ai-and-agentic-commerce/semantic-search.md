@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
+source-git-commit: 676b83020173983f2045c715e3b3ee28f7bb1c6b
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -26,14 +26,16 @@ ht-degree: 0%
 
 ## 視訊內容
 
-* 屬性選擇，語意搜尋可瞭解您的目錄
-* 優先順序設定，可針對購物者意向比對加權最相關的訊號
-* 將產品資料轉換為語意訊號的自動目錄索引
-* 結果提升、相似度臨界值和模糊搜尋設定
+* 語意搜尋的簡介以及它如何改進產品探索
+* 如何在即時搜尋設定中啟用語意搜尋
+* 啟用語意搜尋後，商家可以期待什麼
+* 自動編目索引和AI支援的產品資料理解
+* 購物者意圖和改善搜尋相關性的真實世界範例
+* 主要優點：改善關聯性、減少零結果搜尋，並改善購物者體驗
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492314?captions=chi_hant)
 
 ## 其他資源
 
-&#x200B;- 若要在雲端上的Adobe Commerce、Prem和Adobe Commerce as a Cloud Service上進行部署，請參閱&#x200B;_即時搜尋指南_&#x200B;中的[[!DNL Live Search] 語意搜尋](https://experienceleague.adobe.com/zh-hant/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
-&#x200B;- 若為使用Adobe Commerce Optimizer的部署，請參閱&#x200B;_Commerce Optimizer指南_&#x200B;中的[設定 — 進階搜尋](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/settings#advanced-search){target="_blank"}。
+&#x200B;- 若為雲端、內部部署和Adobe Commerce as a Cloud Service上的Adobe Commerce部署，請參閱&#x200B;_即時搜尋指南_&#x200B;中的[[!DNL Live Search] 語意搜尋](https://experienceleague.adobe.com/zh-hant/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
+&#x200B;- 若為使用Adobe Commerce Optimizer的部署，請參閱&#x200B;_Commerce Optimizer指南_&#x200B;中的[語意搜尋](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/setup/semantic-search){target="_blank"}。
