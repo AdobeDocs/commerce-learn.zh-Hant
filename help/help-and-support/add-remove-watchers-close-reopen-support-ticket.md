@@ -42,4 +42,4 @@ ht-degree: 0%
 
 ## Commerce知識庫Adobe說明中心指南
 
-[提交支援案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
