@@ -46,7 +46,7 @@ ht-degree: 0%
 * 瞭解推薦的文章會如何因表單中使用的資訊而改變
 * 表單欄位中的預留位置文字如何協助您瞭解良好支援請求所需的資訊型別
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449564?captions=chi_hant&learn=on)
 
 ## Commerce知識庫Adobe說明中心指南
 
