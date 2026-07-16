@@ -11,24 +11,15 @@ last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2:
-  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -48,7 +39,7 @@ ht-degree: 0%
 * 對Commerce as a Cloud Service使用正確的REST API端點格式
 * 以程式設計方式使用POST和PUT請求，搭配適當的JSON負載，建立及更新客戶帳戶
 
->[!VIDEO](https://video.tv.adobe.com/v/3479373?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## 程式碼範例
 
@@ -62,7 +53,9 @@ ht-degree: 0%
 
 執行個體詳細資料包含您的執行個體ID、GraphQL端點、憑證等內容。
 
-### 開發人員詳細資料 — [developer.adobe.com/console](https://developer.adobe.com/console/)
+### 開發人員詳細資訊 — developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 Developer Console是您管理API憑證的地方，包括使用者端ID、使用者端密碼和存取權杖。 您也可以建立新的認證型別，例如伺服器對伺服器或原生應用程式驗證。
 
@@ -259,6 +252,6 @@ curl -s -X PUT \
 
 ## 引用
 
-* [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service發行說明](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API參考](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [使用者驗證指南](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
