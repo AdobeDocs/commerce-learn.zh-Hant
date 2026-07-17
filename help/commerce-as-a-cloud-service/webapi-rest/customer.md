@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -62,7 +62,9 @@ ht-degree: 0%
 
 執行個體詳細資料包含您的執行個體ID、GraphQL端點、憑證等內容。
 
-### 開發人員詳細資料 — [developer.adobe.com/console](https://developer.adobe.com/console/)
+### 開發人員詳細資訊 — developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 Developer Console是您管理API憑證的地方，包括使用者端ID、使用者端密碼和存取權杖。 您也可以建立新的認證型別，例如伺服器對伺服器或原生應用程式驗證。
 

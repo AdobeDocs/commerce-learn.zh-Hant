@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ ht-degree: 0%
 
 ## 逐檔案參考
 
-### [建立分割付款POC：App Builder和AI工具](./overview.md)
+### 建立分割付款POC：App Builder和AI工具
+
+[建立分割付款POC：App Builder和AI工具](./overview.md)
 
 **目的：**&#x200B;教學課程的簡介和方向。
 
@@ -32,8 +34,9 @@ ht-degree: 0%
 **教學課程使用：**&#x200B;開啟節。 在任何技術步驟之前設定內容。
 
 
-### [分割付款POC：架構與設計決策](./architecture-and-decisions.md)
+### 分割付款POC：架構與設計決策
 
+[分割付款POC：架構與設計決策](./architecture-and-decisions.md)
 
 **用途：**&#x200B;深入說明PoC中的每個架構決定。
 
@@ -50,8 +53,9 @@ ht-degree: 0%
 **教學課程使用：**「架構」或「運作方式」區段。 經驗豐富的Commerce開發人員可略過，但對於App Builder的新手而言至關重要。
 
 
-### [分割付款POC：必要條件和環境設定](./prerequisites-and-setup.md)
+### 分割付款POC：先決條件與環境設定
 
+[分割付款POC：先決條件與環境設定](./prerequisites-and-setup.md)
 
 **用途：**&#x200B;在寫入任何程式碼或執行提示前，先完成預檢檢查清單。
 
@@ -66,8 +70,9 @@ ht-degree: 0%
 **教學課程使用：**「先決條件」或「快速入門」區段。 應該以互動方式完成 — 而不僅僅是閱讀。
 
 
-### [分割付款POC：環境變數參考](./env-reference.md)
+### 分割付款POC：環境變數參考
 
+[分割付款POC：環境變數參考](./env-reference.md)
 
 **用途：**&#x200B;所有三個元件的所有環境變數都集中在一處。
 
@@ -82,8 +87,9 @@ ht-degree: 0%
 **教學課程使用：**&#x200B;參考側邊欄或「設定」區段。 也可用來輔助建置提示。
 
 
-### [分割付款POC： Commerce模組AI提示](./commerce-module-prompt.md)
+### 分割付款POC：Commerce模組AI提示
 
+[分割付款POC：Commerce模組AI提示](./commerce-module-prompt.md)
 
 **用途：**&#x200B;完整、獨立的AI提示，以產生整個`Client_SplitPayment` PHP模組。
 
@@ -101,8 +107,9 @@ ht-degree: 0%
 **教學課程使用：**「建置Commerce模組」區段。 提示本身就是成品 — 開發人員將其複製至其AI工具中並加以執行。
 
 
-### [分割付款POC： App Builder orchestrator AI提示](./orchestrator-prompt.md)
+### 分割付款POC：App Builder orchestrator AI提示
 
+[分割付款POC：App Builder orchestrator AI提示](./orchestrator-prompt.md)
 
 **用途：**&#x200B;完整、獨立的AI提示，可產生`split-payment-orchestrator` App Builder應用程式。
 
@@ -120,8 +127,9 @@ ht-degree: 0%
 **教學課程使用：**「建置App Builder應用程式」區段。 Commerce模組提示隨附。
 
 
-### [分割付款POC： Experience Cloud UI延伸模組AI提示](./experience-cloud-ui-prompt.md)
+### 分割付款POC：Experience Cloud UI擴充功能AI提示
 
+[分割付款POC：Experience Cloud UI擴充功能AI提示](./experience-cloud-ui-prompt.md)
 
 **用途：** AI提示以產生選用的Experience Cloud Admin UI SDK擴充功能。
 
@@ -137,8 +145,9 @@ ht-degree: 0%
 **教學課程使用：**&#x200B;選用的「更進一步」或「生產路徑」區段。 如果教學課程僅聚焦於PoC，則可略過。
 
 
-### [分割付款POC：測試與驗證指南](./testing-and-verification.md)
+### 分割付款POC：測試與驗證指南
 
+[分割付款POC：測試與驗證指南](./testing-and-verification.md)
 
 **用途：**&#x200B;逐步測試指南涵蓋正確驗證順序的每個元件。
 
@@ -160,8 +169,9 @@ ht-degree: 0%
 **教學課程使用：** 「測試」或「驗證」區段。 也可用作疑難排解參考。
 
 
-### [分割付款POC：概念證明後的後續步驟](./next-steps.md)
+### 分割付款POC：概念證明後的後續步驟
 
+[分割付款POC：概念證明後的後續步驟](./next-steps.md)
 
 **用途：**&#x200B;將PoC發展成生產就緒型態的藍圖。
 
