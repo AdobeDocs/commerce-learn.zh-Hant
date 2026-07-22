@@ -33,4 +33,4 @@ ht-degree: 0%
 * 在Adobe Developer Console中從&#x200B;**Project** > **OAuth伺服器對伺服器**&#x200B;擷取Adobe IMS使用者端ID和使用者端密碼。
 * 複製目標組織ID，並設定CDMS主機、連線埠和本機伺服器設定以符合您的環境。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496176?captions=chi_hant&learn=on)
