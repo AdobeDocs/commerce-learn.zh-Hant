@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: a785518a36cda9d2bfb82951c26f2e197ee3d43e
+source-git-commit: 0dcb41e9138a36528f10333b0b5a9a9b2a39ed40
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '967'
 ht-degree: 3%
 
 ---
@@ -68,6 +68,7 @@ ht-degree: 3%
     + 大量資料移轉工具{#bulk-data-migration-tool}
       + [簡介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
       + [Source認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+      + [資料庫認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
   + 移轉至Adobe Commerce{#migrating-to-adobe-commerce}
     + [概觀](../migrating-to-adobe-commerce/overview.md)
     + 準備{#preparation}
