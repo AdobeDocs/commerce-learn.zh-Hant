@@ -1,16 +1,12 @@
 ---
 title: 瞭解如何在Adobe Commerce中使用條件式事件
 description: 瞭解如何使用要在Adobe Developer App Builder中使用的條件式事件。
-landing-page-description: 瞭解如何使用Adobe Commerce條件事件。
-short-description: 瞭解如何使用Adobe Commerce條件事件。
-kt: 11890
-doc-type: tutorial
-duration: 421
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11890
+doc-type: Tutorial
+duration: 387
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
@@ -25,20 +21,20 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 9f50b87d13f48b239d814783eb2c56319946cb29
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: 128
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce條件事件
 
-瞭解可用於Adobe Developer App Builder的Adobe Commerce條件事件。 在[安裝適用於Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}找到其他檔案。
+瞭解可用於Adobe Developer App Builder的Adobe Commerce條件事件。 在[安裝適用於Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/conditional-events){target="_blank"}找到其他檔案。
 
 ## 這部影片是給誰看的？
 
-* 剛開始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的開發人員，需要建立Adobe App Builder專案。
+* 剛接觸Adobe Commerce和Adobe Developer App Builder的開發人員，透過需要建立Adobe App Builder專案的I/O事件。
 
 ## 視訊內容 {#video-content}
 

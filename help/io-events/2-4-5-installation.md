@@ -1,17 +1,13 @@
 ---
 title: 瞭解如何安裝Adobe Commerce 2.4.5的IO事件
 description: 瞭解如何在Adobe Commerce 2.4.5中安裝IO事件所需的模組，以用於Adobe Developer App Builder
-landing-page-description: 瞭解如何使用撰寫器安裝Adobe Commerce 2.4.5所需的數個模組。
-short-description: 瞭解如何使用撰寫器安裝Adobe Commerce 2.4.5所需的數個模組。
-kt: 11886
-doc-type: tutorial
-duration: 214
-audience: all
-last-substantial-update: 2023-02-22T00:00:00.000Z
+jira: KT-11886
+doc-type: Tutorial
+duration: 179
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
@@ -26,16 +22,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 9f50b87d13f48b239d814783eb2c56319946cb29
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: 164
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 2.4.5安裝
 
-瞭解如何使用Composer for version 2.4.5在Adobe Commerce中安裝數個新模組。 這會設定在Adobe Commerce應用程式中使用的必要模組。 在[安裝適用於Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}找到其他檔案。
+瞭解如何使用Composer for version 2.4.5在Adobe Commerce中安裝數個新模組。 這會設定在Adobe Commerce應用程式中使用的必要模組。 在[安裝適用於Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}找到其他檔案。
 
 ## 這部影片是給誰看的？
 
@@ -50,9 +46,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430648?captions=chi_hant&learn=on)
 
-## 有用的命令 {#useful-commands}
+## 可用命令 {#useful-commands}
 
-有些命令稍微不同，這取決於您是在自行託管的環境或使用Adobe Commerce Cloud。
+根據您是在自行託管的環境或使用Adobe Commerce Cloud，有些命令稍微不同。
 
 ### 內部部署託管 {#on-premise}
 
