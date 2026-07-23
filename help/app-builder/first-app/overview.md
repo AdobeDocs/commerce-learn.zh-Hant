@@ -4,7 +4,7 @@ description: 瞭解使用Adobe Commerce的Adobe Developer App Builder，包括�
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 864c348235569cb18aa89a88885208a8225eec7a
 workflow-type: tm+mt
 source-wordcount: 332
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
 * 已授予App Builder的完整存取權或試用存取權
 * [Adobe Developer App Builder應用程式已建立](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}
 * [已建立Adobe Developer App Builder專案](https://developer.adobe.com/console){target="_blank"}
-* [已建立Adobe Developer App Builder工作區 — 步驟2.6](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [已建立Adobe Developer App Builder工作區 — 步驟2](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [已執行初始化專案及執行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
 如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
