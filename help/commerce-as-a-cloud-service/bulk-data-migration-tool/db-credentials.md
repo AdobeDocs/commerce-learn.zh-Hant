@@ -33,4 +33,4 @@ ht-degree: 0%
 * 使用Magento Cloud CLI通道命令來取得主機、使用者、密碼、連線埠和資料庫值。
 * 如果您的來源是內部部署，請在執行工具之前確認主機和連線埠連線。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496166?captions=chi_hant&learn=on)

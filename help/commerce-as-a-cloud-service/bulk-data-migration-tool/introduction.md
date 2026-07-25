@@ -33,4 +33,4 @@ ht-degree: 0%
 * 解壓縮工具套件並設定正確的檔案夾許可權。
 * 檢閱此系列後續影片中設定的`.env.example`檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496131?captions=chi_hant&learn=on)

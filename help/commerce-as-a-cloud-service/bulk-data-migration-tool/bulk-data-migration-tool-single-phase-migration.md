@@ -34,4 +34,4 @@ ht-degree: 0%
 * 檢查移轉摘要報告 — 步驟8 （資料完整性驗證）會記錄失敗而不停止管道，因此完成的執行不保證可乾淨驗證。
 * 這個單階段命令是一個完整、獨立的管道 — 請勿在維護模式（分階段移轉）工作流程中將其用作步驟，因為工作流程有其自己的專用命令。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496325?captions=chi_hant&learn=on)
