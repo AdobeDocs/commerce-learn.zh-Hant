@@ -33,4 +33,4 @@ ht-degree: 0%
 * 若要產生四個必要的權杖，請啟用整合。
 * 如果您的來源為Magento as a Cloud Service (PaaS)，請從account.magento.cloud擷取Adobe Commerce CLI Token。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496142?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496151?captions=chi_hant&learn=on)
