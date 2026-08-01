@@ -32,4 +32,4 @@ ht-degree: 0%
 * 第一階段會在來源仍在作用中時執行 — `bin console migration:before-maintenance`會檢查設定、初始化環境、連線至CDMS、註冊移轉、執行功能測試，以及建立綜合測試資料。 在此階段完成之前不要啟用維護模式。
 * 第三階段是從凍結環境中擷取 — 如有需要，`bin/console migration:during-maintenance`會重新開啟PaaS通道、從來源擷取、清除中繼檢視、載入ACCS目標、執行驗證，以及清除目標上的測試資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496422?captions=chi_hant&learn=on)
