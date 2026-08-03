@@ -1,18 +1,18 @@
 ---
-title: AI工具發運費率相關頁
-description: ai工具發運費率中相關頁的連結
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+title: AI工具運費相關頁面
+description: ai工具運費相關頁面的連結
+source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# AI工具發運費率相關連結
+# AI工具運費相關連結
 
-## 相關教程
+## 相關教學課程
 
-* [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-* [AI工具和Adobe啟動套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-* [實施和測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-* [反饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+* [簡介和設定](/help/app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [AI工具和Adobe入門套件](/help/app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+* [實作與測試](/help/app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+* [意見反應](/help/app-builder/custom-shipping-rates-ai-tools/feedback.md)
