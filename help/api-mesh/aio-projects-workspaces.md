@@ -4,13 +4,13 @@ description: 瞭解如何使用Adobe Developer Console搭配API Mesh的專案和
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2023-02-08T00:00:00Z
+last-substantial-update: 2026-08-03T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: c73744d503de5023e5c001d0534200522db55b04
+source-git-commit: 8155d699c1dd34cba776ffb928ab2d835b5a4d4b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -38,11 +38,11 @@ ht-degree: 0%
 
 ## 瞭解Adobe Developer Console
 
-在Adobe Developer Console中，下列階層代表您的API在您組織中的組織方式： `Organization > Project > Workspace > [API]`。 若要深入瞭解Adobe App Builder、登入主控台及基本的疑難排解，請造訪[建立您的第一個App Builder應用程式](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}。
+在Adobe Developer Console中，下列階層說明您的API在您組織中的組織方式： `Organization > Project > Workspace > [API]`。 若要深入瞭解Adobe App Builder、登入主控台及基本的疑難排解，請造訪[建立您的第一個App Builder應用程式](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}。
 
 ## Adobe Developer Console專案簡介
 
-Adobe Developer Console中的所有開發工作都是作為專案的一部分完成。 專案可包含一或多個產品，以及API、事件、執行階段和外掛程式的組合。 如需Adobe Developer主控台中專案的詳細資訊，請造訪[專案](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}。
+Adobe Developer Console中的所有開發工作都會作為專案的一部分執行。 專案可包含一或多個產品，以及API、事件、執行階段和外掛程式的組合。 如需Adobe Developer主控台中專案的詳細資訊，請造訪[專案](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}。
 
 如需在API Mesh內容中使用專案和工作區的詳細資訊，請參閱[修改專案和工作區](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}。
 
