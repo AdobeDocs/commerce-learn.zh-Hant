@@ -49,5 +49,5 @@ Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現�
 
 ## 其他資源
 
-[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
 
