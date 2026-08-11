@@ -11,15 +11,12 @@ role: Developer
 level: Beginner
 exl-id: 4a2c210d-4df1-4601-95a8-19b3efed5ac0
 TQID: https://experienceleague.adobe.com/AHgUyT9nm4XOEacWvA7WVLYp6aus3IZNpDTfkxHd8Xw
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: c73744d503de5023e5c001d0534200522db55b04
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-08-11T19:13:42.718Z'
+source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
 workflow-type: tm+mt
 source-wordcount: 188
 ht-degree: 0%
@@ -42,10 +39,10 @@ ht-degree: 0%
 * 內建測試工具：包含預先設定的GraphQL伺服器(Yoga)和自動伺服器重新啟動，以實現順暢開發。
 * 實務學習：直接在瀏覽器中複製入門套件、設定端點，以及測試API回應。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464028?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## 相關檔案
 
 * [API網狀入門套件GitHub存放庫](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer檔案graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh影片播放清單](https://experienceleague.adobe.com/zh-hant/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh影片播放清單](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
