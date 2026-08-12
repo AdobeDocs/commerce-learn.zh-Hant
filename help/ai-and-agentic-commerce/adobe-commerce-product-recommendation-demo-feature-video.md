@@ -3,16 +3,14 @@ title: Adobe Commerce產品建議示範 — 功能影片
 description: 瞭解如何將Adobe Sensei產品建議新增至Adobe Commerce產品詳細資料頁面，包括價格範圍和無存貨排除規則。
 feature: Recommendations
 topic: Commerce
-role:
-  - Admin
-  - User
+role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
 last-substantial-update: 2026-08-11T00:00:00Z
 nudge-edit: 2026-08-12T00:00:00Z
 jira: KT-20981
-source-git-commit: 8312ab50a3e31461d2ae676d9e5fb9c911741d74
+source-git-commit: 1d321567c30b4f7f6df5dbab1b71260f2a291a63
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
