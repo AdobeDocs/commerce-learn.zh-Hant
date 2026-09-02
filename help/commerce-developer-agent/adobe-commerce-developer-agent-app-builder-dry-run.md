@@ -112,7 +112,7 @@ Instead, manually return an exception operation response whose body includes typ
 > * 擷取需求的藍圖(v1)隨即建立。
 > * 會建立任務以引導實施。
 
-在聊天方塊中輸入詳細資訊，或按一下聊天方塊上方的Pills之一，以精進藍圖（*挑戰假設*、*尋找設計差距*&#x200B;等）。 在您滿意後，請按一下[核准計畫] ****&#x200B;以繼續進行。
+在聊天方塊中輸入詳細資訊，或按一下聊天方塊上方的Pills之一，以精進藍圖（*挑戰假設*、*尋找設計差距*&#x200B;等）。 在您滿意後，請按一下[核准計畫] **&#x200B;**&#x200B;以繼續進行。
 
 ### 開發階段
 
@@ -157,15 +157,15 @@ Instead, manually return an exception operation response whose body includes typ
 >
 > 連線到現有的App Builder專案後，展開&#x200B;**進階設定**&#x200B;並貼上工作區JSON，然後按一下&#x200B;**重新檢查狀態**&#x200B;以確認已安裝所有必要的API。
 
-按一下[下一步]****&#x200B;繼續。
+按一下[下一步]&#x200B;**&#x200B;**&#x200B;繼續。
 
 **連線到Commerce**
 
-從清單中選取您的ACCS執行個體，或在&#x200B;**Commerce REST基底URL**&#x200B;欄位中輸入URL，然後按一下&#x200B;**連線Commerce執行個體**。 按一下[下一步]****&#x200B;繼續。
+從清單中選取您的ACCS執行個體，或在&#x200B;**Commerce REST基底URL**&#x200B;欄位中輸入URL，然後按一下&#x200B;**連線Commerce執行個體**。 按一下[下一步]&#x200B;**&#x200B;**&#x200B;繼續。
 
 **連線到GitHub**
 
-輸入存放庫URL並使用GitHub應用程式或個人存取權杖，將工作區連線至GitHub存放庫。 按一下[下一步]****&#x200B;繼續。
+輸入存放庫URL並使用GitHub應用程式或個人存取權杖，將工作區連線至GitHub存放庫。 按一下[下一步]&#x200B;**&#x200B;**&#x200B;繼續。
 
 **設定環境變數**
 
@@ -195,7 +195,7 @@ Instead, manually return an exception operation response whose body includes typ
 1. 導覽至您的ACCS執行個體管理員URL並登入。
 1. 在左側功能表上選取&#x200B;**應用程式**，然後選取&#x200B;**應用程式管理**。
 1. 按一下&#x200B;**+關聯應用程式** （右上方）。
-1. 選取CDA部署到的專案和Workspace，然後按一下[關聯]。****
+1. 選取CDA部署到的專案和Workspace，然後按一下[關聯]。**&#x200B;**
 
 >[!NOTE]
 >
@@ -388,7 +388,7 @@ Do not use custom IMS credential normalization or `Core.AuthClient.generateAcces
 
 **下載代碼**
 
-若要繼續縮小或編輯您最喜愛的IDE，請按一下「開發階段總管」工具列上的「下載」圖示來下載CDA產生的程式碼。 選取目的地資料夾，按一下[儲存] ****，然後解壓縮工作區封裝。
+若要繼續縮小或編輯您最喜愛的IDE，請按一下「開發階段總管」工具列上的「下載」圖示來下載CDA產生的程式碼。 選取目的地資料夾，按一下[儲存] **&#x200B;**，然後解壓縮工作區封裝。
 
 >[!NOTE]
 >
