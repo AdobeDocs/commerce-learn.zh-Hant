@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: ac5024c37b1cee5aa090ea8163c3fd7758b811a5
+source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '999'
 ht-degree: 3%
 
 ---
@@ -104,8 +104,17 @@ ht-degree: 3%
     + [重試機制](../back-office-integrations/retry-mechanism.md)
 
 + 擴充性 {#extensibility}
+  + Commerce Developer Agent {#commerce-developer-agent}
+    + [概觀](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
+    + [藍圖並開發階段](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
+    + [連線整合](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
+    + [部署、關聯、安裝](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
+    + [設定和測試](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
+    + [移轉現有程式碼](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
+    + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
+    + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -295,4 +304,4 @@ ht-degree: 3%
   + [篩選器集](../business-intelligence/filter-sets.md)
   + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-  + [未來的準備](../business-intelligence/prepare-for-future.md)
+  + 未來的[準備](../business-intelligence/prepare-for-future.md)
