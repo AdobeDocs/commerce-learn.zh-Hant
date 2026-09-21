@@ -48,7 +48,7 @@ ht-degree: 0%
 ---
 # 存貨狀態會檢查開發及效能的考量事項
 
-庫存的準確性是一個重要的考量。 有些原生功能可協助確保此風險儘可能低，例如延期交貨訂單和設定缺貨臨界值。 這兩個主題都可以在[Adobe Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders)上閱讀，以取得進一步說明。
+庫存的準確性是一個重要的考量。 有些原生功能可協助確保此風險儘可能低，例如延期交貨訂單和設定缺貨臨界值。 這兩個主題都可以在[Adobe Experience League](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/inventory/configuration/backorders)上閱讀，以取得進一步說明。
 
 有些專案和使用案例會要求Adobe Commerce商店進行即時詳細目錄狀態檢查。 本教學課程提供insight以處理此對話時與開發和效能考量事項。
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 嘗試考慮清查檢查以及它在3種方法中的完成方式。 每一種都有好處和限制。 這些錯誤也會增加複雜性，且需要針對錯誤處理進行更多測試和思考。 請記住，當您決定實作自訂解決方案時，會新增職責和考量事項。 範例包括後援程式、監控、測試和疑難排解，這些都屬於開發團隊。 需要包括的一些實用專案包括新的支援檔案、培訓和監控，以確保開發團隊可以支援整個功能。 副作用是開發團隊擁有該流程，且不再運用核心Adobe Commerce應用程式提供的原生功能。 Adobe支援無法協助進行此等級的自訂。
 
-第一種方法是使用原生功能。 使用原生功能是風險最小的一項，且有許多優點。 採取此方法表示您可以仰賴Adobe Commerce所提供的所有現有檔案和教學課程來使用功能。 存貨管理有許多方面，因此使用應用程式隨附的內容為首要考量。 但在使用案例中，訂單時商務中找到的資料並不準確。 資料如何不同步的範例，是允許直接在Order Management系統中的Adobe Commerce應用程式外部進行銷售。 原因在於，若要確保在Adobe Commerce中呈現準確的詳細目錄層級，需要某種整合功能，才能讓Adobe Commerce資訊儘可能接近精確值。 如果超量銷售不被接受，則新增無存貨臨界值是在零之前停止銷售料號的好方法。 Adobe Commerce的原生同步功能每天最多1次。 此頻率在某些使用案例中已經足夠，但在其他案例中則不夠頻繁。 如需詳細資訊，請閱讀[排定的匯入和匯出](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export)。
+第一種方法是使用原生功能。 使用原生功能是風險最小的一項，且有許多優點。 採取此方法表示您可以仰賴Adobe Commerce所提供的所有現有檔案和教學課程來使用功能。 存貨管理有許多方面，因此使用應用程式隨附的內容為首要考量。 但在使用案例中，訂單時商務中找到的資料並不準確。 資料如何不同步的範例，是允許直接在Order Management系統中的Adobe Commerce應用程式外部進行銷售。 原因在於，若要確保在Adobe Commerce中呈現準確的詳細目錄層級，需要某種整合功能，才能讓Adobe Commerce資訊儘可能接近精確值。 如果超量銷售不被接受，則新增無存貨臨界值是在零之前停止銷售料號的好方法。 Adobe Commerce的原生同步功能每天最多1次。 此頻率在某些使用案例中已經足夠，但在其他案例中則不夠頻繁。 如需詳細資訊，請閱讀[排定的匯入和匯出](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export)。
 
 第二個方法是`near real-time`。 近乎即時仍使用原生功能。 不過，這包括提供整合的一些額外工作，這些整合會經常提供商務內容，以依排程更新其詳細目錄。 例如，每小時。 此選項需要考慮整合的運作方式，但使用「大量api」並擁有一些中介軟體來執行資料轉換並將其推送到商業是一種好方法。 檢視使用Adobe App Builder或類似平台執行大量工作，並以更頻繁的步調推送資訊至Adobe Commerce。
 
