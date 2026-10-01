@@ -67,4 +67,4 @@ ht-degree: 0%
 * 提高客戶參與度和忠誠度
 * 緊密整合與統一的客戶檢視
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433580?captions=chi_hant&learn=on)
