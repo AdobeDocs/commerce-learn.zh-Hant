@@ -4,13 +4,11 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Adobe Commerce影片和教學課程 {#tutorials}
 
@@ -114,7 +112,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [送貨與交貨方式](../site-management/shipping-delivery.md)
   + [管理網格和篩選器](../site-management/admin-grids-and-filters.md)
   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
+  + [瀏覽商店設定和系統功能表](../site-management/store-configuration-and-system-menu.md)
   + Adobe Commerce服務 {#adobe-commerce-services}
     + [設定Commerce服務聯結器](../site-management/configure-adobe-commerce-services-connector.md)
     + [設定付款服務](../site-management/configure-adobe-payment-services.md)
@@ -304,4 +303,4 @@ ht-degree: 3%
   + [篩選器集](../business-intelligence/filter-sets.md)
   + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-  + [未來的準備](../business-intelligence/prepare-for-future.md)
+  + 未來的[準備](../business-intelligence/prepare-for-future.md)
