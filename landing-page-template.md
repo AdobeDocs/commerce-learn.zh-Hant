@@ -5,29 +5,27 @@ description: 指南說明
 seo-description: seo-description
 source-git-commit: 505de9cb6be2624984b0d6adf3ec28960d07978c
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '128'
 ht-degree: 0%
-
 ---
-
 
 # 概觀 {#overview}
 
-本使用手冊主要介紹的產品1-2句概觀。 本使用手冊包含了許多功能的相關影片和教學課程 *xyz*.
+本使用手冊主要介紹的產品1-2句概觀。 本使用手冊包含了&#x200B;*xyz*&#x200B;許多功能的相關影片和教學課程。
 
 ## 新增功能
 
 * **[新功能影片（影片）](README.md)**
   <br>
-  *瞭解這項嶄新功能。*
+  *瞭解這個酷炫的新功能。*
 
 * **[新功能影片（影片）](README.md)**
   <br>
-  *瞭解這項嶄新功能。*
+  *瞭解這個酷炫的新功能。*
 
-* **[新文章（文章）](README.md)**
+* **[篇新文章（文章）](README.md)**
   <br>
-  *按一下這裡以深入瞭解功能xyz！*
+  *按一下這裡以深入瞭解xyz功能！*
 
 ## 員工精選
 
