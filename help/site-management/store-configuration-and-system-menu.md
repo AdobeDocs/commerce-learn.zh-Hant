@@ -35,7 +35,7 @@ ht-degree: 0%
 * 在預設檢視和儲存的檢視之間切換，並更新現有的檢視。
 * 瀏覽至商店設定，並探索一般、目錄、安全性、客戶和銷售設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473182?captions=chi_hant&learn=on)
 
 ## 儲存的格點檢視
 
