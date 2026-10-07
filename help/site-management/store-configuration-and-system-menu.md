@@ -49,6 +49,6 @@ ht-degree: 0%
 
 * [管理格線篩選器](admin-grids-and-filters.md)
 * [使用命令列檢視及設定管理員設定](view-update-store-configuration-cli.md)
-* [管理工具和工作區](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [管理方格控制項](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [網站、存放區和檢視範圍](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [管理工具和工作區](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [管理方格控制項](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [網站、存放區和檢視範圍](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/setup/websites-stores-views)
