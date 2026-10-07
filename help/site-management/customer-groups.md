@@ -52,7 +52,7 @@ Adobe Commerce中的客戶群組可讓您提供目標促銷和產品定價、指
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473337?captions=chi_hant&learn=on)
 
 ## 其他資源
 
