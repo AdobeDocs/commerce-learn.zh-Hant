@@ -56,4 +56,4 @@ Adobe Commerce中的客戶群組可讓您提供目標促銷和產品定價、指
 
 ## 其他資源
 
-* [客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)
+* [客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/customers/customer-groups)
