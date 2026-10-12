@@ -11,9 +11,30 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
 duration: 427
-last-substantial-update: 2026-10-07
+last-substantial-update: 2026-10-07T00:00:00.000Z
 jira: KT-19031
-source-git-commit: b9d69fca89562a9b0e040ad425ac70342ef2c5d5
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -35,7 +56,7 @@ ht-degree: 0%
 * 在預設檢視和儲存的檢視之間切換，並更新現有的檢視。
 * 瀏覽至商店設定，並探索一般、目錄、安全性、客戶和銷售設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473182?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## 儲存的格點檢視
 
@@ -49,6 +70,6 @@ ht-degree: 0%
 
 * [管理格線篩選器](admin-grids-and-filters.md)
 * [使用命令列檢視及設定管理員設定](view-update-store-configuration-cli.md)
-* [管理工具和工作區](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [管理方格控制項](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [網站、存放區和檢視範圍](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/setup/websites-stores-views)
+* [管理工具和工作區](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [管理方格控制項](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [網站、存放區和檢視範圍](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)

@@ -10,25 +10,42 @@ duration: 430
 last-substantial-update: 2024-12-16T00:00:00.000Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-TQID: https://experienceleague.adobe.com/Scjl9nt8Oai2tM3y2eTEbxUYWACzoJgAY9U2-bBK4rY
+TQID: 'https://experienceleague.adobe.com/Scjl9nt8Oai2tM3y2eTEbxUYWACzoJgAY9U2-bBK4rY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d394484608d6ee530932387938e04030ed3b590e
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 287
+source-wordcount: '287'
 ht-degree: 0%
-
 ---
-
 # 對購物車專案使用產品屬性
 
 瞭解如何自訂和擴充Adobe Commerce購物車。 在此示範中，有三個更新。  此示範會先顯示延期交貨產品的交貨時間表、顯示可退貨及最終銷售通知，並套用25%的折扣（小計為$75或以上）。 運用產品屬性和插槽，將這些功能新增到購物車可改善整體使用者體驗。
@@ -50,9 +67,9 @@ ht-degree: 0%
 * 使用購物車規則和頁尾位置顯示的優惠券折扣，以有效顯示此資訊。
 * 使用產品屬性和插槽來擴充及自訂購物車功能，確保符合所有專案需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441127?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 其他檔案
 
-* [將產品線新增至購物車](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=zh-Hant)
+* [將產品線新增至購物車](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

@@ -10,26 +10,33 @@ duration: 624
 last-substantial-update: 2025-04-07T00:00:00.000Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-TQID: https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c
+TQID: 'https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: '1127'
 ht-degree: 0%
-
 ---
-
 # 偵測不同環境的IP位址
 
 瞭解如何在Adobe Commerce Cloud專案中偵測不同環境的IP位址。 透過使用一系列命令，包括Adobe Commerce CLI、sed、xargs、dig、grep和sort -u，使用者可以識別用於開發、測試和生產環境的IP位址。
@@ -63,7 +70,7 @@ magento-cloud CLI工具旨在協助開發人員和系統管理員有效管理Ado
 
 在範常式式碼的這個初始區段中，`magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`它正在要求環境的URL。 傳回的值看起來像這樣`http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`。 偶爾會看起來更像此`http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`。  第一個指令相當簡單，現在可以移至下一個指令。
 
-如需詳細資訊，請閱讀[雲端CLI概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+如需詳細資訊，請閱讀[雲端CLI概觀](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## 使用`sed`進行搜尋和取代
 
@@ -133,4 +140,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 相關檔案
 
-* [地區IP位址](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [地區IP位址](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

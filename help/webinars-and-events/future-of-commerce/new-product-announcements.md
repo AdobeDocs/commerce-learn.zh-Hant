@@ -10,22 +10,29 @@ duration: 838
 last-substantial-update: 2025-05-15T00:00:00.000Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-TQID: https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8
+TQID: 'https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 227
+source-wordcount: '227'
 ht-degree: 0%
-
 ---
-
 # 新產品公告
 
 在四部分網路研討會系列的第一部，Adobe Commerce推出了兩項突破性產品，旨在轉變數位零售業。 Adobe Commerce as a Cloud Service是可擴充的SaaS解決方案，提供順暢的更新及整合式AI支援工具。  Adobe Commerce Optimizer可匯入最新的客戶體驗，而不需要完整的平台移轉。 這些創新旨在降低營運成本、提高轉換率，並加速市場擴張，讓企業能夠透過靈活、漸進的採用路徑，按照自己的速度發展。

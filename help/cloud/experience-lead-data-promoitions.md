@@ -10,34 +10,56 @@ duration: 1345
 last-substantial-update: 2024-09-09T00:00:00.000Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-TQID: https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc
+TQID: 'https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 19d9b313-1a3c-5bed-9da7-4364f71c3a28
+    internal-label: Promotions/Events
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
 subfeature_v2:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
+    internal-label: Categories
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
+  - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
+    internal-label: Search
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 489
+source-wordcount: '489'
 ht-degree: 0%
-
 ---
-
 # 體驗銷售機會資料和促銷活動  
 
 瞭解Adobe Commerce的進階搜尋功能（由Adobe AI提供技術支援）及其強大的目錄管理功能。 瞭解AI驅動搜尋最佳化、多面向和銷售工具增強使用者體驗的部分重點內容。 此外&#x200B;，您還可以瞭解產品捆綁、促銷活動管理，以及與第三方系統的無縫整合，針對B2B和B2C電子商務需求提供全面的解決方案。
@@ -59,7 +81,7 @@ ht-degree: 0%
 * 進階整合與自訂。
 * 增強的購物體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434075?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## 即時搜尋
 
@@ -71,7 +93,7 @@ ht-degree: 0%
 * 可自訂的搜尋體驗：進階搜尋規則、同義字和Facet等功能，可為客戶提供量身打造和最佳化的搜尋體驗。
 * B2B整合： Live Search支援具有共用目錄和特定定價的B2B模型，加強其多功能性，以因應各種業務需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434053?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## 促銷活動  
 
@@ -83,5 +105,5 @@ Adobe Commerce可讓商店管理員輕鬆地建立和管理產品套件和促銷
 * 進階促銷策略。
 * 與協力廠商系統緊密整合，提升彈性和自動化程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434064?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

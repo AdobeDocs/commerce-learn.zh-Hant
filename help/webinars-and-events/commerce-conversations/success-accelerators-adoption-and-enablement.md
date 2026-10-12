@@ -10,23 +10,34 @@ duration: 130
 last-substantial-update: 2025-04-16T00:00:00.000Z
 jira: KT-17808
 exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
-TQID: https://experienceleague.adobe.com/Mjy1W-NPjazJUYLSHUvS040K6Co-sG1aqvDTWCeCdoE
+TQID: 'https://experienceleague.adobe.com/Mjy1W-NPjazJUYLSHUvS040K6Co-sG1aqvDTWCeCdoE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 0%
-
 ---
-
 # 採用及啟用成功加速器
 
 Adobe Commerce成功加速計畫採用和啟用包含三個關鍵服務：使用案例和KPI開發、案頭端指導，以及工具和功能控管策略。 這些服務為制定策略計畫和藍圖、多工作階段啟用以縮小技能差距，以及治理策略提供指引，以確保正確採用產品。 我們的目標透過最佳實務和焦點支援，提升Adobe Commerce產品的使用量和成效。
@@ -44,4 +55,4 @@ Adobe Commerce成功加速計畫採用和啟用包含三個關鍵服務：使用
 * 多工作階段桌邊輔導，以縮小技能差距，並符合策略優先順序。
 * 建立存取權、許可權和設計控管，以確保適當的產品採用和最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463089?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457657?learn=on)

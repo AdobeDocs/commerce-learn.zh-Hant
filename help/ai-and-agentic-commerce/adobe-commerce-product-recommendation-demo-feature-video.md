@@ -7,16 +7,29 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
-last-substantial-update: 2026-08-11T00:00:00Z
-nudge-edit: 2026-08-12T00:00:00Z
+last-substantial-update: 2026-08-11T00:00:00.000Z
+nudge-edit:
+  - 2026-08-12T00:00:00.000Z
 jira: KT-20981
-source-git-commit: 1d321567c30b4f7f6df5dbab1b71260f2a291a63
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dec06508-d41f-555a-87e8-29e8bcdfa95a
+    internal-label: Recommendations
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce產品建議示範 — 功能影片
 
 Adobe Commerce可讓使用者在任何店面頁面中新增以Adobe Sensei為基礎的產品推薦。 此示範說明如何在產品詳細資料頁面(PDP)上設定「類似專案」建議，包括位置、計數、庫存或價格規則。

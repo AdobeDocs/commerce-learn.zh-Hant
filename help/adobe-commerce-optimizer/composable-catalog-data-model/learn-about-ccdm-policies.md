@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 349
-last-substantial-update: 2026-05-21T00:00:00Z
+last-substantial-update: 2026-05-21T00:00:00.000Z
 jira: KT-21258
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
-
 ---
-
 # Adobe可撰寫目錄資料模型中的原則
 
 如果&#x200B;**目錄檢視**&#x200B;是塑造購物者從統一基礎目錄中所看到內容的鏡頭，則&#x200B;**政策**&#x200B;是該鏡頭的組成部分。 此教學課程說明原則是什麼、**STATIC**&#x200B;和&#x200B;**TRIGGER**&#x200B;原則如何在&#x200B;**Carvelo Automous**&#x200B;示範案例中搭配運作，以及為何更新原則會立即生效，而不需重新建立目錄。
@@ -32,7 +44,7 @@ ht-degree: 0%
 * 由API要求標頭啟用的觸發原則（例如`AC-Policy-Brand`）
 * 在不重建目錄的情況下更新日常作業中的原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3491435?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 **原則**&#x200B;是&#x200B;**資料存取篩選器**。 它會檢查產品屬性並套用規則，以決定目錄檢視可公開哪些產品。 原則位於共用可撰寫目錄的頂端，不會複製目錄資料。
 
@@ -79,7 +91,7 @@ ht-degree: 0%
 
 * [可撰寫目錄資料模型存在的原因](./why-ccdm-exists.md)
 * [瞭解目錄檢視](./learn-about-the-ccdm-feature-catalog-views.md)
-* [銷售服務的目錄檢視](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [銷售服務的目錄檢視](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [開始使用Merchandising API](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 
