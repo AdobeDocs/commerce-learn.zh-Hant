@@ -3,29 +3,37 @@ title: 使用重試機制的原生功能
 description: 瞭解如何使用Adobe I/O Events的重試機制來建立復原性應用程式，包括重試條件、後退策略和視覺指示器。
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31
+last-substantial-update: 2024-07-31T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
+TQID: 'https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 382
+source-wordcount: '382'
 ht-degree: 0%
-
 ---
-
 # 使用Adobe I/O Events重試機制以增強應用程式彈性
 
 影片概述運用Adobe I/O Events內建重試機制以加強應用程式復原能力的全面指南。 瞭解特定HTTP回應狀態程式碼如何觸發事件重試。 Adobe I/O Events採用指數和固定的重試後退策略，間隔從1分鐘增加到15分鐘。 本檔案也詳細說明重試指標如何出現在開發人員控制檯中，提供警告圖示等視覺提示和分別表示失敗和重試事件的圓形箭頭。

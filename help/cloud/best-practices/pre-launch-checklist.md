@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Cloud pre-launch checklist
-description: Learn about the Adobe Commerce Cloud pre-launch checklist and how to work through it with your integrator before go-live.
+title: Adobe Commerce Cloud啟動前檢查清單
+description: 瞭解Adobe Commerce Cloud啟動前的檢查清單，以及如何在上線前與您的整合商一起使用檢查清單。
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Admin, Developer, User
@@ -10,46 +10,63 @@ duration: 451
 last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
+TQID: 'https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 subfeature_v2:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2365
+source-wordcount: '2365'
 ht-degree: 0%
-
 ---
-
 # 啟動前檢查清單
 
-This page summarizes the Adobe Commerce [Site launch documentation](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}.
+此頁面摘要Adobe Commerce [網站啟動檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}。
 
-This checklist aims to assist in planning and executing a successful launch of the Adobe Commerce Cloud site. Collaborate with your system integrator for Adobe Commerce Cloud to ensure that all configuration tasks and checklist items are completed and verified. If you encounter difficulties with any checklist items or have questions, please reach out to the designated Customer Technical Advisor or Customer Success Engineer. If your account does not have an assigned CTA/CSE, you may create a support ticket for assistance.
+此檢查清單旨在協助規劃及執行Adobe Commerce Cloud網站的成功啟動。 與您的Adobe Commerce Cloud系統整合商合作，確保所有設定任務和檢查清單專案都完成並驗證。 如果您遇到任何檢查清單專案困難或有疑問，請聯絡指定的客戶技術顧問或客戶成功工程師。 如果您的帳戶未獲指派CTA/CSE，您可以建立支援票證以尋求協助。
 
-If you have a CTA/CSE assigned to the account, contact them and the Account Manager at least 4 weeks prior to launching the new Adobe Commerce Cloud site to notify them of your **intention** to launch.
+如果您的CTA/CSE已指派給帳戶，請在啟動新的Adobe Commerce Cloud網站至少4週前聯絡他們和客戶經理，以通知他們您的&#x200B;**意圖**&#x200B;啟動。
 
-* Some checks are highlighted with [!BADGE Blocker]{type=caution tooltip="潛在的阻斷因素"} as they may potentially block your go-live if not carefully reviewed.
-* Collaborate with your developer or system integration partner so your implementation approach stays aligned.
+* 有些檢查會以[!BADGE 封鎖程式]{type=caution tooltip="潛在的阻斷因素"}標示出來，因為如果不仔細檢閱，可能會封鎖您的上線。
+* 與開發人員或系統整合合作夥伴共同作業，讓您的實作方法保持一致。
 
 >[!IMPORTANT]
-> You accept [responsibility](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"} for any adverse effects and associated risks to the production launch schedule and ongoing site stability, if you fail to use and complete this checklist.
+> 如果您未使用並完成此檢查清單，您接受[責任](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}對於生產啟動排程和持續性網站穩定性的任何不利影響和相關風險。
 
 ## &#x200B;1. 上線前
 
@@ -76,7 +93,7 @@ If you have a CTA/CSE assigned to the account, contact them and the Account Mana
 2. 在PWA/Headless網站上使用GET方法進行GraphQL查詢（如適用）。
 
    >[!NOTE]
-   > 只有使用HTTP GET操作提交的查詢才能進行快取（如果適用）。 無法快取[POST查詢](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}。
+   > 只有使用HTTP GET作業提交的查詢才能快取（如果適用）。 無法快取[POST查詢](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}。
 
 3. 確定已啟用Fastly影像最佳化（[請參閱Fastly影像最佳化](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization){target="_blank"}）
 4. 確認已設定正確的遮蔽位置（[設定快取、後端和來源遮蔽](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}）。
@@ -183,12 +200,12 @@ Adobe Commerce Cloud採用MariaDB Galera叢集作為中繼和生產環境的資�
 
 1. 存取您的DNS服務，並更新每個網域和主機名稱的A和CNAME記錄：
    1. 新增&#x200B;_&lt;&lt;www.yourdomain.com>>_&#x200B;的CNAME記錄，指向&#x200B;**prod.magentocloud.map.fastly.net**
-   2. 為&#x200B;_設定四條A記錄&lt;&lt;yourdomain.com>>_，指向：\
+   2. 為&#x200B;_&lt;&lt;yourdomain.com>>_&#x200B;設定四條A記錄，指向：\
       151.101.1.124\
       151.101.65.124\
       151.101.129.124\
       151.101.193.124
-2. 將Adobe Commerce基底URL變更為&#x200B;_&lt;&lt;www.yourdomain.com>_
+2. 將Adobe Commerce基底URL變更為&#x200B;_&lt;&lt;www.yourdomain.com>>_
 3. 請等候TTL時間過去，然後重新啟動網頁瀏覽器。
 4. 測試網站。
 

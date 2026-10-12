@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Live Search]簡介'
-description: 瞭解如何將 [!DNL Live Search] 新增至您的商店，並提供極為引人入勝、相關且個人化的購物體驗。
+title: '[!DNL Live Search]簡介'
+description: 瞭解如何將[!DNL Live Search]新增至您的商店，並提供極為引人入勝、相關且個人化的購物體驗。
 doc-type: feature video
 duration: 543
 audience: all
@@ -11,30 +11,46 @@ role: Admin, User
 level: Beginner, Intermediate
 jira: KT-17151
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-TQID: https://experienceleague.adobe.com/8K6Me5lrkjrpMauL4aKPp-YzVZzVCHbLeMXDpBTLtys
+TQID: 'https://experienceleague.adobe.com/8K6Me5lrkjrpMauL4aKPp-YzVZzVCHbLeMXDpBTLtys'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
+    internal-label: Search
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 114
+source-wordcount: '115'
 ht-degree: 0%
-
 ---
-
 # [!DNL Live Search]簡介
 
 這是Adobe Commerce對[!DNL Live Search]的簡短介紹。 由Adobe AI支援的[!DNL Live Search]使用人工智慧和機器學習演演算法，對彙總的訪客資料執行深入分析。

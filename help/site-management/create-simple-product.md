@@ -1,6 +1,6 @@
 ---
-title: Create a simple product
-description: Learn how to create a simple product using the REST API and the Commerce Admin.
+title: 建立簡單產品
+description: 瞭解如何使用REST API和Commerce管理員建立簡單的產品。
 kt: 14446
 doc-type: video
 duration: 197
@@ -12,38 +12,54 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
-TQID: https://experienceleague.adobe.com/LaJ36-CuEiOAzS4VzeONwI6HCfdOFExwuKusXFmqzns
+TQID: 'https://experienceleague.adobe.com/LaJ36-CuEiOAzS4VzeONwI6HCfdOFExwuKusXFmqzns'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: '106'
 ht-degree: 0%
-
 ---
+# 建立簡單產品
 
-# Create a simple product
-
-Learn how to create a simple product using the REST API and the Adobe Commerce Admin.
+瞭解如何使用REST API和Adobe Commerce管理員建立簡單的產品。
 
 ## 這部影片是給誰看的？
 
 * 網站管理員
 * 電子商務銷售商
-* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API.
+* 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立產品。
 
 ## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443913?captions=chi_hant&learn=on)
 
-## Create a product using curl
+## 使用curl建立產品
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -61,7 +77,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Get a product using curl
+## 使用curl取得產品
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
@@ -71,5 +87,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## 其他資源
 
-* [Adobe Developer REST tutorials](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

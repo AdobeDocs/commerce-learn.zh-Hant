@@ -4,37 +4,50 @@ description: 使用獨立的套件GRA最佳化Adobe Commerce。 瞭解彈性的�
 jira: KT-16727
 doc-type: Tutorial
 duration: 340
-last-substantial-update: 2025-01-06
+last-substantial-update: 2025-01-06T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="由Adobe資深技術架構師Tony Evers撰寫" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="托尼·埃弗斯撰寫"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+TQID: 'https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2099
+source-wordcount: '2099'
 ht-degree: 0%
-
 ---
-
 # 獨立套件全域參考架構模式
 
 {{only-for-on-prem-commerce-cloud}}
@@ -219,7 +232,8 @@ composer install --prefer-source
 
 ## 版本設定
 
-個別套件GRA中的版本設定是Git中標籤模組的同義詞。 Git標籤會建立Composer所安裝的套件編號版本。正確的版本設定方法可讓您的套件自動流動，同時保持安全。
+個別套件GRA中的版本設定是Git中標籤模組的同義詞。 Git標籤會建立Composer所安裝的套件編號版本。
+正確的版本設定方法可讓您的套件自動流動，同時保持安全。
 
 兩個範例：
 
@@ -255,7 +269,8 @@ composer install --prefer-source
 
 一旦您發行提及的任何套件的新版本，它就會自動隨Composer更新安裝。
 
-套用語意版本設定。 您可以在<https://semver.org/>學習有關語意版本設定的一切。 特別建議閱讀常見問題集。 透過語意版本設定，「1.0.0」中的數字稱為MAJOR.MINOR.PATCH。 封裝的次要和修補程式發行版本可安全引進，而不會中斷應用程式。您可以自動包含修補程式，並手動選擇次要升級。 請注意，若要這麼做，請手動挑選每項次要變更，以節省額外的負荷：
+套用語意版本設定。 您可以在<https://semver.org/>學習有關語意版本設定的一切。 特別建議閱讀常見問題集。 透過語意版本設定，「1.0.0」中的數字稱為MAJOR.MINOR.PATCH。 封裝的次要和修補程式發行版本可安全引進，而不會中斷應用程式。
+您可以自動包含修補程式，並手動選擇次要升級。 請注意，若要這麼做，請手動挑選每項次要變更，以節省額外的負荷：
 
 ```json
 {
@@ -287,7 +302,8 @@ composer install --prefer-source
 
 **QA/Dev分支**：類似於發行分支。
 
-**主要分支**：存在於每個存放庫中，且永遠是代表生產或生產就緒狀態的分支。 主要分支是您標籤發行版本程式碼的位置。請務必選擇維護開銷很少的分支策略。 例如，在Hotfix版本之後將主要分支合併回QA、UAT、Release或Dev分支，是一項經常性維護任務。 套裝程式越多，儲存區域就越多，重複性的管理費用任務也越多。
+**主要分支**：存在於每個存放庫中，且永遠是代表生產或生產就緒狀態的分支。 主要分支是您標籤發行版本程式碼的位置。
+請務必選擇維護開銷很少的分支策略。 例如，在Hotfix版本之後將主要分支合併回QA、UAT、Release或Dev分支，是一項經常性維護任務。 套裝程式越多，儲存區域就越多，重複性的管理費用任務也越多。
 
 使用mixu/gr之類的工具，在批次中的多個Git存放庫上執行例行作業： <https://github.com/mixu/gr>
 

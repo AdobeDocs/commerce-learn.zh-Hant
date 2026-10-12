@@ -1,6 +1,6 @@
 ---
-title: Create a configurable product
-description: Learn how to create a configurable product using the REST API and the Commerce Admin.
+title: 建立可設定的產品
+description: 瞭解如何使用REST API和Commerce管理員建立可設定的產品。
 kt: 14586
 doc-type: video
 duration: 1760
@@ -12,46 +12,63 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-TQID: https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8
+TQID: 'https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 994
+source-wordcount: '998'
 ht-degree: 0%
-
 ---
+# 建立可設定的產品
 
-# Create a configurable product
+可設定的產品是多個簡單產品的父產品。 定義可設定的產品，要求採購員做出一或多個選擇來選取特定的產品變異。 例如，如果產品是襯衫，購買者必須選擇大小和顏色選項來選取襯衫。
 
-A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a specific product variation. For example, if the product is a shirt, the buyer must choose the size and color options to select the shirt.
+雖然可設定的產品使用較多SKU，且一開始可能需要較長時間進行設定，但最終可為您節省時間。 如果您計畫拓展業務，可設定的產品型別對於具有多種選項的產品來說是個不錯的選擇。
 
-Although a configurable product uses more SKUs and may initially take a little longer to set up, it can save you time in the end. If you plan to grow your business, the configurable product type is a good choice for products with multiple options.
+建立可設定產品之前，請先確認可設定產品中可包含的所有簡單產品在Adobe Commerce中皆可使用。 建立任何不存在的專案。
 
-Before creating a configurable product, verify that all the simple products to include in the configurable product are available in Adobe Commerce. Create any that do not exist.
+在本教學課程中，瞭解如何使用REST API和Adobe Commerce管理員建立可設定的產品。
 
-In this tutorial, learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
+使用REST API建立可設定的產品：
 
-Use the REST API to create a configurable product:
+1. 取得[屬性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hant)的屬性，以使用後續API呼叫的ID號碼。
+1. 建立簡單產品以用於可設定產品。
+1. 建立空的可設定產品並關聯簡單產品。
+1. 設定可設定產品的產品屬性。
+1. 將簡單產品填入空的可設定產品中。
+1. 取得可設定的產品和所有屬性。
+1. 取得可設定產品的指派子產品。
+1. 刪除簡單產品與可設定產品的關聯。
 
-1. Get the attributes for an [attribute set](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hant) to use the ID numbers for subsequent API calls.
-1. Create simple products for use in the configurable product.
-1. Create an empty configurable product and associate the simple products.
-1. Set the product attributes for the configurable product.
-1. Populate the empty configurable product with simple products.
-1. Get the configurable product and all the attributes.
-1. Get the assigned children products for the configurable product.
-1. Delete the association of simple products to configurable products.
-
-When creating configurable products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool that creates new simple products for use using the wizard.
+從Adobe Commerce管理員建立可設定的產品時，您可以先建立簡單產品，或使用自動化工具建立新的簡單產品，以便使用精靈。
 
 ## 這部影片是給誰看的？
 
@@ -97,7 +114,7 @@ When creating configurable products from the Adobe Commerce Admin, you can eithe
 ```
 
 
-若要擷取屬性ID以設定可設定的產品，請更新下列cURL請求的`attribute-sets/10/attributes`部分，以使用您環境中的屬性集ID取代`10`。 此請求使用GET方法。
+若要擷取屬性ID以設定可設定的產品，請更新下列cURL請求的`attribute-sets/10/attributes`部分，以使用您環境中的屬性集ID取代`10`。 此要求使用GET方法。
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -339,7 +356,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## 取得與可設定產品相關聯的子產品
 
-透過傳送以下GET請求，僅傳回與可設定產品關聯的子項。 回應將包含子產品的所有屬性，包括SKU和價格。
+傳送下列GET要求，僅傳回與可設定產品關聯的子項。 回應將包含子產品的所有屬性，包括SKU和價格。
 
 以下專案使用GET方法
 
