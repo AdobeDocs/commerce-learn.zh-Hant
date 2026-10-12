@@ -71,7 +71,7 @@ Adobe Commerce提供HIPAA就緒解決方案，旨在協助醫療保健企業遵�
 * 此解決方案包含增強的PHI記錄機制，並提供與內部Adobe產品及外部第三方服務的整合功能。
 * Adobe Commerce提供特殊的準備環境以進行支援和疑難排解，確保敏感資料受到保護，並且環境會密切映象生產環境。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463177?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463188?captions=chi_hant&learn=on)
 
 ## 其他檔案
 
