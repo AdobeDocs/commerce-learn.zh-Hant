@@ -68,4 +68,4 @@ Adobe Commerce的許多問題都可以透過New Relic追蹤。 檢視New Relic�
 
 >[!MORELIKETHIS]
 > 
-> * [Adobe Commerce說明使用手冊](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Adobe Commerce說明使用手冊](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

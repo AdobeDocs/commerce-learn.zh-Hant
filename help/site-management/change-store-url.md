@@ -59,11 +59,11 @@ Adobe Commerce或Magento Open Source安裝中的每個網站都有指派給店�
 
 >[!NOTE]
 >
->影片內容反映2.1.0版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>影片內容反映2.1.0版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## 其他資源
 
-* [存放區URL - [!DNL Commerce] 存放區和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-* [使用自訂管理URL - [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+* [存放區URL - [!DNL Commerce] 存放區和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=zh-Hant)
+* [使用自訂管理URL - [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=zh-Hant#use-a-custom-admin-url)
