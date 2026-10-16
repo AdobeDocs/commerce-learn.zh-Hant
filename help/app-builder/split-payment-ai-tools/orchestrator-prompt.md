@@ -8,14 +8,12 @@ level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
-last-substantial-update: 2026-04-27T00:00:00Z
+last-substantial-update: 2026-04-27
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 0%
-
+source-wordcount: '945'
+ht-degree: 1%
 ---
-
 # 分割付款POC：App Builder orchestrator AI提示
 
 使用此頁面來複製產生&#x200B;**split-payment-orchestrator**&#x200B;專案的完整提示：**payment-orchestrator** I/O事件消費者、**payment-accept**&#x200B;和&#x200B;**payment-decline**&#x200B;網頁動作、**demo-dashboard**&#x200B;以及Commerce REST使用者端。
@@ -217,8 +215,8 @@ Adobe Commerce I/O事件可能會以數個圖形傳送裝載。 透過按順序�
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
 * 從`value.extension_attributes`分割金額（檢查`extension_attributes`和`extensionAttributes`）：
-   * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
-   * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
+  * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
+  * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
 **流量：**
 1. 擷取值；如果缺少`orderId`，則記錄錯誤並傳回`{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`
