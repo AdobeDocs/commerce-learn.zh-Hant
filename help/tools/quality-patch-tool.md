@@ -67,5 +67,5 @@ Adobe Commerce支援團隊和Magento Open Source社群會開發品質修補程�
 
 ## 其他資源
 
-* [品質修補工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [品質修補工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hant)
 * [GitHub上的品質修補工具](https://github.com/magento/quality-patches)
