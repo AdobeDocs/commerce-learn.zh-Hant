@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -73,12 +73,12 @@ Adobe Commerce的[!DNL Live Search]可免費為Adobe Commerce提供快速、超�
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3430760?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?learn=on)
 
 
 ## 其他資源
 
-* [&#x200B; [!DNL Live Search]簡介](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=zh-Hant)
-* [[!DNL Live Search] 概覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=zh-Hant)
-* [Commerce服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hant)
-* [產品Recommendations簡介](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=zh-Hant)
+* [ [!DNL Live Search]簡介](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+* [[!DNL Live Search] 概覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Commerce服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [產品Recommendations簡介](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

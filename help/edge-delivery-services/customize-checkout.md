@@ -39,7 +39,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -62,8 +62,8 @@ ht-degree: 0%
 * 實施多步驟結帳
 * 重複使用現有程式碼和最佳作法
 
->[!VIDEO](https://video.tv.adobe.com/v/3442661?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
 
 ## 其他檔案
 
-* [多步驟結帳](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=zh-Hant)
+* [多步驟結帳](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)

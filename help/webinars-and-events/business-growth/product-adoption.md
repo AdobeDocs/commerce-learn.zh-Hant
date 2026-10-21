@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -63,4 +63,4 @@ Adobe Commerce分階段協助企業移至Adobe Commerce as a Cloud Service和Ado
 * App Builder的擴充功能可將自訂邏輯分離為無伺服器函式，以方便維護。
 * 店面增強功能利用插入式元件和邊緣交付來改善效能和內容建立。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475759?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

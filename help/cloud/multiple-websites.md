@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -58,4 +58,4 @@ Adobe Commerce可讓企業透過單一後端介面管理多個商店、品牌或
 * 本地化和自訂
 * 擴充性與彈性
 
->[!VIDEO](https://video.tv.adobe.com/v/3434038?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

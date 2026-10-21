@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -67,6 +67,6 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [升級相容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hant){target="_blank"}
+* [升級相容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
 * [Magento PhpStorm外掛程式](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hant){target="_blank"}
+* [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

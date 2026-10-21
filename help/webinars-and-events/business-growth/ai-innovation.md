@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -71,4 +71,4 @@ ht-degree: 0%
 * 透過目錄創新加速全球擴張
 * 透過對話式Commerce提升店面體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3475706?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)

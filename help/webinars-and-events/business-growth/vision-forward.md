@@ -62,7 +62,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -85,4 +85,4 @@ Adobe Commerce的2026年藍圖概述了一項全面策略，透過即時資料�
 * 商戶中心與管理員體驗
 * 開發人員體驗與可觀察性改善
 
->[!VIDEO](https://video.tv.adobe.com/v/3475717?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)

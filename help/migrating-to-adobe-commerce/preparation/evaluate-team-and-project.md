@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -69,8 +69,8 @@ ht-degree: 0%
 * 瞭解一些前端和後端考量事項。
 * 透過評估現有模組、升級核心應用程式並與其他Adobe解決方案整合，規劃順暢的移轉。
  
->[!VIDEO](https://video.tv.adobe.com/v/3447457?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## 相關檔案
 
-[什麼是Adobe Commerce](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/about)
+[什麼是Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -55,7 +55,7 @@ ht-degree: 0%
 * 瞭解此Percona Toolkit功能的優點和缺點
 * 瞭解結果並瞭解應考慮哪些可能的效能步驟
 
->[!VIDEO](https://video.tv.adobe.com/v/3452305?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 程式碼參考
 

@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
+badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
 TQID: 'https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -65,5 +65,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [[!DNL Page Builder]範本 —  [!DNL Page Builder] 使用手冊](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=zh-Hant)
+* [[!DNL Page Builder]範本 —  [!DNL Page Builder] 使用手冊](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
 * [新增範本 —  [!DNL Page Builder] 開發人員指南](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

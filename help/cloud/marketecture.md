@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Insights
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -72,4 +72,4 @@ API Mesh和統一事件管理等擴充性工具可簡化開發和整合，而Edg
 * Adobe Commerce提供可撰寫服務，例如即時搜尋、AI推薦和彈性支付解決方案。
 * 進階整合包括API Mesh、統一的事件管理以及緊密整合的Adobe Experience Platform。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433446?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)

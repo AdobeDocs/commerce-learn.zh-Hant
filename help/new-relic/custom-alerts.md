@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -56,4 +56,4 @@ ht-degree: 0%
 * 瞭解如何根據資料彙總來設定警示的臨界值。
 * 使用嚴重性等級設定警示並指派給現有原則，以控制通知工作流程和目的地。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440782?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

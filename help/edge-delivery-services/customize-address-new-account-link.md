@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
@@ -72,8 +72,8 @@ ht-degree: 0%
 * 位址輸入欄位的驗證和錯誤處理，確保使用者會立即收到不正確或不完整專案的回饋，進而改善使用者體驗。
 * 使用者帳戶儀表板的擴充功能，可將新的側邊欄功能表專案新增至使用者帳戶儀表板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442917?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## 其他檔案
 
-* [使用者帳戶](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=zh-Hant)
+* [使用者帳戶](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)

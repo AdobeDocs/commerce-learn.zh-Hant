@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -56,8 +56,8 @@ Adobe Commerce Patching Automation是Adobe Commerce全網站分析工具(SWAT)�
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3476258?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
 
 ## 相關檔案
 
-* [修補自動化檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/tools/caps-tool/intro)
+* [修補自動化檔案](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)

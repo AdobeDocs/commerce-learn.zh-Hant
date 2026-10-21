@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -61,4 +61,4 @@ ht-degree: 0%
 * 瞭解警示通知、原則和工作流程
 * 儲存目的地並驗證新電子郵件已新增至原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3441218?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

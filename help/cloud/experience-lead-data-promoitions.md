@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 0%
@@ -81,7 +81,7 @@ ht-degree: 0%
 * 進階整合與自訂。
 * 增強的購物體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434075?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## 即時搜尋
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 * 可自訂的搜尋體驗：進階搜尋規則、同義字和Facet等功能，可為客戶提供量身打造和最佳化的搜尋體驗。
 * B2B整合： Live Search支援具有共用目錄和特定定價的B2B模型，加強其多功能性，以因應各種業務需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434053?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## 促銷活動  
 
@@ -105,5 +105,5 @@ Adobe Commerce可讓商店管理員輕鬆地建立和管理產品套件和促銷
 * 進階促銷策略。
 * 與協力廠商系統緊密整合，提升彈性和自動化程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434064?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

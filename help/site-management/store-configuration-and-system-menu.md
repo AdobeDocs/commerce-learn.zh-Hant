@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 * 在預設檢視和儲存的檢視之間切換，並更新現有的檢視。
 * 瀏覽至商店設定，並探索一般、目錄、安全性、客戶和銷售設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473182?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## 儲存的格點檢視
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
 * [管理格線篩選器](admin-grids-and-filters.md)
 * [使用命令列檢視及設定管理員設定](view-update-store-configuration-cli.md)
-* [管理工具和工作區](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [管理方格控制項](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [網站、存放區和檢視範圍](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/start/setup/websites-stores-views)
+* [管理工具和工作區](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [管理方格控制項](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [網站、存放區和檢視範圍](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)

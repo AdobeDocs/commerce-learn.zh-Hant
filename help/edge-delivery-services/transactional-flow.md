@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,8 +63,8 @@ ht-degree: 0%
 * A/B測試彈性。 透過SharePoint啟用設定，讓行銷人員能夠控制並測試這些功能。
 * 增強行銷控制。 輕鬆管理和測試設定，改善使用者體驗和行銷效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442362?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 其他檔案
 
-* [設定購物車摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=zh-Hant)
+* [設定購物車摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

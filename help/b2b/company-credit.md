@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # 管理公司評價
 
-已啟用&#x200B;_[!UICONTROL Payment on Account]_&#x200B;且有可用公司信用額度的公司可在帳戶上進行購買，但最多可達到授與的信用額度。 透過此功能，客戶可以從其帳戶儀表板檢查其公司業績的狀態。
+已啟用&#x200B;_[!UICONTROL Payment on Account]_且有可用公司信用額度的公司可在帳戶上進行購買，但最多可達到授與的信用額度。 透過此功能，客戶可以從其帳戶儀表板檢查其公司業績的狀態。
 
 您可以為每個公司設定檔設定下列信用相關引數：
 
@@ -74,5 +74,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [設定分期付款](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [管理公司評價](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/credit-company)
+* [設定分期付款](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [管理公司評價](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

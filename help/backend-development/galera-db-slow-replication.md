@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Galera叢集可提供效能與擴充能力。 在考慮復本資料庫時，請�
 * 大量執行只會發生在主要播放器。 一次複製1次
 * 為協助復寫跟上主要專案的進度，請批次處理大型認可。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423538?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## 有用的資源
 

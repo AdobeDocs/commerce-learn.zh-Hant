@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -62,7 +62,7 @@ ht-degree: 0%
 * 集中可觀察性是關鍵：關聯所有元件的記錄檔和量度。
 * 提升結帳效能：快速找出瓶頸，確保購物順暢。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478299?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
