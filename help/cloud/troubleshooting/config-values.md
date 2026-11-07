@@ -54,7 +54,7 @@ ht-degree: 0%
 * 瞭解如何透過管理面板、程式碼存放庫和環境特定檔案，編輯和覆寫設定值。
 * 探索使用app:config:dump和Adobe Commerce Cloud管理UI等工具，在不同環境中維持一致組態設定的最佳做法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505792?captions=chi_hant&learn=on)
 
 ## 相關Experience League檔案
 
