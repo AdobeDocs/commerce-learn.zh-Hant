@@ -61,7 +61,7 @@ Adobe Commerce或Magento Open Source安裝中的每個網站都有指派給店�
 >
 >影片內容反映2.1.0版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507860?captions=chi_hant&learn=on)
 
 ## 其他資源
 

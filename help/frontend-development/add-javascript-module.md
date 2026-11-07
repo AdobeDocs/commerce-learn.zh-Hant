@@ -66,7 +66,7 @@ ht-degree: 0%
 * 透過版面更新和範本連線指令碼。
 * 驗證頁面上的問候語。
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507652?captions=chi_hant&learn=on)
 
 ## 有用的資源
 

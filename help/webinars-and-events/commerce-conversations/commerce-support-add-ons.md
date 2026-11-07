@@ -54,4 +54,4 @@ Adobe Commerce透過各種計畫和附加元件提供全面的客戶支援。 Ex
 * 瞭解有哪些可用的附加元件。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505282?captions=chi_hant&learn=on)
