@@ -4,7 +4,7 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '1007'
 ht-degree: 3%
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -222,6 +222,14 @@ ht-degree: 3%
     + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
     + [示範設定和設定](../monitoring-analytics-support/observability/demo-setup-configuration.md)
     + [示範](../monitoring-analytics-support/observability/demo.md)
+  + Commerce Intelligence {#commerce-intelligence}
+    + [快速入門](../monitoring-analytics-support/commerce-intelligence/getting-started.md)
+    + [整合與設定](../monitoring-analytics-support/commerce-intelligence/integrations-configurations.md)
+    + [報告和儀表板](../monitoring-analytics-support/commerce-intelligence/reports-and-dashboards.md)
+    + [篩選器集](../monitoring-analytics-support/commerce-intelligence/filter-sets.md)
+    + [同類群組Report Builder](../monitoring-analytics-support/commerce-intelligence/cohort-report-builder.md)
+    + [SQL REPORT BUILDER](../monitoring-analytics-support/commerce-intelligence/sql-report-builder.md)
+    + [為未來做好準備](../monitoring-analytics-support/commerce-intelligence/prepare-for-future.md)
   + 說明與支援 {#help-and-support}
     + [建立支援票證](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
@@ -297,11 +305,3 @@ ht-degree: 3%
     + [尋找惡意IP](../new-relic/malicious-ip.md)
     + [警示通知設定](../new-relic/new-relic-alert-notification-setup.md)
     + [自訂警報](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
-  + [快速入門](../business-intelligence/getting-started.md)
-  + [整合與設定](../business-intelligence/integrations-configurations.md)
-  + [報告和儀表板](../business-intelligence/reports-and-dashboards.md)
-  + [篩選器集](../business-intelligence/filter-sets.md)
-  + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
-  + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-  + [未來的準備](../business-intelligence/prepare-for-future.md)
