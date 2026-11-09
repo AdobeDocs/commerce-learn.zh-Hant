@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '1007'
 ht-degree: 3%
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -210,18 +210,22 @@ ht-degree: 3%
     + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
     + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 
-+ 可觀察性 {#observability}
-  + [可觀察性概觀](../observability/overview.md)
-  + [開啟遙測](../observability/open-telemetry.md)
-  + [示範設定和設定](../observability/demo-setup-configuration.md)
-  + [示範](../observability/demo.md)
 + 全球參考架構 {#global-reference-architecture-implementation-techniques}
   + [概觀](../global-reference-architecture/overview.md)
   + [分割Git](../global-reference-architecture/split-git.md)
   + [大量套件](../global-reference-architecture/bulk-packages.md)
   + [獨立的套件](../global-reference-architecture/separate-packages.md)
   + [Monorepo](../global-reference-architecture/monorepo.md)
-+ [監控、分析和支援](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
++ 監控、分析和支援 {#monitoring-analytics-support}
+  + 可觀察性 {#observability}
+    + [可觀察性概觀](../monitoring-analytics-support/observability/overview.md)
+    + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [示範設定和設定](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [示範](../monitoring-analytics-support/observability/demo.md)
+  + 說明與支援 {#help-and-support}
+    + [建立支援票證](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + 存放區管理 {#admin}
   + [管理使用者角色和許可權](../site-management/users-roles-permissions.md)
@@ -300,4 +304,4 @@ ht-degree: 3%
   + [篩選器集](../business-intelligence/filter-sets.md)
   + [同類群組Report Builder](../business-intelligence/cohort-report-builder.md)
   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-  + [未來的準備](../business-intelligence/prepare-for-future.md)
+  + 未來的[準備](../business-intelligence/prepare-for-future.md)
