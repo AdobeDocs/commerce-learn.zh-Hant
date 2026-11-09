@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 監控、分析和支援 {#monitoring-analytics-support}
 
-+ [Commerce教學課程首頁](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/overview)
++ [Commerce教學課程首頁](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/overview)
 + 說明與支援 {#help-and-support}
   + [建立支援票證](help-and-support/create-a-support-ticket.md)
   + [搜尋、追蹤、評論及提升支援票證](help-and-support/search-track-comment-escalate-support-ticket.md)
