@@ -4,15 +4,39 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1016'
 ht-degree: 3%
 ---
 
 # Adobe Commerce影片和教學課程 {#tutorials}
 
 + [[!DNL Commerce] 教學課程](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+  + [概觀](../commerce-as-a-cloud-service/overview.md)
+  + [架構](../commerce-as-a-cloud-service/architecture.md)
+  + 產品導覽 {#product-overview}
+    + [簡介](../commerce-as-a-cloud-service/product-overview/introduction.md)
+    + [設定體驗](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+    + [內容製作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+    + [本地化及排程內容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+    + [GenAI支援的內容建立](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+    + [目錄管理和銷售服務](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+    + [Commerce店面實驗](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+    + [Commerce店面速度](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+    + [Commerce店面每位購物者歷程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+    + [可組合的店面與模組化架構](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+    + [擴充性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+    + [現代化和移轉](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+    + [正在關閉](../commerce-as-a-cloud-service/product-overview/closing.md)
+  + 大量資料移轉工具 {#bulk-data-migration-tool}
+    + [簡介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+    + [Source認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+    + [資料庫認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+    + [Target認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+    + [單階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+    + [多階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 疑難排解 {#troubleshooting}
     + [無效的SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -44,32 +68,6 @@ ht-degree: 3%
     + [支援要求](../cloud/best-practices/support-request.md)
     + [啟動前檢查清單](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入門 {#getting-started}
-  + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-    + [概觀](../commerce-as-a-cloud-service/overview.md)
-    + [架構](../commerce-as-a-cloud-service/architecture.md)
-    + Webapi-rest{#webapi-rest}
-      + [客戶](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-    + 產品概述{#product-overview}
-      + [介紹](../commerce-as-a-cloud-service/product-overview/introduction.md)
-      + [安裝體驗](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [內容製作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
-      + [本地化及排程內容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
-      + [GenAI支援的內容建立](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-      + [目錄管理和銷售服務](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
-      + [Commerce店面實驗](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-      + [Commerce店面速度](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-      + [商務店面全員購物者歷程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-      + [可組合的店面與模組化架構](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-      + [擴充性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-      + [現代化和移轉](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-      + [正在關閉](../commerce-as-a-cloud-service/product-overview/closing.md)
-    + 大量資料移轉工具{#bulk-data-migration-tool}
-      + [簡介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-      + [Source認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-      + [資料庫認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-      + [Target認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-      + [單階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-      + [多階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + 移轉至Adobe Commerce{#migrating-to-adobe-commerce}
     + [概觀](../migrating-to-adobe-commerce/overview.md)
     + 準備{#preparation}
@@ -101,6 +99,10 @@ ht-degree: 3%
     + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
     + [重試機制](../back-office-integrations/retry-mechanism.md)
 
++ API和整合 {#apis-and-integration}
+  + 實用的REST和GraphQL範例 {#examples}
+    + [擁有REST的客戶](../apis-and-integration/examples/customer.md)
+
 + 擴充性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
     + [概觀](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -112,7 +114,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
