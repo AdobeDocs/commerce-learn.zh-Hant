@@ -44,9 +44,9 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '182'
 ht-degree: 0%
 ---
 # 使用Fastly拒絕整個網站的存取
@@ -63,7 +63,7 @@ ht-degree: 0%
 * Adobe Commerce開發人員
 * 網站可靠性工程師
 
->[!VIDEO](https://video.tv.adobe.com/v/3464790?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
 
 ## 程式碼範例
 
@@ -75,6 +75,6 @@ if ( !(client.ip ~ allowlist) && !req.http.Fastly-FF) { error 403 "Forbidden";}
 
 ## 相關檔案
 
-* [偵測惡意IP位址](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
-* [允許要求的自訂VCL](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
-* [封鎖要求的自訂VCL](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
+* [偵測惡意IP位址](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip)
+* [允許要求的自訂VCL](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
+* [封鎖要求的自訂VCL](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)

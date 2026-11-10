@@ -1,0 +1,64 @@
+---
+title: 尋找及設定New Relic警示通知
+description: 瞭解如何尋找New Relic警示的警示、原則和傳遞機制
+landing-page-description: 瞭解如何尋找New Relic警示的警示、原則和傳遞機制
+short-description: 瞭解如何在New Relic中新增電子郵件地址至現有的警報原則。
+jira: KT-15984
+doc-type: Technical Video
+duration: 162
+audience: all
+last-substantial-update: 2024-08-14T00:00:00.000Z
+feature: Tools and External Services, Communications, Security
+topic: Commerce, Architecture
+old-role: Architect, Developer
+role: Developer
+level: Beginner, Intermediate
+exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
+TQID: 'https://experienceleague.adobe.com/1y4OkSxgIVLr04fSCz-gpq0vCaJR5RCo7ZarOK8wlFo'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: bb03f6c4-cab9-560e-9d02-5816e1808d17
+    internal-label: Communications
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 0%
+---
+# New Relic警報通知設定
+
+瞭解如何在New Relic中尋找警示、原則、工作流程和目標。 觀察者將電子郵件新增至現有原則的簡易程度。
+
+## 這部影片是給誰看的？
+
+* 需要在New Relic中新增電子郵件至現有警報的開發人員和團隊
+
+## 視訊內容 {#video-content}
+
+* 尋找New Relic面板中管理警報的位置
+* 探索支援團隊為Adobe Commerce Cloud專案建立的一些警報
+* 瞭解警示通知、原則和工作流程
+* 儲存目的地並驗證新電子郵件已新增至原則
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

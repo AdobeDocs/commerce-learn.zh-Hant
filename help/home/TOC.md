@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,13 +77,22 @@ ht-degree: 3%
     + 最佳實務 {#commerce-cloud-best-practices}
       + [支援要求](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [啟動前檢查清單](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + 操作工具 {#tools}
+      + [全網站分析工具儀表板](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Cloud Automation修補服務](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Adobe Commerce的觀察結果](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [品質修補工具概述](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [品質修補工具](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [尋找惡意IP](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [警示通知設定](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [自訂警報](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
     + [資料連線](../capabilities/data-connection.md)
     + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
     + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
-    + [品質修補工具](../capabilities/quality-patch-tool.md)
   + 建立產品 {#create-products}
     + [簡單產品](../site-management/create-simple-product.md)
     + [虛擬產品](../site-management/create-virtual-product.md)
@@ -115,7 +124,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [報價明細專案備註](../b2b/quote-line-item-notes.md)
     + [報價明細專案折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
     + [報價單明細專案折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ 工具與外部服務 {#tools}
-  + [全網站分析工具儀表板](../tools/site-wide-analysis-tool.md)
-  + [Cloud Automation修補服務](../tools/cloud-automation-patching-service.md)
-  + [Adobe Commerce的觀察結果](../tools/observation-tool.md)
-  + [品質修補工具](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [尋找惡意IP](../new-relic/malicious-ip.md)
-    + [警示通知設定](../new-relic/new-relic-alert-notification-setup.md)
-    + [自訂警報](../new-relic/custom-alerts.md)
