@@ -111,4 +111,4 @@ ssh連線至正確的專案和環境後，請變更至`var/log`目錄。 然後�
 
 ## 相關檔案
 
-* [健康狀態通知](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [健康狀態通知](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
