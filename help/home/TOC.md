@@ -4,7 +4,7 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '1022'
 ht-degree: 3%
@@ -128,6 +128,13 @@ ht-degree: 3%
     + [管理SEO的URL重寫](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
     + [AR檢視器](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
     + [目錄匯入和更新](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + 內容管理 {#content-management}
+    + [頁面產生器概觀](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [建立靜態和動態區塊](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [建立Widget](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [使用內容範本](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [內容分段](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [管理媒體集](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
@@ -157,7 +164,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -280,13 +287,6 @@ ht-degree: 3%
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 內容管理 {#content}
-  + [頁面產生器概觀](../site-management/page-builder-overview.md)
-  + [建立靜態和動態區塊](../site-management/static-dynamic-blocks.md)
-  + [建立Widget](../site-management/widgets.md)
-  + [使用內容範本](../site-management/content-templates.md)
-  + [內容分段](../site-management/content-staging.md)
-  + [管理媒體集](../site-management/media-gallery.md)
 + 行銷工具 {#marketing}
   + [建立型錄價格規則](../site-management/catalog-price-rules.md)
   + [建立購物車價格規則](../site-management/cart-price-rules.md)
