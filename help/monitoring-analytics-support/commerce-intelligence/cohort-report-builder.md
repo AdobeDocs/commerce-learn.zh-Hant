@@ -3,10 +3,10 @@ title: Commerce Intelligence — 同類群組Report Builder
 description: 瞭解如何使用Commerce Intelligence同類群組Report Builder建立與業務相關的最佳化報表和分析。
 landing-page-description: 觀看此影片，瞭解如何使用Commerce Intelligence同類群組Report Builder建立與業務相關的最佳化報表和分析。
 short-description: 觀看此影片，瞭解如何使用Commerce Intelligence同類群組Report Builder建立與業務相關的最佳化報表和分析。
-kt: 10288
-doc-type: feature video
+jira: KT-10288
+doc-type: Technical Video
 duration: 103
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -43,13 +43,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 262
+source-wordcount: '262'
 ht-degree: 0%
-
 ---
-
 # Commerce Intelligence — 同類群組Report Builder
 
 您是否曾想要研究使用者的不同子集在一段時間內的行為？ 例如，曾經想知道在促銷期間註冊的使用者是否比沒有註冊的使用者擁有更高的平均終身收入？ 如果答案是&#x200B;_是_，則同類群組Report Builder是您的最佳工具。 Commerce Intelligence已進行最佳化，可執行此分析並使其與您的業務相關。

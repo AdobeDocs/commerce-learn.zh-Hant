@@ -1,19 +1,18 @@
 ---
-title: Adobe Commerce Intelligence整合和一些基本設定
-description: 瞭解Adobe Commerce Intelligence整合，以及有助於建立報告和儀表板的一些設定
+title: Adobe Commerce Intelligence報告和儀表板
+description: 瞭解Adobe Commerce Intelligence報表與控制面板管理
 feature: Cloud
 topic: Commerce, Administration
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 543
-last-substantial-update: 2024-04-03T00:00:00.000Z
-jira: KT-15213
-kt: 15213
-exl-id: 56ee5ec9-803c-4ec3-a620-d4e5185ca707
-TQID: 'https://experienceleague.adobe.com/cb4QUFyIgYlMHdF7uMdg420zfbryRJl4aD2mSKxYdBc'
+duration: 563
+last-substantial-update: 2024-04-09T00:00:00.000Z
+jira: KT-15231
+exl-id: d867a1f5-6b0e-4c73-be3f-8561792e0ef3
+TQID: 'https://experienceleague.adobe.com/GRGIzzTp8gBvOKWPE2ivuuK7HGydl5Y4RZLfYTB9ABk'
 product_v2:
   - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
     internal-label: Commerce Intelligence
@@ -41,27 +40,24 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
-    internal-label: Data integration
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '67'
 ht-degree: 0%
 ---
-# Adobe Commerce Intelligence整合與設定
+# 報告和儀表板
 
-本教學課程提供Adobe Commerce Intelligence中「管理資料」索引標籤的概觀，說明如何設定和設定整合、Data Warehouse及報告功能。
-&#x200B;
-此影片探討整合選項，包括預先建立的整合、標準整合和進階整合，以及新增自訂整合的功能。
-本檔案也會說明將表格同步至Data Warehouse、新增表格和欄，以及建立量度和篩選器以用於報表用途的程式。
+瞭解不同的Report Builder選項，以及如何閱讀和瞭解原始報告。 瞭解如何管理儀表板、篩選儀表板，以及為何應製作重複專案，而非修改原始專案。
 
 ## 這部影片是給誰看的？
 
 * 業務使用者
 * 資料分析師
 
-## 整合與設定
+## Adobe Commerce Intelligence報告和儀表板
 
->[!VIDEO](https://video.tv.adobe.com/v/3452701?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453154?captions=chi_hant&learn=on)
