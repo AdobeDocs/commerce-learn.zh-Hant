@@ -1,0 +1,76 @@
+---
+title: 評估團隊和專案
+description: 針對Adobe Commerce評估您的團隊和專案，著重角色、技術優勢、前端和後端考量因素，以便成功移轉。
+feature: Backend Development, Saas, Storefront, Tools and External Services
+topic: Architecture, Collaboration, Development, Migration, Upgrade
+old-role: Architect, Developer
+role: Developer
+level: Beginner
+doc-type: Technical Video
+duration: 336
+last-substantial-update: 2024-10-24T00:00:00.000Z
+jira: KT-16275
+exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
+TQID: 'https://experienceleague.adobe.com/-1BqPg0V0-13eK-Xv8dr1IWslRuxgST7HQhcc-GGrKE'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+workflow-type: tm+mt
+source-wordcount: '290'
+ht-degree: 0%
+---
+# 移轉至Adobe Commerce — 評估團隊和專案
+
+{{only-for-on-prem-commerce-cloud}}
+
+移至Adobe Commerce時，徹底評估您的團隊和專案至關重要。 您的團隊應包含關鍵角色，例如專案經理、QA測試人員、開發人員、業務利害關係人及技術銷售機會。 評估您團隊的技術優勢，確保符合您的專案目標。 例如，JavaScript和後端整合的強大背景最適合運用Adobe Commerce和App Builder。 如果您的團隊對Java或PHP更有經驗，請考慮與Adobe Consulting服務合作來處理App Builder部分。
+
+前端，使用Headless實施的體驗可以簡化程式。 Adobe的Edge Delivery Services可透過檔案式製作來增強效能及加快啟動時間，讓您不需開發人員即可進行變更。 此外，請評估現有的PHP模組和協力廠商擴充功能，並考慮使用預先建立的App Builder模組來將自訂程式碼減至最少。 升級核心應用程式需要謹慎的規劃，包括移除不必要的屬性，以及評估自訂資料庫表格以簡化資料移轉。 將Adobe Commerce與其他Adobe解決方案（例如Adobe Journey Optimizer和Real-time CDP）整合可進一步增強您的專案功能。
+
+## 這部影片是給誰看的？
+
+* 專案經理
+* 技術主管/架構師
+* 電子商務開發人員
+
+## 視訊內容 {#video-content}
+
+* 團隊評估包括評估團隊的角色和技術優勢，以確保與專案目標一致。
+* 瞭解一些前端和後端考量事項。
+* 透過評估現有模組、升級核心應用程式並與其他Adobe解決方案整合，規劃順暢的移轉。
+ 
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
+
+## 相關檔案
+
+[什麼是Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1024'
 ht-degree: 3%
 ---
 
@@ -37,6 +37,26 @@ ht-degree: 3%
     + [Target認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [單階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [多階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ 雲端基礎結構和自行託管 {#cloud-infrastructure-and-self-hosted}
+  + 平台與移轉 {#platform-and-migration}
+    + [行銷結構](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [全域傳遞模型](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [管理員角色](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [行銷流程](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [店面選項](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [資料共用](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [多個網站](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [體驗銷售機會資料和促銷活動](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [從自行託管解決方案移轉](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + 移轉至Adobe Commerce {#migrating-to-adobe-commerce}
+      + [概觀](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + 準備 {#preparation}
+        + [評估團隊和專案](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + 自訂 {#customizations}
+        + [處理中程式碼標準](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [程式碼凍結](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 疑難排解 {#troubleshooting}
     + [無效的SSL](../cloud/troubleshooting/invalid-ssl.md)
@@ -47,16 +67,6 @@ ht-degree: 3%
   + [Adobe Commerce Cloud如何調整](../cloud/how-adobe-commerce-cloud-scales.md)
   + [HIPAA就緒託管](../cloud/hippa-ready-hosting.md)
   + [偵測IP位址](../cloud/detect-ip-address.md)
-  + [行銷結構](../cloud/marketecture.md)
-  + [全域傳遞模型](../cloud/global-delivery-model.md)
-  + [管理員角色](../cloud/admin-roles.md)
-  + [行銷流程](../cloud/marketing-flows.md)
-  + [店面選項](../cloud/storefront-options.md)
-  + [資料共用](../cloud/data-sharing.md)
-  + [多個網站](../cloud/multiple-websites.md)
-  + [體驗銷售機會資料和促銷活動](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [從自行託管的解決方案移轉](../cloud/overview.md)
   + [使用Fastly限制存取](../cloud/limit-website-access-using-fastly.md)
   + 技術入門和硬體移交 {#technical-onboarding-hardware-handoff}
     + [基礎結構和開發最佳實務](../cloud/infrastructure-development-best-practices.md)
@@ -68,15 +78,6 @@ ht-degree: 3%
     + [支援要求](../cloud/best-practices/support-request.md)
     + [啟動前檢查清單](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入門 {#getting-started}
-  + 移轉至Adobe Commerce{#migrating-to-adobe-commerce}
-    + [概觀](../migrating-to-adobe-commerce/overview.md)
-    + 準備{#preparation}
-      + [評估團隊和專案](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + 自訂{#customizations}
-      + [處理中程式碼標準](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [程式碼凍結](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
     + [資料連線](../capabilities/data-connection.md)
@@ -114,7 +115,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
