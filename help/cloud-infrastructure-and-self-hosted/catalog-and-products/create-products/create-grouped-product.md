@@ -1,0 +1,256 @@
+---
+title: 建立群組的產品
+description: 瞭解如何使用REST API和Commerce管理員建立分組產品。
+jira: KT-14585
+doc-type: Tutorial
+duration: 979
+audience: all
+activity: use
+last-substantial-update: 2023-11-30T00:00:00.000Z
+feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
+topic: Commerce, Integrations, Content Management
+role: Developer, User
+level: Beginner
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+TQID: 'https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+workflow-type: tm+mt
+source-wordcount: '559'
+ht-degree: 0%
+---
+# 建立群組的產品
+
+群組產品由簡單獨立產品組成，並以群組呈現。 您可以提供單一產品的變數，或依季節或主題分組。 建立群組產品之前，請先確認要納入群組的所有簡單產品都可以在Adobe Commerce中使用，然後建立任何不存在的產品。
+
+在本教學課程中，您將瞭解如何使用REST API和Adobe Commerce管理員建立分組產品。
+
+使用REST API在「管理員」中建立群組產品：
+
+1. 建立空白的分組產品。
+1. 建立簡單產品以用於群組的產品。
+1. 將簡單產品填入空白的分組產品中。
+1. 建立空的群組產品並關聯簡單產品。
+
+   將簡單產品與群組產品建立關聯時，前端會使用裝載中的排序順序屬性(`position`)，依所需順序顯示關聯產品。 如果未指定`position`屬性，則會以加入群組產品的順序顯示產品。
+
+從Adobe Commerce管理員建立分組產品時，請先建立簡單產品。 當您準備好建立群組產品時，請將簡單產品指派給一個批次中的群組產品，以建立簡易產品的關聯。
+
+## 這部影片是給誰看的？
+
+* 網站管理員
+* 電子商務銷售商
+* 新的Adobe Commerce開發人員，瞭解如何使用REST API在Adobe Commerce中建立分組的產品。
+
+## 視訊內容
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+
+## 群組產品的設定
+
+在此範例中，有三個簡單產品（先建立）和一個群組產品。 兩個簡單產品與分組產品相關聯，然後將第三個簡單產品新增到分組產品中。
+
+## 使用cURL建立第一個簡單產品
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+  "product": {
+    "sku": "product-sku-one",
+    "name": "Simple product one",
+    "attribute_set_id": 4,
+    "price": 1.11,
+    "type_id": "simple"
+  }
+}
+```
+
+## 使用cURL建立第二個簡單產品
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+  "product": {
+    "sku": "product-sku-two",
+    "name": "Simple Product two",
+    "attribute_set_id": 4,
+    "price": 2.22,
+    "type_id": "simple"
+  }
+}
+```
+
+## 使用cURL建立第三個簡單產品
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+  "product": {
+    "sku": "product-sku-three",
+    "name": "Simple product three",
+    "attribute_set_id": 4,
+    "price": 3.33,
+    "type_id": "simple"
+  }
+}
+```
+
+## 使用cURL建立空白的分組產品
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=28a020734488eef2600f8d5c7f302b53; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+    "product":{
+        "sku":"my-new-grouped-product",
+        "name":"This is my New Grouped Product",
+        "attribute_set_id":4,
+        "type_id":"grouped",
+        "visibility":4
+    }
+}
+'
+```
+
+## 將第一和第二個簡單產品新增到分組產品中
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=28a020734488eef2600f8d5c7f302b53; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+    "items":[
+        {
+            "sku":"my-new-grouped-product",
+            "link_type":"associated",
+            "linked_product_sku":"product-sku-one",
+            "linked_product_type":"simple",
+            "position":1,
+            "extension_attributes":{
+            "qty":1
+            }
+        },
+        {
+            "sku":"my-new-grouped-product",
+            "link_type":"associated",
+            "linked_product_sku":"product-sku-two",
+            "linked_product_type":"simple",
+            "position":2,
+            "extension_attributes":{
+            "qty":1
+            }
+        }
+    ]
+}
+'
+```
+
+## 將第三個簡單產品新增到現有的分組產品
+
+包含適當的職位編號（`1`或`2`以外的任何專案），這些編號用於最初與分組產品相關聯的前兩個產品。 在此範例中，位置為`4`。
+
+```bash
+curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2' \
+--data '{
+    "entity":{
+        "sku":"my-new-grouped-product",
+        "link_type":"associated",
+        "linked_product_sku":"product-sku-three",
+        "linked_product_type":"simple",
+        "position":4,
+        "extension_attributes":{
+            "qty":1
+        }
+    }
+}
+
+'
+```
+
+## 從分組產品中刪除簡單產品
+
+若要從群組產品[刪除簡單產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/)，請使用： `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`。
+
+若要探索要當作`{type}`使用的專案，請使用xdebug來擷取要求並評估$linkTypes： `related`、`crosssell`、`uupsell`和`associated`。
+![已分組的產品連結型別 — 替代文字](/help/assets/site-management/catalog/grouped-types.png "已在xdebug工作階段期間擷取已分組的產品連結型別")
+
+將簡單產品連結至分組產品時，裝載包含幾個類似於的區段：
+
+```bash
+        {
+            "sku":"my-new-grouped-product",
+            "link_type":"associated",
+            "linked_product_sku":"product-sku-two",
+            "linked_product_type":"simple",
+            "position":2,
+            "extension_attributes":{
+            "qty":1
+            }
+        }
+```
+
+在承載中，`link_type`值`associated`提供DELETE要求中所需的`{type}`值。 要求URL將類似於`/V1/products/my-new-grouped-product/links/associated/product-sku-three`。
+
+檢視cURL要求，以從具有`my-new-grouped-product` SKU的分組產品中刪除具有`product-sku-three` SKU的簡單產品：
+
+```bash
+curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=9e61396705e9c17423eca2bdf2deefb2'
+```
+
+## 使用cURL取得分組產品
+
+```bash
+curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-sku' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=3b797a6cc3c5c71f2193109fb9838b12'
+```
+
+## 其他資源
+
+* [建立及管理群組的產品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [已分組的產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Adobe Developer其餘教學課程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -1,0 +1,95 @@
+---
+title: Adobe Commerce的AR檢視器
+description: 瞭解Commerce Marketplace提供的增強現實檢視模組。
+jira: KT-13738
+doc-type: Tutorial
+duration: 180
+activity: use
+feature: Page Content, Native Luma Frontend Development, Themes, Configuration
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
+badge: Commerce Marketplace中可用的AR檢視器
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+TQID: 'https://experienceleague.adobe.com/K5mqLVuOB8-Pm3-EpKOKOzGGTgPGmbMIyKThQKlo3n8'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 17d326fa-534a-55a5-b46f-8ae1de1e2f75
+    internal-label: Page Content
+  - id: 8b440f30-6794-5ed6-981f-391de4e9b0cc
+    internal-label: Themes
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: aa64eb87-f03e-49eb-a367-66fa1adc2192
+    internal-label: Native Luma Frontend Development
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+workflow-type: tm+mt
+source-wordcount: '540'
+ht-degree: 0%
+---
+# 適用於Adobe Commerce的增強現實檢視器
+
+隨著數位購物環境的不斷演化，將增強現實(AR)融入購買流程變得越來越重要。 AR可讓使用者以類似親身購物體驗的方式與產品互動，進而提高客戶滿意度和轉換率。
+AR Viewer是Adobe Commerce的擴充功能，為線上商店擁有者帶來新功能，即上傳產品3D模型的功能。 此外，上傳3D模型時，Adobe Commerce AR Viewer擴充功能會自動產生QR碼。 在前端，產品頁面會顯示此QR碼，客戶可以使用行動裝置輕鬆掃描，在AR中檢視產品。 此模組可讓客戶以更沈浸式及吸引人的方式探索產品，增進他們對產品的瞭解，並幫助做出更明智的購買決策。
+
+AR Viewer可作為實體和數位零售之間的橋樑，讓賣家無需廣泛的技術知識或密集的手動工作，即可提供豐富的互動式客戶體驗。 其使用者友善的介面完美整合至Adobe Commerce管理員中，因此對任何線上商店而言都是一個方便的補充。
+
+AR Viewer可填補實體和數位零售之間的空白[!DNL bridge]，讓賣家無需豐富的技術知識或密集的手動工作，就能提供豐富的互動式客戶體驗。 其使用者友善的介面完美整合至Adobe Commerce管理員中，因此對任何線上商店而言都是一個方便的補充。
+
+## 功能
+
+* 輕鬆上傳3D產品模型的介面。
+* 3D模型上傳時自動產生QR碼。
+* 將QR碼緊密整合至產品頁面，以供AR檢視。
+* 在行動裝置上呈現身臨其境的互動式產品檢視體驗。
+* 簡化直接內嵌至Adobe Commerce管理員的商家體驗。
+* 與Adobe Commerce Cloud和內部部署客戶的相容性(2.4.x+)
+* 將AR Viewer整合到您的商店中，您提供的不僅僅是產品；您正在建立吸引人的沈浸式購物體驗，鼓勵客戶做出自信的購買決策。
+
+## 將3D模型新增至產品
+
+在Adobe Commerce安裝模組後，將新的3D模型新增至產品是一個簡單的過程。
+在以下影片中，新區段支援上傳`.USDZ`檔案。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
+
+## 從Luma店面檢視QR碼
+
+以下影片使用原生Luma前端來示範向客戶顯示的方式。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422371?learn=on)
+
+## 在行動裝置上觀看AR專案
+
+訪客使用裝置掃描QR碼後，該專案會疊加在相機檢視上，以便他們檢視該專案。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422372?learn=on)
+
+## 有用的資源
+
+Adobe Commerce的[AR檢視器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[使用Adobe Commerce的AR檢視器管理產品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+
+## Adobe Commerce Marketplace擴充功能
+
+[AR檢視器安裝指示](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup#install-the-extension){target="_blank"}
