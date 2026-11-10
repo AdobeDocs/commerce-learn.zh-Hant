@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -87,6 +87,29 @@ ht-degree: 3%
         + [尋找惡意IP](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
         + [警示通知設定](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
         + [自訂警報](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
+  + 存放區管理 {#store-administration}
+    + [管理使用者角色和許可權](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md)
+    + [雙因素驗證](../cloud-infrastructure-and-self-hosted/store-administration/two-factor-authentication.md)
+    + [管理幣別與稅捐規則](../cloud-infrastructure-and-self-hosted/store-administration/currency-tax-rules.md)
+    + [新增網站、商店和商店檢視](../cloud-infrastructure-and-self-hosted/store-administration/add-websites-stores-views.md)
+    + [變更商店URL](../cloud-infrastructure-and-self-hosted/store-administration/change-store-url.md)
+    + [重設管理員URI](../cloud-infrastructure-and-self-hosted/store-administration/reset-admin-uri.md)
+    + [送貨與交貨方式](../cloud-infrastructure-and-self-hosted/store-administration/shipping-delivery.md)
+    + [管理網格和篩選器](../cloud-infrastructure-and-self-hosted/store-administration/admin-grids-and-filters.md)
+    + [Commerce cli](../cloud-infrastructure-and-self-hosted/store-administration/view-update-store-configuration-cli.md)
+    + [瀏覽商店設定和系統功能表](../cloud-infrastructure-and-self-hosted/store-administration/store-configuration-and-system-menu.md)
+    + Commerce服務設定 {#adobe-commerce-services}
+      + [設定Commerce服務聯結器](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-commerce-services-connector.md)
+      + [設定付款服務](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-payment-services.md)
+      + [使用付款服務](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/payment-services.md)
+    + 客戶 {#customers}
+      + [建立客戶區段](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-segments.md)
+      + [建立客戶群組](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-groups.md)
+      + [建立客戶屬性](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-attributes.md)
+      + [賣家輔助購物](../cloud-infrastructure-and-self-hosted/store-administration/customers/seller-assisted-shopping.md)
+    + 訂單與履行 {#orders}
+      + [管理訂單狀態](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
+      + [檢查存貨狀態](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
@@ -124,7 +147,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -247,26 +270,6 @@ ht-degree: 3%
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 存放區管理 {#admin}
-  + [管理使用者角色和許可權](../site-management/users-roles-permissions.md)
-  + [雙因素驗證](../site-management/two-factor-authentication.md)
-  + [管理幣別與稅捐規則](../site-management/currency-tax-rules.md)
-  + [新增網站、商店和商店檢視](../site-management/add-websites-stores-views.md)
-  + [變更商店URL](../site-management/change-store-url.md)
-  + [重設管理員URI](../site-management/reset-admin-uri.md)
-  + [送貨與交貨方式](../site-management/shipping-delivery.md)
-  + [管理網格和篩選器](../site-management/admin-grids-and-filters.md)
-  + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-  + [瀏覽商店設定和系統功能表](../site-management/store-configuration-and-system-menu.md)
-  + Adobe Commerce服務 {#adobe-commerce-services}
-    + [設定Commerce服務聯結器](../site-management/configure-adobe-commerce-services-connector.md)
-    + [設定付款服務](../site-management/configure-adobe-payment-services.md)
-    + [使用付款服務](../site-management/payment-services.md)
-+ 客戶管理 {#customers}
-  + [建立客戶區段](../site-management/customer-segments.md)
-  + [建立客戶群組](../site-management/customer-groups.md)
-  + [建立客戶屬性](../site-management/customer-attributes.md)
-  + [賣家輔助購物](../site-management/seller-assisted-shopping.md)
 + 目錄管理 {#catalog}
   + [建立類別](../site-management/category-create.md)
   + [管理類別中的產品](../site-management/category-products.md)
@@ -292,9 +295,6 @@ ht-degree: 3%
   + [Live Search簡介](../site-management/live-search.md)
   + [即時搜尋建議](../site-management/live-search-recommendations.md)
   + [將Commerce與AJO整合](../site-management/integrate-commerce-ajo.md)
-+ 訂單與履行 {#orders}
-  + [管理訂單狀態](../orders-and-fulfillment/order-status.md)
-  + [檢查存貨狀態](../orders-and-fulfillment/checking-inventory-status.md)
 + 適用於Adobe Commerce的B2B {#b2b}
   + [管理公司帳戶](../b2b/company-accounts.md)
   + [管理共用目錄](../b2b/shared-catalogs.md)
