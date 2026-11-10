@@ -62,5 +62,5 @@ Adobe Commerce和Magento Open Source的支付服務可協助小型企業、中�
 
 ## 其他資源
 
-* [支付服務指南](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview)
-* [Commerce服務聯結器](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas)
+* [支付服務指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/payment-services/guide-overview)
+* [Commerce服務聯結器](https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/integration-services/saas)
