@@ -1,8 +1,8 @@
 ---
-title: 瞭解原生Adobe Commerce提供的目錄匯入選項
+title: Adobe Commerce中的原生目錄匯入選項
 description: 瞭解如何將目錄匯入Adobe Commerce商店的一些原生選項。
 kt: 13634
-doc-type: tutorial
+doc-type: Tutorial
 duration: 211
 audience: all
 activity: use
@@ -45,9 +45,9 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '846'
 ht-degree: 0%
 ---
 # 匯入目錄的選項
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ## 手動建立產品 {#manual-import}
 
-如果您的目錄有限且不常更新，手動建立可能是最佳選擇。 輸入每個產品都需要時間，而且有關如何使用Commerce管理員的訓練也有限。 手動目錄管理對大部分的商店來說不是正確的選項，但在某些情況下，這是合理的。 若要檢視此程式的其他檔案，請造訪[建立產品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=zh-Hant){target="_blank"}。 別忘了，您可以使用多種方法來管理您的目錄，不過一旦使用自動化，手動編輯必須受到限制。 自動更新有機會覆寫手動執行的任何變更，因此會導致混淆。 一旦與Adobe Commerce的整合使用自動化和API來管理目錄，建議限制管理員透過[使用者角色和許可權](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hant){target="_blank"}管理目錄。
+考慮以手動建立產品方式，建立不常更新的小型目錄。 輸入每個產品都需要一些時間，並且需要有關Commerce管理員的基本培訓。 手動目錄管理適合特定情況，而非大多數商店。 如需指示，請參閱[建立產品](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/catalog/products/product-create){target="_blank"}。 如果您結合目錄管理方法，請在引入自動化後限制手動編輯。 自動更新可能會覆寫手動變更並導致混淆。 當整合透過自動化和API管理目錄時，請透過[使用者角色和許可權](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}限制管理員中的目錄管理。
 
 ### 何時考量此方法
 
-* 非常小的目錄，例如少於50種產品
+* 非常小的目錄，不到50種產品
 * 不常更新
 * 您已擁有所有產品詳細資料、影像、影片，而且您不想花時間瞭解如何將資料轉換為CSV
 * 建立產品時要加入新增影像和影片
@@ -77,7 +77,7 @@ ht-degree: 0%
 ## 管理員CSV匯入工具 {#admin-csv}
 
 此工具可讓商店擁有者使用CSV許可權，從商務管理員匯入目錄。
-[從Commerce管理員匯入資料](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=zh-Hant){target="_blank"}
+[從Commerce管理員匯入資料](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 優點：
 從管理員上傳CSV是目錄管理的直接方法。 它允許對適度大小的目錄進行更快的目錄產品更新。
@@ -85,7 +85,7 @@ ht-degree: 0%
 缺點：
 
 * 慢速
-* 伺服器上定義的上傳檔案大小上限，商店所有者可能無法輕鬆調整。
+* 伺服器會定義上傳檔案大小上限，而商店所有者並不總是能夠輕鬆進行調整。
 * 需要管理員存取權及執行動作的人員，自動化受到限制
 * 排程匯入限製為每天最多1次
 * 關聯的影像和視訊必須個別上傳
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 * 目錄大小為中等
 * 更新每天不超過一次
-* 您可以存取一些伺服器設定，以備您必須增加檔案上傳大小上限
+* 如果您需要增加上傳檔案大小上限，則可存取伺服器設定
 * 您的團隊`not`熟悉API以及OAUTH的運作方式
 
 >[!TAB 大量REST API]
@@ -102,7 +102,7 @@ ht-degree: 0%
 ## 大量REST API {#bulk-rest-api}
 
 大量REST API允許自動化和更頻繁的更新。 此API比使用CSV的管理員上傳更快。
-[大量端點檔案](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
+[大量端點檔案](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints){target="_blank"}
 
 優點：
 匯入不是CSV格式的大型資料集的功能。
@@ -110,7 +110,7 @@ ht-degree: 0%
 缺點：
 
 * 關聯的影像和視訊必須個別上傳
-* 可受限於託管提供者的頻寬限制
+* 主控提供者的頻寬限制會限制匯入輸送量
 
 ### 何時考量此方法
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 ## 非同步REST API {#async-rest-api}
 
 非同步Web端點會攔截訊息至Web API，並將其寫入訊息佇列。 每次系統接受這類API請求時，都會產生UUID識別碼。 Adobe Commerce將訊息新增至佇列時，會包含此UUID。 然後，消費者會從佇列中讀取訊息，並逐一執行這些訊息。
-[非同步Web端點檔案](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
+[非同步Web端點檔案](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints){target="_blank"}
 
 優點：
 
@@ -145,7 +145,7 @@ ht-degree: 0%
 
 ## CSV REST API {#csv-rest-api}
 
-相較於其他所有原生選項，此API選項允許以極快的速度匯入。
+此API匯入資料的速度比其他原生選項更快。
 
 [匯入資料REST CSV API](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 優點：
@@ -171,6 +171,6 @@ ht-degree: 0%
 ## 其他資源
 
 * [使用新的REST CSV匯入資料](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [匯入資料主要檔案](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=zh-Hant){target="_blank"}
-* [Adobe Commerce 2.4.6版發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=zh-Hant){target="_blank"}
-* [使用者、角色和許可權](../site-management/users-roles-permissions.md){target="_blank"}
+* [匯入資料主要檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Adobe Commerce 2.4.6版發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [使用者、角色和許可權](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md){target="_blank"}
