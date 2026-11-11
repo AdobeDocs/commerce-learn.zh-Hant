@@ -1,0 +1,84 @@
+---
+title: 整合Adobe Commerce和Adobe Journey Optimizer
+description: 瞭解為何以及如何實作Adobe Commerce與Adobe Journey Optimizer的整合。
+feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
+topic: Administration, Commerce, Integrations, Personalization
+role: Admin, Developer
+level: Beginner
+doc-type: Technical Video
+duration: 570
+last-substantial-update: 2024-01-17T00:00:00.000Z
+jira: KT-14793
+thumbnail: 3426855.jpeg
+exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
+TQID: 'https://experienceleague.adobe.com/ip2-LMzZezPGHDGnK0KbKUB3Pe7p0gwwmSIPtX9QUCg'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: bb03f6c4-cab9-560e-9d02-5816e1808d17
+    internal-label: Communications
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: 19d9b313-1a3c-5bed-9da7-4364f71c3a28
+    internal-label: Promotions/Events
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+subfeature_v2:
+  - id: 7ce037d9-e062-59a3-b23c-bd651d714c7f
+    internal-label: Audience Activation
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 0%
+---
+# 整合Adobe Commerce和Adobe Journey Optimizer
+
+瞭解如何在Adobe Commerce中使用[Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"}來解鎖Commerce資料，並透過Adobe Journey Optimizer即時提供端對端個人化購物者體驗。
+
+## 這部影片是給誰看的？
+
+* 對與行銷團隊共用電子商務資料和對象感興趣的E-Commerce經理和作業
+* 希望使用Commerce的客戶資料來進一步推動大規模個人化的行銷經理
+* 有興趣透過Commerce與Journey Optimizer之間的自動化資料流提高效率的行銷作業
+
+## 視訊內容
+
+* 透過Data Connection在Adobe Commerce和Adobe Experience Platform （包括Journey Optimizer）之間無縫串流資料，解決孤立的資料挑戰
+* 即時取得Commerce傳送的資料，以在Journey Optimizer中啟用並個人化客戶歷程
+* 將Commerce資料與其他來源的資料結合。 建立對象，並以不重複訊息、體驗或選件鎖定對象
+* 使用資料連線只需一小時即可實施這項整合，而自訂實施通常需要20天
+* 在Adobe Journey Optimizer中，使用Data Connection提供的現成事件輕鬆建立及啟用1:1客戶歷程
+* 使用Adobe Journey Optimizer的原生訊息功能，即時與所有管道的購物者互動
+
+>[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
+
+## 其他資源
+
+[資料連線總覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[安裝資料連線](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

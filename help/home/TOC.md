@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,19 @@ ht-degree: 3%
     + [使用內容範本](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [內容分段](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [管理媒體集](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + 行銷與銷售 {#marketing-and-merchandising}
+    + [建立型錄價格規則](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [建立購物車價格規則](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [管理相關產品規則](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [設定產品推薦](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [Live Search簡介](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [Recommendations的即時搜尋](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [即時搜尋完整示範](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [將Commerce與AJO整合](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
     + [資料連線](../capabilities/data-connection.md)
-    + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
     + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
   + 後台整合入門套件 {#back-office-integration-starter-kit}
     + [入門套件示範](../back-office-integrations/starter-kit-demo.md)
@@ -164,7 +172,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -287,14 +295,6 @@ ht-degree: 3%
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 行銷工具 {#marketing}
-  + [建立型錄價格規則](../site-management/catalog-price-rules.md)
-  + [建立購物車價格規則](../site-management/cart-price-rules.md)
-  + [管理相關產品規則](../site-management/related-product-rules.md)
-  + [設定產品推薦](../site-management/product-recommendations.md)
-  + [Live Search簡介](../site-management/live-search.md)
-  + [即時搜尋建議](../site-management/live-search-recommendations.md)
-  + [將Commerce與AJO整合](../site-management/integrate-commerce-ajo.md)
 + 適用於Adobe Commerce的B2B {#b2b}
   + [管理公司帳戶](../b2b/company-accounts.md)
   + [管理共用目錄](../b2b/shared-catalogs.md)

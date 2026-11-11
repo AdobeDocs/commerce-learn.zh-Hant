@@ -1,0 +1,158 @@
+---
+title: 建立購物車價格規則
+description: 瞭解如何建立購物車價格規則，當符合您定義的條件時，這些規則會在購物車中套用折扣。
+doc-type: Tutorial
+last-substantial-update: 2022-12-28T00:00:00.000Z
+feature: Configuration, System, Customers, Shopping Cart
+topic: Commerce, Administration
+role: User
+level: Beginner
+duration: 353
+jira: KT-17148
+exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
+TQID: 'https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 22bad240-8308-569b-a9d5-578f1ff890ca
+    internal-label: Customers
+  - id: df8eaa0e-dd74-553a-8ad5-28129f8e8d3d
+    internal-label: Shopping Cart
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+workflow-type: tm+mt
+source-wordcount: '680'
+ht-degree: 0%
+---
+# 建立購物車價格規則
+
+購物車價格規則會根據您設定的條件，將折扣套用至購物車中的專案。 當滿足條件或客戶輸入有效優惠券代碼時，將套用折扣。 折扣會顯示在小計下的購物車中。 透過變更其狀態和日期範圍來開啟或關閉季節或促銷活動的規則。
+
+## 這部影片是給誰看的？
+
+* 電子商務行銷人員
+* 網站管理員
+
+## 視訊內容
+
+* 建立購物車價格規則和選用的優惠券代碼。
+* 瞭解折扣在購物車中的顯示方式以及促銷活動。
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+
+## 定價顯示問題
+
+顯示的明細行專案折扣有時會因舍入而有所不同。 當購物車價格規則在多個產品間套用一個折扣，且分割產生具有兩個以上小數位的金額時，就會發生這種差異。
+
+>[!BEGINSHADEBOX]
+
+購物車價格規則=套用至購物車中2項產品的10%折扣
+價格規則生效的條件：購物車中的專案總數為2
+動作會套用產品價格折扣的百分比，且折扣金額為10
+
+有2個專案加入購物車，每個價值$19.95美元
+
+若要取得折扣金額乘以產品價格0.1
+
+19.95 x 0.1 = 1.995
+
+這就是問題所在，我們有3位小數，而不是2位。 將這筆錢轉換為美元現在是個問題
+
+>[!ENDSHADEBOX]
+
+### 解決方案
+
+對於「管理員」中的商家來說，最明確的方法是顯示每個訂購明細行及其美元折扣。 若要保持訂單總計正確，請將第一行專案向上四捨五入，並將第三個小數點放在剩餘的行專案上。 檢閱此情境：
+
+>[!BEGINSHADEBOX]
+
+如同上述購物車規則生效時的10%折扣
+新增2項產品19.95版到購物車
+
+每項產品可獲得$1.995的折扣
+產品1 - 19.95 x 0.1 = 1.995
+2 - 19.95 x 0.1 = 1.995
+
+總金額為3.99的客戶可獲得折扣
+
+在管理員中向商店所有者顯示條列專案時，
+我們需要調整第一個專案，並將其四捨五入為2.000。 針對第二個專案，拖放第三個小數。
+產品1 = 2.00
+產品2 = 1.99
+
+這兩種產品加總後的總折扣現在符合提供給客戶的實際折扣。
+>[!ENDSHADEBOX]
+
+「管理員」熒幕擷圖顯示本範例的條列專案折扣：
+
+![管理員檢視顯示具有不同值的已排序專案](../../assets/commerce-admin-cart-price-rule-values-different.png)
+
+### 其他可能的解決方案，以及未使用它們的原因
+
+>[!BEGINSHADEBOX]
+
+如同上述購物車規則生效時的10%折扣
+新增2項產品19.95版到購物車
+
+每件產品可獲得$1.995的折扣，
+不過，如果我們只是湊整一下，就會顯示太多折扣。
+
+產品1 - 19.95 x 0.1 = 1.995
+產品2 - 19.95 x 0.1 = 1.995
+
+轉換為四捨五入所有專案
+產品1新值為2.00
+產品2新值為2.00
+
+總金額為3.99，實際提供給客戶作為折扣。
+但如果彙總，則會顯示已提供$4.00，這是不正確的。
+
+2.00 + 2.00 = $4.00
+
+>[!ENDSHADEBOX]
+
+捨棄所有專案的第三個小數點後，會產生太小的總折扣。
+
+>[!BEGINSHADEBOX]
+
+如同上述購物車規則生效時的10%折扣
+新增2項產品19.95版到購物車
+
+每項產品可獲得$1.995的折扣，但如果我們直接捨棄小數點後的第三個專案，就會發生下列情形：
+產品1 - 19.95 x 0.1 = 1.995
+產品2 - 19.95 x 0.1 = 1.995
+
+轉換為拖放所有專案的第三個小數
+產品1新值為1.99
+產品2新值為1.99
+
+總金額為3.99，實際提供給客戶作為折扣。
+不過，如果我們捨棄小數點後三個，則會顯示$3.98已提供，而且不正確。
+
+1.99 + 1.99 = $3.98
+
+>[!ENDSHADEBOX]
+
+## 其他資源
+
+* [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [優惠券代碼 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
