@@ -1,8 +1,8 @@
 ---
 title: 建立可下載的產品
 description: 瞭解如何使用REST API和Adobe Commerce管理員建立可下載的產品。
-kt: 14464
-doc-type: video
+jira: KT-14496
+doc-type: Technical Video
 duration: 946
 audience: all
 activity: use
@@ -47,7 +47,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d29942509b7ec6ad6411889789a9661c9c8fb91
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 4%

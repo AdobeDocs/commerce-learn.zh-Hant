@@ -1,7 +1,8 @@
 ---
 title: 建立內容範本
 description: 瞭解範本如何在建立內容或取代較舊內容時節省時間和精力。
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10642
 duration: 182
 audience: all
 activity: use
@@ -45,7 +46,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -66,4 +67,4 @@ ht-degree: 0%
 ## 其他資源
 
 * [[!DNL Page Builder]範本 —  [!DNL Page Builder] 使用手冊](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=zh-Hant)
-* [新增範本 —  [!DNL Page Builder] 開發人員指南](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+* [新增範本 —  [!DNL Page Builder] 開發人員指南](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates)

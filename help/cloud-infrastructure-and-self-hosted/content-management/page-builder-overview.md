@@ -1,8 +1,8 @@
 ---
 title: '[!DNL Page Builder] 概覽'
-description: 瞭解如何使用 [!DNL Page Builder]在Admin中建立頁面 [!DNL Commerce] 存放頁面。
-kt: 5563
-doc-type: feature video
+description: 瞭解如何使用[!DNL Page Builder]在管理員中建立頁面[!DNL Commerce]存放區頁面。
+jira: KT-5563
+doc-type: Feature Video
 duration: 317
 audience: all
 activity: use
@@ -35,13 +35,11 @@ topic_v2:
     internal-label: Customer engagement
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '177'
 ht-degree: 1%
-
 ---
-
 # [!DNL Page Builder] 概覽
 
 [!DNL Page Builder]可讓您使用自訂版面輕鬆建立內容豐富的頁面，以增強您的視覺storytelling，並提高客戶參與度和忠誠度。

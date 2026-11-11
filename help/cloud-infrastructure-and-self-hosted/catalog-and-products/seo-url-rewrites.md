@@ -1,25 +1,23 @@
 ---
-title: 管理類別中的產品
-description: 瞭解如何在類別中建立產品、視覺化銷售，以及使用自動化類別排序功能。
-kt: 10550
-doc-type: feature videos
-duration: 142
+title: 管理SEO的URL重寫
+description: 瞭解如何使用URL重寫工具來變更與產品、類別或CMS頁面相關聯的任何URL。
+jira: KT-10554
+doc-type: Feature Video
+duration: 150
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Search, Site Navigation
-topic: Commerce, Administration, Content Management
+topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
-exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
+exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 badgePaas: label="僅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hant/docs/commerce/user-guides/product-solutions" tooltip="僅適用於雲端專案（Adobe管理的PaaS基礎結構）和內部部署專案的Adobe Commerce 。"
-TQID: 'https://experienceleague.adobe.com/3WWSsHmsfF43uVGqXj0BXnO5azlCKtzuVIZTOEMz42E'
+TQID: 'https://experienceleague.adobe.com/rMtOFlHuXwFeZzdDdeYfANHlZM6mQYPr-Z7oTkyjaQ8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
-  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
-    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
   - id: 8d0b446f-5b16-5a10-b272-01143504a11c
@@ -27,8 +25,6 @@ feature_v2:
   - id: 48c59cc5-3c2e-5df1-8756-f5c139a28932
     internal-label: Site Navigation
 subfeature_v2:
-  - id: e91a50b1-0b31-436e-9033-00e4776e94cb
-    internal-label: Categories
   - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
     internal-label: Search
 role_v2:
@@ -44,27 +40,30 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '142'
 ht-degree: 0%
 ---
-# 管理類別中的產品
+# 管理SEO的URL重寫
 
-將產品組織成類別是管理類別的關鍵所在。 在本影片中，您將會瞭解如何在類別中建立產品、視覺化銷售，以及使用自動化類別排序功能。
+URL重寫工具可讓您變更與產品、類別或CMS頁面相關聯的任何URL。 當重寫生效時，任何指向先前URL的連結都會重新導向到新位址。
 
 ## 這部影片是給誰看的？
 
 * 網站管理員
 * 電子商務銷售商
+* 電子商務行銷人員
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/343747?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
 
 ## 其他資源
 
-* [類別產品指派 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html?lang=zh-Hant)
-* [銷售類別規則 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html?lang=zh-Hant)
+* [URL重寫 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=zh-Hant)
+* [一般> Web - [!DNL Commerce] 設定參考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=zh-Hant)

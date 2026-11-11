@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -110,20 +110,37 @@ ht-degree: 3%
     + 訂單與履行 {#orders}
       + [管理訂單狀態](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
       + [檢查存貨狀態](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
+  + 目錄與產品 {#catalog-and-products}
+    + 建立產品 {#create-products}
+      + [簡單產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-simple-product.md)
+      + [虛擬產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-virtual-product.md)
+      + [可下載的產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-downloadable-product.md)
+      + [已分組的產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-grouped-product.md)
+      + [可設定的產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-configurable-product.md)
+      + [搭售產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-bundle-product.md)
+      + [禮卡產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-gift-card-product.md)
+    + [建立類別](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-create.md)
+    + [管理類別中的產品](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-products.md)
+    + [Inventory management](../cloud-infrastructure-and-self-hosted/catalog-and-products/inventory-management.md)
+    + [建立產品屬性](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-create.md)
+    + [搭配使用產品屬性與PWA Studio](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-pwa.md)
+    + [管理SEO中繼資料](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-metadata.md)
+    + [管理SEO的URL重寫](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
+    + [AR檢視器](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
+    + [目錄匯入和更新](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + 內容管理 {#content-management}
+    + [頁面產生器概觀](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [建立靜態和動態區塊](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [建立Widget](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [使用內容範本](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [內容分段](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [管理媒體集](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
     + [資料連線](../capabilities/data-connection.md)
     + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
     + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
-  + 建立產品 {#create-products}
-    + [簡單產品](../site-management/create-simple-product.md)
-    + [虛擬產品](../site-management/create-virtual-product.md)
-    + [可下載的產品](../site-management/create-downloadable-product.md)
-    + [已分組的產品](../site-management/create-grouped-product.md)
-    + [可設定的產品](../site-management/create-configurable-product.md)
-    + [搭售產品](../site-management/create-bundle-product.md)
-    + [禮卡產品](../site-management/create-gift-card-product.md)
   + 後台整合入門套件 {#back-office-integration-starter-kit}
     + [入門套件示範](../back-office-integrations/starter-kit-demo.md)
     + [整合](../back-office-integrations/integrations.md)
@@ -270,23 +287,6 @@ ht-degree: 3%
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 目錄管理 {#catalog}
-  + [建立類別](../site-management/category-create.md)
-  + [管理類別中的產品](../site-management/category-products.md)
-  + [Inventory management](../site-management/inventory-management.md)
-  + [建立產品屬性](../site-management/product-attributes-create.md)
-  + [搭配使用產品屬性與PWA Studio](../site-management/product-attributes-pwa.md)
-  + [管理SEO中繼資料](../site-management/seo-metadata.md)
-  + [管理SEO的URL重寫](../site-management/seo-url-rewrites.md)
-  + [AR檢視器](../site-management/augmented-reality.md)
-  + [目錄匯入和更新](../site-management/catalog-import.md)
-+ 內容管理 {#content}
-  + [頁面產生器概觀](../site-management/page-builder-overview.md)
-  + [建立靜態和動態區塊](../site-management/static-dynamic-blocks.md)
-  + [建立Widget](../site-management/widgets.md)
-  + [使用內容範本](../site-management/content-templates.md)
-  + [內容分段](../site-management/content-staging.md)
-  + [管理媒體集](../site-management/media-gallery.md)
 + 行銷工具 {#marketing}
   + [建立型錄價格規則](../site-management/catalog-price-rules.md)
   + [建立購物車價格規則](../site-management/cart-price-rules.md)

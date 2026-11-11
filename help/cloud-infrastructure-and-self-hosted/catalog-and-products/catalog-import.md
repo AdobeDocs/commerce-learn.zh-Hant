@@ -1,7 +1,7 @@
 ---
 title: Adobe Commerce中的原生目錄匯入選項
 description: 瞭解如何將目錄匯入Adobe Commerce商店的一些原生選項。
-kt: 13634
+jira: KT-13634
 doc-type: Tutorial
 duration: 211
 audience: all
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -173,4 +173,4 @@ ht-degree: 0%
 * [使用新的REST CSV匯入資料](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 * [匯入資料主要檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 * [Adobe Commerce 2.4.6版發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
-* [使用者、角色和許可權](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md){target="_blank"}
+* [使用者、角色和許可權](../store-administration/users-roles-permissions.md){target="_blank"}

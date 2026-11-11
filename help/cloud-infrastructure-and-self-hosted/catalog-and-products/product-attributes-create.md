@@ -1,8 +1,8 @@
 ---
 title: 建立產品屬性
 description: 瞭解如何建立用於管理與產品、客戶和產品評等相關的資訊的產品屬性。
-kt: 10552
-doc-type: feature video
+jira: KT-10552
+doc-type: Feature Video
 duration: 348
 audience: all
 activity: use
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

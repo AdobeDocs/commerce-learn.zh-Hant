@@ -1,8 +1,8 @@
 ---
 title: Adobe Commerce的AR檢視器
 description: 瞭解Commerce Marketplace提供的增強現實檢視模組。
-kt: 13738
-doc-type: video
+jira: KT-13738
+doc-type: Tutorial
 duration: 180
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
@@ -42,9 +42,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '540'
 ht-degree: 0%
 ---
 # 適用於Adobe Commerce的增強現實檢視器
@@ -92,4 +92,4 @@ Adobe Commerce的[AR檢視器](https://experienceleague.adobe.com/docs/commerce-
 
 ## Adobe Commerce Marketplace擴充功能
 
-[AR檢視器](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
+[AR檢視器安裝指示](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup#install-the-extension){target="_blank"}
