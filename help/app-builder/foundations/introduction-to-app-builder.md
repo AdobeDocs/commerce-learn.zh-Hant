@@ -88,7 +88,7 @@ Adobe Developer App Builder並非提供預先設定的解決方案，而是提�
 
 閱讀下列部落格，可找到包含初始設定的可撰寫商務策略概觀：
 
-[App Builder如何協助提升您商務平台的商業靈敏度](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[App Builder如何協助提升您商務平台的商業靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 為協助您開始使用App Builder，Adobe已建立下列檔案：
 
