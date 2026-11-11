@@ -1,22 +1,20 @@
 ---
 title: AI導向送貨費率的簡介和設定
-description: 瞭解如何設定AI工具以建立自訂運費，包括複製入門套件、檢閱專案結構和準備環境。
+description: 瞭解如何設定自訂運費的AI工具、複製結帳入門套件、檢閱專案結構，以及準備開發環境。
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 180
-last-substantial-update: 2026-03-11T00:00:00Z
+last-substantial-update: 2026-03-11
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
-
 ---
-
 # 使用AI工具建立自訂運費 — 簡介和設定
 
 瞭解如何設定AI工具以建立自訂運費。 本教學課程說明如何復制籤出入門套件、檢閱其結構，以及準備本機環境。 此基礎可確保將外部運費緊密整合至您的工作流程中。 若要開始使用，請觀看下方的影片。
@@ -33,7 +31,7 @@ ht-degree: 0%
 * 說明如何設定開發環境，包括複製存放庫、檢閱入門套件結構和安裝所需工具。
 * 透過登入、設定存取權並確保所有相依性和先決條件都已就緒，準備好系統以進行AI輔助開發。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481339?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
 

@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [報價單明細專案折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [報價明細專案備註](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 應用程式開發和升級 {#application-development-and-upgrades}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [新增產品屬性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [相依性插入範例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -203,6 +203,12 @@ ht-degree: 3%
       + [Commerce模組AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
       + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
       + [Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+
+  + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
+    + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+    + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+    + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+    + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
 
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
@@ -272,11 +278,6 @@ ht-degree: 3%
     + [突變](../graphql-rest/graphql-mutations.md)
     + [結構描述](../graphql-rest/graphql-schema.md)
   + 更多App Builder教學課程和I/O活動 {#adobe-developer-app-builder}
-    + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
-      + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-      + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-      + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-      + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
     + Adobe Commerce的IO事件 {#io-events}
       + [IO事件快速入門](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
