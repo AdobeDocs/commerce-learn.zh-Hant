@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1025'
 ht-degree: 3%
 ---
 
@@ -144,6 +144,16 @@ ht-degree: 3%
     + [Recommendations的即時搜尋](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
     + [即時搜尋完整示範](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
     + [將Commerce與AJO整合](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + 適用於Adobe Commerce的B2B {#b2b}
+    + [管理公司帳戶](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [管理共用目錄](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [管理公司評價](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [採購單與核准](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + 引號 {#quotes}
+      + [銷售代表啟動報價單](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [來自管理員的報價驗證](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [報價單明細專案折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [報價明細專案備註](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
@@ -160,6 +170,10 @@ ht-degree: 3%
 + API和整合 {#apis-and-integration}
   + 實用的REST和GraphQL範例 {#examples}
     + [擁有REST的客戶](../apis-and-integration/examples/customer.md)
+    + B2B引號 {#b2b-quotes}
+      + [銷售代表啟動報價單REST API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [報價明細專案折扣GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [報價明細專案備註REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + 擴充性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -172,7 +186,7 @@ ht-degree: 3%
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../backend-development/create-module.md)
     + [新增產品屬性](../backend-development/add-product-attribute.md)
     + [相依性插入範例](../backend-development/dependency-injection.md)
@@ -294,17 +308,3 @@ ht-degree: 3%
     + [建立支援票證](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ 適用於Adobe Commerce的B2B {#b2b}
-  + [管理公司帳戶](../b2b/company-accounts.md)
-  + [管理共用目錄](../b2b/shared-catalogs.md)
-  + [管理公司評價](../b2b/company-credit.md)
-  + [採購單與核准](../b2b/purchase-orders.md)
-  + 引用 {#b2b-quote}
-    + [銷售代表啟動報價單](../b2b/sales-rep-initiates-quote.md)
-    + [來自管理員的報價驗證](../b2b/quote-validation-admin-panel.md)
-    + [銷售代表啟動報價單REST API](../b2b/sales-rep-initiates-quote-api.md)
-    + [報價單明細專案折扣](../b2b/quote-line-item-discount.md)
-    + [報價明細專案備註](../b2b/quote-line-item-notes.md)
-    + [報價明細專案折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
-    + [報價單明細專案折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
