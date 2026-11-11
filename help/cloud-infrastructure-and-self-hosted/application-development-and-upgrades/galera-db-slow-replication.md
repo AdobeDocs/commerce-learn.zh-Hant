@@ -55,7 +55,7 @@ Galera叢集可提供效能與擴充能力。 在考慮復本資料庫時，請�
 * 大量執行只會發生在主要播放器。 一次複製1次
 * 為協助復寫跟上主要專案的進度，請批次處理大型認可。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423538?captions=chi_hant&learn=on)
 
 ## 有用的資源
 
