@@ -1,6 +1,6 @@
 ---
 title: 測試資料夾
-description: 瞭解App Builder測試資料夾中的JavaScript單元測試檔案，以及如何將其展開以全面測試Adobe Commerce範例應用程式。
+description: 探索App Builder範例應用程式的JavaScript單元測試，並瞭解如何將其擴展為Adobe Commerce整合的完整測試。
 jira: KT-21682
 doc-type: Tutorial
 duration: 233
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:25.321Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 # 瞭解測試資料夾 {#test-folder}
 
 此範例應用程式的`test`資料夾包含單一JavaScript檔案，用於在該應用程式上執行單元測試。

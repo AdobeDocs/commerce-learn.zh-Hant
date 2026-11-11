@@ -1,6 +1,6 @@
 ---
 title: 建立您的第一個App Builder應用程式
-description: 瞭解使用Adobe Commerce的Adobe Developer App Builder，包括建立第一個程式外應用程式的先決條件、期望和可重複使用的模式。
+description: 建立您的第一個Adobe Commerce Adobe Developer App Builder應用程式，涵蓋先決條件、期望和可重複使用的程式外模式。
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:23.176Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 332
+source-wordcount: '329'
 ht-degree: 0%
-
 ---
-
 # 概觀 {#overview}
 
 本教學課程具備下列必要條件：
@@ -46,7 +44,7 @@ ht-degree: 0%
 * [已建立Adobe Developer App Builder工作區 — 步驟2](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [已執行初始化專案及執行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
-如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
+如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視下列部落格，以協助進行此初始設定和設定[App Builder如何協助提升您商務平台的業務靈敏度](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
 
 ## 閱讀本教學課程有何期望
 

@@ -1,6 +1,6 @@
 ---
 title: web-src資料夾
-description: 瞭解web-src資料夾結構、其JavaScript檔案和巢狀資料夾，以及此資料夾如何支援App Builder範例應用程式中的使用者介面。
+description: 探索App Builder web-src資料夾、其JavaScript檔案和巢狀資料夾，以及它們如何支援範例應用程式中的使用者介面。
 jira: KT-21683
 doc-type: Tutorial
 duration: 285
@@ -29,13 +29,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-08-11T19:18:31.875Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # 探索web-src資料夾的用途 {#web-src-folder}
 
 此範例應用程式的web-src資料夾包含許多JavaScript檔案和資料夾。 此資料夾用於具有使用者介面的應用程式。 並非所有應用程式都使用此功能。 例如，Commerce與外部庫存管理系統的整合不需要前端介面和程式碼。

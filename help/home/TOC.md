@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [報價單明細專案折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [報價明細專案備註](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 應用程式開發和升級 {#application-development-and-upgrades}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [新增產品屬性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [相依性插入範例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -173,6 +173,23 @@ ht-degree: 3%
       + [大量套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [獨立的套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + 基礎 {#foundations}
+    + [App Builder簡介](../app-builder/foundations/introduction-to-app-builder.md)
+    + [擴充性框架和Commerce事件](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [從Adobe Exchange安裝App Builder App](../app-builder/foundations/install-app-builder-app.md)
+  + 建置您的第一個應用程式 {#first-app}
+    + [概觀](../app-builder/first-app/overview.md)
+    + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
+    + [app.config.yaml檔案的描述和使用方式](../app-builder/first-app/app-config-yaml-file.md)
+    + [瞭解動作資料夾](../app-builder/first-app/actions-folder.md)
+    + [瞭解測試資料夾](../app-builder/first-app/test-folder.md)
+    + [探索web-src資料夾的用途](../app-builder/first-app/web-src-folder.md)
+    + [在本機測試](../app-builder/first-app/testing-locally.md)
+    + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
+    + [結論](../app-builder/first-app/conclusion.md)
+    + [範例模組原始碼](https://github.com/magento/app-builder-samples){target="_blank"}
+
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
@@ -240,10 +257,7 @@ ht-degree: 3%
     + [查詢](../graphql-rest/graphql-queries.md)
     + [突變](../graphql-rest/graphql-mutations.md)
     + [結構描述](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
-    + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
-    + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
+  + 更多App Builder教學課程和I/O活動 {#adobe-developer-app-builder}
     + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
       + [App Builder和AI工具](../app-builder/split-payment-ai-tools/overview.md)
       + [完整示範](../app-builder/split-payment-ai-tools/full-demo.md)
@@ -262,17 +276,6 @@ ht-degree: 3%
       + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
       + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
       + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + 建立您的第一個App Builder應用程式 {#first-app}
-      + [概觀](../app-builder/first-app/overview.md)
-      + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
-      + [app.config.yaml檔案的描述和使用方式](../app-builder/first-app/app-config-yaml-file.md)
-      + [瞭解動作資料夾](../app-builder/first-app/actions-folder.md)
-      + [瞭解測試資料夾](../app-builder/first-app/test-folder.md)
-      + [探索web-src資料夾的用途](../app-builder/first-app/web-src-folder.md)
-      + [在本機測試](../app-builder/first-app/testing-locally.md)
-      + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
-      + [結論](../app-builder/first-app/conclusion.md)
-      + [範例模組原始碼](https://github.com/magento/app-builder-samples){target="_blank"}
     + Adobe Commerce的IO事件 {#io-events}
       + [IO事件快速入門](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)

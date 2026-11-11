@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.029Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->這些教學課程涵蓋雲端基礎結構和自行託管部署上Adobe Commerce的現有程式內開發和升級。 若要進行新功能開發或適當的自訂移轉，請從[App Builder簡介](../../app-builder/introduction-to-app-builder.md)開始。
+>這些教學課程涵蓋雲端基礎結構和自行託管部署上Adobe Commerce的現有程式內開發和升級。 若要進行新功能開發或適當的自訂移轉，請從[App Builder簡介](../../app-builder/foundations/introduction-to-app-builder.md)開始。
 
 模組是[!DNL Commerce]的結構元素 — 模組構成系統的基礎。 您通常會透過建置模組來開始自訂。
 

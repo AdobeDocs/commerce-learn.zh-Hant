@@ -1,6 +1,6 @@
 ---
 title: 動作資料夾
-description: 瞭解App Builder動作資料夾中的JavaScript檔案和資料夾，包括範例應用程式的OAuth驗證和Commerce連線模式。
+description: 探索App Builder動作資料夾及其JavaScript檔案，包括範例應用程式中的OAuth驗證和Commerce連線模式。
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # 瞭解動作資料夾 {#actions-folder}
 
 這個範例應用程式的`actions`資料夾包含一些JavaScript檔案和一個名為`commerce`的資料夾。 顯示的JavaScript是實用的範例檔案，可在與工作相關時重複使用。 使用OAuth和REST連線至Adobe Commerce應用程式時，此資料夾可為您節省開發時間。
