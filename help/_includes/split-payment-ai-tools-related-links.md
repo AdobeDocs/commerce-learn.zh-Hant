@@ -1,13 +1,11 @@
 ---
 title: 分割付款POC AI工具相關頁面
-description: 可延伸性中相關頁面的連結 — Adobe Developer App Builder — 使用AI工具建立分割付款POC
-source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
+description: App Builder分割付款概念驗證教學課程和參考資源的連結。
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
-
 ---
-
 # 分割付款POC相關連結
 
 ## 此系列中的所有資源

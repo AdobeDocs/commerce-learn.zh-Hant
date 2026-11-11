@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1039'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [報價單明細專案折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [報價明細專案備註](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 應用程式開發和升級 {#application-development-and-upgrades}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [新增產品屬性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [相依性插入範例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -189,6 +189,20 @@ ht-degree: 3%
     + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
     + [結論](../app-builder/first-app/conclusion.md)
     + [範例模組原始碼](https://github.com/magento/app-builder-samples){target="_blank"}
+
+  + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
+    + [App Builder和AI工具](../app-builder/split-payment-ai-tools/overview.md)
+    + [完整示範](../app-builder/split-payment-ai-tools/full-demo.md)
+    + [逐步實作指南](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+    + [架構與設計決策](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+    + [先決條件和環境設定](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+    + [測試和驗證](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+    + [後續步驟](../app-builder/split-payment-ai-tools/next-steps.md)
+    + 參考資源 {#split-payment-resources}
+      + [環境變數參考](../app-builder/split-payment-ai-tools/env-reference.md)
+      + [Commerce模組AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+      + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+      + [Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
 
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
@@ -258,19 +272,6 @@ ht-degree: 3%
     + [突變](../graphql-rest/graphql-mutations.md)
     + [結構描述](../graphql-rest/graphql-schema.md)
   + 更多App Builder教學課程和I/O活動 {#adobe-developer-app-builder}
-    + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
-      + [App Builder和AI工具](../app-builder/split-payment-ai-tools/overview.md)
-      + [完整示範](../app-builder/split-payment-ai-tools/full-demo.md)
-      + [逐步實作指南](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
-      + [架構與設計決策](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
-      + [先決條件和環境設定](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-      + [測試和驗證](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-      + [後續步驟](../app-builder/split-payment-ai-tools/next-steps.md)
-      + 參考資源 {#split-payment-resources}
-        + [環境變數參考](../app-builder/split-payment-ai-tools/env-reference.md)
-        + [Commerce模組AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-        + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-        + [Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
     + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
       + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
       + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
