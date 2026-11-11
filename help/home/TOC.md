@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1028'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,48 @@ ht-degree: 3%
     + [使用內容範本](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [內容分段](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [管理媒體集](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + 行銷與銷售 {#marketing-and-merchandising}
+    + [建立型錄價格規則](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [建立購物車價格規則](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [管理相關產品規則](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [設定產品推薦](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [Live Search簡介](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [Recommendations的即時搜尋](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [即時搜尋完整示範](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [將Commerce與AJO整合](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + 適用於Adobe Commerce的B2B {#b2b}
+    + [管理公司帳戶](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [管理共用目錄](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [管理公司評價](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [採購單與核准](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + 引號 {#quotes}
+      + [銷售代表啟動報價單](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [來自管理員的報價驗證](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [報價單明細專案折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [報價明細專案備註](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + 應用程式開發和升級 {#application-development-and-upgrades}
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [建立模組](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [新增產品屬性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [相依性插入範例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Galera叢集緩慢復寫](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [MySQL查詢快取](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [PT查詢摘要](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [連線並針對Adobe Commerce資料庫執行查詢](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Commerce升級 {#upgrades}
+      + [Adobe Commerce 2.4升級工作坊](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [升級相容性工具概覽](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [使用PhpStorm中的升級相容性工具](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + 全球參考架構實作技術 {#global-reference-architecture-implementation-techniques}
+      + [概觀](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [分割Git](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [大量套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [獨立的套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
     + [資料連線](../capabilities/data-connection.md)
-    + [即時搜尋完整示範](../capabilities/live-search-full-demonstration.md)
     + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
   + 後台整合入門套件 {#back-office-integration-starter-kit}
     + [入門套件示範](../back-office-integrations/starter-kit-demo.md)
@@ -152,6 +189,10 @@ ht-degree: 3%
 + API和整合 {#apis-and-integration}
   + 實用的REST和GraphQL範例 {#examples}
     + [擁有REST的客戶](../apis-and-integration/examples/customer.md)
+    + B2B引號 {#b2b-quotes}
+      + [銷售代表啟動報價單REST API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [報價明細專案折扣GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [報價明細專案備註REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + 擴充性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -163,19 +204,6 @@ ht-degree: 3%
     + [移轉現有程式碼](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + 後端開發 {#backend-development}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
-    + [建立模組](../backend-development/create-module.md)
-    + [新增產品屬性](../backend-development/add-product-attribute.md)
-    + [相依性插入範例](../backend-development/dependency-injection.md)
-    + [Galera叢集緩慢復寫](../backend-development/galera-db-slow-replication.md)
-    + [MySQL查詢快取](../backend-development/mysql-query-cache.md)
-    + [PT查詢摘要](../backend-development/pt-query-digest.md)
-    + [連線並針對Adobe Commerce資料庫執行查詢](../backend-development/remote-db-connection-execute-queries.md)
-    + Commerce升級 {#upgrade}
-      + [Adobe Commerce 2.4升級工作坊](../upgrade/2-4-upgrade-workshop.md)
-      + [升級相容性工具概覽](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [使用PhpStorm中的升級相容性工具](../upgrade/uct-phpstorm.md)
   + 前端Luma開發 {#frontend-development}
     + 適用於開發人員的PaaS/SaaS頁面產生器 {#page-builder}
       + [1 — 簡介](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -262,12 +290,6 @@ ht-degree: 3%
     + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
     + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 
-+ 全球參考架構 {#global-reference-architecture-implementation-techniques}
-  + [概觀](../global-reference-architecture/overview.md)
-  + [分割Git](../global-reference-architecture/split-git.md)
-  + [大量套件](../global-reference-architecture/bulk-packages.md)
-  + [獨立的套件](../global-reference-architecture/separate-packages.md)
-  + [Monorepo](../global-reference-architecture/monorepo.md)
 + 監控、分析和支援 {#monitoring-analytics-support}
   + 可觀察性 {#observability}
     + [可觀察性概觀](../monitoring-analytics-support/observability/overview.md)
@@ -286,25 +308,3 @@ ht-degree: 3%
     + [建立支援票證](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ 行銷工具 {#marketing}
-  + [建立型錄價格規則](../site-management/catalog-price-rules.md)
-  + [建立購物車價格規則](../site-management/cart-price-rules.md)
-  + [管理相關產品規則](../site-management/related-product-rules.md)
-  + [設定產品推薦](../site-management/product-recommendations.md)
-  + [Live Search簡介](../site-management/live-search.md)
-  + [即時搜尋建議](../site-management/live-search-recommendations.md)
-  + [將Commerce與AJO整合](../site-management/integrate-commerce-ajo.md)
-+ 適用於Adobe Commerce的B2B {#b2b}
-  + [管理公司帳戶](../b2b/company-accounts.md)
-  + [管理共用目錄](../b2b/shared-catalogs.md)
-  + [管理公司評價](../b2b/company-credit.md)
-  + [採購單與核准](../b2b/purchase-orders.md)
-  + 引用 {#b2b-quote}
-    + [銷售代表啟動報價單](../b2b/sales-rep-initiates-quote.md)
-    + [來自管理員的報價驗證](../b2b/quote-validation-admin-panel.md)
-    + [銷售代表啟動報價單REST API](../b2b/sales-rep-initiates-quote-api.md)
-    + [報價單明細專案折扣](../b2b/quote-line-item-discount.md)
-    + [報價明細專案備註](../b2b/quote-line-item-notes.md)
-    + [報價明細專案折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
-    + [報價單明細專案折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
