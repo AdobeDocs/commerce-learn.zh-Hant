@@ -1,8 +1,8 @@
 ---
 title: 資料連線完整示範
 description: 觀看有關Adobe Commerce資料連線功能的完整示範
-kt: 14364
-doc-type: tutorial
+jira: KT-14364
+doc-type: Feature Video
 duration: 783
 audience: all
 last-substantial-update: 2023-11-08T00:00:00.000Z
@@ -22,10 +22,6 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: f37757d8-3174-5335-b977-1161792f965d
-    internal-label: Personalization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -45,7 +41,8 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+autotag-review: '2026-11-12T20:16:22.359Z'
+source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -68,4 +65,4 @@ Adobe Commerce資料連線的完整示範。
 * Real-Time CDP受眾會根據瀏覽器資料、伺服器端資料（包括訂單歷史記錄）和其他來源的資料（即忠誠度資料），即時更新和修改分段。
 * 利用Real-Time CDP受眾，在Adobe Commerce中個人化購物車價格規則和動態區塊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453829?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
