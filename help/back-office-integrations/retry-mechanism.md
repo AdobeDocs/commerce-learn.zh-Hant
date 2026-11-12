@@ -3,7 +3,7 @@ title: 使用重試機制的原生功能
 description: 瞭解如何使用Adobe I/O Events的重試機制來建立復原性應用程式，包括重試條件、後退策略和視覺指示器。
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31T00:00:00.000Z
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '377'
 ht-degree: 0%
 ---
 # 使用Adobe I/O Events重試機制以增強應用程式彈性
@@ -53,11 +53,11 @@ ht-degree: 0%
 * 開發人員控制檯中的視覺指示器，例如失敗事件的警告圖示和重試事件的圓形箭頭圖示。
 * 「取用者」執行階段動作在決定事件處理的適當HTTP回應狀態程式碼時，扮演了重要的角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449084?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## 相關檔案
 
-* [Webhook無法處理事件](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook已關閉並標籤為不穩定](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook無法處理事件](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-cannot-handle-a-specific-event-but-handles-others)
+* [Webhook已關閉並標籤為不穩定](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstabledisabled)

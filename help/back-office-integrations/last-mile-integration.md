@@ -3,7 +3,7 @@ title: Commerce入門套件中的最後一哩整合
 description: 瞭解在Commerce中使用擴充性鉤子進行驗證、轉換、預先處理、傳送和後處理的最後一哩整合。
 doc-type: Technical Video
 duration: 557
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -63,6 +63,6 @@ ht-degree: 0%
 * 了解轉換掛接在原始和目的地系統之間轉換資料物件時的角色。
 * 瞭解傳送勾點對於促進實際資料傳送至目的地系統的重要性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451940?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

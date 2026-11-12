@@ -3,7 +3,7 @@ title: Commerce整合入門套件最佳作法
 description: 瞭解使用入門套件的Adobe Commerce整合最佳實務，包括GitHub設定和上線、部署、驗證和上線等。
 doc-type: Technical Video
 duration: 602
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 * 若要建立及設定事件提供者與訂閱，請執行指令碼。
 * 更新Commerce和App Builder中的事件以進行同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452788?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

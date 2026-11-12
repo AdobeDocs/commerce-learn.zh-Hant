@@ -3,7 +3,7 @@ title: 適用於後台整合的Adobe Commerce入門套件
 description: 瞭解用於後台整合的Adobe Commerce入門套件，並探索它如何簡化Commerce與外部後端系統的連線。
 doc-type: Technical Video
 duration: 502
-last-substantial-update: 2024-04-19T00:00:00.000Z
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -60,4 +60,4 @@ ht-degree: 0%
 * 設定I/O事件
 * 連線至協力廠商以同步資料
 
->[!VIDEO](https://video.tv.adobe.com/v/3452025?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
