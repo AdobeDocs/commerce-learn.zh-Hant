@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
+source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1029'
 ht-degree: 3%
 ---
 
@@ -224,12 +224,36 @@ ht-degree: 3%
     + [重試機制](../back-office-integrations/retry-mechanism.md)
 
 + API和整合 {#apis-and-integration}
+  + GraphQL基礎 {#graphql-rest}
+    + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
+    + [查詢](../graphql-rest/graphql-queries.md)
+    + [突變](../graphql-rest/graphql-mutations.md)
+    + [結構描述](../graphql-rest/graphql-schema.md)
   + 實用的REST和GraphQL範例 {#examples}
     + [擁有REST的客戶](../apis-and-integration/examples/customer.md)
     + B2B引號 {#b2b-quotes}
       + [銷售代表啟動報價單REST API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
       + [報價明細專案折扣GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
       + [報價明細專案備註REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+  + API網格 {#api-mesh}
+    + [使用GitHub程式碼空間的API Mesh入門套件](../api-mesh/starter-kit-github-codespaces.md)
+    + [API Mesh入門套件工作流程](../api-mesh/starter-kit-workflows.md)
+    + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
+    + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
+    + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
+    + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
+    + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
+
+  + 活動與Webhook {#events-and-webhooks}
+    + Adobe Commerce的IO事件 {#io-events}
+      + [IO事件快速入門](../io-events/getting-started-io-events.md)
+      + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
+      + [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
+      + [建立App Builder專案](../io-events/create-app-builder-project.md)
+      + [設定Adobe Commerce](../io-events/configure-commerce.md)
+      + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
+      + [Adobe Commerce條件事件](../io-events/conditional-events.md)
 
 + 擴充性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -272,28 +296,6 @@ ht-degree: 3%
         + [Peregrine](../pwa/introduction/6-peregrine.md)
       + [PWA Docker開發](../pwa/pwa-docker-development.md)
       + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
-  + GraphQL和REST {#graphql-rest}
-    + [GraphQL基本需知](../graphql-rest/intro-graphql.md)
-    + [查詢](../graphql-rest/graphql-queries.md)
-    + [突變](../graphql-rest/graphql-mutations.md)
-    + [結構描述](../graphql-rest/graphql-schema.md)
-  + 更多App Builder教學課程和I/O活動 {#adobe-developer-app-builder}
-    + Adobe Commerce的IO事件 {#io-events}
-      + [IO事件快速入門](../io-events/getting-started-io-events.md)
-      + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)
-      + [Adobe Commerce 2.4.6安裝](../io-events/2-4-6-installation.md)
-      + [建立App Builder專案](../io-events/create-app-builder-project.md)
-      + [設定Adobe Commerce](../io-events/configure-commerce.md)
-      + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
-      + [Adobe Commerce條件事件](../io-events/conditional-events.md)
-  + API網格 {#api-mesh}
-    + [使用GitHub程式碼空間的API Mesh入門套件](../api-mesh/starter-kit-github-codespaces.md)
-    + [API Mesh入門套件工作流程](../api-mesh/starter-kit-workflows.md)
-    + [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
-    + [安裝Adobe IO和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
-    + [使用專案和工作環境](../api-mesh/aio-projects-workspaces.md)
-    + [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
-    + [建立多個來源GraphQL API網格](../api-mesh/graphql-multiple-source.md)
 
 + 監控、分析和支援 {#monitoring-analytics-support}
   + 可觀察性 {#observability}
