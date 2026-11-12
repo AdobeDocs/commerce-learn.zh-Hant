@@ -1,10 +1,10 @@
 ---
 title: 擴充性框架和商務事件
-description: 瞭解Adobe Developer App Builder擴充性架構、其主要功能，以及Commerce事件如何實現與Adobe Commerce的即時整合。
+description: 探索Adobe Developer App Builder擴充性架構、其功能，以及Commerce事件如何支援即時Adobe Commerce整合。
 jira: KT-11740
 doc-type: Tutorial
 duration: 228
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,13 +37,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:10.558Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 65
+source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # App Builder的可擴充性架構
 
 本功能展示說明App Builder及其在Adobe Commerce的潛在應用。 本影片介紹擴充性架構、主要客戶優勢和功能。

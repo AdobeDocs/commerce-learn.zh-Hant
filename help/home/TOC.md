@@ -4,9 +4,9 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -173,6 +173,43 @@ ht-degree: 3%
       + [大量套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [獨立的套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + 基礎 {#foundations}
+    + [App Builder簡介](../app-builder/foundations/introduction-to-app-builder.md)
+    + [擴充性框架和Commerce事件](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [從Adobe Exchange安裝App Builder App](../app-builder/foundations/install-app-builder-app.md)
+  + 建置您的第一個應用程式 {#first-app}
+    + [概觀](../app-builder/first-app/overview.md)
+    + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
+    + [app.config.yaml檔案的描述和使用方式](../app-builder/first-app/app-config-yaml-file.md)
+    + [瞭解動作資料夾](../app-builder/first-app/actions-folder.md)
+    + [瞭解測試資料夾](../app-builder/first-app/test-folder.md)
+    + [探索web-src資料夾的用途](../app-builder/first-app/web-src-folder.md)
+    + [在本機測試](../app-builder/first-app/testing-locally.md)
+    + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
+    + [結論](../app-builder/first-app/conclusion.md)
+    + [範例模組原始碼](https://github.com/magento/app-builder-samples){target="_blank"}
+
+  + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
+    + [App Builder和AI工具](../app-builder/split-payment-ai-tools/overview.md)
+    + [完整示範](../app-builder/split-payment-ai-tools/full-demo.md)
+    + [逐步實作指南](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+    + [架構與設計決策](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+    + [先決條件和環境設定](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+    + [測試和驗證](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+    + [後續步驟](../app-builder/split-payment-ai-tools/next-steps.md)
+    + 參考資源 {#split-payment-resources}
+      + [環境變數參考](../app-builder/split-payment-ai-tools/env-reference.md)
+      + [Commerce模組AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+      + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+      + [Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+
+  + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
+    + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+    + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+    + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+    + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
@@ -240,39 +277,7 @@ ht-degree: 3%
     + [查詢](../graphql-rest/graphql-queries.md)
     + [突變](../graphql-rest/graphql-mutations.md)
     + [結構描述](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [從Adobe Exchange安裝應用程式](../app-builder/install-app-builder-app.md)
-    + [App Builder簡介](../app-builder/introduction-to-app-builder.md)
-    + [App Builder的可擴充性架構](../app-builder/extensibility-framework-commerce-eventing.md)
-    + 使用AI工具建立分割付款POC {#create-a-split-payment-poc}
-      + [App Builder和AI工具](../app-builder/split-payment-ai-tools/overview.md)
-      + [完整示範](../app-builder/split-payment-ai-tools/full-demo.md)
-      + [逐步實作指南](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
-      + [架構與設計決策](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
-      + [先決條件和環境設定](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-      + [測試和驗證](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-      + [後續步驟](../app-builder/split-payment-ai-tools/next-steps.md)
-      + 參考資源 {#split-payment-resources}
-        + [環境變數參考](../app-builder/split-payment-ai-tools/env-reference.md)
-        + [Commerce模組AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-        + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-        + [Experience Cloud UI擴充功能AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
-    + 使用AI工具建立自訂運費 {#custom-shipping-rates-ai-tools}
-      + [簡介和設定](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-      + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-      + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-      + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + 建立您的第一個App Builder應用程式 {#first-app}
-      + [概觀](../app-builder/first-app/overview.md)
-      + [產生並設定.env檔案](../app-builder/first-app/env-file.md)
-      + [app.config.yaml檔案的描述和使用方式](../app-builder/first-app/app-config-yaml-file.md)
-      + [瞭解動作資料夾](../app-builder/first-app/actions-folder.md)
-      + [瞭解測試資料夾](../app-builder/first-app/test-folder.md)
-      + [探索web-src資料夾的用途](../app-builder/first-app/web-src-folder.md)
-      + [在本機測試](../app-builder/first-app/testing-locally.md)
-      + [使用App Builder URL進行測試](../app-builder/first-app/testing-app-builder-url.md)
-      + [結論](../app-builder/first-app/conclusion.md)
-      + [範例模組原始碼](https://github.com/magento/app-builder-samples){target="_blank"}
+  + 更多App Builder教學課程和I/O活動 {#adobe-developer-app-builder}
     + Adobe Commerce的IO事件 {#io-events}
       + [IO事件快速入門](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5安裝](../io-events/2-4-5-installation.md)

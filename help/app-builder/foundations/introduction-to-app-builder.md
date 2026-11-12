@@ -1,10 +1,10 @@
 ---
 title: Adobe Commerce的程式外擴充性
-description: 瞭解Adobe Developer App Builder，以及程式外擴充功能如何讓您建立安全、可擴充的Commerce擴充功能，而不會擔心程式內相容性。
+description: 瞭解Adobe Developer App Builder如何啟用安全、可擴充的程式外Commerce擴充功能，同時減少程式內的相容性疑慮。
 jira: KT-11433
 doc-type: Tutorial
 duration: 300
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -34,13 +34,11 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 761
+source-wordcount: '757'
 ht-degree: 0%
-
 ---
-
 # App Builder簡介
 
 過去，Adobe Commerce開發一直使用程式內的擴充功能。 處理中的模型需要任何新程式碼才能與升級、伺服器的PHP版本，以及Commerce使用的許多其他基本伺服器應用程式和服務相容。 Adobe Developer App Builder使用程式外擴充功能來避免這些相容性問題。

@@ -1,6 +1,6 @@
 ---
 title: app.config.yaml檔案
-description: 瞭解app.config.yaml檔案如何決定應用程式設定，以及其定義如何連結至Adobe Developer App Builder範例應用程式中的JavaScript檔案。
+description: 瞭解app.config.yaml如何定義您的Adobe Developer App Builder應用程式，以及其設定如何連線至範例應用程式中的JavaScript檔案。
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -26,13 +26,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:16.146Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '94'
 ht-degree: 0%
-
 ---
-
 # app.config.yaml檔案的說明和使用方式 {#app-config-yaml}
 
 此檔案決定應用程式的設定。

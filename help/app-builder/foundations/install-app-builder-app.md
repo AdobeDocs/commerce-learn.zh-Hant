@@ -1,13 +1,13 @@
 ---
 title: 從Adobe Exchange安裝App Builder應用程式
-description: 瞭解如何從Adobe Exchange尋找、安裝和驗證Adobe Commerce App Builder應用程式，包括篩選、核准、環境設定和安裝驗證。
+description: 瞭解如何從Adobe Exchange尋找、安裝和驗證Adobe Commerce App Builder應用程式，包括核准、環境設定和安裝檢查。
 feature: App Builder
 topic: Commerce
 role: Developer, User
 level: Beginner
 doc-type: Tutorial
 duration: 273
-last-substantial-update: 2025-08-29T00:00:00.000Z
+last-substantial-update: 2025-08-29
 jira: KT-18829
 exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
 TQID: https://experienceleague.adobe.com/s5NzZyNrLao2GX2PJkrQ9cxQhoOk64t-cRFVB9RXqEA
@@ -35,13 +35,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:34.827Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '118'
 ht-degree: 0%
-
 ---
-
 # 從Adobe Exchange安裝App Builder App
 
 瞭解如何使用Adobe Exchange尋找、安裝和驗證Adobe Commerce App Builder應用程式。 系統會引導您篩選相關應用程式、取得並核准應用程式、設定部署環境，以及驗證安裝是否成功，所有這些都是使用摘要產生器應用程式的範例。 無論您是App Builder的新手還是想簡化工作流程，本教學課程提供實用的逐步概觀，幫助您入門。
