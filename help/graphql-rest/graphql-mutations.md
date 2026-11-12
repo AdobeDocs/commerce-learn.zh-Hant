@@ -3,11 +3,11 @@ title: 使用GraphQL執行變異
 description: 取得在Adobe Commerce和[!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個變異。
 landing-page-description: 取得在Adobe Commerce和[!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個變異。
 short-description: 取得在Adobe Commerce和[!DNL Magento Open Source]上使用GraphQL執行突變的簡介。 使用POST呼叫執行您的第一個變異。
-kt: 13938
-doc-type: video
+jira: KT-13938
+doc-type: Tutorial
 duration: 268
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -34,7 +34,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 這是GraphQL和Adobe Commerce系列的第3部分。 變動是指使用GraphQL儲存、更新和傳回值的能力。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441937?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 本系列中GraphQL的相關影片和教學課程
 
