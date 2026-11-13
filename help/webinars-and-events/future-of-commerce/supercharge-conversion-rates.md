@@ -52,7 +52,7 @@ ht-degree: 0%
 * 適用於開發人員的元件與SDK
 * 整合式視覺化編輯工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505730?captions=chi_hant&learn=on)
 
 ## 相關教學課程
 
