@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 477
-last-substantial-update: 2024-09-09T00:00:00.000Z
+last-substantial-update: 2024-09-09
 jira: KT-16061
 exl-id: 3044550b-12ad-41d5-ad2f-cc3759867e40
 TQID: 'https://experienceleague.adobe.com/HFWzBQqgD0RvutRjqTbN0TXGpUSi7wFKijQZVhHK9Sc'
@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Insights
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -72,4 +72,4 @@ API Mesh和統一事件管理等擴充性工具可簡化開發和整合，而Edg
 * Adobe Commerce提供可撰寫服務，例如即時搜尋、AI推薦和彈性支付解決方案。
 * 進階整合包括API Mesh、統一的事件管理以及緊密整合的Adobe Experience Platform。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433446?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)

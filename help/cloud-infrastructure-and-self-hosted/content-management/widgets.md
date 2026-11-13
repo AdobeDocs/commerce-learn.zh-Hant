@@ -3,7 +3,7 @@ title: 建立Widget
 description: 瞭解如何建立和編輯Widget，以便自動在您的商店更新內容。
 doc-type: Tutorial
 duration: 236
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Developer, User
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Widget是可重複使用的元件，您可以建立和修改這些元件，以�
 
 ## 其他資源
 
-* [Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=zh-Hant){target="_blank"}
-* [建立和管理Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=zh-Hant){target="_blank"}
+* [Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [建立和管理Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html){target="_blank"}

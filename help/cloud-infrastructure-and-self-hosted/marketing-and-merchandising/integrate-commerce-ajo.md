@@ -7,7 +7,7 @@ role: Admin, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 570
-last-substantial-update: 2024-01-17T00:00:00.000Z
+last-substantial-update: 2024-01-17
 jira: KT-14793
 thumbnail: 3426855.jpeg
 exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
@@ -52,14 +52,14 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 ---
 # 整合Adobe Commerce和Adobe Journey Optimizer
 
-瞭解如何在Adobe Commerce中使用[Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hant){target="blank"}來解鎖Commerce資料，並透過Adobe Journey Optimizer即時提供端對端個人化購物者體驗。
+瞭解如何在Adobe Commerce中使用[Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"}來解鎖Commerce資料，並透過Adobe Journey Optimizer即時提供端對端個人化購物者體驗。
 
 ## 這部影片是給誰看的？
 
@@ -76,9 +76,9 @@ ht-degree: 0%
 * 在Adobe Journey Optimizer中，使用Data Connection提供的現成事件輕鬆建立及啟用1:1客戶歷程
 * 使用Adobe Journey Optimizer的原生訊息功能，即時與所有管道的購物者互動
 
->[!VIDEO](https://video.tv.adobe.com/v/3452481?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
 
 ## 其他資源
 
-[資料連線總覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hant){target="_blank"}
-[安裝資料連線](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=zh-Hant){target="_blank"}
+[資料連線總覽](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[安裝資料連線](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

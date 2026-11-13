@@ -8,7 +8,7 @@ role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 302
-last-substantial-update: 2025-3-25
+last-substantial-update: 2025-03-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
 TQID: 'https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ'
@@ -33,7 +33,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -55,7 +55,7 @@ ht-degree: 0%
 * 找到一些常見的大型記錄檔
 * 截斷記錄檔的快速方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3454594?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## 視訊中使用的命令
@@ -111,4 +111,4 @@ ssh連線至正確的專案和環境後，請變更至`var/log`目錄。 然後�
 
 ## 相關檔案
 
-* [健康狀態通知](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [健康狀態通知](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

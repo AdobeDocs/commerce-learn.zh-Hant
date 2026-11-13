@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 352
-last-substantial-update: 2024-10-02T00:00:00.000Z
+last-substantial-update: 2024-10-02
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
 TQID: 'https://experienceleague.adobe.com/Lw-nsZI59iSM1yOjOP5L8FK-yEEsJ1QE25pnbYjAGNs'
@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -56,4 +56,4 @@ ht-degree: 0%
 * 瞭解PHP、JavaScript和自訂的最佳實務，以確保順利移轉。
 * 獲得Adobe專家對於成功Adobe Commerce專案的準備、效能和安全的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434868?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)

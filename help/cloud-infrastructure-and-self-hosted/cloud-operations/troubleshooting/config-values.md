@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 709
-last-substantial-update: 2024-11-08T00:00:00.000Z
+last-substantial-update: 2024-11-08
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
 TQID: 'https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs'
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -54,14 +54,14 @@ ht-degree: 0%
 * 瞭解如何透過管理面板、程式碼存放庫和環境特定檔案，編輯和覆寫設定值。
 * 探索使用app:config:dump和Adobe Commerce Cloud管理UI等工具，在不同環境中維持一致組態設定的最佳做法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505792?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
 
 ## 相關Experience League檔案
 
-* [匯出設定](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-* [覆寫組態設定](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-* [設定設定值](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-* [設定參考config.php](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-* [設定指南技術詳細資訊](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/deployment/technical-details)
-* [鎖定的設定值](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-* [在env.php](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)上儲存的值
+* [匯出設定](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+* [覆寫組態設定](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+* [設定設定值](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+* [設定參考config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+* [設定指南技術詳細資訊](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+* [鎖定的設定值](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+* [在env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)上儲存的值

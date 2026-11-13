@@ -2,7 +2,7 @@
 title: 建立購物車價格規則
 description: 瞭解如何建立購物車價格規則，當符合您定義的條件時，這些規則會在購物車中套用折扣。
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 0%
@@ -154,5 +154,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [優惠券代碼 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [建立購物車價格規則 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [優惠券代碼 —  [!DNL Commerce] 銷售和促銷指南](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
