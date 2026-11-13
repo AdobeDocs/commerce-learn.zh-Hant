@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 355
-last-substantial-update: 2024-08-23T00:00:00.000Z
+last-substantial-update: 2024-08-23
 jira: KT-15165
 exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
 TQID: 'https://experienceleague.adobe.com/S2bl2x6FNq0bvaWUlTMoCHWSYaxmwLliNVewsDxKNh4'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ ht-degree: 0%
 * 瞭解推薦的文章會如何因表單中使用的資訊而改變
 * 表單欄位中的預留位置文字如何協助您瞭解良好支援請求所需的資訊型別
 
->[!VIDEO](https://video.tv.adobe.com/v/3449564?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Commerce知識庫Adobe說明中心指南
 
-[提交支援案例](https://experienceleague.adobe.com/zh-hant/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[提交支援案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

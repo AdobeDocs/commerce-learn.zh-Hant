@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 292
-last-substantial-update: 2024-12-17T00:00:00.000Z
+last-substantial-update: 2024-12-17
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
 TQID: 'https://experienceleague.adobe.com/oZUaAnDWr0pokSxhOV75wZzzXWgb9SLMLQMDBjwq6do'
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -65,7 +65,7 @@ ht-degree: 0%
 * 瞭解如何包含購物車摘要的儲存總額。
 * 瞭解如何將購物車摘要中的行合併到一個可摺疊的區段中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441196?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## 其他檔案
 

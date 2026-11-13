@@ -8,7 +8,7 @@ level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
 solution: Adobe Commerce
-last-substantial-update: 2023-02-10T00:00:00.000Z
+last-substantial-update: 2023-02-10
 jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Adobe Commerce Intelligence SQL Report Builder可讓您查詢資料倉儲、檢�
 
 >[!TIP]
 >
-> 如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant){target="_blank"}將說明如何彙總、分析和視覺化資料，以獲得更強大的業務見解。
+> 如果您是Commerce Intelligence的新手，[Adobe Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}將說明如何彙總、分析和視覺化資料，以獲得更強大的業務見解。
 
 ## 這部影片是給誰看的？
 
@@ -69,5 +69,5 @@ Adobe Commerce Intelligence SQL Report Builder可讓您查詢資料倉儲、檢�
 
 ## 有用的資源
 
-* [使用SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=zh-Hant){target="_blank"} （Commerce Intelligence使用手冊）
-* [從SQL查詢建立視覺效果](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=zh-Hant){target="_blank"} （Commerce Intelligence使用手冊）
+* [使用SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} （Commerce Intelligence使用手冊）
+* [從SQL查詢建立視覺效果](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"} （Commerce Intelligence使用手冊）

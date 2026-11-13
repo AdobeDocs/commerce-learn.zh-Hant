@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 430
-last-substantial-update: 2024-12-16T00:00:00.000Z
+last-substantial-update: 2024-12-16
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
 TQID: 'https://experienceleague.adobe.com/Scjl9nt8Oai2tM3y2eTEbxUYWACzoJgAY9U2-bBK4rY'
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -67,7 +67,7 @@ ht-degree: 0%
 * 使用購物車規則和頁尾位置顯示的優惠券折扣，以有效顯示此資訊。
 * 使用產品屬性和插槽來擴充及自訂購物車功能，確保符合所有專案需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441127?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 其他檔案

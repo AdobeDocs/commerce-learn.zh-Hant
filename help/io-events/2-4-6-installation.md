@@ -4,7 +4,7 @@ description: 瞭解如何在Adobe Commerce 2.4.6中安裝IO事件所需的模組
 jira: KT-11887
 doc-type: Tutorial
 duration: 136
-last-substantial-update: 2023-02-22T00:00:00.000Z
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture
@@ -35,7 +35,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -54,7 +54,7 @@ ht-degree: 0%
 * 針對Adobe Commerce Cloud執行的命令
 * Adobe Commerce Cloud Yaml必要的編輯
 
->[!VIDEO](https://video.tv.adobe.com/v/3430639?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415795?learn=on)
 
 ## 有用的命令 {#useful-commands}
 
