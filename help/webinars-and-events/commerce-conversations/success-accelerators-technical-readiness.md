@@ -1,6 +1,6 @@
 ---
-title: Success Accelerators Technical Readiness
-description: Learn about Commerce Success Accelerator Technical readiness, solution review, event planning, and 24/7 monitoring for optimal performance.
+title: Success Accelerator技術整備
+description: 瞭解Commerce Success Accelerator技術整備、解決方案審查、事件規劃和全天候監控，以獲得最佳效能。
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -26,30 +26,34 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '217'
 ht-degree: 0%
-
 ---
+# Success Accelerator技術整備
 
-# Success Accelerators technical readiness
-
-Adobe Commerce Success Accelerators include services like technical readiness, which covers launch advisory, upgrade/migration readiness, environment review, and solution troubleshooting. Additionally, they offer solution and adoption reviews to enhance product usage and performance. Event planning and monitoring services provide guidance and 24/7 support for critical campaigns and product launches, ensuring optimal performance and proactive issue identification. These accelerators aim to maximize the effectiveness and adoption of Adobe Commerce products
+Adobe Commerce成功加速器包括技術整備等服務，涵蓋啟動諮詢、升級/移轉整備、環境審查和解決方案疑難排解。 此外，他們提供解決方案和採用審查，以增強產品使用和效能。 事件規劃和監控服務提供重要行銷活動和產品推出的指導和24/7全年支援，以確保最佳效能和主動識別問題。 這些加速器旨在讓Adobe Commerce產品獲得最大效益和最佳採用
 
 ## 這部影片是給誰看的？
 
 * 電子商務管理員
-* Technical Leads
+* 技術銷售機會
 * 專案經理
-* Customer Support Specialists
+* 客戶支援專家
 * 業務分析人員
 
 ## 視訊內容 {#video-content}
 
-* Launch advisory, upgrade/migration readiness, and environment review.
-* Post-implementation guidance for resolving issues outside regular customer support.
-* Product usage, performance, and overall adoption.
-* Guidance and 24/7 support for critical campaigns and product launches.
+* 上市諮詢、升級/移轉整備以及環境審查。
+* 解決一般客戶支援以外問題的實作後指引。
+* 產品使用、效能和整體採用。
+* 關鍵行銷活動和產品發行的指導和24/7支援。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)
+
+## 相關教學課程
+
+* [雲端基礎結構與自行託管：啟動前的檢查清單](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [可觀察性概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [建立支援票證](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

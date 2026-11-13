@@ -1,6 +1,6 @@
 ---
 title: 規劃現代Adobe Commerce實作
-description: 此網路研討會是關於現代商務系統（尤其是Adobe Commerce）的實作規劃，並包括探索階段、服務、全球參考架構、前端開發實務和最佳實務的討論。
+description: 瞭解如何規劃Adobe Commerce實施，其中涵蓋探索、服務、全球參考架構、前端開發和最佳實務。
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -52,9 +52,9 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '457'
 ht-degree: 0%
 ---
 # 規劃現代Adobe Commerce實作
@@ -83,5 +83,11 @@ Adobe Commerce概觀及其規劃、建置和維護現代化實作的四部分系
 * 正確規劃、組織和安排任務優先順序的重要性，包括從專案最困難的部分開始，並考慮將GRA用於可重複使用的元件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
+
+## 相關教學課程
+
+* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [資料連線](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

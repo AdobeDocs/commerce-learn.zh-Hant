@@ -2,7 +2,7 @@
 title: 使用AI工具簡化Adobe Commerce移轉
 description: 瞭解Adobe Commerce如何運用AI工具、模組化採用和更快的開發來簡化雲端移轉，以實現可擴充的業務增長。
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -40,9 +40,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '283'
 ht-degree: 0%
 ---
 # 透過簡化新產品採用來促進業務增長
@@ -63,4 +63,10 @@ Adobe Commerce分階段協助企業移至Adobe Commerce as a Cloud Service和Ado
 * App Builder的擴充功能可將自訂邏輯分離為無伺服器函式，以方便維護。
 * 店面增強功能利用插入式元件和邊緣交付來改善效能和內容建立。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475759?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
+
+## 相關教學課程
+
+* [移轉至Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
