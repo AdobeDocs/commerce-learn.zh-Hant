@@ -1,9 +1,9 @@
 ---
 title: Commerce入門套件中的Source程式碼組織
-description: 瞭解Commerce整合入門套件中的原始碼組織，包括動作和指令碼、自動化指令碼和事件處理等關鍵資料夾。
+description: 瞭解Commerce整合入門套件中的原始碼組織，包括動作和指令碼資料夾、自動化指令碼和事件處理。
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 ---
 # 適用於Adobe入門套件的Source程式碼組織

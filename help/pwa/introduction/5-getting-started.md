@@ -1,8 +1,8 @@
 ---
 title: 適用於開發人員的PWA Studio — 專案設定
 description: 開始使用新的PWA Studio專案，包括產生本機SSL憑證和組建套件CLI命令。
-kt: 5648
-doc-type: video
+jira: KT-5648
+doc-type: Technical Video
 duration: 968
 activity: use
 last-substantial-update: 2023-5-28
@@ -42,7 +42,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

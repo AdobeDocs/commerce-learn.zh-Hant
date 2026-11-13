@@ -4,10 +4,10 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
-source-wordcount: '1029'
-ht-degree: 3%
+source-wordcount: '1042'
+ht-degree: 2%
 ---
 
 # Adobe Commerce影片和教學課程 {#tutorials}
@@ -213,15 +213,7 @@ ht-degree: 3%
 + 快速入門 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
-    + [資料連線](../capabilities/data-connection.md)
     + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
-  + 後台整合入門套件 {#back-office-integration-starter-kit}
-    + [入門套件示範](../back-office-integrations/starter-kit-demo.md)
-    + [整合](../back-office-integrations/integrations.md)
-    + [Source程式碼組織](../back-office-integrations/source-code-organization.md)
-    + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
-    + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
-    + [重試機制](../back-office-integrations/retry-mechanism.md)
 
 + API和整合 {#apis-and-integration}
   + GraphQL基礎 {#graphql-rest}
@@ -255,18 +247,33 @@ ht-degree: 3%
       + [Adobe Commerce模組開發](../io-events/commerce-module-development.md)
       + [Adobe Commerce條件事件](../io-events/conditional-events.md)
 
+  + 後台整合入門套件 {#back-office-integration-starter-kit}
+    + [入門套件示範](../back-office-integrations/starter-kit-demo.md)
+    + [整合](../back-office-integrations/integrations.md)
+    + [Source程式碼組織](../back-office-integrations/source-code-organization.md)
+    + [最後一哩整合](../back-office-integrations/last-mile-integration.md)
+    + [Webhook擷取](../back-office-integrations/webhook-ingestion.md)
+    + [重試機制](../back-office-integrations/retry-mechanism.md)
+
+  + 資料整合 {#data-integrations}
+    + [資料連線](../capabilities/data-connection.md)
+
 + 擴充性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
-    + [概觀](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
-    + [藍圖並開發階段](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
-    + [連線整合](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
-    + [部署、關聯、安裝](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
-    + [設定和測試](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
-    + [移轉現有程式碼](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
-    + [結論](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
-    + [App Builder練習](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + 前端Luma開發 {#frontend-development}
-    + 適用於開發人員的PaaS/SaaS頁面產生器 {#page-builder}
+    + [Developer Agent學習路徑](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+
++ 店面開發 {#storefront-development}
+  + Edge Delivery Services上的Commerce店面 {#edge-delivery-services}
+    + 快速入門 {#getting-started}
+      + [變更異動流程](../edge-delivery-services/transactional-flow.md)
+      + [對購物車專案使用產品屬性](../edge-delivery-services/product-attributes-cart-items.md)
+      + [更新結帳中的訂單摘要](../edge-delivery-services/update-order-summary.md)
+      + [正在新增BOPI以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [自訂簽出](../edge-delivery-services/customize-checkout.md)
+      + [自訂地址配置](../edge-delivery-services/customize-address-new-account-link.md)
+      + [購物者體驗](../edge-delivery-services/shopper-experience.md)
+  + Luma和PHP型店面開發 {#frontend-development}
+    + 適用於開發人員的頁面產生器 {#page-builder}
       + [1 — 簡介](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 — 設定和內容](../frontend-development/page-builder/2-config-create-content.md)
       + [3 — 主題](../frontend-development/page-builder/3-themes.md)
@@ -275,27 +282,18 @@ ht-degree: 3%
       + [6 — 自訂內容型別](../frontend-development/page-builder/6-custom-content-types.md)
     + [新增JavaScript模組](../frontend-development/add-javascript-module.md)
     + [建立頁面](../frontend-development/create-page.md)
-    + Edge Delivery Services {#edge-delivery-services}
-      + 快速入門 {#getting-started}
-        + [變更異動流程](../edge-delivery-services/transactional-flow.md)
-        + [對購物車專案使用產品屬性](../edge-delivery-services/product-attributes-cart-items.md)
-        + [更新結帳中的訂單摘要](../edge-delivery-services/update-order-summary.md)
-        + [正在新增BOPI以簽出](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [自訂簽出](../edge-delivery-services/customize-checkout.md)
-        + [自訂地址配置](../edge-delivery-services/customize-address-new-account-link.md)
-        + [購物者體驗](../edge-delivery-services/shopper-experience.md)
-    + Headless架構 {#headless-architecture}
-      + Headless簡介 {#introduction-to-headless}
-        + [Headless架構 — 工作階段1](../headless/session-1.md)
-      + PWA Studio簡介 {#introduction}
-        + [概觀](../pwa/introduction/1-overview.md)
-        + [PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
-        + [Launch](../pwa/introduction/3-launch.md)
-        + [向上](../pwa/introduction/4-upward.md)
-        + [快速入門](../pwa/introduction/5-getting-started.md)
-        + [Peregrine](../pwa/introduction/6-peregrine.md)
-      + [PWA Docker開發](../pwa/pwa-docker-development.md)
-      + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
+  + Headless架構和PWA Studio {#headless-architecture}
+    + Headless簡介 {#introduction-to-headless}
+      + [Headless架構 — 第1階段](../headless/session-1.md)
+    + PWA Studio簡介 {#introduction}
+      + [概觀](../pwa/introduction/1-overview.md)
+      + [PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
+      + [Launch](../pwa/introduction/3-launch.md)
+      + [向上](../pwa/introduction/4-upward.md)
+      + [快速入門](../pwa/introduction/5-getting-started.md)
+      + [Peregrine](../pwa/introduction/6-peregrine.md)
+    + [PWA Docker開發](../pwa/pwa-docker-development.md)
+    + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
 
 + 監控、分析和支援 {#monitoring-analytics-support}
   + 可觀察性 {#observability}

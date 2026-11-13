@@ -7,14 +7,13 @@ role: Developer
 level: Intermediate
 doc-type: Tutorial
 duration: 438
-last-substantial-update: 2026-08-28T00:00:00Z
-source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
+last-substantial-update: 2026-08-28
+jira: KT-23144
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce Developer Agent App Builder練習
 
 使用Commerce Developer Agent (CDA)建置、部署和測試Adobe Commerce擴充性使用案例的實作逐步解說。 此練習涵蓋三個使用案例：購物車數量限制webhook、高價值訂單保留，以及從Blueprint到功能測試的持有訂單事件導向封存。

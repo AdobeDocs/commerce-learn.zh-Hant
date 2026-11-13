@@ -3,7 +3,7 @@ title: 設定、部署和自訂內嵌Webhook
 description: 瞭解如何設定、部署及自訂內嵌webhook ，以將Adobe Commerce與協力廠商後台系統連線並處理事件翻譯。
 doc-type: Technical Video
 duration: 697
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
