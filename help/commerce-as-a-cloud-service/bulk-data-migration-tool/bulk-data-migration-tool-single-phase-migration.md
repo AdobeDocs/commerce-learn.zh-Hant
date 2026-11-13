@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 737
-last-substantial-update: 2026-07-24T00:00:00.000Z
+last-substantial-update: 2026-07-24
 jira: KT-22139
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -44,4 +44,4 @@ ht-degree: 0%
 * 檢查移轉摘要報告 — 步驟8 （資料完整性驗證）會記錄失敗而不停止管道，因此完成的執行不保證可乾淨驗證。
 * 這個單階段命令是一個完整、獨立的管道 — 請勿在維護模式（分階段移轉）工作流程中將其用作步驟，因為工作流程有其自己的專用命令。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496325?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)

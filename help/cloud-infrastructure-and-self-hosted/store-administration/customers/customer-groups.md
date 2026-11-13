@@ -4,7 +4,7 @@ description: 瞭解Adobe Commerce客戶群組，以及他們如何控制價格�
 jira: KT-19057
 doc-type: Feature Video
 duration: 97
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 feature: Configuration, System, Personalization, Taxes, Price Rules
 topic: Commerce, Administration
 role: Admin, Developer, User
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -62,8 +62,8 @@ Adobe Commerce中的客戶群組可讓您提供目標促銷和產品定價、指
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3473337?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
 
 ## 其他資源
 
-* [客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/customers/customer-groups)
+* [客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)

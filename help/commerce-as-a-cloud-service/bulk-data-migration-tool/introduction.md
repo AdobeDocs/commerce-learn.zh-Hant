@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 183
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22086
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -43,4 +43,4 @@ ht-degree: 0%
 * 解壓縮工具套件並設定正確的檔案夾許可權。
 * 檢閱此系列後續影片中設定的`.env.example`檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496131?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)

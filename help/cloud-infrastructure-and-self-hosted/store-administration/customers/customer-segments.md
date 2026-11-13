@@ -3,7 +3,7 @@ title: 建立客戶區段
 description: 瞭解如何建立客戶區段，以便使用地址、訂單歷史記錄、購物車資料等鎖定內容和促銷活動。
 doc-type: Technical Video
 duration: 221
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Price Rules
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -65,5 +65,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=zh-Hant){target="_blank"}
-* [價格規則中的客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=zh-Hant){target="_blank"}
+* [客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
+* [價格規則中的客戶區段 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}
