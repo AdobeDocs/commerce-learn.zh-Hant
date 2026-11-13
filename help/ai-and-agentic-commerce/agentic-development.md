@@ -4,7 +4,7 @@ description: 瞭解Adobe Commerce的代理開發如何將分析、設計、程�
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21575
 duration: 225
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 * 整個系統檢視的並行驗證和最佳化
 * 持續部署流程，不會發生移交或內容遺失
 
->[!VIDEO](https://video.tv.adobe.com/v/3492296?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3492284)
 
 <!-- ## Additional resources -->
 

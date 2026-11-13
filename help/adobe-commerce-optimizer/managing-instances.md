@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 163
-last-substantial-update: 2025-07-29T00:00:00.000Z
+last-substantial-update: 2025-07-29
 jira: KT-18638
 exl-id: 94efabb2-a6b2-4ec2-a82d-4d5e4cd28803
 autotag-review: '2026-08-11T18:53:38.305Z'
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -51,10 +51,10 @@ ht-degree: 0%
 * 更新名稱和說明
 * 尋找整合的關鍵端點和識別碼
 
->[!VIDEO](https://video.tv.adobe.com/v/3470243?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
 
 ## 相關內容
 
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [開始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [開始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}

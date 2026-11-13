@@ -2,9 +2,9 @@
 title: Adobe可用的商務選項
 description: 比較Adobe Commerce部署選項（內部部署、雲端、SaaS和Commerce Optimizer），瞭解如何為您的企業選擇正確的模式。
 jira: KT-20236
-doc-type: tutorial
+doc-type: Tutorial
 duration: 360
-last-substantial-update: 2026-2-25
+last-substantial-update: 2026-02-25
 feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
@@ -28,7 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -51,10 +51,10 @@ ht-degree: 0%
 * 瞭解何時需在不取代後端的情況下匯入最新的店面
 * 根據DevOps資源、擴充能力及業務目標，找出最適合的專案
 
->[!VIDEO](https://video.tv.adobe.com/v/3480254?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## 相關檔案
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

@@ -4,7 +4,7 @@ description: 瞭解如何使用GitHub Codespaces入門套件開始使用Adobe Co
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
-last-substantial-update: 2025-06-17T00:00:00.000Z
+last-substantial-update: 2025-06-17
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
@@ -41,7 +41,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -62,10 +62,10 @@ ht-degree: 0%
 * 內建測試工具：包含預先設定的GraphQL伺服器(Yoga)和自動伺服器重新啟動，以實現順暢開發。
 * 實務學習：直接在瀏覽器中複製入門套件、設定端點，以及測試API回應。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464028?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## 相關檔案
 
 * [API網狀入門套件GitHub存放庫](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer檔案graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh影片播放清單](https://experienceleague.adobe.com/zh-hant/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh影片播放清單](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 288
-last-substantial-update: 2025-10-20T00:00:00.000Z
+last-substantial-update: 2025-10-20
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
 product_v2:
@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -47,5 +47,5 @@ ht-degree: 0%
 * 自訂SFCC卡匣和API會透過差異匯出偵測目錄變更，實現與Adobe App Builder的有效資料同步。
 * App Builder執行階段動作會管理完整和差異同步、驗證和狀態追蹤，以確保Commerce Optimizer的更新準確且不會發生衝突。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476062?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
 

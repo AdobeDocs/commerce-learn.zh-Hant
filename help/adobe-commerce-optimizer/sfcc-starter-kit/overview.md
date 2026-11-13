@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 230
-last-substantial-update: 2025-10-20T00:00:00.000Z
+last-substantial-update: 2025-10-20
 jira: KT-18990
 exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
 product_v2:
@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 * 瞭解Salesforce Commerce Cloud整合入門套件的用途。
 * 瞭解在何處安裝入門套件
 
->[!VIDEO](https://video.tv.adobe.com/v/3473989?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
 
 
 ## 繼續使用入門套件系列
@@ -57,4 +57,4 @@ ht-degree: 0%
 3. [App Builder入門套件](./app-builder-starter-kit.md)
 4. [端對端示範](./end-to-end-demo.md)
 
-如需共用的App Builder概念，請參閱[App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)。
+如需共用的App Builder概念，請參閱[App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)。

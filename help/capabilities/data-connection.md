@@ -5,7 +5,7 @@ jira: KT-14364
 doc-type: Feature Video
 duration: 783
 audience: all
-last-substantial-update: 2023-11-08T00:00:00.000Z
+last-substantial-update: 2023-11-08
 feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
@@ -42,7 +42,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-12T20:16:22.359Z'
-source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -65,4 +65,4 @@ Adobe Commerce資料連線的完整示範。
 * Real-Time CDP受眾會根據瀏覽器資料、伺服器端資料（包括訂單歷史記錄）和其他來源的資料（即忠誠度資料），即時更新和修改分段。
 * 利用Real-Time CDP受眾，在Adobe Commerce中個人化購物車價格規則和動態區塊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453829?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)

@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 242
-last-substantial-update: 2025-03-06T00:00:00.000Z
+last-substantial-update: 2025-03-06
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 autotag-review: '2026-08-11T18:59:26.597Z'
@@ -32,7 +32,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -53,11 +53,11 @@ Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現�
 * 與現有ERP、CRM、OMS和其他系統緊密整合，無需重新平台。
 * 縮放數位作業
 
->[!VIDEO](https://video.tv.adobe.com/v/3450474?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## 繼續學習
 
-* [比較Adobe Commerce選項](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [比較Adobe Commerce選項](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [建立您的第一個Adobe Commerce Optimizer執行個體](./create-first-instance.md)
 * [管理Adobe Commerce Optimizer執行個體](./managing-instances.md)
 * [擷取範例資料](./ingest-sample-data.md)
@@ -67,5 +67,5 @@ Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現�
 
 ## 其他資源
 
-[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 

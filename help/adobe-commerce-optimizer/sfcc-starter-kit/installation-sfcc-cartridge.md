@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 710
-last-substantial-update: 2025-10-21T00:00:00.000Z
+last-substantial-update: 2025-10-21
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
 product_v2:
@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -51,5 +51,5 @@ ht-degree: 0%
 * 匯入自訂物件和作業定義以支援追蹤和同步。
 * 測試自訂API端點，以確認安裝成功並準備目錄同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476081?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
 

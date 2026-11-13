@@ -4,7 +4,7 @@ description: 瞭解Experience Workspace如何使用代理程式AI助理，從連
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21574
 duration: 376
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Experience Workspace是代理式撰寫環境，可讓行銷人員和開發人員
 * 查詢目錄和產生完整行銷活動頁面的自然語言提示
 * 區塊層級編輯和發佈前的即時邊緣演算預覽
 
->[!VIDEO](https://video.tv.adobe.com/v/3492305?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3492281)
 
 <!-- ## Additional resources -->
 
