@@ -1,11 +1,11 @@
 ---
 title: 商務使用者適用的[!DNL Commerce] — 電子郵件通訊
-description: 使用客戶在店面上的動作所觸發的交易式電子郵件與其溝通。 自訂並設定您商店的電子郵件範本。
+description: 使用店面動作觸發的交易式電子郵件與客戶通訊。 自訂和設定Commerce商店的電子郵件範本。
 kt: 5780
-doc-type: video
+doc-type: Technical Video
 duration: 257
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Personalization
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -35,9 +35,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 0%
 ---
 # 商務使用者適用的[!DNL Commerce] — 電子郵件通訊
@@ -55,12 +55,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant)。
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?learn=on)
 
 ## 其他資源
 
-[電子郵件範本 —  [!DNL Commerce] 系統管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=zh-Hant)
+[電子郵件範本 —  [!DNL Commerce] 系統管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[變數與客戶通訊 —  [!DNL Commerce] 系統管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=zh-Hant#variables-and-customer-communications)
+[變數與客戶通訊 —  [!DNL Commerce] 系統管理系統指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

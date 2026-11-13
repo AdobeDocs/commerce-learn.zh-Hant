@@ -1,13 +1,13 @@
 ---
 title: 成功加速器組織整備
-description: 瞭解Adobe對於組織整備的成功加速器。 Commerce Success Accelerator組織整備可協助進行策略規劃、工作流程、變更管理和數位審查。
+description: 瞭解Adobe Commerce成功加速器如何透過策略規劃、工作流程、變更管理和數位審查，支援組織整備。
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 133
-last-substantial-update: 2025-04-29T00:00:00.000Z
+last-substantial-update: 2025-04-29
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
 TQID: 'https://experienceleague.adobe.com/BJ-tD-V23BCBSzyEcjDryOsdeskr0LwjYzPCHx5ercU'
@@ -35,9 +35,9 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # 成功加速器組織整備
@@ -57,4 +57,4 @@ ht-degree: 0%
 * 變更管理與溝通策略
 * 數位檢閱和效能評定
 
->[!VIDEO](https://video.tv.adobe.com/v/3505739?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)

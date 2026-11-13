@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 743
-last-substantial-update: 2025-10-13T00:00:00.000Z
+last-substantial-update: 2025-10-13
 jira: KT-19378
 exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
 TQID: 'https://experienceleague.adobe.com/1T7uFUgF8d70ZYRwYg3D6lv8Oegx3YFXBcO6CAZmO-s'
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -63,10 +63,10 @@ Adobe Commerce分階段協助企業移至Adobe Commerce as a Cloud Service和Ado
 * App Builder的擴充功能可將自訂邏輯分離為無伺服器函式，以方便維護。
 * 店面增強功能利用插入式元件和邊緣交付來改善效能和內容建立。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475759?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
 
 ## 相關教學課程
 
-* [移轉至Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
-* [App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [移轉至Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
