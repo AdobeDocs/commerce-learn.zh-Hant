@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '808'
 ht-degree: 0%
 ---
 # App Builder簡介
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 適用於Adobe Commerce的App Builder {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3432202?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder是一個無伺服器擴充平台，用於整合及建立自訂體驗以擴充Adobe解決方案，現在可供Adobe Commerce使用。 透過App Builder，您可以建立安全且可擴充的應用程式，以擴充Commerce原生功能並與協力廠商解決方案整合。 作為開發人員，您現在可以利用Adobe Commerce的程式外擴充功能，而這又可提供即期和長期好處。
 
@@ -88,7 +88,7 @@ Adobe Developer App Builder並非提供預先設定的解決方案，而是提�
 
 閱讀下列部落格，可找到包含初始設定的可撰寫商務策略概觀：
 
-[App Builder如何協助提升您商務平台的商業靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[App Builder如何協助提升您商務平台的商業靈敏度](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 為協助您開始使用App Builder，Adobe已建立下列檔案：
 
@@ -106,5 +106,9 @@ App Builder為開發人員提供影片和檔案，包括指南和參考檔案，
 準備好開始開發了嗎？ 下列連結包含協助您開始使用的範例應用程式：
 
 * [Adobe Developer網站上的App Builder Code Labs](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+
+## 優惠方案特定範例
+
+若要在App Builder上建置Adobe Commerce Optimizer整合，請依照[Salesforce Commerce Cloud入門套件](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview)操作。 此系列涵蓋架構、Salesforce卡匣安裝、App Builder入門套件以及端對端示範。
 
 {{$include /help/_includes/app-builder-related-links.md}}
