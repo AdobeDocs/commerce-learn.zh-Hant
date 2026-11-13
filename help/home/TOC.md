@@ -160,7 +160,7 @@ ht-degree: 2%
       + [報價單明細專案折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [報價明細專案備註](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 應用程式開發和升級 {#application-development-and-upgrades}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
     + [建立模組](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [新增產品屬性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [相依性插入範例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -178,7 +178,7 @@ ht-degree: 2%
       + [大量套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [獨立的套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
-+ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
++ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 + App Builder {#app-builder}
   + 基礎 {#foundations}
@@ -262,7 +262,7 @@ ht-degree: 2%
 
 + 擴充性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
-    + [Developer Agent學習路徑](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+    + [Developer Agent學習路徑](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + 店面開發 {#storefront-development}
   + Edge Delivery Services上的Commerce店面 {#edge-delivery-services}
@@ -297,7 +297,7 @@ ht-degree: 2%
     + [PWA Docker開發](../pwa/pwa-docker-development.md)
     + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
 
-+ [AI與代理商務](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
++ [AI與代理商務](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 
 + 監控、分析和支援 {#monitoring-analytics-support}
   + 可觀察性 {#observability}
@@ -318,4 +318,4 @@ ht-degree: 2%
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ [網路研討會與活動](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
++ [網路研討會與活動](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
