@@ -69,4 +69,4 @@ Adobe Commerce as a Cloud Service為企業提供彈性、可擴充且有效的�
 
 ## 相關檔案
 
-* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/cloud-service/overview)
