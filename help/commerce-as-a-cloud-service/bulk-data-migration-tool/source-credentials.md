@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 238
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22095
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -41,6 +41,6 @@ ht-degree: 0%
 * 在`.env`檔案中設定來源執行個體URL以及REST和GraphQL URL。
 * 從Adobe Commerce管理中的&#x200B;**系統** > **擴充功能** > **整合**&#x200B;擷取或建立整合金鑰。
 * 若要產生四個必要的權杖，請啟用整合。
-* 如果您的來源為Adobe Commerce as a Cloud Service (PaaS)，請從account.magento.cloud擷取Magento CLI Token。
+* 如果您的來源為Magento as a Cloud Service (PaaS)，請從account.magento.cloud擷取Adobe Commerce CLI Token。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496151?captions=chi_hant&learn=on)

@@ -4,15 +4,20 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1137'
 ht-degree: 2%
 ---
 
 # Adobe Commerce影片和教學課程 {#tutorials}
 
 + [[!DNL Commerce] 教學課程](overview.md)
++ 快速入門 {#getting-started}
+  + Commerce功能 {#capabilities}
+    + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
+    + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
+
 + Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
   + [概觀](../commerce-as-a-cloud-service/overview.md)
   + [架構](../commerce-as-a-cloud-service/architecture.md)
@@ -37,6 +42,23 @@ ht-degree: 2%
     + [Target認證](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [單階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [多階段移轉](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+  + [概觀](../adobe-commerce-optimizer/overview.md)
+  + [建立您的第一個Adobe Commerce Optimizer執行個體](../adobe-commerce-optimizer/create-first-instance.md)
+  + [管理Adobe Commerce Optimizer執行個體](../adobe-commerce-optimizer/managing-instances.md)
+  + [擷取範例資料](../adobe-commerce-optimizer/ingest-sample-data.md)
+  + [使用GraphQL的第一個查詢](../adobe-commerce-optimizer/first-query.md)
+  + Salesforce Commerce Cloud入門套件 {#sfcc-starter-kit}
+    + [概觀](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+    + [架構概觀](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+    + [安裝SFCC卡匣](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+    + [應用程式建立工具入門套件](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+    + [端對端示範](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
+  + 可撰寫的目錄資料模型 {#composable-catalog-data-model}
+    + [為什麼CCDM存在](../adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists.md)
+    + [瞭解目錄檢視](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
+    + [瞭解CCDM政策](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-ccdm-policies.md)
+
 + 雲端基礎結構和自行託管 {#cloud-infrastructure-and-self-hosted}
   + 平台與移轉 {#platform-and-migration}
     + [行銷結構](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
@@ -173,6 +195,7 @@ ht-degree: 2%
       + [大量套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [獨立的套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
+
 + App Builder {#app-builder}
   + 基礎 {#foundations}
     + [App Builder簡介](../app-builder/foundations/introduction-to-app-builder.md)
@@ -209,11 +232,6 @@ ht-degree: 2%
     + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
     + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
     + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-
-+ 快速入門 {#getting-started}
-  + Commerce功能 {#capabilities}
-    + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
-    + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
 
 + API和整合 {#apis-and-integration}
   + GraphQL基礎 {#graphql-rest}
@@ -260,7 +278,7 @@ ht-degree: 2%
 
 + 擴充性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
-    + [Developer Agent學習路徑](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+    + [Developer Agent學習路徑](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + 店面開發 {#storefront-development}
   + Edge Delivery Services上的Commerce店面 {#edge-delivery-services}
@@ -295,6 +313,8 @@ ht-degree: 2%
     + [PWA Docker開發](../pwa/pwa-docker-development.md)
     + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
 
++ [AI與代理商務](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+
 + 監控、分析和支援 {#monitoring-analytics-support}
   + 可觀察性 {#observability}
     + [可觀察性概觀](../monitoring-analytics-support/observability/overview.md)
@@ -313,3 +333,5 @@ ht-degree: 2%
     + [建立支援票證](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+
++ [網路研討會與活動](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)

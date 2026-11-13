@@ -3,7 +3,7 @@ title: 診斷MySQL中緩慢查詢記錄檔的Galera資料庫復寫
 description: 瞭解Galera DB的複製設計如何減緩次要資料庫同步處理、如何在MySQL緩慢查詢記錄中識別這些事件，以及如何將影響降至最低。
 doc-type: Technical Video
 duration: 452
-last-substantial-update: 2023-07-18T00:00:00.000Z
+last-substantial-update: 2023-07-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Developer
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%

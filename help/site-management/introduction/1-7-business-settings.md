@@ -1,11 +1,11 @@
 ---
 title: 商務使用者適用的[!DNL Commerce] — 商店設定
-description: 瞭解地區設定、商店資訊、安全和不安全的URL、網站標題、標誌、版權資訊、通訊電子郵件標誌、商店電子郵件地址、貨幣選項和匯率。
+description: 瞭解地區設定、商店資訊、安全/不安全URL、網站標題、標誌、版權、電子郵件標誌和地址、貨幣選項及匯率。
 kt: 5764
-doc-type: video
+doc-type: Technical Video
 duration: 390
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -31,9 +31,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 ---
 # 商務使用者適用的[!DNL Commerce] — 商店設定
