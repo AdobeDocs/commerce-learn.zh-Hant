@@ -1,13 +1,13 @@
 ---
-title: Adobe如何建立可撰寫的Commerce
-description: 瞭解可組合商務、排定API優先方法的優先順序，並實施模組化和服務導向的架構。
-feature: App Builder, Saas
+title: Commerce與Adobe可組合
+description: 瞭解使用Adobe平台選項、Edge Delivery Services店面、API Mesh、App Builder和Commerce開發MCP工具的可撰寫商務。
+feature: API Mesh, App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
 role: Admin, Developer, User
-level: Beginner, Intermediate
+level: Intermediate
 doc-type: Tutorial
-duration: 323
-last-substantial-update: 2024-07-06
+duration: 307
+last-substantial-update: 2026-11-13
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
 TQID: 'https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM'
@@ -38,8 +38,6 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
@@ -51,69 +49,134 @@ topic_v2:
     internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
+autotag-review: '2026-11-13T20:04:10.194Z'
+source-git-commit: 3a52f4de8c63f08418f4fa44833a7bf7eb90175b
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1311'
 ht-degree: 0%
 ---
 # 可撰寫的商務
 
-可組合商務是電子商務的架構方法，涉及將前端展示層與後端商務功能分離。 它可讓&#x200B;企業選擇並組合最佳的元件或模組，以建立自訂的解決方案。 此方法包括將傳統整體電子商務平台分解為更小、更獨立的服務或微服務，以便共同組成。 可組合商務具備彈性、擴充性、自訂性、靈活性等優勢，並可更輕鬆地與其他系統和技術整合。
+可撰寫商務是一種架構方法，透過API結合商務功能。 您可以針對店面體驗、目錄管理、產品探索、結帳和其他業務需求選擇並整合元件，而不需要每個功能都來自一個緊密結合的應用程式。
 
-Adobe Commerce提供許多功能和工具，可支援商家採用和實施可組合商務。 Adobe Commerce提供可撰寫的商務方法以及混合式Headless和非Headless前端體驗。 Adobe秉持程式外擴充性的理念，提供API Mesh整合多項服務，以及Adobe App Builder建立自訂微服務。
+Headless商務將店面展示層與商務後端分開。 可撰寫商務可讓您選擇哪些功能要整合，哪些功能要獨立整合，藉此建立在該分離的基礎之上。 Headless店面本身無法獨立更換每個後端元件。
 
-## 可撰寫商務為何重要
+Adobe透過commerce平台選項、店面技術以及整合和開發工具支援此方法。 Adobe Commerce as a Cloud Service (ACCS)、Adobe Commerce Optimizer (ACO)、Edge Delivery Services、API Mesh、App Builder和Commerce開發MCP有不同的用途。 它們不是可互換的產品或必要的組合棧疊。
 
-由於多種原因，瞭解可組合商務對於參與電子商務產業的企業和個人很重要。 它提供彈性和客製化、擴充性和敏捷性、整合功能、經得起未來考驗，並賦予開發人員權力。 可組合商務可讓企業適應及發展電子商務平台、擴充及提升營運規模。 更令人印象深刻的好處包括能夠與其他系統和技術整合、跟上客戶不斷發展的期望，以及利用開發人員的專業知識。
+## 優點與折衷方案
 
-它可協助企業瀏覽不斷演變的電子商務格局、做出明智的決策，並運用彈性、擴充性、自訂、敏捷性和整合功能等優勢。 此外，瞭解可組合商務對於業務成長、自訂、靈活性與創新、成本效益、整合與彈性，以及未來安全也很重要。 它讓企業有機會快速適應新功能，並因應不斷變化的市場環境，建立高度客製化的解決方案。 此外還有更多優點，包括快速創新、降低開發和維護成本，以及與協力廠商服務與系統整合的能力。
+組合式方法可協助您：
 
-整體而言，瞭解可撰寫的商務可讓企業做出明智的決策、最佳化其電子商務架構和策略，並推動數位市場的增長和成功。
+* **調整客戶體驗：**&#x200B;選擇店面元件，並整合符合您業務需求的服務。
+* **逐步現代化：**&#x200B;取代選取的功能，同時保留其他系統及其資料。
+* **獨立擴充與演化：**&#x200B;設計整合與擴充功能，使其變更不需要發行整個商務應用程式。
+* **重複使用商務功能：**&#x200B;使用支援的平台功能和API，而不是重建每個商務功能。
 
-## 公司如何受益於可組合的商務
+這些優點取決於實作。 評估技術成熟度、傳遞成本、授權、安全性和資料隱私權。 定義API合約的所有權、資料同步化、驗證、效能以及跨服務的失敗。 模組化程度更高的架構也能增加整合與營運的複雜性。
 
-公司可以透過多種方式從可組合商務中受益：
+## Adobe Commerce架構選項
 
-**彈性與自訂：**&#x200B;可撰寫商務可讓公司選取並結合最佳的元件或微服務，以建立符合其特定需求的自訂電子商務解決方案。 它可讓企業量身打造平台，提供獨特的客戶體驗、實作專業化功能，並在市場上脫穎而出。
+首先，決定您是需要Managed Commerce平台，還是想根據現有的交易式後端打造最新的客戶體驗。
 
-**擴充性與敏捷性：**&#x200B;透過可撰寫的架構，公司可以獨立擴充電子商務平台的不同元件。 也就是說，他們可以根據需求配置資源並擴充特定功能，確保最佳效能與成本效益。 Composable Commerce還能啟用敏捷開發做法，允許團隊同時處理不同的元件和獨立部署變更，從而加快上市時間。
+如需視訊比較，請參閱[Adobe可用的商務選項](./adobes-available-commerce-options.md)。
 
-**整合功能：**&#x200B;可撰寫商務可促進與協力廠商系統、服務及技術的緊密整合。 企業可以輕鬆地將電子商務平台與各種工具連線，例如支付閘道、ERP系統、CRM系統、行銷自動化平台等。 這項整合功能可讓企業運用同類最佳解決方案，建立統一的生態系統，進而提升營運效率及客戶體驗。
+### Adobe Commerce as a Cloud Service
 
-**未來防護：**&#x200B;可撰寫商務可讓公司隨著技術和市場趨勢變化，靈活地調整和發展電子商務平台。 它可讓企業輕鬆新增或更換元件、整合新技術，並在競爭中保持領先地位。 這項符合未來需求的功能可確保企業持續創新，滿足不斷演變的客戶期望。
+Adobe Commerce as a Cloud Service是受管理的SaaS商務平台。 Adobe可管理核心應用程式、基礎架構和更新。 其架構包括Commerce Foundation、Headless店面功能、銷售服務和開發人員工具。
 
-**開發人員賦權：**&#x200B;可撰寫商務讓開發人員能夠靈活地使用不同的技術、語言和架構。 它可讓開發人員專注於特定元件或微服務，實現專業化與專業知識。 這項增強功能可提升開發人員生產力、加快開發週期，並讓您善用最新工具和技術。
+使用支援的擴充點評估Managed Commerce基礎時，請使用此選項。 對於自訂商業邏輯，請規劃支援的程式外擴充性，而不是假設現有的PHP擴充功能可以部署而不做變更。 ACCS不支援Luma店面；請在適用的實作計畫中納入店面移轉。
 
-整體而言，可組合的商務可讓公司建立高度彈性、可擴充且可自訂的電子商務平台，以因應不斷變化的業務需求、提供卓越的客戶體驗，並帶動數位市場的成長與成功。
+請參閱[Adobe Commerce as a Cloud Service總覽](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)。
 
-## Adobe Commerce對可撰寫的商務有哪些功能
+### Adobe Commerce Optimizer
 
-Adobe Commerce提供數種功能，可支援商家採用及實作可組合商務：
+Adobe Commerce Optimizer支援目錄管理、產品探索、搜尋、建議和店面體驗，同時可讓您保留現有的商務後端。 目錄資料可能來自外部來源，而協力廠商系統仍可負責購物車和結帳生命週期。
 
-**可撰寫的Commerce方法：** Adobe Commerce提供可撰寫的商務方法，可引導商戶瞭解及實作可撰寫的架構原則。 此方法可協助企業運用彈性、擴充性和自訂的優點，同時考量複雜性、技術成熟度和專案規模等因素。
+當目標是面向客戶的現代化時，且不需要取代交易式後端時，請使用此選項。 明確地規劃目錄擷取以及購物車和結帳整合。 ACCS和ACO是獨立的架構選項，而不是所需的組合棧疊。 在為您的實作選擇服務之前，請驗證目前的整合支援。
 
-**功能豐富的功能：** Adobe Commerce提供可透過其GraphQLAPI存取的完整功能集。 此功能豐富可讓商家將商務棧疊中所需的廠商數量降至最低，縮短上市時間。 如此一來，企業便可更快速地展開業務，同時維持靈活性，可隨著商業棧疊的發展來撰寫及整合其他協力廠商服務或功能。
+檢視[Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview)。
 
-**混合前端體驗：** Adobe Commerce在相同的生態系統中同時支援Headless和non-headless前端體驗。 這種靈活性可讓商家針對每個特定的前端使用案例，選擇最適合的架構方法。 它可讓您逐步轉換至無周邊且可組合的架構，而不需同時移轉整個系統。
+### 現有的Adobe Commerce部署
 
-**API網格：** Adobe Commerce的API網格簡化了前端開發人員將多個微服務、協力廠商工具和應用程式整合到統一的API端點中的過程。 它可讓開發人員將多個資料來源合併為單一GraphQL端點，降低複雜度並簡化新功能和體驗的開發和維護。
+雲端基礎結構及內部部署上的Adobe Commerce也可以逐步採用Headless店面及支援的API型整合。 視部署而定，您可以保留現有店面或採用支援的Headless店面。 將現有的商務功能保持在一起，可以減少整合工作，同時讓選定的服務個別改進。
 
-**Adobe App Builder：** Adobe App Builder是一個無伺服器擴充平台，可讓商家建立自訂微服務、建立自訂體驗，以及擴充Adobe解決方案。 透過App Builder，商家可以建立安全且可擴充的應用程式，擴充Adobe Commerce的原生功能並與協力廠商解決方案整合。 如此一來，商家就不需要建置和維護自訂與微服務的基礎架構，進而降低複雜度並降低總體擁有成本。
+功能可用性、擴充功能相容性、授權和設定需求會因產品和版本而異。 在選擇架構之前，請先比較[Adobe Commerce平台和服務](https://experienceleague.adobe.com/en/docs/commerce/information-center/explore-platforms-and-services/platform-and-services)。
 
-Adobe Commerce提供的這些功能簡化了可組合商務的採用和實作，讓商家能夠運用彈性、擴充性、自訂和整合功能的好處，同時降低複雜性和開發工作。
+## 由Edge Delivery Services提供支援的Commerce店面
 
-## 最終想法
+由Edge Delivery Services提供支援的Commerce店面可提供店面體驗和內容傳送層。 其Headless架構可讓團隊開發獨立於商務基礎的前端。 檔案式製作和視覺化編輯支援內容更新，而店面元件則使用Commerce API進行購物功能。
 
-可組合商務是電子商務的架構方法，涉及將前端展示層與後端商務功能分離。 以下是可撰寫商務的主要經驗教訓：
+區分負責目錄資料、定價、購物車操作、結帳和訂單的店面介面和系統。 Edge Delivery Services不會取代交易式商務後端。 在實施店面之前，確定您所選後端的支援服務和整合路徑。
 
-**架構：**&#x200B;可組合商務遵循模組化和分離架構，讓企業能夠選取並組合最佳元件或微服務，以建立自訂解決方案。 此架構提供彈性、擴充性和敏捷性。
+請參閱[Commerce Storefront檔案](https://experienceleague.adobe.com/en/tools/commerce-storefront/)。
 
-**優點：**&#x200B;可組合商務提供數個優點，包括彈性與自訂、擴充性與靈活性、整合功能、可適應未來需求及增強開發人員能力。 它可讓企業適應、擴充、整合、創新及運用開發人員專業知識。
+## 整合性與擴充性
 
-**考量事項：**&#x200B;在考慮可撰寫商務時，應仔細評估複雜性、內部技術成熟度、專案大小和結構、自訂與標準化、總體擁有成本，以及安全性和資料隱私權等因素。
+API Mesh和App Builder有助於連線和擴展商務功能，而不需要每個自訂都嵌入核心商務應用程式中。
 
-**Adobe Commerce：** Adobe Commerce提供功能與工具，支援商家採用與實作可組合商務。 其中包括可撰寫的商務方法、功能豐富的功能、混合式前端體驗、整合的API Mesh以及用於自訂微服務的Adobe App Builder。
+### API網格
 
-**業務影響：**&#x200B;可撰寫商務可讓企業建立高度彈性、可擴充且可自訂的電子商務平台。 它可讓客戶提供獨特的客戶體驗、根據需求擴充、與其他系統整合、經得起未來的營運，並運用開發人員的專業知識。
+Adobe Developer App Builder的API Mesh將多個Adobe、私人和第三方API來源結合為可查詢的GraphQL端點。 用它來撰寫前端體驗的資料，並協調對現有服務的存取。
 
-瞭解可組合商務對於電子商務產業的企業維持競爭力、適應不斷變化的市場環境及提供卓越的客戶體驗至關重要。 透過採用可組合商務，公司可充分運用彈性、擴充性、自訂性、靈活性及整合功能等優勢，推動數位市場的成長與成功。
+API組成不會移除定義API合約、驗證、錯誤處理或交易商業邏輯所有權的需求。 在整合設計中應明確說明這些職責。
+
+檢視[API Mesh總覽](https://developer.adobe.com/graphql-mesh-gateway/)。
+
+### Adobe App Builder
+
+Adobe App Builder為延伸Adobe解決方案並在Adobe基礎結構（包括Adobe I/O Runtime）上執行的應用程式提供平台。 您可以使用它來進行程式外的自訂，以及與CRM、ERP和PIM等系統的整合。
+
+針對您使用的Commerce產品，選擇支援的擴充功能點、活動和Webhook。 與核心商務發行生命週期分開設計和測試應用程式。
+
+檢視[App Builder概觀](https://developer.adobe.com/app-builder/docs/intro_and_overview/)。
+
+## Commerce開發MCP與技能
+
+Commerce開發MCP和技能支援AI輔助的App Builder應用程式開發和店面自訂。 在移至ACCS時，這些範本也有助於將現有的Adobe Commerce PHP擴充功能移轉至App Builder應用程式。
+
+模型內容通訊協定(MCP)伺服器會將相容的AI編碼使用者端連線到開發工具。 Adobe的工具包括Commerce Developer MCP Server、App Builder MCP Server和Dropins AI Tools，以及Commerce的特定技能。
+
+Commerce開發MCP是開發工具，而不是店面交付、購物車、結帳或訂單處理服務。 應用程式無法自動相容於所有Commerce產品。 檢閱產生的變更，並針對目標環境加以測試。
+
+請參閱[Commerce開發MCP與技能](https://developer.adobe.com/commerce/extensibility/developer-agent/coding-tools)。
+
+## 規劃可撰寫的實作
+
+1. 定義業務目標、客戶體驗、安全性需求，以及團隊可用的技能。
+2. 選擇Commerce平台，並識別要保留或取代的現有系統。
+3. 選取支援的店面，並定義簡報、銷售和交易服務之間的界限。
+4. 針對目錄資訊、價格、存貨、客戶、購物車、結帳和訂單，建立資料所有權和API合約。
+5. 計畫跨整合的驗證、資料同步、快取、監控和失敗處理。
+6. 以漸進方式實作，並在每次發行前驗證功能、效能和安全性。
+
+可組合的實作可在元件符合業務需求且能可靠合作時取得成功。 選擇您需要的功能，而非單純地新增服務，讓架構更加模組化。
+
+## 相關資源
+
+探索這些教學課程、影片、實施指南和播放清單，以規劃您的架構並建立商務整合。
+
+### Commerce平台與店面
+
+* [Adobe Commerce as a Cloud Service架構](../commerce-as-a-cloud-service/architecture.md)
+* [可組合式店面與模組化架構](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+* [Adobe Commerce Optimizer概觀](../adobe-commerce-optimizer/overview.md)
+* [可撰寫目錄資料模型存在的原因](../adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists.md)
+* [使用Edge Delivery Services的購物者體驗](../edge-delivery-services/shopper-experience.md)
+
+### 整合與開發
+
+* [使用App Builder實現程式外擴充功能](../app-builder/foundations/introduction-to-app-builder.md)
+* [開始使用API Mesh](../api-mesh/getting-started-api-mesh.md)
+* [建立具有多個來源的API網格](../api-mesh/graphql-multiple-source.md)
+* [使用AI和MCP工具建立自訂運費](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+
+### 架構與開發檔案
+
+* [移轉至Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/migration/overview)
+* [Adobe Commerce Optimizer整合](https://experienceleague.adobe.com/en/docs/commerce/optimizer/integrations-overview)
+* [開始使用Commerce Storefront開發](https://experienceleague.adobe.com/en/tools/commerce-storefront/get-started/)
+* [Commerce開發MCP和技能的最佳實務](https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices)
+
+### 播放清單
+
+* [開始使用Adobe App Builder和Adobe Commerce的API Mesh](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
