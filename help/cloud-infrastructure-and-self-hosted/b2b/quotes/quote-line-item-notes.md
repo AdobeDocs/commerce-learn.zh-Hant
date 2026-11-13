@@ -51,7 +51,7 @@ ht-degree: 0%
 
 瞭解如何針對Adobe Commerce B2B報價使用條列專案備註。
 
-如需API工作流程，請參閱含REST](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)的[報價單條列專案備註。
+如需API工作流程，請參閱含REST[&#128279;](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)的報價單條列專案備註。
 
 {{b2b-feature}}
 

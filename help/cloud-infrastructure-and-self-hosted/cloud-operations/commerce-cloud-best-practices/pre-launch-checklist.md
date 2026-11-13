@@ -73,7 +73,7 @@ ht-degree: 0%
 1. 檢閱有關測試和上線的檔案[網站啟動檔案](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >確保與您的合作夥伴或系統整合商一起完全準備完整的&#x200B;_「上線整備計畫」_，並納入所有必要的行動專案。 請記住，雖然啟動前檢查清單強調Adobe的最佳實務，但&#x200B;_**並不**_&#x200B;取代您自己的上線整備計畫。
+   >確保與您的合作夥伴或系統整合商一起完全準備完整的&#x200B;_「上線整備計畫」_，並納入所有必要的行動專案。 請記住，雖然啟動前檢查清單強調Adobe的最佳實務，但&#x200B;_&#x200B;**並不**&#x200B;_&#x200B;取代您自己的上線整備計畫。
 
 2. [!BADGE 封鎖程式]{type=caution tooltip="潛在的阻斷因素"}檢閱支援深入分析(SWAT)建議與資訊（[使用手冊](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"}）
 3. 確認一般使用者和商家已完成UAT （使用者驗收測試），包括後端作業。
@@ -173,10 +173,10 @@ Adobe Commerce Cloud採用MariaDB Galera叢集作為中繼和生產環境的資�
                upstream: "mymagento:http"
    ```
 
-5. 如果Xdebug在開發期間啟用，請確定已停用（請參閱[在雲端上設定Commerce的Xdebug ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/debug){target="_blank"}）。
+5. 如果Xdebug在開發期間啟用，請確定已停用（請參閱[在雲端上設定Commerce的Xdebug &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/debug){target="_blank"}）。
 6. 請確認php.ini檔案中的OPcache和其他設定已正確更新（[請參考此範例](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}）。
 7. 訂閱&#x200B;[**Adobe Commerce狀態頁面**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}。
-8. 訂閱Adobe Commerce ](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"}通知通道的New Relic [受管理警報，以監視指定的效能量度（[詳細資訊](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"}）。
+8. 訂閱Adobe Commerce [&#128279;](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce){target="_blank"}通知通道的New Relic 受管理警報，以監視指定的效能量度（[詳細資訊](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service){target="_blank"}）。
 
 ## &#x200B;9. 安全性
 
