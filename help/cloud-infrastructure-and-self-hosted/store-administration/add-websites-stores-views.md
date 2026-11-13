@@ -63,7 +63,7 @@ ht-degree: 0%
 >
 >影片內容反映2.1.0版。 如需更新版本的相關資訊，請參閱[發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507667?captions=chi_hant&learn=on)
 
 ## 其他資源
 

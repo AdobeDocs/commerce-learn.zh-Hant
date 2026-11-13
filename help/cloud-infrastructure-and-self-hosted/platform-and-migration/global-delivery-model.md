@@ -88,4 +88,4 @@ Adobe Commerce是AWS和Azure提供的混合雲端電子商務平台，提供購�
 * 進階AI導向服務。 您將瞭解智慧型API優先服務，例如即時搜尋、AI支援的產品推薦和目錄服務，以增強客戶體驗和營運效率。
 * 完整的開發人員工具。 瞭解雲端原生、無伺服器開發工具（例如API Mesh和App Builder）的套件，該套件可實現無縫整合和自訂，以擴充商務功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433511?captions=chi_hant&learn=on)
