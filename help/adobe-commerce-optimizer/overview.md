@@ -57,7 +57,7 @@ Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現�
 
 ## 繼續學習
 
-* [比較Adobe Commerce選項](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [比較Adobe Commerce選項](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [建立您的第一個Adobe Commerce Optimizer執行個體](./create-first-instance.md)
 * [管理Adobe Commerce Optimizer執行個體](./managing-instances.md)
 * [擷取範例資料](./ingest-sample-data.md)
@@ -67,5 +67,5 @@ Adobe Commerce Optimizer藉由提供高效能、無周邊的店面來強化現�
 
 ## 其他資源
 
-[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
 

@@ -57,4 +57,4 @@ ht-degree: 0%
 3. [App Builder入門套件](./app-builder-starter-kit.md)
 4. [端對端示範](./end-to-end-demo.md)
 
-如需共用的App Builder概念，請參閱[App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)。
+如需共用的App Builder概念，請參閱[App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)。
