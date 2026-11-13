@@ -83,9 +83,9 @@ topic_v2:
     internal-label: Insights
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '375'
 ht-degree: 0%
 ---
 # 降低Adobe Commerce整合的目錄
@@ -112,5 +112,12 @@ ht-degree: 0%
 * 說明在數位商業環境中整合各種系統和接觸點所面臨的挑戰和成本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428768?learn=on)
+
+## 相關教學課程
+
+* [App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [開始使用API Mesh](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [開始使用Adobe I/O Events](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

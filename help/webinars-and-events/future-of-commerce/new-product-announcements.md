@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '281'
 ht-degree: 0%
 ---
 # 新產品公告
@@ -52,6 +52,12 @@ ht-degree: 0%
 * 靈活、漸進的採用路徑，可讓企業根據自己的步調進行轉換，持續支援現有解決方案，並延長版本支援時間表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
+
+## 相關教學課程
+
+* [比較Adobe Commerce選項](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Adobe Commerce as a Cloud Service概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 ## 此系列的其他影片
 

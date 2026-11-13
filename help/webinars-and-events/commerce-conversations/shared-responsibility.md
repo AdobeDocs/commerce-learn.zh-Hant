@@ -36,9 +36,9 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '299'
 ht-degree: 0%
 ---
 # 共擔責任
@@ -65,3 +65,8 @@ ht-degree: 0%
 * [通知通道](https://business.adobe.com/tw/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
 * [Adobe安全性公告](https://helpx.adobe.com/tw/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
 * [保護您的商務網站和基礎結構](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+
+## 相關教學課程
+
+* [雲端基礎結構和自行託管：部署、測試、監控和安全性](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [雲端基礎結構與自行託管：啟動前的檢查清單](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

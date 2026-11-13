@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '808'
 ht-degree: 0%
 ---
 # App Builder簡介
@@ -106,5 +106,9 @@ App Builder為開發人員提供影片和檔案，包括指南和參考檔案，
 準備好開始開發了嗎？ 下列連結包含協助您開始使用的範例應用程式：
 
 * [Adobe Developer網站上的App Builder Code Labs](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+
+## 優惠方案特定範例
+
+若要在App Builder上建置Adobe Commerce Optimizer整合，請依照[Salesforce Commerce Cloud入門套件](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview)操作。 此系列涵蓋架構、Salesforce卡匣安裝、App Builder入門套件以及端對端示範。
 
 {{$include /help/_includes/app-builder-related-links.md}}

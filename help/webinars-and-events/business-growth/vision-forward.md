@@ -2,7 +2,7 @@
 title: 使用Adobe的展望藍圖促進業務增長
 description: 探索Adobe Commerce的B2B店面、即時個人化、支付，以及AI支援的商家和開發人員體驗藍圖。
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
-topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
+topic: Administration, Commerce, Development, Headless, Performance, Personalization, Security
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -62,9 +62,9 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '221'
 ht-degree: 0%
 ---
 # 使用Adobe的展望藍圖促進業務增長
@@ -86,3 +86,9 @@ Adobe Commerce的2026年藍圖概述了一項全面策略，透過即時資料�
 * 開發人員體驗與可觀察性改善
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475717?captions=chi_hant&learn=on)
+
+## 相關教學課程
+
+* [資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [可觀察性概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)

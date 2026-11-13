@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # 大幅降低成本
@@ -52,6 +52,12 @@ Adobe Commerce的雲端原生平台可全面管理基礎架構、自動更新及
 * 彈性的整合 — 使用API和加速器，輕鬆與ERP、CRM等連線。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458485?learn=on)
+
+## 相關教學課程
+
+* [Adobe Commerce as a Cloud Service概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [開始使用API Mesh](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
 
 ## 此系列的其他影片
 
