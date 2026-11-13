@@ -4,7 +4,7 @@ description: 瞭解如何在Adobe Commerce中管理B2B公司帳戶 — 檢閱擱
 doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 ---
 # 管理公司帳戶
 
-針對B2B商家，_[!UICONTROL Companies]_&#x200B;頁面會列出所有目前的公司帳戶及其狀態。 您可以在此處管理您的公司帳戶，任何待核准的請求都會顯示在清單頂端。 標準工作區控制項可用於篩選清單、變更欄配置、儲存檢視及匯出資料。
+針對B2B商家，_[!UICONTROL Companies]_頁面會列出所有目前的公司帳戶及其狀態。 您可以在此處管理您的公司帳戶，任何待核准的請求都會顯示在清單頂端。 標準工作區控制項可用於篩選清單、變更欄配置、儲存檢視及匯出資料。
 
 {{b2b-feature}}
 
@@ -67,5 +67,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [公司帳戶](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [管理公司帳戶](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [公司帳戶](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [管理公司帳戶](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

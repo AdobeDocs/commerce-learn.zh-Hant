@@ -4,7 +4,7 @@ description: 瞭解升級相容性工具如何在幾分鐘內分析版本不相�
 jira: KT-9983
 doc-type: Technical Video
 duration: 398
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer, Admin
@@ -36,7 +36,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.962Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 * 如何協助您快速找出升級至較新Adobe Commerce版本所需的錯誤與修正
 * 若要依嚴重性和不相容數量以視覺化方式呈現模組，請存取HTML結果
 
-若要深入瞭解此工具，請參閱[升級相容性工具檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)。 如果您想進一步瞭解如何執行和簡化升級，請參閱[升級指南](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/upgrade-guide/overview)。
+若要深入瞭解此工具，請參閱[升級相容性工具檔案](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)。 如果您想進一步瞭解如何執行和簡化升級，請參閱[升級指南](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview)。
 
 ## 這部影片是給誰看的？
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [升級相容性工具檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
-* [升級指南](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/upgrade-guide/overview)
-* [發行版本](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/versions)
-* [發行排程](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/planning/schedule)
+* [升級相容性工具檔案](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
+* [升級指南](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview)
+* [發行版本](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)
+* [發行排程](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule)

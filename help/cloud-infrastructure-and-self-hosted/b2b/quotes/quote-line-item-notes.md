@@ -4,7 +4,7 @@ description: 瞭解如何在Adobe Commerce中新增及檢視B2B報價的條列�
 doc-type: Technical Video
 duration: 209
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 瞭解如何針對Adobe Commerce B2B報價使用條列專案備註。
 
-如需API工作流程，請參閱含REST[&#128279;](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)的報價單條列專案備註。
+如需API工作流程，請參閱含REST](../../../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)的[報價單條列專案備註。
 
 {{b2b-feature}}
 
@@ -63,6 +63,6 @@ ht-degree: 0%
 
 ## 視訊內容
 
->[!VIDEO](https://video.tv.adobe.com/v/3423690?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

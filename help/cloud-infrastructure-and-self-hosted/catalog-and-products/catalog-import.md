@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 211
 audience: all
 activity: use
-last-substantial-update: 2023-8-15
+last-substantial-update: 2023-08-15
 feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 手動建立產品 {#manual-import}
 
-考慮以手動建立產品方式，建立不常更新的小型目錄。 輸入每個產品都需要一些時間，並且需要有關Commerce管理員的基本培訓。 手動目錄管理適合特定情況，而非大多數商店。 如需指示，請參閱[建立產品](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/catalog/products/product-create){target="_blank"}。 如果您結合目錄管理方法，請在引入自動化後限制手動編輯。 自動更新可能會覆寫手動變更並導致混淆。 當整合透過自動化和API管理目錄時，請透過[使用者角色和許可權](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}限制管理員中的目錄管理。
+考慮以手動建立產品方式，建立不常更新的小型目錄。 輸入每個產品都需要一些時間，並且需要有關Commerce管理員的基本培訓。 手動目錄管理適合特定情況，而非大多數商店。 如需指示，請參閱[建立產品](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}。 如果您結合目錄管理方法，請在引入自動化後限制手動編輯。 自動更新可能會覆寫手動變更並導致混淆。 當整合透過自動化和API管理目錄時，請透過[使用者角色和許可權](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}限制管理員中的目錄管理。
 
 ### 何時考量此方法
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 ## 管理員CSV匯入工具 {#admin-csv}
 
 此工具可讓商店擁有者使用CSV許可權，從商務管理員匯入目錄。
-[從Commerce管理員匯入資料](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[從Commerce管理員匯入資料](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 優點：
 從管理員上傳CSV是目錄管理的直接方法。 它允許對適度大小的目錄進行更快的目錄產品更新。
@@ -171,6 +171,6 @@ ht-degree: 0%
 ## 其他資源
 
 * [使用新的REST CSV匯入資料](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [匯入資料主要檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
-* [Adobe Commerce 2.4.6版發行說明](https://experienceleague.adobe.com/zh-hant/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [匯入資料主要檔案](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Adobe Commerce 2.4.6版發行說明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [使用者、角色和許可權](../store-administration/users-roles-permissions.md){target="_blank"}

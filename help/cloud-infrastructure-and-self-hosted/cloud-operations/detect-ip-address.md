@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 624
-last-substantial-update: 2025-04-07T00:00:00.000Z
+last-substantial-update: 2025-04-07
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
 TQID: 'https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c'
@@ -32,7 +32,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '1127'
 ht-degree: 0%
@@ -70,7 +70,7 @@ magento-cloud CLI工具旨在協助開發人員和系統管理員有效管理Ado
 
 在範常式式碼的這個初始區段中，`magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`它正在要求環境的URL。 傳回的值看起來像這樣`http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`。 偶爾會看起來更像此`http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`。  第一個指令相當簡單，現在可以移至下一個指令。
 
-如需詳細資訊，請閱讀[雲端CLI概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+如需詳細資訊，請閱讀[雲端CLI概觀](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## 使用`sed`進行搜尋和取代
 
@@ -140,4 +140,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 相關檔案
 
-* [地區IP位址](https://experienceleague.adobe.com/zh-hant/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [地區IP位址](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

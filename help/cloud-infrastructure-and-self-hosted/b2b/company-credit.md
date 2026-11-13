@@ -4,7 +4,7 @@ description: 瞭解B2B公司帳戶使用者如何在信用額度以內的帳戶�
 doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # 管理公司評價
 
-已啟用&#x200B;_[!UICONTROL Payment on Account]_&#x200B;且有可用公司信用額度的公司可在帳戶上進行購買，但最多可達到授與的信用額度。 透過此功能，客戶可以從其帳戶儀表板檢查其公司業績的狀態。
+已啟用&#x200B;_[!UICONTROL Payment on Account]_且有可用公司信用額度的公司可在帳戶上進行購買，但最多可達到授與的信用額度。 透過此功能，客戶可以從其帳戶儀表板檢查其公司業績的狀態。
 
 您可以為每個公司設定檔設定下列信用相關引數：
 
@@ -74,5 +74,5 @@ ht-degree: 0%
 
 ## 其他資源
 
-* [設定分期付款](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [管理公司評價](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/b2b/companies/credit-company)
+* [設定分期付款](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [管理公司評價](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
