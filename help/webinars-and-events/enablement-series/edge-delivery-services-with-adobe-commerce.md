@@ -85,7 +85,7 @@ ht-degree: 0%
 
 ## 相關教學課程
 
-* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [在Edge Delivery Services上自訂簽出](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
+* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [在Edge Delivery Services上自訂簽出](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

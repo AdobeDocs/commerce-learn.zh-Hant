@@ -89,6 +89,6 @@ Adobe Commerce的2026年藍圖概述了一項全面策略，透過即時資料�
 
 ## 相關教學課程
 
-* [資料連線](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [可觀察性概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [可觀察性概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
