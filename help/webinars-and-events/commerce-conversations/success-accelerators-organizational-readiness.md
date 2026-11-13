@@ -57,4 +57,4 @@ ht-degree: 0%
 * 變更管理與溝通策略
 * 數位檢閱和效能評定
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505739?captions=chi_hant&learn=on)

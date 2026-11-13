@@ -52,4 +52,4 @@ ht-degree: 0%
 * 三個支援管道。
 * 服務層級目標。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505676?captions=chi_hant&learn=on)

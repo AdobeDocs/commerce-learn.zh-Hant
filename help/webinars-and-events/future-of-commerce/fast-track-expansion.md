@@ -58,7 +58,7 @@ ht-degree: 0%
 * 第一方和第三方產品分類的緊密整合
 * 使用下拉式清單和主題加快店面開發
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505309?captions=chi_hant&learn=on)
 
 ## 相關教學課程
 
