@@ -46,7 +46,7 @@ ht-degree: 0%
 
 若要在錯誤的URL變更後重新獲得對管理員的存取權，請使用Adobe Commerce Cloud CLI重設管理員URI。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439703?captions=chi_hant&learn=on)
 
 ## 教學課程中使用的一些命令
 

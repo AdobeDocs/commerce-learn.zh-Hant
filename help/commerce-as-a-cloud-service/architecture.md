@@ -73,4 +73,4 @@ Adobe Commerce as a Cloud Service提供安全、自動化的託管平台，以�
 * 全面的API涵蓋範圍：此平台支援廣泛的API涵蓋範圍（使用GraphQL和REST API），實現與協力廠商系統的緊密整合。
 * 分離式架構：完全分離式架構可讓開發人員使用各種前端架構，提供彈性和效能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443278?captions=chi_hant&learn=on)
