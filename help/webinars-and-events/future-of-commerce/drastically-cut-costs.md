@@ -55,9 +55,9 @@ Adobe Commerce的雲端原生平台可全面管理基礎架構、自動更新及
 
 ## 相關教學課程
 
-* [Adobe Commerce as a Cloud Service概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [開始使用API Mesh](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Adobe Commerce as a Cloud Service概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [開始使用API Mesh](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
 
 ## 此系列的其他影片
 

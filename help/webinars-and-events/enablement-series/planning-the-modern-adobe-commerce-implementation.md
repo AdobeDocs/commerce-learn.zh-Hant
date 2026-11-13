@@ -86,8 +86,8 @@ Adobe Commerce概觀及其規劃、建置和維護現代化實作的四部分系
 
 ## 相關教學課程
 
-* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [資料連線](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [App Builder簡介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services上的Commerce店面：購物者體驗](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [資料連線](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder簡介](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

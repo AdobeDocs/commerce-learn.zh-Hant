@@ -54,6 +54,6 @@ Adobe Commerce成功加速器包括技術整備等服務，涵蓋啟動諮詢、
 
 ## 相關教學課程
 
-* [雲端基礎結構與自行託管：啟動前的檢查清單](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [可觀察性概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [建立支援票證](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [雲端基礎結構與自行託管：啟動前的檢查清單](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [可觀察性概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [建立支援票證](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
