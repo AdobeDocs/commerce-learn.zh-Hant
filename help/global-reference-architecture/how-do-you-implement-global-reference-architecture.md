@@ -1,6 +1,6 @@
 ---
 title: 如何實作全球參考架構
-description: 瞭解如何實作全球參考架構。 瞭解發佈網站的想法、成功要訣和確保全域參考架構專案走上正確軌道所需的角色。
+description: 瞭解如何實作Adobe Commerce的全球參考架構，包括網站發佈、成功因素、功能開發和團隊角色。
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
@@ -40,12 +40,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # 實作全球參考架構
+
+>[!NOTE]
+>
+>此系列涵蓋Adobe Commerce的雲端基礎結構和自行託管部署。
 
 瞭解如何實作全球參考架構(GRA)。 瞭解有助於設定成功GRA的早期決策。 取得如何區隔網站的想法、成功的關鍵，以及以有條理方式開發功能的一些概念。
 
@@ -65,6 +69,6 @@ ht-degree: 0%
 * 全域控制板 — 使用哪些功能
 * 使用GRA作為模組市場的替代概念
 
->[!VIDEO](https://video.tv.adobe.com/v/3457219?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

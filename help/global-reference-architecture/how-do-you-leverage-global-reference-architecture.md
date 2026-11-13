@@ -44,12 +44,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 ---
 # 善用全球參考架構
+
+>[!NOTE]
+>
+>此系列涵蓋Adobe Commerce的雲端基礎結構和自行託管部署。
 
 瞭解如何利用全球參考架構或GRA。 為了更妥善地準備GRA以成功實作，Adobe專家會討論專案的不同階段，並詳述探索階段的詳細資訊。 QA資源已進行討論，以及它們是GRA實作的寶貴資源的原因。
 
