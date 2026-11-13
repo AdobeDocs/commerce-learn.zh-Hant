@@ -88,7 +88,7 @@ Adobe Developer App Builder並非提供預先設定的解決方案，而是提�
 
 閱讀下列部落格，可找到包含初始設定的可撰寫商務策略概觀：
 
-[App Builder如何協助提升您商務平台的商業靈敏度](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[App Builder如何協助提升您商務平台的商業靈敏度](https://business.adobe.com/tw/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 為協助您開始使用App Builder，Adobe已建立下列檔案：
 
@@ -109,6 +109,6 @@ App Builder為開發人員提供影片和檔案，包括指南和參考檔案，
 
 ## 優惠方案特定範例
 
-若要在App Builder上建置Adobe Commerce Optimizer整合，請依照[Salesforce Commerce Cloud入門套件](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview)操作。 此系列涵蓋架構、Salesforce卡匣安裝、App Builder入門套件以及端對端示範。
+若要在App Builder上建置Adobe Commerce Optimizer整合，請依照[Salesforce Commerce Cloud入門套件](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview)操作。 此系列涵蓋架構、Salesforce卡匣安裝、App Builder入門套件以及端對端示範。
 
 {{$include /help/_includes/app-builder-related-links.md}}

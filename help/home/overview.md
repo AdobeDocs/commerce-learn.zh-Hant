@@ -68,9 +68,9 @@ ht-degree: 0%
 * **規劃與現代化：**&#x200B;比較Commerce選項、探索架構與部署方法，並瞭解移轉、專案規劃與實作的最佳作法。
 * **建置及整合：**&#x200B;使用App Builder、GraphQL、REST、API Mesh、活動和Webhook進行開發。 探索後台整合和店面開發，包括Edge Delivery Services。
 * **管理和操作：**&#x200B;瞭解商店管理、目錄、內容、行銷、銷售、B2B工作流程和付款。 尋找有關雲端作業、監控、分析、效能和疑難排解的指南。
-* **探索Optimizer和AI：**&#x200B;探索[Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)教學課程，瞭解目錄和店面功能。 請依照[AI和代理式商務](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)指南的說明進行語意搜尋、Commerce MCP和開發人員工作流程。
+* **探索Optimizer和AI：**&#x200B;探索[Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)教學課程，瞭解目錄和店面功能。 請依照[AI和代理式商務](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)指南的說明進行語意搜尋、Commerce MCP和開發人員工作流程。
 
-如需更深入的實作觀點、產品更新和商務討論，請探索[網路研討會及活動](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)指南。 使用影片和教學課程以及[Commerce檔案](https://experienceleague.adobe.com/en/docs/commerce)，以取得詳細的需求和參考資訊。
+如需更深入的實作觀點、產品更新和商務討論，請探索[網路研討會及活動](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)指南。 使用影片和教學課程以及[Commerce檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce)，以取得詳細的需求和參考資訊。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -81,12 +81,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Commerce Events](https://experienceleague.adobe.com/en/events)空間可讓您存取可隨選觀看的錄製活動內容。
+>[Commerce Events](https://experienceleague.adobe.com/zh-hant/events)空間可讓您存取可隨選觀看的錄製活動內容。
 
 ## 其他資源
 
-* [Commerce檔案](https://experienceleague.adobe.com/en/docs/commerce) - Commerce產品的產品指南和參考資訊。
-* [商家檔案](https://experienceleague.adobe.com/en/docs/commerce-admin/user-guides/home) — 雲端基礎結構和自行託管部署的存放區設定和管理。
+* [Commerce檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce) - Commerce產品的產品指南和參考資訊。
+* [商家檔案](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/user-guides/home) — 雲端基礎結構和自行託管部署的存放區設定和管理。
 * [開發人員檔案](https://developer.adobe.com/commerce/) - API、SDK、整合和擴充性資源。
-* [Commerce知識庫](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview) — 疑難排解文章、已知問題和支援指南。
-* [Experience League課程](https://experienceleague.adobe.com/en/courses?product=Commerce) — 在Experience League上的結構化學習。
+* [Commerce知識庫](https://experienceleague.adobe.com/zh-hant/docs/commerce-knowledge-base/kb/overview) — 疑難排解文章、已知問題和支援指南。
+* [Experience League課程](https://experienceleague.adobe.com/zh-hant/courses?product=Commerce) — 在Experience League上的結構化學習。
