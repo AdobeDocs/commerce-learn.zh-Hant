@@ -4,15 +4,20 @@ user-guide-description: 透過影片和教學課程了解 Adobe Commerce 和 Mag
 breadcrumb-title: 影片和教學課程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
+source-git-commit: ed6305c5f9feda262b5985886b1889c6eae55108
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1090'
 ht-degree: 2%
 ---
 
 # Adobe Commerce影片和教學課程 {#tutorials}
 
 + [[!DNL Commerce] 教學課程](overview.md)
++ 快速入門 {#getting-started}
+  + Commerce功能 {#capabilities}
+    + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
+    + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
+
 + Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
   + [概觀](../commerce-as-a-cloud-service/overview.md)
   + [架構](../commerce-as-a-cloud-service/architecture.md)
@@ -155,7 +160,7 @@ ht-degree: 2%
       + [報價單明細專案折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [報價明細專案備註](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 應用程式開發和升級 {#application-development-and-upgrades}
-    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hant)
+    + [修改資料庫表格的最佳作法](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [建立模組](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [新增產品屬性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [相依性插入範例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -173,6 +178,8 @@ ht-degree: 2%
       + [大量套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [獨立的套件](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
+
 + App Builder {#app-builder}
   + 基礎 {#foundations}
     + [App Builder簡介](../app-builder/foundations/introduction-to-app-builder.md)
@@ -209,11 +216,6 @@ ht-degree: 2%
     + [AI工具和Adobe入門套件](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
     + [實作與測試](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
     + [向Adobe提供意見回饋](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-
-+ 快速入門 {#getting-started}
-  + Commerce功能 {#capabilities}
-    + [可用的商務選項](../capabilities/adobes-available-commerce-options.md)
-    + [可撰寫的Commerce](../capabilities/what-is-composable-commerce.md)
 
 + API和整合 {#apis-and-integration}
   + GraphQL基礎 {#graphql-rest}
@@ -295,6 +297,8 @@ ht-degree: 2%
     + [PWA Docker開發](../pwa/pwa-docker-development.md)
     + [設定Venia以進行開發](../pwa/set-up-venia-for-dev.md)
 
++ [AI與代理商務](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+
 + 監控、分析和支援 {#monitoring-analytics-support}
   + 可觀察性 {#observability}
     + [可觀察性概觀](../monitoring-analytics-support/observability/overview.md)
@@ -313,3 +317,5 @@ ht-degree: 2%
     + [建立支援票證](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [搜尋、檢閱、評論和提升支援票證](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支援票證觀察者與狀態](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+
++ [網路研討會與活動](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
