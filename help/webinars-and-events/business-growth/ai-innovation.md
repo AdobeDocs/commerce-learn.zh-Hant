@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
 ---
 # AI創新推動業務成長
@@ -71,10 +71,10 @@ ht-degree: 0%
 * 透過目錄創新加速全球擴張
 * 透過對話式Commerce提升店面體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3475706?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)
 
 ## 相關教學課程
 
-* [Commerce MCP概覽](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
-* [Commerce Developer Agent學習路徑](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer：可撰寫的目錄資料模型](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Commerce MCP概覽](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Commerce Developer Agent學習路徑](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer：可撰寫的目錄資料模型](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

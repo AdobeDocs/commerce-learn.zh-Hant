@@ -30,9 +30,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '174'
 ht-degree: 0%
 ---
 # 建立您的第一個Adobe Commerce Optimizer執行個體
@@ -51,10 +51,9 @@ ht-degree: 0%
 * 為您的執行個體選擇正確的環境和地區。
 * 在未來的教學課程中，快速部署並準備目錄設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469889?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
 ## 相關內容
 
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hant/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
-
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

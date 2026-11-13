@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '282'
 ht-degree: 0%
 ---
 # 新產品公告
@@ -55,9 +55,9 @@ ht-degree: 0%
 
 ## 相關教學課程
 
-* [比較Adobe Commerce選項](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
-* [Adobe Commerce as a Cloud Service概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/zh-hant/docs/commerce-learn/adobe-commerce-optimizer/overview)
+* [比較Adobe Commerce選項](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Adobe Commerce as a Cloud Service概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Adobe Commerce Optimizer概觀](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
 
 ## 此系列的其他影片
 
