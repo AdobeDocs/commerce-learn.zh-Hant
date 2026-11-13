@@ -1,6 +1,6 @@
 ---
 title: 您如何架構全域參考架構
-description: 瞭解如何架構全球參考架構。 瞭解技巧和想法，以確保您的全球參考架構專案在正確的軌道上開始
+description: 瞭解如何為Adobe Commerce架構全域參考架構，包括程式碼管理技巧、檔案、工具和團隊職責。
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
@@ -42,12 +42,16 @@ topic_v2:
     internal-label: Implementation
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 ---
 # 針對GRA進行架構
+
+>[!NOTE]
+>
+>此系列涵蓋Adobe Commerce的雲端基礎結構和自行託管部署。
 
 瞭解如何架構全域參考架構或GRA。 為了更妥善地準備GRA以成功實施，Adobe專家會討論什麼是GRA，什麼不是GRA。 有關使用單獨套件、分割Git和單頁指令碼管理的詳細討論。 其他與檔案、工具和人員期望相關的主題將討論，以詳細說明其成功實施GRA的部分。
 
